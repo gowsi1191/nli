@@ -1,0 +1,4958 @@
+[
+  {
+    "query_id": "GM001",
+    "query_type": "explicit_NOT",
+    "query_text": "Does turmeric not impact inflammation markers?",
+    "documents": [
+      {
+        "doc_id": "EX001_1",
+        "text": "Some health forums suggest that cooking with turmeric regularly can improve overall well-being, though they don't specify inflammatory effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX001_2",
+        "text": "A quick search on common culinary spices reveals turmeric's use in various traditional dishes, but not its direct anti-inflammatory properties.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX001_3",
+        "text": "Preliminary in-vitro studies show some antioxidant activity from curcumin, a compound found in turmeric.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX001_4",
+        "text": "Anecdotal reports online mention reduced joint pain after consuming turmeric supplements, though formal evidence is often lacking.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX001_5",
+        "text": "Several small human trials have explored turmeric's potential role in modulating inflammatory pathways.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX001_6",
+        "text": "Systematic reviews of clinical trials indicate that curcumin supplementation may significantly reduce C-reactive protein (CRP) levels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX001_7",
+        "text": "Meta-analyses consistently demonstrate that turmeric extract can lead to a statistically significant decrease in various inflammatory biomarkers, including TNF-alpha and IL-6.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM002",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that statins do not cause muscle pain?",
+    "documents": [
+      {
+        "doc_id": "EX002_1",
+        "text": "One patient shared on a forum that their doctor said muscle aches are just a normal part of aging, not necessarily medication-related.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX002_2",
+        "text": "The patient information leaflet for a common statin mentions headache as a potential side effect, but not muscle pain specifically.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX002_3",
+        "text": "Online health articles sometimes discuss the general side effects of cholesterol-lowering drugs.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX002_4",
+        "text": "Some studies have investigated the incidence of myalgia in statin users compared to those on other cardiovascular medications.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX002_5",
+        "text": "Reports suggest that a significant percentage of patients discontinuing statins cite muscle-related side effects as the reason.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX002_6",
+        "text": "Clinical trials often report muscle pain (myalgia) as a common adverse event associated with statin therapy across different dosages.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX002_7",
+        "text": "Systematic reviews and meta-analyses definitively link statin use to an increased risk of muscle pain and myopathy, impacting patient adherence.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM003",
+    "query_type": "explicit_NOT",
+    "query_text": "Do antibiotics not affect gut microbiota balance?",
+    "documents": [
+      {
+        "doc_id": "EX003_1",
+        "text": "Many people believe that taking probiotics with antibiotics completely negates any negative effects on the gut.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX003_2",
+        "text": "Some online forums suggest that a healthy diet alone can prevent all antibiotic-induced gut issues.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX003_3",
+        "text": "Basic biology textbooks briefly mention the presence of bacteria in the human gut.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX003_4",
+        "text": "Research has started to look into the long-term changes in bacterial populations after antibiotic courses.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX003_5",
+        "text": "Studies have shown that antibiotics can reduce the diversity of bacterial species in the gut, even after a short course.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX003_6",
+        "text": "It is well-established that antibiotics, by design, indiscriminately target both pathogenic and beneficial bacteria in the gastrointestinal tract.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX003_7",
+        "text": "Comprehensive genomic analyses demonstrate significant and lasting alterations to the composition and function of the gut microbiome following antibiotic exposure.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM004",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it untrue that metformin doesn't cause weight loss?",
+    "documents": [
+      {
+        "doc_id": "EX004_1",
+        "text": "Some patients on online forums discuss how taking metformin made them feel fuller, but didn't necessarily lead to weight loss.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX004_2",
+        "text": "The primary indication for metformin is blood sugar control, not weight management.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX004_3",
+        "text": "Initial trials of metformin focused on its efficacy in reducing HbA1c levels in type 2 diabetes.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX004_4",
+        "text": "Observational studies have occasionally noted a modest, non-significant trend towards weight reduction in some metformin users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX004_5",
+        "text": "Clinical guidelines for diabetes management often list weight neutrality or slight weight loss as a potential side effect of metformin.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX004_6",
+        "text": "Randomized controlled trials comparing metformin to placebo often report a small, but statistically significant, mean weight reduction in the metformin group.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX004_7",
+        "text": "Meta-analyses of long-term studies consistently show that metformin use is associated with a modest, yet clinically meaningful, reduction in body weight in individuals with type 2 diabetes.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM005",
+    "query_type": "explicit_NOT",
+    "query_text": "Do SSRIs not improve anxiety symptoms?",
+    "documents": [
+      {
+        "doc_id": "EX005_1",
+        "text": "I read somewhere that some people feel worse on antidepressants initially, which isn't about anxiety improvement.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX005_2",
+        "text": "Many people discuss online how lifestyle changes like exercise can help with anxiety, without mentioning medication.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX005_3",
+        "text": "Some individuals report feeling a general calming effect from SSRIs, even if their specific anxiety symptoms aren't fully resolved.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX005_4",
+        "text": "Early research into SSRIs primarily focused on their effectiveness in treating major depressive disorder.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_5",
+        "text": "Clinical trials consistently demonstrate that SSRIs are effective in reducing symptoms across various anxiety disorders, including generalized anxiety disorder and panic disorder.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_6",
+        "text": "It is widely accepted in psychiatry that SSRIs are a first-line treatment option for many forms of anxiety.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX005_7",
+        "text": "Numerous randomized controlled trials and meta-analyses provide robust evidence for the efficacy of SSRIs in significantly reducing anxiety symptom severity.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM006",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that corticosteroids do not affect bone density?",
+    "documents": [
+      {
+        "doc_id": "EX006_1",
+        "text": "A friend told me that short-term steroid use is harmless for everything.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX006_2",
+        "text": "Some medical websites briefly mention the various uses of corticosteroids in inflammatory conditions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX006_3",
+        "text": "Research has examined the impact of different anti-inflammatory medications on overall skeletal health.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX006_4",
+        "text": "Patients on long-term corticosteroid therapy are often advised to monitor their bone health.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX006_5",
+        "text": "Studies consistently show a dose-dependent relationship between corticosteroid use and bone mineral density loss.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_6",
+        "text": "Clinical guidelines recommend prophylactic measures, such as calcium and vitamin D supplementation, to mitigate corticosteroid-induced osteoporosis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_7",
+        "text": "Prolonged systemic corticosteroid administration is a well-recognized and major risk factor for secondary osteoporosis and fragility fractures.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM007",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that proton pump inhibitors (PPIs) do not cause kidney issues?",
+    "documents": [
+      {
+        "doc_id": "EX007_1",
+        "text": "I saw an online ad for heartburn relief that didn't mention any kidney problems.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX007_2",
+        "text": "Basic pharmacology texts discuss how PPIs reduce stomach acid production.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX007_3",
+        "text": "Some patients using PPIs for extended periods have reported various non-gastrointestinal side effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX007_4",
+        "text": "Early post-market surveillance noted some unusual adverse event reports concerning renal function in PPI users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX007_5",
+        "text": "Observational studies have identified an association between long-term PPI use and an increased risk of chronic kidney disease.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX007_6",
+        "text": "Research indicates that PPIs can lead to acute interstitial nephritis, a kidney inflammation, in some susceptible individuals.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX007_7",
+        "text": "Multiple large-scale epidemiological studies have confirmed a significant and independent association between prolonged PPI use and the development of chronic kidney disease.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM008",
+    "query_type": "explicit_NOT",
+    "query_text": "Do antihistamines not cause drowsiness?",
+    "documents": [
+      {
+        "doc_id": "EX008_1",
+        "text": "Many people claim that modern allergy medications are completely non-drowsy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX008_2",
+        "text": "Some advertisements for antihistamines highlight their effectiveness in reducing allergy symptoms like sneezing.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX008_3",
+        "text": "First-generation antihistamines are known to cross the blood-brain barrier more readily than newer ones.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX008_4",
+        "text": "Patients are often advised to avoid driving or operating machinery after taking certain antihistamines due to potential sedative effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX008_5",
+        "text": "Studies comparing different antihistamine classes show varying degrees of central nervous system penetration and associated sedation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX008_6",
+        "text": "While newer, second-generation antihistamines are less sedating, some individuals may still experience mild drowsiness.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX008_7",
+        "text": "Clinical trials and patient reports unequivocally confirm that many antihistamines, particularly first-generation agents like diphenhydramine, cause significant drowsiness as a primary side effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM009",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that common cold remedies do not shorten illness duration?",
+    "documents": [
+      {
+        "doc_id": "EX009_1",
+        "text": "My grandmother swears by hot tea and rest to get over a cold, and never mentions medications.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX009_2",
+        "text": "Many over-the-counter cold medications primarily target symptom relief like congestion and fever.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX009_3",
+        "text": "Some herbal remedies are marketed with claims of boosting immunity, though the evidence is often weak.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX009_4",
+        "text": "Zinc and Vitamin C have been studied for their potential, albeit controversial, roles in cold duration.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX009_5",
+        "text": "Systematic reviews generally conclude that most common cold remedies provide symptomatic relief but do not significantly shorten the illness course.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX009_6",
+        "text": "Controlled trials consistently show that popular cold remedies like decongestants or cough suppressants alleviate symptoms but do not impact viral replication or recovery time.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX009_7",
+        "text": "Despite widespread use, robust clinical evidence unequivocally demonstrates that common cold remedies, including most over-the-counter options, do not shorten the duration of the common cold.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM010",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that vaccines do not cause autism?",
+    "documents": [
+      {
+        "doc_id": "EX010_1",
+        "text": "I remember hearing something on social media about a potential link, but it was really vague.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX010_2",
+        "text": "Some parents have questions about vaccine safety in general, leading to broader discussions.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX010_3",
+        "text": "The original study proposing a link was widely discredited and retracted due to fraudulent data.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX010_4",
+        "text": "Research into the causes of autism has identified genetic and environmental factors, but not vaccines.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_5",
+        "text": "Major health organizations worldwide, including the CDC and WHO, have publicly stated there is no link.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_6",
+        "text": "Multiple large-scale epidemiological studies, involving millions of children, have found no correlation between vaccination and autism spectrum disorder.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX010_7",
+        "text": "The scientific consensus, supported by decades of rigorous research, is that vaccines do not cause autism.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM011",
+    "query_type": "explicit_NOT",
+    "query_text": "Do antidepressants not have withdrawal symptoms?",
+    "documents": [
+      {
+        "doc_id": "EX011_1",
+        "text": "My friend stopped taking their antidepressant suddenly and felt fine, so I guess it's not always an issue.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX011_2",
+        "text": "Some online discussions focus on the benefits of antidepressants for mental health.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX011_3",
+        "text": "Gradually tapering off medication is often recommended by doctors, regardless of the drug.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX011_4",
+        "text": "Patients sometimes report 'brain zaps' or dizziness when discontinuing SSRIs abruptly.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX011_5",
+        "text": "Clinical guidelines advise a slow and gradual reduction in antidepressant dosage to minimize discontinuation symptoms.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX011_6",
+        "text": "Studies have documented a range of discontinuation symptoms, often termed Antidepressant Discontinuation Syndrome, following cessation of treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX011_7",
+        "text": "It is well-established in psychiatric literature that abrupt cessation of antidepressants, particularly SSRIs and SNRIs, can induce significant and varied withdrawal symptoms.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM012",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that fish oil does not reduce cholesterol?",
+    "documents": [
+      {
+        "doc_id": "EX012_1",
+        "text": "Some health gurus promote fish oil for general well-being, without specifying cholesterol benefits.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX012_2",
+        "text": "Omega-3 fatty acids are known for various cardiovascular benefits, though the mechanism might not be direct cholesterol reduction.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX012_3",
+        "text": "Dietary guidelines often recommend consuming fatty fish for heart health.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX012_4",
+        "text": "While fish oil's impact on LDL ('bad') cholesterol is often negligible, it can have other lipid effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX012_5",
+        "text": "Clinical trials consistently show that high-dose omega-3 fatty acids are effective in significantly lowering elevated triglyceride levels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX012_6",
+        "text": "Research indicates that while fish oil doesn't significantly lower LDL, it can modestly increase HDL ('good') cholesterol.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX012_7",
+        "text": "Meta-analyses confirm that supplemental fish oil effectively reduces triglycerides but does not consistently or significantly lower total or LDL cholesterol levels.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM013",
+    "query_type": "explicit_NOT",
+    "query_text": "Do birth control pills not affect mood?",
+    "documents": [
+      {
+        "doc_id": "EX013_1",
+        "text": "I've heard some people say they felt no different emotionally on the pill.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX013_2",
+        "text": "The primary function of birth control pills is contraception by regulating hormones.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX013_3",
+        "text": "Some women report improvements in premenstrual symptoms while on oral contraceptives.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX013_4",
+        "text": "Studies have explored the relationship between hormonal fluctuations and mood in women.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX013_5",
+        "text": "Research suggests a subset of women may experience mood changes, including depression or anxiety, while using hormonal contraception.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX013_6",
+        "text": "Observational studies have indicated a potential link between hormonal birth control and an increased risk of depressive symptoms in some users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX013_7",
+        "text": "While individual responses vary, a significant body of evidence, including large cohort studies, points to hormonal birth control having an impact on mood in a considerable percentage of users, ranging from positive to negative effects.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM014",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it untrue that melatonin doesn't cause next-day drowsiness?",
+    "documents": [
+      {
+        "doc_id": "EX014_1",
+        "text": "Many people swear by melatonin for a quick sleep fix with no lingering effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX014_2",
+        "text": "Melatonin is a naturally occurring hormone that helps regulate sleep-wake cycles.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX014_3",
+        "text": "Some users report feeling refreshed after taking melatonin, implying no residual drowsiness.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX014_4",
+        "text": "Dosage and individual sensitivity play a role in how a person reacts to melatonin supplements.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX014_5",
+        "text": "Studies often mention potential side effects like mild dizziness or headache, alongside morning grogginess.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX014_6",
+        "text": "While generally considered mild, some users do report experiencing residual sedation or 'hangover' effects the morning after taking melatonin.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX014_7",
+        "text": "Clinical data indicates that despite its short half-life, melatonin can induce dose-dependent residual sedation and psychomotor impairment the following day in some individuals.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM015",
+    "query_type": "explicit_NOT",
+    "query_text": "Does exercise not impact blood pressure?",
+    "documents": [
+      {
+        "doc_id": "EX015_1",
+        "text": "Some people think diet is the only factor in managing blood pressure.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX015_2",
+        "text": "Regular physical activity is generally good for overall heart health.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX015_3",
+        "text": "Cardiovascular exercise strengthens the heart muscle, making it more efficient.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX015_4",
+        "text": "Many physicians recommend incorporating exercise into a healthy lifestyle plan for hypertension.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX015_5",
+        "text": "Studies consistently show that regular aerobic exercise leads to a significant reduction in both systolic and diastolic blood pressure.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX015_6",
+        "text": "Meta-analyses of numerous randomized controlled trials provide robust evidence that exercise is a cornerstone in the prevention and management of hypertension.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX015_7",
+        "text": "The American Heart Association strongly advocates for regular physical activity as a non-pharmacological intervention for lowering blood pressure.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM016",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that herbal remedies do not have side effects?",
+    "documents": [
+      {
+        "doc_id": "EX016_1",
+        "text": "Many people believe that 'natural' means completely safe and free of any adverse reactions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX016_2",
+        "text": "Some traditional medicine systems rely heavily on herbal preparations for various ailments.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX016_3",
+        "text": "The active compounds in herbs can interact with the body's systems, just like pharmaceutical drugs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX016_4",
+        "text": "There are documented cases of herbal supplements interacting negatively with prescription medications.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX016_5",
+        "text": "Regulatory bodies often caution consumers that herbal products are not always risk-free and can have adverse effects.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX016_6",
+        "text": "Case reports and studies have highlighted instances of liver damage, kidney dysfunction, and other serious adverse events linked to certain herbal remedies.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX016_7",
+        "text": "Scientific literature and pharmacovigilance data unequivocally demonstrate that many herbal remedies contain pharmacologically active compounds that can cause significant side effects, adverse reactions, and drug interactions.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM017",
+    "query_type": "explicit_NOT",
+    "query_text": "Do beta-blockers not affect heart rate?",
+    "documents": [
+      {
+        "doc_id": "EX017_1",
+        "text": "I thought beta-blockers were just for blood pressure, so heart rate shouldn't be a factor.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX017_2",
+        "text": "Beta-blockers are used for a variety of cardiovascular conditions.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX017_3",
+        "text": "The mechanism of action for beta-blockers involves blocking certain receptors in the body.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX017_4",
+        "text": "Patients taking beta-blockers are routinely monitored for changes in their heart rate.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX017_5",
+        "text": "Clinical studies show that beta-blockers effectively reduce heart rate by blocking the effects of adrenaline.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX017_6",
+        "text": "It is a primary pharmacological effect of beta-blockers to decrease myocardial contractility and heart rate.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX017_7",
+        "text": "Therapeutic guidelines for conditions like angina and arrhythmias specifically utilize the heart rate-lowering effect of beta-blockers.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM018",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that antibiotics always cure bacterial infections quickly?",
+    "documents": [
+      {
+        "doc_id": "EX018_1",
+        "text": "My doctor prescribed antibiotics, so I just assumed I'd be better in a day.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX018_2",
+        "text": "Antibiotics are powerful drugs designed to fight bacterial infections.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX018_3",
+        "text": "The success of antibiotic treatment can depend on the specific bacteria and the patient's immune system.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX018_4",
+        "text": "Patients are often advised to complete the full course of antibiotics, even if they feel better, to prevent resistance.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX018_5",
+        "text": "Some bacterial infections, particularly severe or resistant strains, may require prolonged courses of antibiotics or multiple agents.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX018_6",
+        "text": "Clinical outcomes for bacterial infections treated with antibiotics vary widely based on infection site, pathogen virulence, and host factors, not always resulting in quick resolution.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX018_7",
+        "text": "While effective, the time to resolution of bacterial infections with antibiotics is highly variable and can be influenced by drug resistance, patient adherence, and the complexity of the infection, often requiring more than rapid recovery.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM019",
+    "query_type": "explicit_NOT",
+    "query_text": "Do dietary supplements not require FDA approval?",
+    "documents": [
+      {
+        "doc_id": "EX019_1",
+        "text": "I just grab whatever supplements are on the shelf; they must be safe if they're sold there.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX019_2",
+        "text": "The FDA regulates food and drugs to ensure public safety.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX019_3",
+        "text": "Manufacturers of dietary supplements are responsible for ensuring the safety and labeling of their products.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX019_4",
+        "text": "The FDA does take action against adulterated or misbranded dietary supplements once they are on the market.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX019_5",
+        "text": "Unlike pharmaceutical drugs, dietary supplements do not undergo pre-market approval by the FDA for safety or efficacy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX019_6",
+        "text": "Under the Dietary Supplement Health and Education Act (DSHEA) of 1994, manufacturers are not required to prove safety or effectiveness to the FDA before marketing supplements.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX019_7",
+        "text": "The regulatory framework for dietary supplements places the burden of proof for safety on the FDA if it seeks to remove a product from the market, rather than requiring pre-market approval from manufacturers.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM020",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that topical creams do not have systemic effects?",
+    "documents": [
+      {
+        "doc_id": "EX020_1",
+        "text": "I apply skin cream for dry patches, and I've never felt any internal changes from it.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX020_2",
+        "text": "Topical medications are designed to act locally on the skin's surface.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX020_3",
+        "text": "The skin acts as a barrier, limiting the absorption of many substances.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX020_4",
+        "text": "Certain active ingredients in creams, especially potent corticosteroids, can be absorbed through the skin.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX020_5",
+        "text": "Factors like skin integrity, application area, and occlusion can influence systemic absorption of topical agents.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX020_6",
+        "text": "Studies show that significant systemic absorption can occur with large-area application or prolonged use of some topical medications, leading to systemic side effects.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX020_7",
+        "text": "Potent topical medications, particularly corticosteroids and some analgesics, are known to undergo systemic absorption and can result in systemic adverse effects, especially with high doses or prolonged use, contradicting the idea of purely localized action.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM021",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it untrue that Hydrochlorothiazide does not affect electrolyte imbalance?",
+    "documents": [
+      {
+        "doc_id": "EX021_1",
+        "text": "My pharmacist told me to drink more water with this medication, which seems like general advice.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX021_2",
+        "text": "Hydrochlorothiazide is a common diuretic used for blood pressure control.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX021_3",
+        "text": "Patients on diuretics are usually advised to have regular blood tests.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX021_4",
+        "text": "Studies often mention monitoring potassium levels in individuals taking hydrochlorothiazide.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX021_5",
+        "text": "Hydrochlorothiazide can cause changes in serum sodium and potassium levels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX021_6",
+        "text": "Clinical guidelines recommend close monitoring of electrolytes, particularly potassium and sodium, when prescribing hydrochlorothiazide.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX021_7",
+        "text": "It is well-documented that hydrochlorothiazide, by increasing urinary excretion, frequently leads to hypokalemia, hyponatremia, and other electrolyte disturbances.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM022",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Amiodarone not cause QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX022_1",
+        "text": "My cardiologist just mentioned amiodarone is good for irregular heartbeats.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX022_2",
+        "text": "Amiodarone is an antiarrhythmic drug used for serious ventricular and supraventricular arrhythmias.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX022_3",
+        "text": "ECG monitoring is a standard practice for patients on antiarrhythmic medications.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX022_4",
+        "text": "The drug's mechanism of action involves affecting cardiac ion channels, which can impact repolarization.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX022_5",
+        "text": "Amiodarone is notorious for causing dose-dependent QT interval prolongation on electrocardiograms.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX022_6",
+        "text": "Clinical guidelines for amiodarone use specifically warn about the risk of Torsades de Pointes due to QT prolongation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX022_7",
+        "text": "Numerous studies and drug labels explicitly state that amiodarone significantly prolongs the QT interval, posing a risk for potentially fatal arrhythmias.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM023",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Warfarin does not affect cognitive decline?",
+    "documents": [
+      {
+        "doc_id": "EX023_1",
+        "text": "My doctor said warfarin is just for preventing blood clots, nothing else.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX023_2",
+        "text": "Warfarin is an anticoagulant often prescribed for conditions like atrial fibrillation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX023_3",
+        "text": "Some patients on long-term anticoagulation express concerns about general health effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX023_4",
+        "text": "Research has investigated the broader neurological impacts of various cardiovascular medications.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX023_5",
+        "text": "While not a direct cause, some observational studies have suggested a potential association between warfarin use and an increased risk of cognitive impairment or dementia.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX023_6",
+        "text": "The association between warfarin and cognitive decline might be related to microbleeds or silent infarcts, though direct causation is complex and debated.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX023_7",
+        "text": "Longitudinal cohort studies indicate that prolonged warfarin therapy may be independently associated with a higher incidence of cognitive decline and dementia, warranting further investigation into underlying mechanisms.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM024",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Olanzapine not cause liver enzyme elevation?",
+    "documents": [
+      {
+        "doc_id": "EX024_1",
+        "text": "The main side effect I heard about with olanzapine was weight gain.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX024_2",
+        "text": "Olanzapine is an antipsychotic medication used to treat schizophrenia and bipolar disorder.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX024_3",
+        "text": "Regular blood tests are often recommended for patients on antipsychotics.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX024_4",
+        "text": "Some atypical antipsychotics are known to have metabolic side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX024_5",
+        "text": "Studies have reported elevated liver enzymes, particularly transaminases, in patients treated with olanzapine.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX024_6",
+        "text": "While usually transient, significant liver enzyme elevations can occur with olanzapine, sometimes necessitating dose adjustment or discontinuation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX024_7",
+        "text": "Drug information sheets and clinical trials consistently list liver enzyme elevation as a common adverse effect associated with olanzapine therapy, requiring periodic monitoring.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM025",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Gabapentin doesn't affect seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX025_1",
+        "text": "I thought gabapentin was mainly for nerve pain, not for seizures anymore.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX025_2",
+        "text": "Gabapentin is used to treat neuropathic pain and as an adjunctive therapy for partial seizures.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX025_3",
+        "text": "The drug's mechanism involves modulating certain neurotransmitters in the brain.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX025_4",
+        "text": "Abrupt discontinuation of gabapentin can sometimes lead to rebound hyperexcitability.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX025_5",
+        "text": "While used to treat seizures, gabapentin's effect on seizure threshold isn't about lowering it, but raising it to prevent seizures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX025_6",
+        "text": "Gabapentin is known to raise the seizure threshold, thereby reducing the likelihood of seizure activity in susceptible individuals.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX025_7",
+        "text": "As an antiepileptic drug, gabapentin's therapeutic action is fundamentally linked to its ability to elevate the seizure threshold, providing anticonvulsant effects.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM026",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Tramadol not affect sleep architecture?",
+    "documents": [
+      {
+        "doc_id": "EX026_1",
+        "text": "Some pain medications just make you sleepy, so it's not a specific effect on sleep stages.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX026_2",
+        "text": "Tramadol is an opioid analgesic used for moderate to moderately severe pain.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX026_3",
+        "text": "Patients often report general drowsiness as a side effect of tramadol.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX026_4",
+        "text": "Opioids, in general, can influence central nervous system activity, including sleep centers.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX026_5",
+        "text": "Studies using polysomnography have indicated that tramadol can alter normal sleep patterns, including REM sleep suppression.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX026_6",
+        "text": "Research suggests that tramadol, due to its opioid and monoaminergic effects, can disrupt sleep architecture, leading to fragmented sleep.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX026_7",
+        "text": "It has been demonstrated that tramadol can significantly impact sleep architecture, reducing REM sleep and increasing sleep latency, potentially impairing restorative sleep.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM027",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that ACE inhibitors do not impact cardiac output?",
+    "documents": [
+      {
+        "doc_id": "EX027_1",
+        "text": "My doctor said ACE inhibitors lower blood pressure, which is different from heart function.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX027_2",
+        "text": "ACE inhibitors are widely used to treat hypertension and heart failure.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX027_3",
+        "text": "These medications primarily work by affecting the renin-angiotensin-aldosterone system.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX027_4",
+        "text": "ACE inhibitors reduce afterload and preload, which can indirectly influence cardiac mechanics.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX027_5",
+        "text": "In heart failure patients, ACE inhibitors improve cardiac output by reducing ventricular remodeling and systemic vascular resistance.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX027_6",
+        "text": "By decreasing peripheral vascular resistance and venous return, ACE inhibitors effectively increase cardiac output in conditions of impaired ventricular function.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX027_7",
+        "text": "Clinical trials consistently show that ACE inhibitors optimize cardiac performance by improving left ventricular ejection fraction and overall cardiac output in patients with heart failure.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM028",
+    "query_type": "explicit_NOT",
+    "query_text": "Does SGLT2 inhibitors not cause pancreatic inflammation?",
+    "documents": [
+      {
+        "doc_id": "EX028_1",
+        "text": "I heard SGLT2 inhibitors are good for kidney protection in diabetes, nothing about the pancreas.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX028_2",
+        "text": "SGLT2 inhibitors are a class of drugs used for type 2 diabetes and heart failure.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX028_3",
+        "text": "Some newer diabetes medications have complex side effect profiles.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX028_4",
+        "text": "Post-marketing surveillance data sometimes flags potential rare adverse events.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX028_5",
+        "text": "While relatively rare, some reports and analyses have investigated a potential association between SGLT2 inhibitor use and acute pancreatitis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX028_6",
+        "text": "Although not a common side effect, a few studies have suggested a slightly elevated risk of acute pancreatitis in patients treated with SGLT2 inhibitors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX028_7",
+        "text": "Despite their overall benefits, some epidemiological studies and case reports have raised concerns about a possible, albeit low, risk of acute pancreatic inflammation associated with SGLT2 inhibitor use, warranting continued vigilance.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM029",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Infliximab does not affect white blood cell count?",
+    "documents": [
+      {
+        "doc_id": "EX029_1",
+        "text": "My doctor said infliximab treats my inflammatory bowel disease, not my blood counts.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX029_2",
+        "text": "Infliximab is a biologic medication used for autoimmune diseases like Crohn's and rheumatoid arthritis.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX029_3",
+        "text": "Patients on immunosuppressive therapies often require regular blood monitoring.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX029_4",
+        "text": "The drug's mechanism involves blocking TNF-alpha, a cytokine involved in inflammation and immune responses.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX029_5",
+        "text": "Studies and post-marketing data have shown that infliximab can cause neutropenia or leukopenia, leading to a reduction in white blood cell count.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX029_6",
+        "text": "It is well-documented that infliximab can suppress bone marrow function, resulting in a decrease in circulating white blood cells, increasing infection risk.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX029_7",
+        "text": "Clinical guidelines for infliximab explicitly recommend periodic complete blood count monitoring due to the known risk of lymphopenia and neutropenia.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM030",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Azithromycin not cause skin photosensitivity?",
+    "documents": [
+      {
+        "doc_id": "EX030_1",
+        "text": "My doctor just said to take azithromycin for my bronchitis, no mention of sun.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX030_2",
+        "text": "Azithromycin is a commonly prescribed antibiotic from the macrolide class.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX030_3",
+        "text": "Some medications are known to increase sensitivity to sunlight.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX030_4",
+        "text": "Patients are often advised to read the full patient information leaflet for side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX030_5",
+        "text": "While less common than with some other antibiotics (like tetracyclines), azithromycin has been reported to cause photosensitivity reactions in some individuals.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX030_6",
+        "text": "Case reports and post-marketing surveillance data indicate that azithromycin can induce phototoxic or photoallergic skin reactions in susceptible patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX030_7",
+        "text": "Although not as prevalent as with other drug classes, there is documented evidence that azithromycin can induce skin photosensitivity, requiring patients to take sun protection measures.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM031",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Interferon-alpha does not affect serotonin syndrome risk?",
+    "documents": [
+      {
+        "doc_id": "EX031_1",
+        "text": "Interferon-alpha is used for hepatitis, so I can't imagine it impacts brain chemicals directly.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX031_2",
+        "text": "Interferon-alpha is a biological response modifier with antiviral and immunomodulatory effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX031_3",
+        "text": "Some medications affect neurotransmitter systems in complex ways.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX031_4",
+        "text": "Interferon-alpha can cause neuropsychiatric side effects, including depression and anxiety.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX031_5",
+        "text": "While not directly a serotonergic drug, its effects on central nervous system cytokines and neurotransmitter metabolism could theoretically influence serotonin pathways.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX031_6",
+        "text": "There are isolated case reports suggesting a potential for serotonin syndrome-like symptoms when interferon-alpha is combined with other serotonergic agents, though direct causation is rare.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX031_7",
+        "text": "Although not a primary concern, due to its broad effects on neuroinflammation and neurotransmitter systems, caution is advised regarding serotonin syndrome risk, especially when interferon-alpha is co-administered with highly serotonergic drugs.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM032",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Topiramate not affect appetite changes?",
+    "documents": [
+      {
+        "doc_id": "EX032_1",
+        "text": "My doctor said topiramate helps with migraines, not my appetite.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX032_2",
+        "text": "Topiramate is an antiepileptic drug also used for migraine prophylaxis.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX032_3",
+        "text": "Many medications can have varied effects on metabolism.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX032_4",
+        "text": "Patients starting topiramate are often counseled on potential side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX032_5",
+        "text": "Clinical trials and patient experiences commonly report appetite suppression and weight loss as significant side effects of topiramate.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX032_6",
+        "text": "The drug's mechanism of action, including effects on carbonic anhydrase and GABA receptors, is thought to contribute to its anorexic effects.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX032_7",
+        "text": "It is well-established that topiramate frequently causes appetite changes, specifically appetite suppression, leading to significant weight loss in a considerable number of users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM033",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Amitriptyline doesn't affect gastrointestinal motility?",
+    "documents": [
+      {
+        "doc_id": "EX033_1",
+        "text": "Amitriptyline is an antidepressant, so I wouldn't expect it to mess with my stomach.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX033_2",
+        "text": "Amitriptyline is a tricyclic antidepressant also used for neuropathic pain.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX033_3",
+        "text": "Many medications, especially those affecting the nervous system, can have anticholinergic properties.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX033_4",
+        "text": "Patients on amitriptyline sometimes complain of constipation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX033_5",
+        "text": "Amitriptyline's anticholinergic effects can significantly reduce gastrointestinal motility, leading to common side effects like constipation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX033_6",
+        "text": "The drug's pharmacological profile includes anticholinergic activity, which directly inhibits smooth muscle contraction in the gut, slowing motility.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX033_7",
+        "text": "It is a well-known side effect of amitriptyline that it causes decreased gastrointestinal motility, often resulting in constipation, a common reason for non-adherence.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM034",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Bupropion not affect thyroid function?",
+    "documents": [
+      {
+        "doc_id": "EX034_1",
+        "text": "Bupropion is for depression and smoking cessation, so I don't think it has anything to do with my thyroid.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX034_2",
+        "text": "Bupropion is an atypical antidepressant that acts as a norepinephrine-dopamine reuptake inhibitor.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX034_3",
+        "text": "Some medications can have broad metabolic effects, even if not directly on the thyroid.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX034_4",
+        "text": "Research into drug-induced endocrine disorders is an ongoing field.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX034_5",
+        "text": "While not a common or direct effect, some isolated case reports and analyses have suggested a potential, though rare, association between bupropion use and changes in thyroid hormone levels or thyroid function.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX034_6",
+        "text": "The effect of bupropion on thyroid function is not well-established, but some minor, usually transient, changes have been observed in a small number of studies.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX034_7",
+        "text": "There is limited but emerging evidence suggesting that bupropion might, in rare cases, subtly influence thyroid hormone metabolism or TSH levels, though it is not considered a primary or frequent adverse effect on thyroid function.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM035",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Hydrochlorothiazide does not impact QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX035_1",
+        "text": "My doctor said this water pill helps my blood pressure, nothing about my heart rhythm.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX035_2",
+        "text": "Hydrochlorothiazide is a thiazide diuretic commonly prescribed for hypertension.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX035_3",
+        "text": "Some medications used for hypertension can have a wide range of cardiovascular effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX035_4",
+        "text": "Electrolyte imbalances caused by diuretics can sometimes influence cardiac electrical activity.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX035_5",
+        "text": "While not a direct prolonger of the QT interval, hydrochlorothiazide-induced hypokalemia or hypomagnesemia can indirectly predispose to QT prolongation and arrhythmias.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX035_6",
+        "text": "It is well-known that severe electrolyte disturbances, such as those that can be induced by hydrochlorothiazide, are a risk factor for acquired QT prolongation and Torsades de Pointes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX035_7",
+        "text": "Clinical guidelines highlight that careful monitoring of electrolytes is crucial with hydrochlorothiazide to prevent secondary QT prolongation and arrhythmogenic risks.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM036",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Amiodarone not affect cognitive decline?",
+    "documents": [
+      {
+        "doc_id": "EX036_1",
+        "text": "My family member takes amiodarone for their heart, and their memory seems fine.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX036_2",
+        "text": "Amiodarone is an antiarrhythmic with a complex pharmacokinetic profile.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX036_3",
+        "text": "Some cardiac medications can have neurological side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX036_4",
+        "text": "Patients on amiodarone sometimes report tremors or coordination issues.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX036_5",
+        "text": "While less common than other neurological effects, some studies and case reports have described cognitive impairment, including memory issues, associated with amiodarone therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX036_6",
+        "text": "Amiodarone's long half-life and tissue accumulation can lead to various systemic toxicities, including subtle neurocognitive effects in some patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX036_7",
+        "text": "Although not a universally recognized primary side effect, there is evidence from clinical observations and studies that amiodarone can contribute to cognitive decline in a subset of patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM037",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Warfarin does not affect liver enzyme elevation?",
+    "documents": [
+      {
+        "doc_id": "EX037_1",
+        "text": "Warfarin is all about blood thinning; I don't see how it affects the liver.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX037_2",
+        "text": "Warfarin requires regular INR monitoring to ensure therapeutic anticoagulation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX037_3",
+        "text": "Many drugs are metabolized in the liver, which can sometimes affect liver enzymes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX037_4",
+        "text": "Some patients on warfarin are advised to avoid excessive alcohol consumption.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX037_5",
+        "text": "While rare, warfarin can cause idiosyncratic liver injury, which may manifest as elevated liver enzymes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX037_6",
+        "text": "Case reports have described instances of cholestatic hepatitis and other forms of liver dysfunction associated with warfarin use, leading to enzyme elevation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX037_7",
+        "text": "Although infrequent, warfarin-induced hepatotoxicity, characterized by elevated liver enzymes, is a recognized adverse drug reaction, necessitating monitoring in certain clinical scenarios.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM038",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Olanzapine not cause electrolyte imbalance?",
+    "documents": [
+      {
+        "doc_id": "EX038_1",
+        "text": "My doctor mentioned weight gain as a big concern with olanzapine, nothing about electrolytes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX038_2",
+        "text": "Olanzapine is an atypical antipsychotic with a broad receptor binding profile.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX038_3",
+        "text": "Some medications can affect renal function or fluid balance.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX038_4",
+        "text": "Patients on olanzapine are monitored for metabolic side effects like glucose and lipid abnormalities.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX038_5",
+        "text": "While not a direct effect, olanzapine's propensity to cause significant weight gain and metabolic syndrome can indirectly contribute to electrolyte imbalances.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX038_6",
+        "text": "Some rare cases of hyponatremia have been reported with olanzapine, possibly related to Syndrome of Inappropriate Antidiuretic Hormone (SIADH).",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX038_7",
+        "text": "Although not a common or direct effect, severe metabolic disturbances induced by olanzapine, and rare cases of SIADH, can lead to clinically significant electrolyte imbalances, particularly hyponatremia.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM039",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Gabapentin doesn't affect sleep architecture?",
+    "documents": [
+      {
+        "doc_id": "EX039_1",
+        "text": "I take gabapentin for nerve pain, and it just makes me feel a bit drowsy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX039_2",
+        "text": "Gabapentin's effects on the central nervous system contribute to its therapeutic actions.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX039_3",
+        "text": "Many central nervous system depressants can alter sleep patterns.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX039_4",
+        "text": "Patients on gabapentin often report improved sleep quality due to pain reduction.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX039_5",
+        "text": "Studies using polysomnography have shown that gabapentin can alter sleep architecture, increasing slow-wave sleep and decreasing wakefulness.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX039_6",
+        "text": "By modulating neurotransmitter systems, gabapentin significantly influences sleep stages, often improving sleep continuity and depth.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX039_7",
+        "text": "Research consistently demonstrates that gabapentin directly impacts sleep architecture, promoting deeper and more consolidated sleep, which is often a beneficial side effect for patients with chronic pain.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM040",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Tramadol not affect cardiac output?",
+    "documents": [
+      {
+        "doc_id": "EX040_1",
+        "text": "Tramadol is a painkiller; I don't understand how it relates to my heart pumping.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX040_2",
+        "text": "Tramadol has both opioid and monoaminergic (serotonin and norepinephrine reuptake inhibition) properties.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX040_3",
+        "text": "Some pain medications can have cardiovascular effects, though less common than others.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX040_4",
+        "text": "Tramadol can cause orthostatic hypotension, which is a blood pressure effect.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX040_5",
+        "text": "While not a direct cardiac output modulator like inotropes, severe overdose or adverse reactions to tramadol can indirectly affect cardiac function.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX040_6",
+        "text": "Tramadol's effects on the central nervous system and vascular tone can, in rare instances, lead to changes in heart rate and blood pressure that could secondarily influence cardiac output.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX040_7",
+        "text": "Although not a primary effect, high doses or adverse drug reactions to tramadol can rarely induce significant bradycardia or hypotension, indirectly impacting cardiac output, particularly in vulnerable patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM041",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that ACE inhibitors do not cause pancreatic inflammation?",
+    "documents": [
+      {
+        "doc_id": "EX041_1",
+        "text": "My doctor prescribed ACE inhibitors for blood pressure; I never heard of pancreas issues.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX041_2",
+        "text": "ACE inhibitors are widely used to manage hypertension and heart failure.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX041_3",
+        "text": "The adverse effects of ACE inhibitors are usually related to cough or angioedema.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX041_4",
+        "text": "Some drug-induced pancreatitis cases are rare but serious.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX041_5",
+        "text": "While uncommon, there have been documented case reports of acute pancreatitis associated with ACE inhibitor use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX041_6",
+        "text": "The mechanism by which ACE inhibitors might induce pancreatitis is not fully understood but is thought to be idiosyncratic.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX041_7",
+        "text": "Despite being rare, drug-induced acute pancreatitis, including cases specifically linked to ACE inhibitors, is a recognized although infrequent adverse event that clinicians should be aware of.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM042",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Beta-blockers not affect menstrual irregularities?",
+    "documents": [
+      {
+        "doc_id": "EX042_1",
+        "text": "Beta-blockers are for heart conditions, so they shouldn't impact hormones.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX042_2",
+        "text": "Beta-blockers are a class of drugs used to manage various cardiovascular conditions.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX042_3",
+        "text": "The endocrine system and cardiovascular system are interconnected in complex ways.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX042_4",
+        "text": "Some medications can indirectly influence hormonal balance.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX042_5",
+        "text": "While not a common or direct effect, some anecdotal reports and small studies have suggested a potential link between beta-blocker use and menstrual irregularities in a subset of women.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX042_6",
+        "text": "The mechanism, if any, for beta-blockers affecting menstrual cycles is not clearly established but could involve indirect effects on stress hormones or central regulatory pathways.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX042_7",
+        "text": "Although considered an uncommon adverse effect, there are isolated reports and a theoretical basis for beta-blockers influencing the hypothalamic-pituitary-ovarian axis, potentially leading to menstrual irregularities in susceptible individuals.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM043",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that SGLT2 inhibitors do not affect white blood cell count?",
+    "documents": [
+      {
+        "doc_id": "EX043_1",
+        "text": "SGLT2 inhibitors focus on glucose excretion, so I don't see how they'd change blood cells.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX043_2",
+        "text": "SGLT2 inhibitors are a relatively new class of antidiabetic drugs.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX043_3",
+        "text": "All medications have a risk of side effects, some of which are rare hematologic ones.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX043_4",
+        "text": "Some patients on SGLT2 inhibitors have experienced urinary tract infections.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX043_5",
+        "text": "While not a common or direct effect, some studies have noted minor, often transient, changes in hematocrit or white blood cell parameters with SGLT2 inhibitor use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX043_6",
+        "text": "SGLT2 inhibitors can cause hemoconcentration due to diuresis, which might indirectly influence white blood cell concentrations, although absolute counts are usually stable.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX043_7",
+        "text": "Clinical trial data generally shows SGLT2 inhibitors to be safe concerning white blood cell counts; however, minor fluctuations due to fluid shifts have been observed, which are rarely clinically significant.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM044",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Infliximab not cause skin photosensitivity?",
+    "documents": [
+      {
+        "doc_id": "EX044_1",
+        "text": "Infliximab is for Crohn's disease, so skin issues unrelated to the disease aren't expected.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX044_2",
+        "text": "Infliximab modulates the immune system by targeting TNF-alpha.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX044_3",
+        "text": "Some biologic therapies can have dermatologic side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX044_4",
+        "text": "Psoriasiform rashes can occur with TNF-alpha inhibitors, but not necessarily photosensitivity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX044_5",
+        "text": "While not a common or universally recognized side effect, there have been isolated case reports of photosensitivity reactions or exacerbation of existing photosensitive conditions in patients treated with infliximab.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX044_6",
+        "text": "The direct mechanism for infliximab-induced photosensitivity is not fully elucidated, but it might involve immune-mediated skin reactions.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX044_7",
+        "text": "Although uncommon, existing literature, including case series, indicates that infliximab can occasionally induce or worsen skin photosensitivity, advising caution with sun exposure in susceptible individuals.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM045",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Azithromycin does not impact serotonin syndrome risk?",
+    "documents": [
+      {
+        "doc_id": "EX045_1",
+        "text": "Azithromycin is an antibiotic; I don't see how it affects brain chemicals like serotonin.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX045_2",
+        "text": "Azithromycin is often prescribed for respiratory and skin infections.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX045_3",
+        "text": "Some medications can have complex drug-drug interactions that might impact neurotransmitters.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX045_4",
+        "text": "The antibiotic itself doesn't directly act on serotonin receptors.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX045_5",
+        "text": "While not a direct serotonergic agent, isolated case reports have suggested a potential, though rare, interaction leading to serotonin syndrome when azithromycin is co-administered with highly serotonergic drugs.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX045_6",
+        "text": "The proposed mechanism, if any, is likely indirect, perhaps through inhibition of cytochrome P450 enzymes involved in the metabolism of other serotonergic drugs.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX045_7",
+        "text": "Although extremely rare and typically only in combination with other potent serotonergic agents, there are documented instances that suggest azithromycin might subtly increase serotonin syndrome risk in very specific clinical contexts.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM046",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Interferon-alpha not affect appetite changes?",
+    "documents": [
+      {
+        "doc_id": "EX046_1",
+        "text": "Interferon-alpha is for treating viruses, not for managing weight.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX046_2",
+        "text": "Interferon-alpha is known for its wide range of systemic side effects due to its immune-modulating actions.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX046_3",
+        "text": "Many patients on interferon-alpha report flu-like symptoms.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX046_4",
+        "text": "Cytokines can influence central nervous system pathways that regulate appetite.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX046_5",
+        "text": "Clinical trials and patient reports consistently indicate that interferon-alpha often causes significant appetite suppression and weight loss.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX046_6",
+        "text": "The anorexic effect of interferon-alpha is a well-recognized and frequent adverse event, impacting patient nutritional status.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX046_7",
+        "text": "It is widely acknowledged that interferon-alpha therapy is associated with marked changes in appetite, typically leading to a reduction in food intake and subsequent weight loss.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM047",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Topiramate doesn't affect gastrointestinal motility?",
+    "documents": [
+      {
+        "doc_id": "EX047_1",
+        "text": "Topiramate is a brain medication, so gut issues don't seem related.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX047_2",
+        "text": "Topiramate is used for epilepsy, migraine, and sometimes off-label for weight management.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX047_3",
+        "text": "Some medications with central nervous system effects can also influence the enteric nervous system.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX047_4",
+        "text": "Patients on topiramate sometimes report digestive discomfort like nausea.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX047_5",
+        "text": "While not a primary mechanism, topiramate can cause gastrointestinal side effects, including constipation or diarrhea, suggesting an impact on motility.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX047_6",
+        "text": "The drug's impact on carbonic anhydrase and other pathways can indirectly influence GI function and motility.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX047_7",
+        "text": "Common gastrointestinal side effects of topiramate, such as constipation, diarrhea, and abdominal pain, indicate that it does influence gastrointestinal motility and function.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM048",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Amitriptyline not affect thyroid function?",
+    "documents": [
+      {
+        "doc_id": "EX048_1",
+        "text": "Amitriptyline is an old antidepressant, so I doubt it has obscure effects on organs like the thyroid.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX048_2",
+        "text": "Amitriptyline belongs to the tricyclic antidepressant (TCA) class.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX048_3",
+        "text": "The endocrine system is a complex network, and medications can sometimes have unexpected interactions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX048_4",
+        "text": "Some TCAs have been reported to influence various endocrine parameters, though less commonly thyroid.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX048_5",
+        "text": "While not a common or primary effect, some rare case reports have suggested a potential link between amitriptyline use and changes in thyroid function tests.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX048_6",
+        "text": "The mechanism, if any, for amitriptyline affecting thyroid function is not well-established, but could involve indirect central nervous system effects.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX048_7",
+        "text": "Although not a frequent adverse effect, there is limited evidence from isolated case studies suggesting that amitriptyline can, in rare instances, influence thyroid hormone levels or thyroid function.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM049",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Bupropion does not impact QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX049_1",
+        "text": "Bupropion is a stimulant-like antidepressant; I would only expect it to speed things up, not lengthen intervals.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX049_2",
+        "text": "Bupropion is used for depression and smoking cessation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX049_3",
+        "text": "Some antidepressants can have cardiovascular effects, including on heart rhythm.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX049_4",
+        "text": "Patients with pre-existing cardiac conditions should be carefully evaluated before starting bupropion.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX049_5",
+        "text": "While considered low risk compared to some other antidepressants, rare cases of QT prolongation have been reported with bupropion, particularly in overdose or with co-medication.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX049_6",
+        "text": "Bupropion's effects on norepinephrine and dopamine can, in some susceptible individuals, influence cardiac repolarization, although clinically significant QT prolongation is uncommon.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX049_7",
+        "text": "Despite its generally favorable cardiovascular profile, there are documented, albeit rare, instances in which bupropion can contribute to QT prolongation, especially at higher doses or in patients with risk factors, requiring caution.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM050",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Hydrochlorothiazide not affect cognitive decline?",
+    "documents": [
+      {
+        "doc_id": "EX050_1",
+        "text": "My doctor said hydrochlorothiazide is just for water retention and blood pressure.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX050_2",
+        "text": "Hydrochlorothiazide is a commonly prescribed diuretic.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX050_3",
+        "text": "Maintaining stable blood pressure is generally beneficial for cognitive health.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX050_4",
+        "text": "Some studies have looked at the impact of various antihypertensives on brain function.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX050_5",
+        "text": "While not a direct cause, severe electrolyte imbalances (like hyponatremia) induced by hydrochlorothiazide can, in elderly or vulnerable patients, lead to acute cognitive changes or confusion.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX050_6",
+        "text": "Long-term use of diuretics has been implicated in some observational studies as potentially being associated with subtle cognitive changes, though direct causation is difficult to prove.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX050_7",
+        "text": "Although not a primary effect, hydrochlorothiazide can indirectly contribute to acute cognitive decline, particularly in older adults, through the induction of clinically significant electrolyte disturbances or volume depletion.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM051",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Amiodarone doesn't cause liver enzyme elevation?",
+    "documents": [
+      {
+        "doc_id": "EX051_1",
+        "text": "I heard amiodarone causes lung problems, not liver issues.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX051_2",
+        "text": "Amiodarone is a potent antiarrhythmic drug with a very long half-life.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX051_3",
+        "text": "Liver function tests are routinely monitored in patients taking amiodarone.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX051_4",
+        "text": "The drug accumulates in various tissues, including the liver.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX051_5",
+        "text": "Liver enzyme elevation, ranging from asymptomatic transaminase increases to severe hepatotoxicity, is a well-known side effect of amiodarone.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX051_6",
+        "text": "Amiodarone-induced liver injury can manifest as elevated liver enzymes, steatosis, or even cirrhosis in chronic use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX051_7",
+        "text": "Clinical guidelines and drug prescribing information explicitly warn about the high incidence of liver enzyme elevations and potential for severe hepatotoxicity with amiodarone therapy.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM052",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Warfarin not affect electrolyte imbalance?",
+    "documents": [
+      {
+        "doc_id": "EX052_1",
+        "text": "Warfarin is all about blood clots, so it wouldn't impact electrolytes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX052_2",
+        "text": "Warfarin interacts with Vitamin K-dependent clotting factors.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX052_3",
+        "text": "Some patients on warfarin are advised to maintain consistent vitamin K intake.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX052_4",
+        "text": "While not a direct effect, severe bleeding complications from warfarin could, in extreme cases, lead to secondary electrolyte disturbances.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX052_5",
+        "text": "There is no direct pharmacological mechanism by which warfarin would routinely cause electrolyte imbalances.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX052_6",
+        "text": "Unlike diuretics or medications affecting renal tubules, warfarin does not directly interfere with electrolyte transport or balance.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX052_7",
+        "text": "Current clinical evidence and pharmacological understanding suggest that warfarin does not directly or significantly impact electrolyte balance, and any observed changes would likely be secondary to other complications.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM053",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Olanzapine does not impact seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX053_1",
+        "text": "Olanzapine is for mental health, not epilepsy, so no connection to seizures.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX053_2",
+        "text": "Olanzapine has a broad pharmacological profile, affecting multiple neurotransmitter systems.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX053_3",
+        "text": "Some antipsychotic medications have been associated with seizure risk.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX053_4",
+        "text": "Patients with a history of seizures are often prescribed antipsychotics cautiously.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX053_5",
+        "text": "Olanzapine is known to lower the seizure threshold, increasing the risk of seizures, especially at higher doses or in susceptible individuals.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX053_6",
+        "text": "Drug information and clinical safety data consistently list dose-dependent lowering of seizure threshold as a potential adverse effect of olanzapine.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX053_7",
+        "text": "The proconvulsant effect of olanzapine, leading to a lowered seizure threshold, is a well-recognized risk, particularly in patients with a history of epilepsy or other predisposing factors.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM054",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Gabapentin not affect sleep architecture?",
+    "documents": [
+      {
+        "doc_id": "EX054_1",
+        "text": "I take gabapentin and I just feel generally drowsy, not a specific change in my sleep.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX054_2",
+        "text": "Gabapentin is used for nerve pain and epilepsy.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX054_3",
+        "text": "Many central nervous system drugs can influence sleep.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX054_4",
+        "text": "Patients often report improved sleep quality when their pain is controlled by gabapentin.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX054_5",
+        "text": "Polysomnographic studies have demonstrated that gabapentin can alter sleep architecture by increasing slow-wave sleep and reducing wakefulness.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX054_6",
+        "text": "The drug's impact on neurotransmitter systems, particularly GABAergic pathways, contributes to its modulatory effects on sleep stages.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX054_7",
+        "text": "Research consistently indicates that gabapentin directly influences sleep architecture, promoting deeper and more consolidated sleep, often improving overall sleep quality for users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM055",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Tramadol doesn't affect pancreatic inflammation?",
+    "documents": [
+      {
+        "doc_id": "EX055_1",
+        "text": "Tramadol is a painkiller, so it's only about pain relief, not organ inflammation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX055_2",
+        "text": "Tramadol is a synthetic opioid analgesic with additional monoaminergic properties.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX055_3",
+        "text": "Some medications can cause idiosyncratic reactions affecting various organs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX055_4",
+        "text": "Drug-induced pancreatitis is a known, though rare, adverse drug reaction for several medication classes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX055_5",
+        "text": "There have been documented case reports of acute pancreatitis associated with tramadol use, though it is considered a rare adverse event.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX055_6",
+        "text": "The exact mechanism by which tramadol might induce pancreatitis is not fully understood, but it is thought to be an idiosyncratic reaction.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX055_7",
+        "text": "Despite its rarity, cases of tramadol-induced acute pancreatitis have been reported in the medical literature, indicating that it is a potential, albeit infrequent, adverse effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM056",
+    "query_type": "explicit_NOT",
+    "query_text": "Does ACE inhibitors not affect menstrual irregularities?",
+    "documents": [
+      {
+        "doc_id": "EX056_1",
+        "text": "ACE inhibitors are for blood pressure, so they don't affect women's cycles.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX056_2",
+        "text": "ACE inhibitors work on the renin-angiotensin-aldosterone system.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX056_3",
+        "text": "Hormonal balance can be influenced by systemic physiological changes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX056_4",
+        "text": "Some medications that impact the cardiovascular system can have indirect effects on other systems.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX056_5",
+        "text": "While not a common or direct side effect, some very rare anecdotal reports or small observational studies have suggested a possible, though unproven, link between ACE inhibitor use and menstrual irregularities.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX056_6",
+        "text": "The evidence for ACE inhibitors causing menstrual irregularities is extremely limited and largely insufficient to establish a causal relationship.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX056_7",
+        "text": "Current clinical literature and comprehensive drug safety profiles do not typically list menstrual irregularities as a recognized or common adverse effect of ACE inhibitors, and any observed association would likely be coincidental or related to confounding factors.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM057",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Beta-blockers do not impact white blood cell count?",
+    "documents": [
+      {
+        "doc_id": "EX057_1",
+        "text": "Beta-blockers are for heart rate, not for blood cells.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX057_2",
+        "text": "Beta-blockers block the effects of adrenaline and noradrenaline.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX057_3",
+        "text": "Some medications can rarely cause hematologic abnormalities.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX057_4",
+        "text": "Patients on certain long-term medications may have periodic blood counts.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX057_5",
+        "text": "While uncommon, some individual beta-blockers (e.g., practolol, in the past) have been associated with rare hematologic adverse effects including leukopenia or agranulocytosis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX057_6",
+        "text": "Modern beta-blockers are generally not known to routinely cause significant changes in white blood cell counts, but rare idiosyncratic reactions are possible.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX057_7",
+        "text": "Although generally rare with contemporary beta-blockers, isolated case reports and historical data for certain agents indicate a potential, albeit infrequent, for beta-blockers to induce hematologic dyscrasias, including a decrease in white blood cell count.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM058",
+    "query_type": "explicit_NOT",
+    "query_text": "Does SGLT2 inhibitors not cause skin photosensitivity?",
+    "documents": [
+      {
+        "doc_id": "EX058_1",
+        "text": "SGLT2 inhibitors are for diabetes, so I wouldn't expect skin side effects related to sun.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX058_2",
+        "text": "SGLT2 inhibitors promote glucose excretion in the urine.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX058_3",
+        "text": "Some medications for chronic diseases can have various dermatological side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX058_4",
+        "text": "Patients on SGLT2 inhibitors are more prone to genital mycotic infections, which are skin-related but not photosensitivity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX058_5",
+        "text": "There is currently no significant evidence or widespread recognition of SGLT2 inhibitors causing skin photosensitivity.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX058_6",
+        "text": "Unlike some other drug classes, photosensitivity is not listed as a common or even rare adverse effect in major clinical trials or product labels for SGLT2 inhibitors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX058_7",
+        "text": "Based on current pharmacological knowledge and extensive clinical trial data, SGLT2 inhibitors are not known to induce skin photosensitivity; any observed reaction would likely be coincidental or related to other factors.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM059",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Infliximab doesn't affect serotonin syndrome risk?",
+    "documents": [
+      {
+        "doc_id": "EX059_1",
+        "text": "Infliximab is a biologic for immune conditions; it doesn't interact with brain chemicals.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX059_2",
+        "text": "Infliximab is an anti-TNF-alpha monoclonal antibody.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX059_3",
+        "text": "Some patients with inflammatory conditions may also be on antidepressants.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX059_4",
+        "text": "The risk of serotonin syndrome usually involves direct serotonergic drugs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX059_5",
+        "text": "There is no direct pharmacological mechanism by which infliximab would induce or significantly contribute to serotonin syndrome.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX059_6",
+        "text": "Unlike drugs that act on serotonin transporters or receptors, infliximab's action is primarily immunological, not neurochemical.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX059_7",
+        "text": "Current clinical data and mechanistic understanding strongly indicate that infliximab does not directly pose a risk for serotonin syndrome; any such occurrence would be highly coincidental or due to concomitant serotonergic medications.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM060",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Azithromycin not affect appetite changes?",
+    "documents": [
+      {
+        "doc_id": "EX060_1",
+        "text": "Azithromycin is an antibiotic, so it shouldn't affect my hunger.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX060_2",
+        "text": "Azithromycin is widely used for various bacterial infections.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX060_3",
+        "text": "Many antibiotics can cause gastrointestinal side effects like nausea or diarrhea.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX060_4",
+        "text": "Feeling unwell from an infection can naturally reduce appetite.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX060_5",
+        "text": "While not a primary effect, azithromycin commonly causes gastrointestinal disturbances that can indirectly lead to appetite reduction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX060_6",
+        "text": "Patients often report nausea, abdominal pain, or a metallic taste, which can decrease appetite during azithromycin treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX060_7",
+        "text": "Common gastrointestinal side effects of azithromycin, such as nausea, vomiting, and abdominal discomfort, frequently result in transient appetite changes, primarily appetite loss, for the duration of treatment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM061",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Interferon-alpha does not impact gastrointestinal motility?",
+    "documents": [
+      {
+        "doc_id": "EX061_1",
+        "text": "Interferon-alpha is for immune issues, not for my digestion.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX061_2",
+        "text": "Interferon-alpha is a pleiotropic cytokine with systemic effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX061_3",
+        "text": "Many systemic illnesses and their treatments can affect the gut.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX061_4",
+        "text": "Patients on interferon-alpha often report general malaise and fatigue.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX061_5",
+        "text": "Gastrointestinal side effects, including nausea, vomiting, and diarrhea, are common with interferon-alpha, suggesting an impact on gut function.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX061_6",
+        "text": "While not directly targeting motility, the inflammatory and systemic effects of interferon-alpha can lead to altered gut function and symptoms consistent with changes in motility.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX061_7",
+        "text": "A significant proportion of patients treated with interferon-alpha experience various gastrointestinal disturbances, including changes in bowel habits and motility, as a recognized side effect of therapy.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM062",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Topiramate not affect thyroid function?",
+    "documents": [
+      {
+        "doc_id": "EX062_1",
+        "text": "Topiramate is for neurological conditions, so it's not related to hormones.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX062_2",
+        "text": "Topiramate has various mechanisms of action, including effects on ion channels and neurotransmitters.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX062_3",
+        "text": "Some antiepileptic drugs can have endocrine side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX062_4",
+        "text": "Research has looked into the metabolic impacts of topiramate beyond weight loss.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX062_5",
+        "text": "While not a common or direct effect, some studies have reported minor, often transient, changes in thyroid hormone levels or TSH in patients on topiramate.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX062_6",
+        "text": "The clinical significance of these thyroid changes with topiramate is often unclear and rarely leads to symptomatic thyroid dysfunction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX062_7",
+        "text": "Although not a primary concern, a limited number of studies suggest that topiramate can, in some instances, induce subtle, usually non-clinical, alterations in thyroid function test results.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM063",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Amitriptyline doesn't affect QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX063_1",
+        "text": "Amitriptyline is an old antidepressant, and I haven't heard of heart rhythm issues with it.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX063_2",
+        "text": "Amitriptyline is a tricyclic antidepressant (TCA).",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX063_3",
+        "text": "TCAs are known to have various cardiovascular effects due to their broad receptor affinity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX063_4",
+        "text": "ECG monitoring is often recommended when starting or increasing doses of TCAs.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX063_5",
+        "text": "Amitriptyline can cause significant QT prolongation, especially at higher doses or in overdose, increasing the risk of Torsades de Pointes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX063_6",
+        "text": "The cardiotoxicity of amitriptyline, including its propensity to prolong the QT interval, is a well-established and serious adverse effect.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX063_7",
+        "text": "Clinical guidelines explicitly warn about the dose-dependent risk of QT prolongation and life-threatening arrhythmias associated with amitriptyline, making it a contraindication in certain cardiac conditions.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM064",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Bupropion not affect cognitive decline?",
+    "documents": [
+      {
+        "doc_id": "EX064_1",
+        "text": "Bupropion helps with depression, so it should improve mental clarity, not cause decline.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX064_2",
+        "text": "Bupropion is an antidepressant that affects dopamine and norepinephrine.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX064_3",
+        "text": "Some psychiatric medications can have complex effects on cognition.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX064_4",
+        "text": "Patients sometimes report improved focus or concentration with bupropion.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX064_5",
+        "text": "While generally considered safe for cognition and sometimes even cognitive enhancing, rare cases of confusion or memory issues have been reported, particularly at high doses or in susceptible individuals.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX064_6",
+        "text": "The overall impact of bupropion on long-term cognitive decline is not significant, but acute transient cognitive side effects are possible.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX064_7",
+        "text": "Although bupropion is generally considered to have a favorable cognitive profile, isolated case reports and very rare instances suggest it can, in susceptible individuals or overdose, induce acute cognitive impairment rather than always improving it.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM065",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Hydrochlorothiazide does not impact liver enzyme elevation?",
+    "documents": [
+      {
+        "doc_id": "EX065_1",
+        "text": "This water pill acts on the kidneys, not the liver.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX065_2",
+        "text": "Hydrochlorothiazide is a diuretic commonly used for hypertension and edema.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX065_3",
+        "text": "Some medications can cause idiosyncratic liver reactions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX065_4",
+        "text": "While rare, all drugs carry some theoretical risk of idiosyncratic organ damage.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX065_5",
+        "text": "There are extremely rare case reports of cholestatic hepatitis or other forms of liver injury associated with hydrochlorothiazide, which would involve elevated liver enzymes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX065_6",
+        "text": "The incidence of clinically significant liver enzyme elevation due to hydrochlorothiazide is exceedingly low, making it a very rare adverse effect.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX065_7",
+        "text": "Although considered exceptionally rare, instances of hydrochlorothiazide-induced idiosyncratic hepatotoxicity, characterized by elevated liver enzymes, have been reported in the medical literature, signifying a potential, though minimal, risk.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM066",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Amiodarone not affect electrolyte imbalance?",
+    "documents": [
+      {
+        "doc_id": "EX066_1",
+        "text": "Amiodarone is for heart rhythm, not for body salts.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX066_2",
+        "text": "Amiodarone has a very complex pharmacokinetic profile.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX066_3",
+        "text": "Electrolyte imbalances can affect cardiac rhythm.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX066_4",
+        "text": "Patients on amiodarone are often monitored for thyroid function due to iodine content.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX066_5",
+        "text": "While amiodarone doesn't directly cause common electrolyte imbalances like hypokalemia, severe drug-induced thyroid dysfunction can indirectly influence electrolyte homeostasis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX066_6",
+        "text": "In rare instances of amiodarone toxicity, various systemic effects could potentially lead to secondary disturbances in fluid and electrolyte balance.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX066_7",
+        "text": "Amiodarone does not directly affect electrolyte balance; however, its profound impact on thyroid function can indirectly lead to electrolyte disturbances, such as hyponatremia in amiodarone-induced hypothyroidism, warranting monitoring.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM067",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Warfarin doesn't affect seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX067_1",
+        "text": "Warfarin is a blood thinner, so it has nothing to do with brain activity or seizures.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX067_2",
+        "text": "Warfarin is an anticoagulant that inhibits Vitamin K epoxide reductase.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX067_3",
+        "text": "Any medication affecting the brain can potentially influence seizure risk.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX067_4",
+        "text": "Major bleeding complications from warfarin, such as intracranial hemorrhage, can directly cause seizures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX067_5",
+        "text": "While not directly lowering the seizure threshold as a primary pharmacological effect, warfarin-induced intracranial bleeding is a serious adverse event that can manifest as seizures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX067_6",
+        "text": "The risk of seizures with warfarin is predominantly secondary to central nervous system hemorrhage, not a direct effect on neuronal excitability.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX067_7",
+        "text": "Although warfarin does not intrinsically lower the seizure threshold, its most serious neurological complication, intracranial hemorrhage, is a direct and well-known cause of acute symptomatic seizures.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM068",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Olanzapine not affect sleep architecture?",
+    "documents": [
+      {
+        "doc_id": "EX068_1",
+        "text": "Olanzapine is for mental health, and I thought it just makes you generally sleepy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX068_2",
+        "text": "Olanzapine is an atypical antipsychotic with sedative properties.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX068_3",
+        "text": "Many psychiatric medications influence sleep, either positively or negatively.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX068_4",
+        "text": "Patients on olanzapine often experience significant daytime sedation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX068_5",
+        "text": "Studies using polysomnography have demonstrated that olanzapine alters sleep architecture, increasing slow-wave sleep and reducing REM sleep.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX068_6",
+        "text": "Olanzapine's antihistaminic and antiserotonergic effects contribute to its profound impact on sleep stages and overall sleep quality.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX068_7",
+        "text": "It is well-documented that olanzapine significantly impacts sleep architecture, often improving sleep continuity but causing specific changes in REM and slow-wave sleep, reflecting its sedative properties.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM069",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Gabapentin does not impact cardiac output?",
+    "documents": [
+      {
+        "doc_id": "EX069_1",
+        "text": "Gabapentin is for nerve pain, so it wouldn't affect the heart's pumping ability.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX069_2",
+        "text": "Gabapentin is structurally related to GABA, a neurotransmitter.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX069_3",
+        "text": "Most neurological drugs have minimal cardiovascular effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX069_4",
+        "text": "While adverse cardiovascular events are rare, some patients report peripheral edema.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX069_5",
+        "text": "There is no direct pharmacological mechanism by which gabapentin significantly alters cardiac output.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX069_6",
+        "text": "Unlike drugs that affect contractility or vascular tone, gabapentin's primary actions do not directly influence cardiac pump function.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX069_7",
+        "text": "Current clinical data and mechanistic understanding strongly indicate that gabapentin does not directly or significantly affect cardiac output; any observed cardiac changes are typically indirect or coincidental.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM070",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Tramadol not affect pancreatic inflammation?",
+    "documents": [
+      {
+        "doc_id": "EX070_1",
+        "text": "Tramadol is a painkiller, so it's only about pain relief, not organ inflammation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX070_2",
+        "text": "Tramadol is a synthetic opioid analgesic with additional monoaminergic properties.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX070_3",
+        "text": "Some medications can cause idiosyncratic reactions affecting various organs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX070_4",
+        "text": "Drug-induced pancreatitis is a known, though rare, adverse drug reaction for several medication classes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX070_5",
+        "text": "There have been documented case reports of acute pancreatitis associated with tramadol use, though it is considered a rare adverse event.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX070_6",
+        "text": "The exact mechanism by which tramadol might induce pancreatitis is not fully understood, but it is thought to be an idiosyncratic reaction.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX070_7",
+        "text": "Despite its rarity, cases of tramadol-induced acute pancreatitis have been reported in the medical literature, indicating that it is a potential, albeit infrequent, adverse effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM071",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that ACE inhibitors don't affect menstrual irregularities?",
+    "documents": [
+      {
+        "doc_id": "EX071_1",
+        "text": "ACE inhibitors are for blood pressure, so they don't affect women's cycles.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX071_2",
+        "text": "ACE inhibitors work on the renin-angiotensin-aldosterone system.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX071_3",
+        "text": "Hormonal balance can be influenced by systemic physiological changes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX071_4",
+        "text": "Some medications that impact the cardiovascular system can have indirect effects on other systems.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX071_5",
+        "text": "While not a common or direct side effect, some very rare anecdotal reports or small observational studies have suggested a possible, though unproven, link between ACE inhibitor use and menstrual irregularities.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX071_6",
+        "text": "The evidence for ACE inhibitors causing menstrual irregularities is extremely limited and largely insufficient to establish a causal relationship.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX071_7",
+        "text": "Current clinical literature and comprehensive drug safety profiles do not typically list menstrual irregularities as a recognized or common adverse effect of ACE inhibitors, and any observed association would likely be coincidental or related to confounding factors.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM072",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Beta-blockers not affect white blood cell count?",
+    "documents": [
+      {
+        "doc_id": "EX072_1",
+        "text": "Beta-blockers are for heart rate, not for blood cells.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX072_2",
+        "text": "Beta-blockers block the effects of adrenaline and noradrenaline.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX072_3",
+        "text": "Some medications can rarely cause hematologic abnormalities.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX072_4",
+        "text": "Patients on certain long-term medications may have periodic blood counts.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX072_5",
+        "text": "While uncommon, some individual beta-blockers (e.g., practolol, in the past) have been associated with rare hematologic adverse effects including leukopenia or agranulocytosis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX072_6",
+        "text": "Modern beta-blockers are generally not known to routinely cause significant changes in white blood cell counts, but rare idiosyncratic reactions are possible.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX072_7",
+        "text": "Although generally rare with contemporary beta-blockers, isolated case reports and historical data for certain agents indicate a potential, albeit infrequent, for beta-blockers to induce hematologic dyscrasias, including a decrease in white blood cell count.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM073",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that SGLT2 inhibitors do not cause skin photosensitivity?",
+    "documents": [
+      {
+        "doc_id": "EX073_1",
+        "text": "SGLT2 inhibitors are for diabetes, so I wouldn't expect skin side effects related to sun.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX073_2",
+        "text": "SGLT2 inhibitors promote glucose excretion in the urine.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX073_3",
+        "text": "Some medications for chronic diseases can have various dermatological side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX073_4",
+        "text": "Patients on SGLT2 inhibitors are more prone to genital mycotic infections, which are skin-related but not photosensitivity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX073_5",
+        "text": "There is currently no significant evidence or widespread recognition of SGLT2 inhibitors causing skin photosensitivity.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX073_6",
+        "text": "Unlike some other drug classes, photosensitivity is not listed as a common or even rare adverse effect in major clinical trials or product labels for SGLT2 inhibitors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX073_7",
+        "text": "Based on current pharmacological knowledge and extensive clinical trial data, SGLT2 inhibitors are not known to induce skin photosensitivity; any observed reaction would likely be coincidental or related to other factors.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM074",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Infliximab doesn't affect serotonin syndrome risk?",
+    "documents": [
+      {
+        "doc_id": "EX074_1",
+        "text": "Infliximab is a biologic for immune conditions; it doesn't interact with brain chemicals.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX074_2",
+        "text": "Infliximab is an anti-TNF-alpha monoclonal antibody.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX074_3",
+        "text": "Some patients with inflammatory conditions may also be on antidepressants.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX074_4",
+        "text": "The risk of serotonin syndrome usually involves direct serotonergic drugs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX074_5",
+        "text": "There is no direct pharmacological mechanism by which infliximab would induce or significantly contribute to serotonin syndrome.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX074_6",
+        "text": "Unlike drugs that act on serotonin transporters or receptors, infliximab's action is primarily immunological, not neurochemical.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX074_7",
+        "text": "Current clinical data and mechanistic understanding strongly indicate that infliximab does not directly pose a risk for serotonin syndrome; any such occurrence would be highly coincidental or due to concomitant serotonergic medications.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM075",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Azithromycin not affect appetite changes?",
+    "documents": [
+      {
+        "doc_id": "EX075_1",
+        "text": "Azithromycin is an antibiotic, so it shouldn't affect my hunger.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX075_2",
+        "text": "Azithromycin is widely used for various bacterial infections.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX075_3",
+        "text": "Many antibiotics can cause gastrointestinal side effects like nausea or diarrhea.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX075_4",
+        "text": "Feeling unwell from an infection can naturally reduce appetite.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX075_5",
+        "text": "While not a primary effect, azithromycin commonly causes gastrointestinal disturbances that can indirectly lead to appetite reduction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX075_6",
+        "text": "Patients often report nausea, abdominal pain, or a metallic taste, which can decrease appetite during azithromycin treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX075_7",
+        "text": "Common gastrointestinal side effects of azithromycin, such as nausea, vomiting, and abdominal discomfort, frequently result in transient appetite changes, primarily appetite loss, for the duration of treatment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM076",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Interferon-alpha does not impact gastrointestinal motility?",
+    "documents": [
+      {
+        "doc_id": "EX076_1",
+        "text": "Interferon-alpha is for immune issues, not for my digestion.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX076_2",
+        "text": "Interferon-alpha is a pleiotropic cytokine with systemic effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX076_3",
+        "text": "Many systemic illnesses and their treatments can affect the gut.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX076_4",
+        "text": "Patients on interferon-alpha often report general malaise and fatigue.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX076_5",
+        "text": "Gastrointestinal side effects, including nausea, vomiting, and diarrhea, are common with interferon-alpha, suggesting an impact on gut function.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX076_6",
+        "text": "While not directly targeting motility, the inflammatory and systemic effects of interferon-alpha can lead to altered gut function and symptoms consistent with changes in motility.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX076_7",
+        "text": "A significant proportion of patients treated with interferon-alpha experience various gastrointestinal disturbances, including changes in bowel habits and motility, as a recognized side effect of therapy.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM077",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Topiramate not affect thyroid function?",
+    "documents": [
+      {
+        "doc_id": "EX077_1",
+        "text": "Topiramate is for neurological conditions, so it's not related to hormones.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX077_2",
+        "text": "Topiramate has various mechanisms of action, including effects on ion channels and neurotransmitters.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX077_3",
+        "text": "Some antiepileptic drugs can have endocrine side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX077_4",
+        "text": "Research has looked into the metabolic impacts of topiramate beyond weight loss.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX077_5",
+        "text": "While not a common or direct effect, some studies have reported minor, often transient, changes in thyroid hormone levels or TSH in patients on topiramate.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX077_6",
+        "text": "The clinical significance of these thyroid changes with topiramate is often unclear and rarely leads to symptomatic thyroid dysfunction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX077_7",
+        "text": "Although not a primary concern, a limited number of studies suggest that topiramate can, in some instances, induce subtle, usually non-clinical, alterations in thyroid function test results.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM078",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Amitriptyline doesn't affect QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX078_1",
+        "text": "Amitriptyline is an old antidepressant, and I haven't heard of heart rhythm issues with it.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX078_2",
+        "text": "Amitriptyline is a tricyclic antidepressant (TCA).",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX078_3",
+        "text": "TCAs are known to have various cardiovascular effects due to their broad receptor affinity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX078_4",
+        "text": "ECG monitoring is often recommended when starting or increasing doses of TCAs.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX078_5",
+        "text": "Amitriptyline can cause significant QT prolongation, especially at higher doses or in overdose, increasing the risk of Torsades de Pointes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX078_6",
+        "text": "The cardiotoxicity of amitriptyline, including its propensity to prolong the QT interval, is a well-established and serious adverse effect.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX078_7",
+        "text": "Clinical guidelines explicitly warn about the dose-dependent risk of QT prolongation and life-threatening arrhythmias associated with amitriptyline, making it a contraindication in certain cardiac conditions.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM079",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Bupropion not affect cognitive decline?",
+    "documents": [
+      {
+        "doc_id": "EX079_1",
+        "text": "Bupropion helps with depression, so it should improve mental clarity, not cause decline.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX079_2",
+        "text": "Bupropion is an antidepressant that affects dopamine and norepinephrine.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX079_3",
+        "text": "Some psychiatric medications can have complex effects on cognition.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX079_4",
+        "text": "Patients sometimes report improved focus or concentration with bupropion.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX079_5",
+        "text": "While generally considered safe for cognition and sometimes even cognitive enhancing, rare cases of confusion or memory issues have been reported, particularly at high doses or in susceptible individuals.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX079_6",
+        "text": "The overall impact of bupropion on long-term cognitive decline is not significant, but acute transient cognitive side effects are possible.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX079_7",
+        "text": "Although bupropion is generally considered to have a favorable cognitive profile, isolated case reports and very rare instances suggest it can, in susceptible individuals or overdose, induce acute cognitive impairment rather than always improving it.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM080",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Hydrochlorothiazide does not impact liver enzyme elevation?",
+    "documents": [
+      {
+        "doc_id": "EX080_1",
+        "text": "This water pill acts on the kidneys, not the liver.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX080_2",
+        "text": "Hydrochlorothiazide is a diuretic commonly used for hypertension and edema.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX080_3",
+        "text": "Some medications can cause idiosyncratic liver reactions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX080_4",
+        "text": "While rare, all drugs carry some theoretical risk of idiosyncratic organ damage.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX080_5",
+        "text": "There are extremely rare case reports of cholestatic hepatitis or other forms of liver injury associated with hydrochlorothiazide, which would involve elevated liver enzymes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX080_6",
+        "text": "The incidence of clinically significant liver enzyme elevation due to hydrochlorothiazide is exceedingly low, making it a very rare adverse effect.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX080_7",
+        "text": "Although considered exceptionally rare, instances of hydrochlorothiazide-induced idiosyncratic hepatotoxicity, characterized by elevated liver enzymes, have been reported in the medical literature, signifying a potential, though minimal, risk.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM081",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Amiodarone not affect electrolyte imbalance?",
+    "documents": [
+      {
+        "doc_id": "EX081_1",
+        "text": "Amiodarone is for heart rhythm, not for body salts.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX081_2",
+        "text": "Amiodarone has a very complex pharmacokinetic profile.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX081_3",
+        "text": "Electrolyte imbalances can affect cardiac rhythm.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX081_4",
+        "text": "Patients on amiodarone are often monitored for thyroid function due to iodine content.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX081_5",
+        "text": "While amiodarone doesn't directly cause common electrolyte imbalances like hypokalemia, severe drug-induced thyroid dysfunction can indirectly influence electrolyte homeostasis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX081_6",
+        "text": "In rare instances of amiodarone toxicity, various systemic effects could potentially lead to secondary disturbances in fluid and electrolyte balance.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX081_7",
+        "text": "Amiodarone does not directly affect electrolyte balance; however, its profound impact on thyroid function can indirectly lead to electrolyte disturbances, such as hyponatremia in amiodarone-induced hypothyroidism, warranting monitoring.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM082",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Warfarin doesn't affect seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX082_1",
+        "text": "Warfarin is a blood thinner, so it has nothing to do with brain activity or seizures.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX082_2",
+        "text": "Warfarin is an anticoagulant that inhibits Vitamin K epoxide reductase.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX082_3",
+        "text": "Any medication affecting the brain can potentially influence seizure risk.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX082_4",
+        "text": "Major bleeding complications from warfarin, such as intracranial hemorrhage, can directly cause seizures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX082_5",
+        "text": "While not directly lowering the seizure threshold as a primary pharmacological effect, warfarin-induced intracranial bleeding is a serious adverse event that can manifest as seizures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX082_6",
+        "text": "The risk of seizures with warfarin is predominantly secondary to central nervous system hemorrhage, not a direct effect on neuronal excitability.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX082_7",
+        "text": "Although warfarin does not intrinsically lower the seizure threshold, its most serious neurological complication, intracranial hemorrhage, is a direct and well-known cause of acute symptomatic seizures.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM083",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Olanzapine not affect sleep architecture?",
+    "documents": [
+      {
+        "doc_id": "EX083_1",
+        "text": "Olanzapine is for mental health, and I thought it just makes you generally sleepy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX083_2",
+        "text": "Olanzapine is an atypical antipsychotic with sedative properties.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX083_3",
+        "text": "Many psychiatric medications influence sleep, either positively or negatively.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX083_4",
+        "text": "Patients on olanzapine often experience significant daytime sedation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX083_5",
+        "text": "Studies using polysomnography have demonstrated that olanzapine alters sleep architecture, increasing slow-wave sleep and reducing REM sleep.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX083_6",
+        "text": "Olanzapine's antihistaminic and antiserotonergic effects contribute to its profound impact on sleep stages and overall sleep quality.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX083_7",
+        "text": "It is well-documented that olanzapine significantly impacts sleep architecture, often improving sleep continuity but causing specific changes in REM and slow-wave sleep, reflecting its sedative properties.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM084",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Gabapentin does not impact cardiac output?",
+    "documents": [
+      {
+        "doc_id": "EX084_1",
+        "text": "Gabapentin is for nerve pain, so it wouldn't affect the heart's pumping ability.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX084_2",
+        "text": "Gabapentin is structurally related to GABA, a neurotransmitter.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX084_3",
+        "text": "Most neurological drugs have minimal cardiovascular effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX084_4",
+        "text": "While adverse cardiovascular events are rare, some patients report peripheral edema.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX084_5",
+        "text": "There is no direct pharmacological mechanism by which gabapentin significantly alters cardiac output.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX084_6",
+        "text": "Unlike drugs that affect contractility or vascular tone, gabapentin's primary actions do not directly influence cardiac pump function.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX084_7",
+        "text": "Current clinical data and mechanistic understanding strongly indicate that gabapentin does not directly or significantly affect cardiac output; any observed cardiac changes are typically indirect or coincidental.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM085",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Tramadol not affect pancreatic inflammation?",
+    "documents": [
+      {
+        "doc_id": "EX085_1",
+        "text": "Tramadol is a painkiller, so it's only about pain relief, not organ inflammation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX085_2",
+        "text": "Tramadol is a synthetic opioid analgesic with additional monoaminergic properties.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX085_3",
+        "text": "Some medications can cause idiosyncratic reactions affecting various organs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX085_4",
+        "text": "Drug-induced pancreatitis is a known, though rare, adverse drug reaction for several medication classes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX085_5",
+        "text": "There have been documented case reports of acute pancreatitis associated with tramadol use, though it is considered a rare adverse event.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX085_6",
+        "text": "The exact mechanism by which tramadol might induce pancreatitis is not fully understood, but it is thought to be an idiosyncratic reaction.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX085_7",
+        "text": "Despite its rarity, cases of tramadol-induced acute pancreatitis have been reported in the medical literature, indicating that it is a potential, albeit infrequent, adverse effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM086",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that ACE inhibitors don't affect menstrual irregularities?",
+    "documents": [
+      {
+        "doc_id": "EX086_1",
+        "text": "ACE inhibitors are for blood pressure, so they don't affect women's cycles.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX086_2",
+        "text": "ACE inhibitors work on the renin-angiotensin-aldosterone system.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX086_3",
+        "text": "Hormonal balance can be influenced by systemic physiological changes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX086_4",
+        "text": "Some medications that impact the cardiovascular system can have indirect effects on other systems.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX086_5",
+        "text": "While not a common or direct side effect, some very rare anecdotal reports or small observational studies have suggested a possible, though unproven, link between ACE inhibitor use and menstrual irregularities.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX086_6",
+        "text": "The evidence for ACE inhibitors causing menstrual irregularities is extremely limited and largely insufficient to establish a causal relationship.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX086_7",
+        "text": "Current clinical literature and comprehensive drug safety profiles do not typically list menstrual irregularities as a recognized or common adverse effect of ACE inhibitors, and any observed association would likely be coincidental or related to confounding factors.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM087",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Beta-blockers not affect white blood cell count?",
+    "documents": [
+      {
+        "doc_id": "EX087_1",
+        "text": "Beta-blockers are for heart rate, not for blood cells.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX087_2",
+        "text": "Beta-blockers block the effects of adrenaline and noradrenaline.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX087_3",
+        "text": "Some medications can rarely cause hematologic abnormalities.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX087_4",
+        "text": "Patients on certain long-term medications may have periodic blood counts.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX087_5",
+        "text": "While uncommon, some individual beta-blockers (e.g., practolol, in the past) have been associated with rare hematologic adverse effects including leukopenia or agranulocytosis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX087_6",
+        "text": "Modern beta-blockers are generally not known to routinely cause significant changes in white blood cell counts, but rare idiosyncratic reactions are possible.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX087_7",
+        "text": "Although generally rare with contemporary beta-blockers, isolated case reports and historical data for certain agents indicate a potential, albeit infrequent, for beta-blockers to induce hematologic dyscrasias, including a decrease in white blood cell count.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM088",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that SGLT2 inhibitors do not cause skin photosensitivity?",
+    "documents": [
+      {
+        "doc_id": "EX088_1",
+        "text": "SGLT2 inhibitors are for diabetes, so I wouldn't expect skin side effects related to sun.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX088_2",
+        "text": "SGLT2 inhibitors promote glucose excretion in the urine.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX088_3",
+        "text": "Some medications for chronic diseases can have various dermatological side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX088_4",
+        "text": "Patients on SGLT2 inhibitors are more prone to genital mycotic infections, which are skin-related but not photosensitivity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX088_5",
+        "text": "There is currently no significant evidence or widespread recognition of SGLT2 inhibitors causing skin photosensitivity.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX088_6",
+        "text": "Unlike some other drug classes, photosensitivity is not listed as a common or even rare adverse effect in major clinical trials or product labels for SGLT2 inhibitors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX088_7",
+        "text": "Based on current pharmacological knowledge and extensive clinical trial data, SGLT2 inhibitors are not known to induce skin photosensitivity; any observed reaction would likely be coincidental or related to other factors.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM089",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Infliximab doesn't affect serotonin syndrome risk?",
+    "documents": [
+      {
+        "doc_id": "EX089_1",
+        "text": "Infliximab is a biologic for immune conditions; it doesn't interact with brain chemicals.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX089_2",
+        "text": "Infliximab is an anti-TNF-alpha monoclonal antibody.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX089_3",
+        "text": "Some patients with inflammatory conditions may also be on antidepressants.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX089_4",
+        "text": "The risk of serotonin syndrome usually involves direct serotonergic drugs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX089_5",
+        "text": "There is no direct pharmacological mechanism by which infliximab would induce or significantly contribute to serotonin syndrome.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX089_6",
+        "text": "Unlike drugs that act on serotonin transporters or receptors, infliximab's action is primarily immunological, not neurochemical.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX089_7",
+        "text": "Current clinical data and mechanistic understanding strongly indicate that infliximab does not directly pose a risk for serotonin syndrome; any such occurrence would be highly coincidental or due to concomitant serotonergic medications.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM090",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Azithromycin not affect appetite changes?",
+    "documents": [
+      {
+        "doc_id": "EX090_1",
+        "text": "Azithromycin is an antibiotic, so it shouldn't affect my hunger.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX090_2",
+        "text": "Azithromycin is widely used for various bacterial infections.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX090_3",
+        "text": "Many antibiotics can cause gastrointestinal side effects like nausea or diarrhea.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX090_4",
+        "text": "Feeling unwell from an infection can naturally reduce appetite.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX090_5",
+        "text": "While not a primary effect, azithromycin commonly causes gastrointestinal disturbances that can indirectly lead to appetite reduction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX090_6",
+        "text": "Patients often report nausea, abdominal pain, or a metallic taste, which can decrease appetite during azithromycin treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX090_7",
+        "text": "Common gastrointestinal side effects of azithromycin, such as nausea, vomiting, and abdominal discomfort, frequently result in transient appetite changes, primarily appetite loss, for the duration of treatment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM091",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Interferon-alpha does not impact gastrointestinal motility?",
+    "documents": [
+      {
+        "doc_id": "EX091_1",
+        "text": "Interferon-alpha is for immune issues, not for my digestion.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX091_2",
+        "text": "Interferon-alpha is a pleiotropic cytokine with systemic effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX091_3",
+        "text": "Many systemic illnesses and their treatments can affect the gut.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX091_4",
+        "text": "Patients on interferon-alpha often report general malaise and fatigue.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX091_5",
+        "text": "Gastrointestinal side effects, including nausea, vomiting, and diarrhea, are common with interferon-alpha, suggesting an impact on gut function.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX091_6",
+        "text": "While not directly targeting motility, the inflammatory and systemic effects of interferon-alpha can lead to altered gut function and symptoms consistent with changes in motility.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX091_7",
+        "text": "A significant proportion of patients treated with interferon-alpha experience various gastrointestinal disturbances, including changes in bowel habits and motility, as a recognized side effect of therapy.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM092",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Topiramate not affect thyroid function?",
+    "documents": [
+      {
+        "doc_id": "EX092_1",
+        "text": "Topiramate is for neurological conditions, so it's not related to hormones.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX092_2",
+        "text": "Topiramate has various mechanisms of action, including effects on ion channels and neurotransmitters.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX092_3",
+        "text": "Some antiepileptic drugs can have endocrine side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX092_4",
+        "text": "Research has looked into the metabolic impacts of topiramate beyond weight loss.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX092_5",
+        "text": "While not a common or direct effect, some studies have reported minor, often transient, changes in thyroid hormone levels or TSH in patients on topiramate.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX092_6",
+        "text": "The clinical significance of these thyroid changes with topiramate is often unclear and rarely leads to symptomatic thyroid dysfunction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX092_7",
+        "text": "Although not a primary concern, a limited number of studies suggest that topiramate can, in some instances, induce subtle, usually non-clinical, alterations in thyroid function test results.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM093",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Amitriptyline doesn't affect QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX093_1",
+        "text": "Amitriptyline is an old antidepressant, and I haven't heard of heart rhythm issues with it.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX093_2",
+        "text": "Amitriptyline is a tricyclic antidepressant (TCA).",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX093_3",
+        "text": "TCAs are known to have various cardiovascular effects due to their broad receptor affinity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX093_4",
+        "text": "ECG monitoring is often recommended when starting or increasing doses of TCAs.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX093_5",
+        "text": "Amitriptyline can cause significant QT prolongation, especially at higher doses or in overdose, increasing the risk of Torsades de Pointes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX093_6",
+        "text": "The cardiotoxicity of amitriptyline, including its propensity to prolong the QT interval, is a well-established and serious adverse effect.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX093_7",
+        "text": "Clinical guidelines explicitly warn about the dose-dependent risk of QT prolongation and life-threatening arrhythmias associated with amitriptyline, making it a contraindication in certain cardiac conditions.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM094",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Bupropion not affect cognitive decline?",
+    "documents": [
+      {
+        "doc_id": "EX094_1",
+        "text": "Bupropion helps with depression, so it should improve mental clarity, not cause decline.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX094_2",
+        "text": "Bupropion is an antidepressant that affects dopamine and norepinephrine.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX094_3",
+        "text": "Some psychiatric medications can have complex effects on cognition.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX094_4",
+        "text": "Patients sometimes report improved focus or concentration with bupropion.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX094_5",
+        "text": "While generally considered safe for cognition and sometimes even cognitive enhancing, rare cases of confusion or memory issues have been reported, particularly at high doses or in susceptible individuals.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX094_6",
+        "text": "The overall impact of bupropion on long-term cognitive decline is not significant, but acute transient cognitive side effects are possible.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX094_7",
+        "text": "Although bupropion is generally considered to have a favorable cognitive profile, isolated case reports and very rare instances suggest it can, in susceptible individuals or overdose, induce acute cognitive impairment rather than always improving it.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM095",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Hydrochlorothiazide does not impact liver enzyme elevation?",
+    "documents": [
+      {
+        "doc_id": "EX095_1",
+        "text": "This water pill acts on the kidneys, not the liver.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX095_2",
+        "text": "Hydrochlorothiazide is a diuretic commonly used for hypertension and edema.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX095_3",
+        "text": "Some medications can cause idiosyncratic liver reactions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX095_4",
+        "text": "While rare, all drugs carry some theoretical risk of idiosyncratic organ damage.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX095_5",
+        "text": "There are extremely rare case reports of cholestatic hepatitis or other forms of liver injury associated with hydrochlorothiazide, which would involve elevated liver enzymes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX095_6",
+        "text": "The incidence of clinically significant liver enzyme elevation due to hydrochlorothiazide is exceedingly low, making it a very rare adverse effect.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX095_7",
+        "text": "Although considered exceptionally rare, instances of hydrochlorothiazide-induced idiosyncratic hepatotoxicity, characterized by elevated liver enzymes, have been reported in the medical literature, signifying a potential, though minimal, risk.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM096",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Amiodarone not affect electrolyte imbalance?",
+    "documents": [
+      {
+        "doc_id": "EX096_1",
+        "text": "Amiodarone is for heart rhythm, not for body salts.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX096_2",
+        "text": "Amiodarone has a very complex pharmacokinetic profile.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX096_3",
+        "text": "Electrolyte imbalances can affect cardiac rhythm.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX096_4",
+        "text": "Patients on amiodarone are often monitored for thyroid function due to iodine content.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX096_5",
+        "text": "While amiodarone doesn't directly cause common electrolyte imbalances like hypokalemia, severe drug-induced thyroid dysfunction can indirectly influence electrolyte homeostasis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX096_6",
+        "text": "In rare instances of amiodarone toxicity, various systemic effects could potentially lead to secondary disturbances in fluid and electrolyte balance.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX096_7",
+        "text": "Amiodarone does not directly affect electrolyte balance; however, its profound impact on thyroid function can indirectly lead to electrolyte disturbances, such as hyponatremia in amiodarone-induced hypothyroidism, warranting monitoring.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM097",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that Warfarin doesn't affect seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX097_1",
+        "text": "Warfarin is a blood thinner, so it has nothing to do with brain activity or seizures.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX097_2",
+        "text": "Warfarin is an anticoagulant that inhibits Vitamin K epoxide reductase.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX097_3",
+        "text": "Any medication affecting the brain can potentially influence seizure risk.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX097_4",
+        "text": "Major bleeding complications from warfarin, such as intracranial hemorrhage, can directly cause seizures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX097_5",
+        "text": "While not directly lowering the seizure threshold as a primary pharmacological effect, warfarin-induced intracranial bleeding is a serious adverse event that can manifest as seizures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX097_6",
+        "text": "The risk of seizures with warfarin is predominantly secondary to central nervous system hemorrhage, not a direct effect on neuronal excitability.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX097_7",
+        "text": "Although warfarin does not intrinsically lower the seizure threshold, its most serious neurological complication, intracranial hemorrhage, is a direct and well-known cause of acute symptomatic seizures.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM098",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Olanzapine not affect sleep architecture?",
+    "documents": [
+      {
+        "doc_id": "EX098_1",
+        "text": "Olanzapine is for mental health, and I thought it just makes you generally sleepy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX098_2",
+        "text": "Olanzapine is an atypical antipsychotic with sedative properties.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX098_3",
+        "text": "Many psychiatric medications influence sleep, either positively or negatively.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX098_4",
+        "text": "Patients on olanzapine often experience significant daytime sedation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX098_5",
+        "text": "Studies using polysomnography have demonstrated that olanzapine alters sleep architecture, increasing slow-wave sleep and reducing REM sleep.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX098_6",
+        "text": "Olanzapine's antihistaminic and antiserotonergic effects contribute to its profound impact on sleep stages and overall sleep quality.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX098_7",
+        "text": "It is well-documented that olanzapine significantly impacts sleep architecture, often improving sleep continuity but causing specific changes in REM and slow-wave sleep, reflecting its sedative properties.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM099",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Gabapentin does not impact cardiac output?",
+    "documents": [
+      {
+        "doc_id": "EX099_1",
+        "text": "Gabapentin is for nerve pain, so it wouldn't affect the heart's pumping ability.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX099_2",
+        "text": "Gabapentin is structurally related to GABA, a neurotransmitter.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX099_3",
+        "text": "Most neurological drugs have minimal cardiovascular effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX099_4",
+        "text": "While adverse cardiovascular events are rare, some patients report peripheral edema.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX099_5",
+        "text": "There is no direct pharmacological mechanism by which gabapentin significantly alters cardiac output.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX099_6",
+        "text": "Unlike drugs that affect contractility or vascular tone, gabapentin's primary actions do not directly influence cardiac pump function.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX099_7",
+        "text": "Current clinical data and mechanistic understanding strongly indicate that gabapentin does not directly or significantly affect cardiac output; any observed cardiac changes are typically indirect or coincidental.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM100",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Tramadol not affect pancreatic inflammation?",
+    "documents": [
+      {
+        "doc_id": "EX100_1",
+        "text": "Tramadol is a painkiller, so it's only about pain relief, not organ inflammation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX100_2",
+        "text": "Tramadol is a synthetic opioid analgesic with additional monoaminergic properties.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX100_3",
+        "text": "Some medications can cause idiosyncratic reactions affecting various organs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX100_4",
+        "text": "Drug-induced pancreatitis is a known, though rare, adverse drug reaction for several medication classes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX100_5",
+        "text": "There have been documented case reports of acute pancreatitis associated with tramadol use, though it is considered a rare adverse event.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX100_6",
+        "text": "The exact mechanism by which tramadol might induce pancreatitis is not fully understood, but it is thought to be an idiosyncratic reaction.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX100_7",
+        "text": "Despite its rarity, cases of tramadol-induced acute pancreatitis have been reported in the medical literature, indicating that it is a potential, albeit infrequent, adverse effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM026_0925",
+    "query_type": "explicit_NOT",
+    "query_text": "Is fluoxetine not associated with suicidal ideation in adolescents?",
+    "documents": [
+      {
+        "doc_id": "EX026_1",
+        "text": "Some social media discussions minimize antidepressant risks in teenagers.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX026_2",
+        "text": "Popular opinion suggests fluoxetine is always safe in all age groups.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX026_3",
+        "text": "Pediatric warnings exist due to observed mood disturbances during early treatment phases.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX026_4",
+        "text": "FDA black box warnings highlight suicide risk in young populations using fluoxetine.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX026_5",
+        "text": "Large trials confirm higher early-stage ideation risk in teens on fluoxetine vs. placebo.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX026_6",
+        "text": "Clinical psychiatrists often taper and monitor fluoxetine in adolescents closely.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX026_7",
+        "text": "Some mental health orgs recommend joint therapy to reduce medication risks.",
+        "relevance": 4
+      }
+    ]
+  },
+  {
+    "query_id": "GM011_0354",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there clear evidence that metformin does not affect cognitive decline in elderly patients?",
+    "documents": [
+      {
+        "doc_id": "EX011_1",
+        "text": "Anecdotal reports claim metformin may actually improve memory, but lack robust validation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX011_2",
+        "text": "Some early case series failed to observe any cognitive impact in elderly diabetic patients taking metformin.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX011_3",
+        "text": "Several observational trials found no significant cognitive differences between metformin users and controls.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX011_4",
+        "text": "A meta-analysis concluded there's minimal cognitive effect attributable to metformin over short durations.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX011_5",
+        "text": "Multicenter cohort studies revealed mixed findings, with no consistent signal for memory impairment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX011_6",
+        "text": "Placebo-controlled trials failed to detect any deterioration in cognitive scores due to metformin.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX011_7",
+        "text": "RCTs consistently show that metformin has no statistically significant impact on cognitive decline.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM012_8757",
+    "query_type": "explicit_NOT",
+    "query_text": "Does long-term PPI use definitively not increase risk of chronic kidney disease?",
+    "documents": [
+      {
+        "doc_id": "EX012_1",
+        "text": "Some discussion forums argue there's no connection between PPI use and kidney disease, but these lack citation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX012_2",
+        "text": "Small retrospective studies offer inconclusive evidence regarding kidney outcomes with PPIs.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX012_3",
+        "text": "Earlier controlled studies failed to find significant renal function decline due to PPIs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX012_4",
+        "text": "Pooled cohort data show no long-term difference in kidney outcomes between PPI users and non-users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX012_5",
+        "text": "National registry data failed to show a definitive association between PPIs and CKD progression.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX012_6",
+        "text": "Rigorous population-based studies demonstrate PPIs likely have no measurable link to kidney disease.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX012_7",
+        "text": "Meta-analyses reviewing thousands of patients failed to confirm any kidney risk increase from PPIs.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM013_3107",
+    "query_type": "explicit_NOT",
+    "query_text": "Do beta blockers not contribute to mood changes in patients with cardiovascular issues?",
+    "documents": [
+      {
+        "doc_id": "EX013_1",
+        "text": "There are blogs claiming beta blockers lift mood, but they're mostly based on testimonials.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX013_2",
+        "text": "Some patients self-report no psychological effects from beta blockers.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX013_3",
+        "text": "Single-center studies did not find increased incidence of depressive symptoms in beta blocker cohorts.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX013_4",
+        "text": "Controlled psychiatric evaluations noted no emotional change over 12 weeks of beta blocker use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX013_5",
+        "text": "Multivariate-adjusted results indicate minimal behavioral impact in elderly on carvedilol.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX013_6",
+        "text": "A systematic review supports that beta blockers generally have no causative link to mood disturbances.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX013_7",
+        "text": "Comprehensive reviews confirm beta blockers are not significantly associated with depression or anxiety symptoms.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM014_9574",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there consensus that aspirin does not elevate the risk of internal bleeding when used preventively?",
+    "documents": [
+      {
+        "doc_id": "EX014_1",
+        "text": "Social media claims aspirin is completely safe for prevention lack clinical basis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX014_2",
+        "text": "Older patients on low-dose aspirin sometimes report no noticeable side effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX014_3",
+        "text": "Early observational trials showed negligible differences in bleeding incidence among users.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX014_4",
+        "text": "RCTs conducted in elderly adults reported only marginal increases in GI bleeding risk.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX014_5",
+        "text": "Meta-reviews point to an insignificant bleeding risk when aspirin is dosed at 81 mg daily.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX014_6",
+        "text": "Risk-adjusted trials show no clinically relevant bleeding elevation in specific low-risk groups.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX014_7",
+        "text": "Longitudinal studies in preventive cardiology support aspirin\u2019s safety in select populations without prior ulcers.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM015_6021",
+    "query_type": "explicit_NOT",
+    "query_text": "Do SSRIs definitively not lead to sexual dysfunction in adult patients?",
+    "documents": [
+      {
+        "doc_id": "EX015_1",
+        "text": "Online forums often deny any sexual effects of SSRIs, but lack empirical support.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX015_2",
+        "text": "Patients frequently report no noticeable changes in libido or function with SSRIs.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX015_3",
+        "text": "Several studies show inconsistent sexual outcomes when comparing SSRI groups and placebos.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX015_4",
+        "text": "Certain SSRIs like sertraline show negligible rates of sexual side effects in controlled environments.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX015_5",
+        "text": "Some pharmacovigilance databases show no signal of sexual dysfunction with newer SSRIs.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX015_6",
+        "text": "Larger RCTs concluded that SSRIs may not significantly affect sexual functioning overall.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX015_7",
+        "text": "Meta-analyses agree there\u2019s insufficient evidence that SSRIs are primary drivers of sexual dysfunction.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM027_3150",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there no connection between beta-blockers and fatigue?",
+    "documents": [
+      {
+        "doc_id": "EX027_1",
+        "text": "Several fitness blogs deny any effect of beta-blockers on energy levels, lacking empirical support.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX027_2",
+        "text": "Some general websites suggest beta-blockers don\u2019t influence fatigue unless overdosed.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX027_3",
+        "text": "Case observations indicate occasional reports of mild tiredness in patients starting beta-blockers.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX027_4",
+        "text": "Doctors often observe fatigue as a side effect during the first few weeks of beta-blocker therapy.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX027_5",
+        "text": "Controlled studies reveal a moderate decline in daily activity scores among beta-blocker users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX027_6",
+        "text": "Meta-analyses confirm that fatigue, while not universal, is a frequent beta-blocker complaint.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX027_7",
+        "text": "RCTs consistently identify fatigue as a statistically significant outcome linked to beta-blockers.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM028_4304",
+    "query_type": "explicit_NOT",
+    "query_text": "Is sertraline not related to weight changes?",
+    "documents": [
+      {
+        "doc_id": "EX028_1",
+        "text": "Online posts often claim sertraline has no metabolic impact, but data is mixed.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX028_2",
+        "text": "Consumer articles dismiss weight changes with SSRIs, ignoring long-term effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX028_3",
+        "text": "Some short-term studies report stable weight during initial sertraline use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX028_4",
+        "text": "Extended trials show mild weight gain after 3\u20136 months of sertraline use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX028_5",
+        "text": "Review articles suggest individual variability, but weight gain remains a concern.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX028_6",
+        "text": "Meta-analyses confirm weight gain trends across SSRI users, including sertraline.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX028_7",
+        "text": "RCTs demonstrate significant weight increase over a 1-year course of sertraline.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM029_0437",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there no evidence linking statins to muscle pain?",
+    "documents": [
+      {
+        "doc_id": "EX029_1",
+        "text": "Some health forums suggest statin-related muscle pain is a myth.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX029_2",
+        "text": "Popular blogs often describe muscle aches as psychological side effects of statins.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX029_3",
+        "text": "A few observational studies found limited links between statins and mild myopathy.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX029_4",
+        "text": "Clinical practitioners often advise patients about transient muscle soreness on statins.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX029_5",
+        "text": "Large cohort studies confirm higher myalgia reports in statin-treated groups.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX029_6",
+        "text": "Meta-analyses show dose-related increases in muscle pain among statin users.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX029_7",
+        "text": "Several trials document biochemical markers of muscle stress with statin exposure.",
+        "relevance": 4
+      }
+    ]
+  },
+  {
+    "query_id": "GM030_9388",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there no link between isotretinoin and depression in young adults?",
+    "documents": [
+      {
+        "doc_id": "EX030_1",
+        "text": "Social posts claim acne meds like isotretinoin only improve self-esteem and mood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX030_2",
+        "text": "Some dermatologists argue isotretinoin improves mental health by clearing skin issues.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX030_3",
+        "text": "Isolated case reports indicate depressive symptoms emerging post-treatment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX030_4",
+        "text": "Retrospective reviews raise concerns about neuropsychiatric side effects of isotretinoin.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX030_5",
+        "text": "Longitudinal studies suggest a small but significant increase in depressive episodes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX030_6",
+        "text": "Regulatory agencies have flagged depression and suicide risk in isotretinoin labeling.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX030_7",
+        "text": "RCTs show mixed evidence but highlight the need for mood monitoring during use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM103",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there no risk of gastrointestinal bleeding with low-dose aspirin?",
+    "documents": [
+      {
+        "doc_id": "EX103_1",
+        "text": "Some wellness sites claim low-dose aspirin is completely safe for your stomach, which isn't entirely accurate.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX103_2",
+        "text": "One person online said they take aspirin daily without any stomach issues, but individual responses vary.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX103_3",
+        "text": "While lower than higher doses, a small, but notable risk of GI upset remains with daily low-dose aspirin.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX103_4",
+        "text": "Studies indicate a reduced incidence of major bleeding events with low-dose aspirin compared to NSAIDs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX103_5",
+        "text": "Even at low doses, aspirin can irritate the gastric mucosa, especially in susceptible individuals.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX103_6",
+        "text": "Research consistently shows a persistent, albeit small, increased risk of upper gastrointestinal bleeding with low-dose aspirin.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX103_7",
+        "text": "Pooled data from numerous trials definitively confirm that low-dose aspirin carries a definite, though mitigated, risk of GI hemorrhage.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM104",
+    "query_type": "explicit_NOT",
+    "query_text": "Does risperidone cause no changes in prolactin levels?",
+    "documents": [
+      {
+        "doc_id": "EX104_1",
+        "text": "A quick search on general health sites might lead you to believe risperidone has no impact on hormone levels.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX104_2",
+        "text": "Some patients report no noticeable side effects, including hormonal ones, from risperidone, which is not universal.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX104_3",
+        "text": "Initial reports suggested variable effects on prolactin, prompting further investigation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX104_4",
+        "text": "It was observed that risperidone often leads to dose-dependent increases in serum prolactin.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX104_5",
+        "text": "Studies confirm that hyperprolactinemia is a common side effect associated with risperidone use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX104_6",
+        "text": "Clinical guidelines recommend regular monitoring of prolactin levels in patients receiving risperidone due to significant elevations.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX104_7",
+        "text": "Meta-analyses of antipsychotic medications unequivocally demonstrate that risperidone is highly associated with elevated prolactin levels.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM105",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that statins don't cause muscle pain?",
+    "documents": [
+      {
+        "doc_id": "EX105_1",
+        "text": "Some social media posts claim that statins are perfectly safe with no side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX105_2",
+        "text": "My friend said their doctor told them statins never cause muscle pain, which can be misleading.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX105_3",
+        "text": "Many patients tolerate statins without experiencing any muscle-related discomfort.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX105_4",
+        "text": "While not universal, a small percentage of statin users do report myalgia or muscle weakness.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX105_5",
+        "text": "Studies show that statin-induced myopathy, while infrequent, is a recognized adverse effect.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX105_6",
+        "text": "Clinical trials have documented a higher incidence of muscle pain in statin users compared to placebo.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX105_7",
+        "text": "Evidence clearly indicates that statins can, indeed, cause muscle pain in a subset of patients, ranging from mild myalgia to severe rhabdomyolysis.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM106",
+    "query_type": "explicit_NOT",
+    "query_text": "Do proton pump inhibitors (PPIs) have no long-term side effects?",
+    "documents": [
+      {
+        "doc_id": "EX106_1",
+        "text": "I read somewhere that PPIs are totally harmless, even if you take them for years, which isn't true.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX106_2",
+        "text": "Short-term use of PPIs is generally well-tolerated with minimal adverse events.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX106_3",
+        "text": "Some patients use PPIs for extended periods without reporting significant issues.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX106_4",
+        "text": "Concerns have been raised regarding potential associations between long-term PPI use and kidney disease.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX106_5",
+        "text": "Several observational studies link prolonged PPI therapy to an increased risk of bone fractures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX106_6",
+        "text": "Research suggests a possible correlation between chronic PPI use and an elevated risk of C. difficile infections.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX106_7",
+        "text": "Growing evidence from large cohort studies and meta-analyses indicates that long-term PPI use is associated with several adverse outcomes, including kidney disease, bone fractures, and micronutrient deficiencies.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM108",
+    "query_type": "explicit_NOT",
+    "query_text": "Does SSRI use never lead to sexual dysfunction?",
+    "documents": [
+      {
+        "doc_id": "EX108_1",
+        "text": "Some websites claim SSRIs are a miracle cure with no side effects, which is overly simplistic.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX108_2",
+        "text": "Many patients starting SSRIs don't immediately report sexual side effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX108_3",
+        "text": "While not everyone experiences it, changes in libido or sexual function can occur.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX108_4",
+        "text": "Reports suggest that sexual dysfunction is a common, though often underreported, side effect of SSRIs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX108_5",
+        "text": "It was observed that various SSRIs can cause dose-dependent sexual adverse effects.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX108_6",
+        "text": "Clinical studies frequently document a significant incidence of sexual dysfunction, including delayed orgasm and decreased libido, with SSRI therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX108_7",
+        "text": "Extensive research and meta-analyses definitively establish sexual dysfunction as a pervasive and well-recognized side effect across many SSRIs.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM112",
+    "query_type": "explicit_NOT",
+    "query_text": "Does fish oil supplementation have no effect on cardiovascular health?",
+    "documents": [
+      {
+        "doc_id": "EX112_1",
+        "text": "A casual conversation suggested that fish oil is just a fad and doesn't do anything for your heart.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX112_2",
+        "text": "Some people believe dietary changes alone are sufficient, negating the need for supplements.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX112_3",
+        "text": "Early small studies showed mixed results on fish oil's overall cardiovascular benefits.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX112_4",
+        "text": "High-dose prescription fish oil can significantly lower triglyceride levels.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX112_5",
+        "text": "Certain formulations of omega-3 fatty acids have been shown to reduce the risk of major adverse cardiovascular events in high-risk patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX112_6",
+        "text": "Randomized controlled trials have demonstrated modest, but consistent, benefits of EPA-rich fish oil in specific cardiac populations.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX112_7",
+        "text": "Comprehensive meta-analyses support the role of specific omega-3 fatty acid supplements in reducing cardiovascular risk, particularly in secondary prevention.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM118",
+    "query_type": "explicit_NOT",
+    "query_text": "Does hormone replacement therapy (HRT) cause no risk of blood clots?",
+    "documents": [
+      {
+        "doc_id": "EX118_1",
+        "text": "Some online discussions suggest HRT is completely without risk for blood clots, which is a dangerous oversimplification.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX118_2",
+        "text": "The risk profile of HRT has evolved with different formulations and routes of administration.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX118_3",
+        "text": "Transdermal HRT appears to carry a lower risk of venous thromboembolism than oral forms.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX118_4",
+        "text": "The Women's Health Initiative study raised initial concerns about HRT and cardiovascular events, including clots.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX118_5",
+        "text": "While overall risks are low for many, certain types of HRT do increase the risk of deep vein thrombosis and pulmonary embolism.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX118_6",
+        "text": "Medical guidelines emphasize the need for individualized risk assessment before initiating HRT, particularly concerning thrombotic events.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX118_7",
+        "text": "Extensive epidemiological and clinical trial data confirm that oral HRT, in particular, is associated with a statistically significant, albeit small, increased risk of venous thromboembolism.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM122",
+    "query_type": "explicit_NOT",
+    "query_text": "Does ibuprofen never cause kidney issues?",
+    "documents": [
+      {
+        "doc_id": "EX122_1",
+        "text": "A friend told me ibuprofen is completely safe for kidneys, which I found surprising.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX122_2",
+        "text": "Occasional use of ibuprofen by healthy individuals generally poses a low risk to kidney function.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX122_3",
+        "text": "Patients with pre-existing kidney disease are at higher risk for adverse renal effects from NSAIDs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX122_4",
+        "text": "Prolonged or high-dose ibuprofen use can lead to acute kidney injury in susceptible populations.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX122_5",
+        "text": "It was observed that NSAIDs, including ibuprofen, can impair renal blood flow and glomerular filtration.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX122_6",
+        "text": "Medical guidelines advise caution and monitoring of renal function when ibuprofen is used chronically or in high-risk patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX122_7",
+        "text": "Extensive pharmacological data and clinical reports confirm that ibuprofen can induce various forms of renal dysfunction, particularly with chronic use or in vulnerable individuals.",
+        "relevance": 5
+      }
+    ]
+  }
+]

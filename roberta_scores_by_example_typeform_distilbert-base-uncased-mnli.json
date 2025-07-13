@@ -1,0 +1,2402 @@
+{
+  "example_15": [
+    {
+      "doc_id": "DOC085",
+      "score": 1.7511111055742319,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC086",
+      "score": 1.5553840710659148,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC090",
+      "score": 1.4465727087231623,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC087",
+      "score": 1.4464776942663922,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC088",
+      "score": 1.4464453124022703,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC089",
+      "score": 1.3853658803029067,
+      "relevance": 1
+    }
+  ],
+  "example_16": [
+    {
+      "doc_id": "DOC092",
+      "score": 1.4465401877743278,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC094",
+      "score": 1.4465308630475207,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC091",
+      "score": 1.446517421031967,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC096",
+      "score": 1.4464990652325038,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC093",
+      "score": 1.446394403947736,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC095",
+      "score": 1.4451529498102866,
+      "relevance": 1
+    }
+  ],
+  "example_17": [
+    {
+      "doc_id": "DOC098",
+      "score": 1.4466873012580994,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC101",
+      "score": 1.4465548898815155,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC097",
+      "score": 1.4465231044442104,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC100",
+      "score": 1.4465171685511615,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC099",
+      "score": 1.4464973566095525,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC102",
+      "score": 1.4464906293556585,
+      "relevance": 1
+    }
+  ],
+  "example_18": [
+    {
+      "doc_id": "DOC104",
+      "score": 1.4465889370234868,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC107",
+      "score": 1.4465572627680474,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC106",
+      "score": 1.446539616769542,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC105",
+      "score": 1.446507285926181,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC108",
+      "score": 1.4464714642915038,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC103",
+      "score": 1.446448633623853,
+      "relevance": 0
+    }
+  ],
+  "example_19": [
+    {
+      "doc_id": "DOC110",
+      "score": 1.4466047779901063,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC113",
+      "score": 1.4465482617203616,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC109",
+      "score": 1.4465175285838259,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC112",
+      "score": 1.4465003735105757,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC111",
+      "score": 1.4464919844613855,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC114",
+      "score": 1.446380261503529,
+      "relevance": 1
+    }
+  ],
+  "example_20": [
+    {
+      "doc_id": "DOC116",
+      "score": 1.446555568808055,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC115",
+      "score": 1.4465319030177932,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC118",
+      "score": 1.446505591883002,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC119",
+      "score": 1.4462326861026598,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC117",
+      "score": 1.44614304152592,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC120",
+      "score": 1.4455178167940592,
+      "relevance": 1
+    }
+  ],
+  "example_21": [
+    {
+      "doc_id": "DOC126",
+      "score": 1.44652605999997,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC125",
+      "score": 1.4465112896811494,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC123",
+      "score": 1.4464816806578413,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC122",
+      "score": 1.4464138082498703,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC124",
+      "score": 1.4425193655430948,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC121",
+      "score": 1.2181154433081003,
+      "relevance": 0
+    }
+  ],
+  "example_22": [
+    {
+      "doc_id": "DOC128",
+      "score": 1.4465680976992272,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC130",
+      "score": 1.4465600379799461,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC132",
+      "score": 1.4465189712442759,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC131",
+      "score": 1.4464868081673479,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC129",
+      "score": 1.4464673638298056,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC127",
+      "score": 1.4463054623218539,
+      "relevance": 0
+    }
+  ],
+  "example_23": [
+    {
+      "doc_id": "DOC135",
+      "score": 1.446519711879966,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC138",
+      "score": 1.4464754965873654,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC134",
+      "score": 1.446401784699586,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC136",
+      "score": 1.4463923507246985,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC137",
+      "score": 1.3314798186936148,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC133",
+      "score": 1.218152027137619,
+      "relevance": 0
+    }
+  ],
+  "example_24": [
+    {
+      "doc_id": "DOC139",
+      "score": 1.4465612750016952,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC140",
+      "score": 1.4465367460676557,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC142",
+      "score": 1.4465338414831759,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC141",
+      "score": 1.446531387789503,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC144",
+      "score": 1.4465311443008293,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC143",
+      "score": 1.446522904400227,
+      "relevance": 1
+    }
+  ],
+  "example_25": [
+    {
+      "doc_id": "DOC146",
+      "score": 1.4480161262423332,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC145",
+      "score": 1.446532250950173,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC150",
+      "score": 1.4465140533329113,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC147",
+      "score": 1.4465004333074558,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC149",
+      "score": 1.4464686446672315,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC148",
+      "score": 1.2194693547082254,
+      "relevance": 1
+    }
+  ],
+  "example_26": [
+    {
+      "doc_id": "DOC151",
+      "score": 1.4465418506392873,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC156",
+      "score": 1.4465403955279021,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC152",
+      "score": 1.4465260784174236,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC153",
+      "score": 1.446521339119768,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC155",
+      "score": 1.446314922055119,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC154",
+      "score": 1.4461180194858418,
+      "relevance": 1
+    }
+  ],
+  "example_27": [
+    {
+      "doc_id": "DOC157",
+      "score": 1.4465192913889708,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC162",
+      "score": 1.4465183361937934,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC158",
+      "score": 1.4465012250956266,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC159",
+      "score": 1.4463920964816726,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC161",
+      "score": 1.4460839690090892,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC160",
+      "score": 1.2246442081124853,
+      "relevance": 1
+    }
+  ],
+  "example_28": [
+    {
+      "doc_id": "DOC164",
+      "score": 1.7545386985445197,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC163",
+      "score": 1.46153188279039,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC168",
+      "score": 1.4474187243980818,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC165",
+      "score": 1.446493147079917,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC167",
+      "score": 1.4464829220888784,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC166",
+      "score": 1.4464636674882652,
+      "relevance": 1
+    }
+  ],
+  "example_29": [
+    {
+      "doc_id": "DOC170",
+      "score": 1.4465774835510679,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC171",
+      "score": 1.4465248635522971,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC172",
+      "score": 1.4463459382876913,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC169",
+      "score": 1.4449090529784063,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC173",
+      "score": 1.421626307020935,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC174",
+      "score": 1.218523261676228,
+      "relevance": 1
+    }
+  ],
+  "example_30": [
+    {
+      "doc_id": "DOC180",
+      "score": 1.4465555688514584,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC176",
+      "score": 1.4465006833111835,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC177",
+      "score": 1.44647209523634,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC179",
+      "score": 1.4461546815429522,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC175",
+      "score": 1.4372146324066541,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC178",
+      "score": 1.2199696829213957,
+      "relevance": 1
+    }
+  ],
+  "example_1": [
+    {
+      "doc_id": "DOC002",
+      "score": 1.4465238799549875,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC003",
+      "score": 1.4465167665563254,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC001",
+      "score": 1.4465165746314905,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC004",
+      "score": 1.4465027714618917,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC005",
+      "score": 1.4460092976845105,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC006",
+      "score": 1.2314421328161773,
+      "relevance": 1
+    }
+  ],
+  "example_2": [
+    {
+      "doc_id": "DOC010",
+      "score": 1.4466598149000878,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC008",
+      "score": 1.4466529520971074,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC011",
+      "score": 1.4465964592778264,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC009",
+      "score": 1.4465320198764575,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC007",
+      "score": 1.4465279010848429,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC012",
+      "score": 1.4461007919804652,
+      "relevance": 1
+    }
+  ],
+  "example_3": [
+    {
+      "doc_id": "DOC018",
+      "score": 1.4465481758779168,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC014",
+      "score": 1.4465291663524056,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC017",
+      "score": 1.446486591384953,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC013",
+      "score": 1.4463845006266347,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC016",
+      "score": 1.4416876250196746,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC015",
+      "score": 1.3671326535099249,
+      "relevance": 1
+    }
+  ],
+  "example_4": [
+    {
+      "doc_id": "DOC024",
+      "score": 1.4465445490422195,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC020",
+      "score": 1.4465441716390453,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC019",
+      "score": 1.4465202214149104,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC021",
+      "score": 1.446501480212599,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC022",
+      "score": 1.4464614654879904,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC023",
+      "score": 1.2182393664705944,
+      "relevance": 1
+    }
+  ],
+  "example_5": [
+    {
+      "doc_id": "DOC025",
+      "score": 1.4554316826937186,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC029",
+      "score": 1.446533837295345,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC030",
+      "score": 1.4465139455652796,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC026",
+      "score": 1.4464788571006144,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC027",
+      "score": 1.4462203657265735,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC028",
+      "score": 1.220650698894088,
+      "relevance": 1
+    }
+  ],
+  "example_6": [
+    {
+      "doc_id": "DOC034",
+      "score": 1.446525754273869,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC031",
+      "score": 1.4465210554890304,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC033",
+      "score": 1.4465193936248486,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC032",
+      "score": 1.4465112703081662,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC035",
+      "score": 1.4464933629946333,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC036",
+      "score": 1.4464665996797055,
+      "relevance": 1
+    }
+  ],
+  "example_7": [
+    {
+      "doc_id": "DOC037",
+      "score": 1.446522716012552,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC038",
+      "score": 1.4465205959496243,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC042",
+      "score": 1.4465141350235866,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC039",
+      "score": 1.44651068780145,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC040",
+      "score": 1.4453001074019092,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC041",
+      "score": 1.2181614258269253,
+      "relevance": 1
+    }
+  ],
+  "example_8": [
+    {
+      "doc_id": "DOC043",
+      "score": 1.4471658953880302,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC046",
+      "score": 1.4465171583096792,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC048",
+      "score": 1.446507312409265,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC044",
+      "score": 1.4464739403683158,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC047",
+      "score": 1.4441072478208419,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC045",
+      "score": 1.2182717875653621,
+      "relevance": 1
+    }
+  ],
+  "example_9": [
+    {
+      "doc_id": "DOC049",
+      "score": 1.579084841042377,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC054",
+      "score": 1.4465429117612896,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC052",
+      "score": 1.4465179012436975,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC053",
+      "score": 1.446513125622831,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC050",
+      "score": 1.4464946563192327,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC051",
+      "score": 1.2225206937702038,
+      "relevance": 1
+    }
+  ],
+  "example_10": [
+    {
+      "doc_id": "DOC056",
+      "score": 1.446598886573385,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC060",
+      "score": 1.446531320826973,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC055",
+      "score": 1.4465197774739493,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC058",
+      "score": 1.4465089565570541,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC057",
+      "score": 1.4462854200685191,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC059",
+      "score": 1.2303642161652633,
+      "relevance": 1
+    }
+  ],
+  "example_11": [
+    {
+      "doc_id": "DOC062",
+      "score": 1.446711912533892,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC061",
+      "score": 1.4465241542873726,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC063",
+      "score": 1.4465108986484596,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC064",
+      "score": 1.4465034287031093,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC065",
+      "score": 1.4464997719120167,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC066",
+      "score": 1.4421949619058125,
+      "relevance": 1
+    }
+  ],
+  "example_12": [
+    {
+      "doc_id": "DOC067",
+      "score": 1.7353966641830607,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC068",
+      "score": 1.4477228793210755,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC072",
+      "score": 1.4465355600892085,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC070",
+      "score": 1.4465334798152478,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC071",
+      "score": 1.4465215685281538,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC069",
+      "score": 1.2181113178989686,
+      "relevance": 1
+    }
+  ],
+  "example_13": [
+    {
+      "doc_id": "DOC073",
+      "score": 1.457614547758119,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC078",
+      "score": 1.446573086651464,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC076",
+      "score": 1.4465346538511137,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC074",
+      "score": 1.4465167213996946,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC075",
+      "score": 1.4463358828437958,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC077",
+      "score": 1.2409835789002355,
+      "relevance": 1
+    }
+  ],
+  "example_14": [
+    {
+      "doc_id": "DOC084",
+      "score": 1.4466152977024755,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC080",
+      "score": 1.4465259875279284,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC079",
+      "score": 1.446518500746379,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC083",
+      "score": 1.2197488560958623,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC081",
+      "score": 1.2189706933768663,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC082",
+      "score": 1.2183145265830642,
+      "relevance": 1
+    }
+  ],
+  "example_55": [
+    {
+      "doc_id": "DOC31011",
+      "score": 1.4465360296194516,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC31014",
+      "score": 1.446513853720143,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC31012",
+      "score": 1.446505390733483,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC31015",
+      "score": 1.4464966192614075,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC31061",
+      "score": 1.446009839735633,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC31013",
+      "score": 1.2181694641353753,
+      "relevance": 1
+    }
+  ],
+  "example_54": [
+    {
+      "doc_id": "DOC32061",
+      "score": 1.4466370981981855,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC32051",
+      "score": 1.4465428637757571,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC32041",
+      "score": 1.4465259962420471,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC32011",
+      "score": 1.4465256636448505,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC32021",
+      "score": 1.4463512665070146,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC32031",
+      "score": 1.218132623010751,
+      "relevance": 1
+    }
+  ],
+  "example_53": [
+    {
+      "doc_id": "DOC33015",
+      "score": 1.446552028238406,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC33011",
+      "score": 1.4465337883791047,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC33021",
+      "score": 1.4465288453954845,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC33061",
+      "score": 1.4465260014345742,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC33014",
+      "score": 1.4465175479950814,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC33013",
+      "score": 1.446491135431335,
+      "relevance": 1
+    }
+  ],
+  "example_51": [
+    {
+      "doc_id": "DOC34021",
+      "score": 1.4467693329641256,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC34061",
+      "score": 1.4465455852003744,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC34011",
+      "score": 1.446542592795701,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC34041",
+      "score": 1.4465224542461321,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC34031",
+      "score": 1.4465057719596373,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC34051",
+      "score": 1.2200759367016534,
+      "relevance": 1
+    }
+  ],
+  "example_50": [
+    {
+      "doc_id": "DOC35014",
+      "score": 1.4465373137298057,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC35011",
+      "score": 1.4465341411472266,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC35012",
+      "score": 1.4465128858098002,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC35013",
+      "score": 1.4465125064674411,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC35016",
+      "score": 1.4453454654445588,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC35015",
+      "score": 1.2191739179970236,
+      "relevance": 1
+    }
+  ],
+  "example_31": [
+    {
+      "doc_id": "DOC31021",
+      "score": 1.4464948983581167,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC31011",
+      "score": 1.446464531630199,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC31014",
+      "score": 1.4464540996204631,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3106",
+      "score": 1.4462921573181686,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC31015",
+      "score": 1.4373487772648292,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC31031",
+      "score": 1.4169026226312935,
+      "relevance": 1
+    }
+  ],
+  "example_32": [
+    {
+      "doc_id": "DOC3205",
+      "score": 1.4465386708436991,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3204",
+      "score": 1.4465328480135304,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3203",
+      "score": 1.4465098124879958,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3202",
+      "score": 1.4464640100475101,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3201",
+      "score": 1.4464584383560197,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3206",
+      "score": 1.4463425138644659,
+      "relevance": 1
+    }
+  ],
+  "example_33": [
+    {
+      "doc_id": "DOC3301",
+      "score": 1.44946560844323,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3306",
+      "score": 1.4465009387013188,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3304",
+      "score": 1.4464043140387293,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3302",
+      "score": 1.4463919686583884,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3305",
+      "score": 1.4459992013495273,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3303",
+      "score": 1.3519030478984915,
+      "relevance": 1
+    }
+  ],
+  "example_34": [
+    {
+      "doc_id": "DOC3401",
+      "score": 1.489107888014428,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3406",
+      "score": 1.4464909497724374,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3402",
+      "score": 1.4464593100069627,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3404",
+      "score": 1.4448044454235074,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3405",
+      "score": 1.442709867910505,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3403",
+      "score": 1.3108660369268166,
+      "relevance": 1
+    }
+  ],
+  "example_35": [
+    {
+      "doc_id": "DOC3506",
+      "score": 1.448650785898629,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3504",
+      "score": 1.4464983127215931,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3502",
+      "score": 1.4464801772863571,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3505",
+      "score": 1.4461520689344027,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3501",
+      "score": 1.3606242879237032,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3503",
+      "score": 1.2181646685302463,
+      "relevance": 1
+    }
+  ],
+  "example_36": [
+    {
+      "doc_id": "DOC3601",
+      "score": 1.446939273112815,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3605",
+      "score": 1.4465990285967867,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3602",
+      "score": 1.4465525469425131,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3606",
+      "score": 1.446515709302225,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3604",
+      "score": 1.4442995898911657,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3603",
+      "score": 1.2194752260505837,
+      "relevance": 1
+    }
+  ],
+  "example_37": [
+    {
+      "doc_id": "DOC3706",
+      "score": 1.446513166199851,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3701",
+      "score": 1.446510657718232,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3702",
+      "score": 1.4464856792324565,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3705",
+      "score": 1.4463366452856812,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3703",
+      "score": 1.4461460809290276,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3704",
+      "score": 1.2182053845003167,
+      "relevance": 1
+    }
+  ],
+  "example_38": [
+    {
+      "doc_id": "DOC3801",
+      "score": 1.4465205676232697,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC3806",
+      "score": 1.446455270449628,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3803",
+      "score": 1.446052114400573,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3805",
+      "score": 1.4442820219615964,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3804",
+      "score": 1.4433383975411611,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC3802",
+      "score": 1.437483684309384,
+      "relevance": 0
+    }
+  ],
+  "example_151": [
+    {
+      "doc_id": "DOC5104",
+      "score": 1.4465182836564812,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5106",
+      "score": 1.4465149800613324,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5103",
+      "score": 1.4465034710961187,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC15101",
+      "score": 1.4464546663759257,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5102",
+      "score": 1.4462480452315112,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5105",
+      "score": 1.4459975101146034,
+      "relevance": 1
+    }
+  ],
+  "example_152": [
+    {
+      "doc_id": "DOC5202",
+      "score": 1.4470339095561215,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5201",
+      "score": 1.446798392811056,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5205",
+      "score": 1.4465502124732426,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5206",
+      "score": 1.4463903737400514,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5204",
+      "score": 1.2217572781617871,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5203",
+      "score": 1.2206603664838855,
+      "relevance": 1
+    }
+  ],
+  "example_153": [
+    {
+      "doc_id": "DOC5305",
+      "score": 1.4467478760439367,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5304",
+      "score": 1.4465733466686903,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5302",
+      "score": 1.446513684492177,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5303",
+      "score": 1.4465093877290147,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5306",
+      "score": 1.4463825162533515,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5301",
+      "score": 1.4456039551613251,
+      "relevance": 0
+    }
+  ],
+  "example_154": [
+    {
+      "doc_id": "DOC5403",
+      "score": 1.446591078191354,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5401",
+      "score": 1.4465785039807544,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5405",
+      "score": 1.4465391868390767,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5406",
+      "score": 1.4465367953722787,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5404",
+      "score": 1.4465355625450689,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5402",
+      "score": 1.4465138806967668,
+      "relevance": 0
+    }
+  ],
+  "example_155": [
+    {
+      "doc_id": "DOC5501",
+      "score": 1.6074667425936122,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5504",
+      "score": 1.4465411999817688,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5503",
+      "score": 1.4465296125114686,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5505",
+      "score": 1.4464998309339994,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5502",
+      "score": 1.446482385456674,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5506",
+      "score": 1.4462231857642862,
+      "relevance": 1
+    }
+  ],
+  "example_156": [
+    {
+      "doc_id": "DOC5602",
+      "score": 1.4465601758754452,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5603",
+      "score": 1.44652032252037,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5605",
+      "score": 1.4464521316294152,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5601",
+      "score": 1.4464269671744656,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5604",
+      "score": 1.446265541363655,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5606",
+      "score": 1.443891057704201,
+      "relevance": 1
+    }
+  ],
+  "example_157": [
+    {
+      "doc_id": "DOC5701",
+      "score": 1.4466380533771381,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5704",
+      "score": 1.4465299362297528,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5706",
+      "score": 1.446513422154098,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5703",
+      "score": 1.4464976899731938,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5702",
+      "score": 1.4464957915748284,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5705",
+      "score": 1.4463253239966554,
+      "relevance": 1
+    }
+  ],
+  "example_58": [
+    {
+      "doc_id": "DOC5803",
+      "score": 1.4465635985605356,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5804",
+      "score": 1.4465260199830534,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5802",
+      "score": 1.4465249099870832,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5801",
+      "score": 1.4465102858772938,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5805",
+      "score": 1.4464816790215616,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5806",
+      "score": 1.446479793479524,
+      "relevance": 1
+    }
+  ],
+  "example_59": [
+    {
+      "doc_id": "DOC5905",
+      "score": 1.4465151175987976,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5904",
+      "score": 1.446503104224798,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5903",
+      "score": 1.4463184502870563,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5902",
+      "score": 1.4460984458647408,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC5906",
+      "score": 1.4406793897578927,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC5901",
+      "score": 1.4296146085652237,
+      "relevance": 0
+    }
+  ],
+  "example_60": [
+    {
+      "doc_id": "DOC6006",
+      "score": 1.446609493858369,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6002",
+      "score": 1.4466051741973573,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6003",
+      "score": 1.4465088929941954,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6005",
+      "score": 1.4464864260688928,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6004",
+      "score": 1.4463819312972732,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6001",
+      "score": 1.3655396144374832,
+      "relevance": 0
+    }
+  ],
+  "example_61": [
+    {
+      "doc_id": "DOC6101",
+      "score": 1.446559219911643,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6105",
+      "score": 1.446512731033826,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6102",
+      "score": 1.4464311435567399,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6103",
+      "score": 1.4462618807154997,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6104",
+      "score": 1.4462563469580363,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6106",
+      "score": 1.2195672073345782,
+      "relevance": 1
+    }
+  ],
+  "example_62": [
+    {
+      "doc_id": "DOC6202",
+      "score": 1.4469400036237303,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6206",
+      "score": 1.4464706237897955,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6201",
+      "score": 1.4460782287451166,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6203",
+      "score": 1.440899304388335,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6205",
+      "score": 1.219626638983419,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6204",
+      "score": 1.2185756381619677,
+      "relevance": 1
+    }
+  ],
+  "example_63": [
+    {
+      "doc_id": "DOC6301",
+      "score": 1.4465867530752188,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6304",
+      "score": 1.4464880592535683,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6306",
+      "score": 1.4464874387660485,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6305",
+      "score": 1.4464784631712861,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6302",
+      "score": 1.436536639532483,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6303",
+      "score": 1.218657499018898,
+      "relevance": 1
+    }
+  ],
+  "example_64": [
+    {
+      "doc_id": "DOC6406",
+      "score": 1.4465412134893345,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6401",
+      "score": 1.4465314250087213,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6405",
+      "score": 1.4465199368281367,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6403",
+      "score": 1.4465105652792387,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6402",
+      "score": 1.4464866228305875,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6404",
+      "score": 1.3697405663138302,
+      "relevance": 1
+    }
+  ],
+  "example_65": [
+    {
+      "doc_id": "DOC6506",
+      "score": 1.4469490175592494,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6504",
+      "score": 1.4467141168303845,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6505",
+      "score": 1.4465014942096497,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6503",
+      "score": 1.4464998581966007,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6501",
+      "score": 1.4455479928038977,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6502",
+      "score": 1.234310470113503,
+      "relevance": 0
+    }
+  ],
+  "example_66": [
+    {
+      "doc_id": "DOC6605",
+      "score": 1.447134662030987,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6601",
+      "score": 1.4469983734048097,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6606",
+      "score": 1.4465366299502154,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6602",
+      "score": 1.4465034986862935,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6603",
+      "score": 1.4463522363316397,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6604",
+      "score": 1.219484092964901,
+      "relevance": 1
+    }
+  ],
+  "example_67": [
+    {
+      "doc_id": "DOC6702",
+      "score": 1.4472159583503266,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6703",
+      "score": 1.4465389838623128,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6706",
+      "score": 1.4464948581100991,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6704",
+      "score": 1.4461079388098288,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC6701",
+      "score": 1.4452282799065317,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6705",
+      "score": 1.3920374429430558,
+      "relevance": 1
+    }
+  ],
+  "example_71": [
+    {
+      "doc_id": "DOC7104",
+      "score": 1.446556435968928,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7101",
+      "score": 1.446539573300359,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7102",
+      "score": 1.4465184974071468,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7106",
+      "score": 1.4465154134948777,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7103",
+      "score": 1.446497150276445,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7105",
+      "score": 1.4464592827611296,
+      "relevance": 1
+    }
+  ],
+  "example_72": [
+    {
+      "doc_id": "DOC7201",
+      "score": 1.4471132964902296,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7204",
+      "score": 1.4467165549066408,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7206",
+      "score": 1.446523301036013,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7202",
+      "score": 1.4464728107730958,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7205",
+      "score": 1.4464509517999888,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7203",
+      "score": 1.4464367080203528,
+      "relevance": 1
+    }
+  ],
+  "example_73": [
+    {
+      "doc_id": "DOC7306",
+      "score": 1.4465142420504464,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7305",
+      "score": 1.446461765569876,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7302",
+      "score": 1.4464408914747464,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7304",
+      "score": 1.446404954436095,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7301",
+      "score": 1.4463612455246868,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7303",
+      "score": 1.3544555714705893,
+      "relevance": 1
+    }
+  ],
+  "example_74": [
+    {
+      "doc_id": "DOC7401",
+      "score": 1.7369649867118873,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7402",
+      "score": 1.4484987507521623,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7403",
+      "score": 1.4465098928896438,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7404",
+      "score": 1.446485624591028,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7406",
+      "score": 1.446472502266612,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7405",
+      "score": 1.2272552899902296,
+      "relevance": 1
+    }
+  ],
+  "example_75": [
+    {
+      "doc_id": "DOC7502",
+      "score": 1.4470454814802902,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7505",
+      "score": 1.4465207581946273,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7504",
+      "score": 1.4464151086189094,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7503",
+      "score": 1.4461516424055139,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7501",
+      "score": 1.3447067610026209,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7506",
+      "score": 1.2249852693964156,
+      "relevance": 1
+    }
+  ],
+  "example_76": [
+    {
+      "doc_id": "DOC7601",
+      "score": 1.446575802686482,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7602",
+      "score": 1.4465214822766295,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7604",
+      "score": 1.4465009791668397,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7605",
+      "score": 1.4464583678324319,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7603",
+      "score": 1.446455456100304,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7606",
+      "score": 1.446434316381139,
+      "relevance": 1
+    }
+  ],
+  "example_77": [
+    {
+      "doc_id": "DOC7704",
+      "score": 1.4474996111473126,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7702",
+      "score": 1.4467206161015196,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7706",
+      "score": 1.446504137324986,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7701",
+      "score": 1.446434939906748,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7703",
+      "score": 1.3019724381228763,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7705",
+      "score": 1.2664388790718069,
+      "relevance": 1
+    }
+  ],
+  "example_78": [
+    {
+      "doc_id": "DOC7801",
+      "score": 1.4466001152745984,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7805",
+      "score": 1.4465054205535313,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7803",
+      "score": 1.4464470045219888,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7802",
+      "score": 1.4464406867487236,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7804",
+      "score": 1.4462563469580363,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7806",
+      "score": 1.2195672073345782,
+      "relevance": 1
+    }
+  ],
+  "example_79": [
+    {
+      "doc_id": "DOC7906",
+      "score": 1.4465261071134643,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7903",
+      "score": 1.4465157953906362,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7901",
+      "score": 1.4464987489945282,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC7905",
+      "score": 1.4464909737475726,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7904",
+      "score": 1.4464843755884302,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC7902",
+      "score": 1.446334671331725,
+      "relevance": 0
+    }
+  ],
+  "example_80": [
+    {
+      "doc_id": "DOC8006",
+      "score": 1.4464972284817148,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8004",
+      "score": 1.4464943333937257,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8001",
+      "score": 1.446483189194062,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC8003",
+      "score": 1.4464756037701123,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8002",
+      "score": 1.4464726772186776,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC8005",
+      "score": 1.2460455061265239,
+      "relevance": 1
+    }
+  ],
+  "example_81": [
+    {
+      "doc_id": "DOC8101",
+      "score": 1.4465662165038105,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC8104",
+      "score": 1.4465209333996611,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8106",
+      "score": 1.4465179173732943,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8102",
+      "score": 1.4464992637273562,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC8105",
+      "score": 1.4464947798798724,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8103",
+      "score": 1.446473001358386,
+      "relevance": 1
+    }
+  ],
+  "example_82": [
+    {
+      "doc_id": "DOC8203",
+      "score": 1.4465190807009378,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8201",
+      "score": 1.4463851127052387,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC8206",
+      "score": 1.446225872684988,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8204",
+      "score": 1.4460315506660009,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8205",
+      "score": 1.4460144445571128,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8202",
+      "score": 1.2187477867738374,
+      "relevance": 0
+    }
+  ],
+  "example_83": [
+    {
+      "doc_id": "DOC8304",
+      "score": 1.4465496058495995,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8305",
+      "score": 1.4465174074462326,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8306",
+      "score": 1.4465075941672094,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8301",
+      "score": 1.4464789581073303,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC8303",
+      "score": 1.4464585232754028,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8302",
+      "score": 1.2516935300217882,
+      "relevance": 0
+    }
+  ],
+  "example_84": [
+    {
+      "doc_id": "DOC8403",
+      "score": 1.7540764228423362,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8401",
+      "score": 1.4465012871124974,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC8405",
+      "score": 1.4464948995896045,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8402",
+      "score": 1.4464390324637704,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC8404",
+      "score": 1.4463285797164622,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8406",
+      "score": 1.4149141613819363,
+      "relevance": 1
+    }
+  ],
+  "example_85": [
+    {
+      "doc_id": "DOC8502",
+      "score": 1.4465151663475138,
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC8505",
+      "score": 1.4465087275519561,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8503",
+      "score": 1.4464945697997122,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8506",
+      "score": 1.4464696325675503,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8504",
+      "score": 1.4462704006981402,
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC8501",
+      "score": 1.2182153178282755,
+      "relevance": 0
+    }
+  ]
+}

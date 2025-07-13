@@ -1,0 +1,504 @@
+ {
+      "id": "1",
+      "query": "Find research on breast cancer treatments excluding hormone therapy or tamoxifen.",
+      "documents": [
+        {
+          "doc_id": "DOC001",
+          "text": "Immunotherapy combining PD-1 inhibitors shows 55% response rate in triple-negative breast cancer without hormonal treatments.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC002",
+          "text": "Targeted radiation reduces HER2+ breast cancer tumors by 70%, avoiding endocrine therapies.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC003",
+          "text": "Breast cancer study: Tamoxifen reduces recurrence by 40% in ER+ patients (10-year trial).",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC004",
+          "text": "Advanced breast cancer patients benefit from fulvestrant (hormone therapy) with 8-month survival extension.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC005",
+          "text": "Meta-analysis confirms hormone therapy (aromatase inhibitors) is superior to tamoxifen for breast cancer.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC006",
+          "text": "Breast cancer treatment guidelines recommend hormone therapy + CDK4/6 inhibitors as first-line.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "query": "Non-insulin treatments for Type 2 diabetes excluding GLP-1 agonists.",
+      "documents": [
+        {
+          "doc_id": "DOC007",
+          "text": "SGLT2 inhibitors reduce HbA1c by 1.5% in Type 2 diabetes, avoiding insulin or GLP-1 drugs.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC008",
+          "text": "Metformin improves glycemic control in Type 2 diabetes without injectable therapies.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC009",
+          "text": "Type 2 diabetes management: GLP-1 agonists (e.g., semaglutide) show superior weight loss.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC010",
+          "text": "Insulin pumps optimize control in refractory Type 2 diabetes cases.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC011",
+          "text": "Type 2 diabetes study: GLP-1 + basal insulin reduces hypoglycemia risks.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC012",
+          "text": "New ultra-long-acting insulin analogs benefit Type 2 diabetes patients with 24-hour coverage.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "query": "Alternative depression treatments excluding SSRIs or SNRIs.",
+      "documents": [
+        {
+          "doc_id": "DOC013",
+          "text": "TMS therapy achieves 50% remission in depression patients unresponsive to SSRIs.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC014",
+          "text": "Ketamine infusions relieve depression symptoms without serotonin modulation.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC015",
+          "text": "Depression treatment: Escitalopram (SSRI) is FDA-approved for major depressive disorder.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC016",
+          "text": "SNRIs like duloxetine are first-line for depression with chronic pain.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC017",
+          "text": "Depression study: SSRIs combined with CBT show better outcomes than monotherapy.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC018",
+          "text": "New SSRI variant reduces depression symptoms with fewer side effects.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "query": "Heart failure treatments excluding beta-blockers or ACE inhibitors.",
+      "documents": [
+        {
+          "doc_id": "DOC019",
+          "text": "Sacubitril-valsartan reduces heart failure hospitalizations by 30% without beta-blockers.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC020",
+          "text": "Ivabradine improves outcomes in heart failure patients intolerant to ACE inhibitors.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC021",
+          "text": "Heart failure guidelines: Beta-blockers (e.g., carvedilol) reduce mortality by 35%.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC022",
+          "text": "ACE inhibitors remain gold standard for systolic heart failure.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC023",
+          "text": "Heart failure meta-analysis: Beta-blockers + ACE inhibitors synergize for survival.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC024",
+          "text": "New ACE inhibitor variant reduces heart failure progression in elderly patients.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "query": "Lung cancer therapies excluding immunotherapy or platinum-based chemotherapy.",
+      "documents": [
+        {
+          "doc_id": "DOC025",
+          "text": "ROS1-targeted therapy (e.g., entrectinib) improves survival in non-immunotherapy lung cancer cases.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC026",
+          "text": "EGFR inhibitors show 70% response rate in lung adenocarcinoma without chemotherapy.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC027",
+          "text": "Lung cancer trial: Pembrolizumab (immunotherapy) extends PFS by 8 months vs. placebo.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC028",
+          "text": "Platinum-based chemo (cisplatin/carboplatin) is backbone of lung cancer treatment.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC029",
+          "text": "Lung cancer study: Immunotherapy + chemo improves survival in PD-L1-negative patients.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC030",
+          "text": "New platinum-derivative reduces lung cancer tumor size by 50% in phase III trials.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "query": "Alzheimer's treatments excluding AChE inhibitors or memantine.",
+      "documents": [
+        {
+          "doc_id": "DOC031",
+          "text": "Anti-amyloid monoclonal antibodies slow Alzheimer's progression without AChE inhibitors.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC032",
+          "text": "Lifestyle interventions (diet/exercise) reduce Alzheimer's risk by 40%, avoiding pharmaceuticals.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC033",
+          "text": "Alzheimer's management: Donepezil (AChE inhibitor) improves cognition in 60% of patients.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC034",
+          "text": "Memantine stabilizes Alzheimer's symptoms for 12+ months in moderate-severe cases.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC035",
+          "text": "Alzheimer's trial: AChE inhibitors + memantine outperform placebo in 24-month study.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC036",
+          "text": "New AChE inhibitor variant reduces Alzheimer's progression with fewer side effects.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "query": "Migraine prophylaxis treatments excluding beta-blockers or topiramate.",
+      "documents": [
+        {
+          "doc_id": "DOC037",
+          "text": "CGRP monoclonal antibodies prevent migraines in 50% of patients without beta-blockers.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC038",
+          "text": "Botulinum toxin reduces chronic migraine frequency by 30%, avoiding topiramate.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC039",
+          "text": "Migraine prophylaxis: Propranolol (beta-blocker) reduces attacks by 45% in trials.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC040",
+          "text": "Topiramate is FDA-approved for migraine prevention with 50% responder rate.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC041",
+          "text": "Migraine study: Beta-blockers + topiramate synergize for refractory cases.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC042",
+          "text": "New beta-blocker formulation reduces migraines with fewer cognitive side effects.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "query": "Rheumatoid arthritis treatments excluding methotrexate or biologics.",
+      "documents": [
+        {
+          "doc_id": "DOC043",
+          "text": "JAK inhibitors (e.g., tofacitinib) control RA symptoms without methotrexate or biologics.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC044",
+          "text": "Low-dose prednisone bridges RA flares when methotrexate/biologics are contraindicated.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC045",
+          "text": "RA treatment: Methotrexate remains first-line therapy with 60% efficacy.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC046",
+          "text": "Biologics (TNF-alpha inhibitors) halt RA progression in 70% of patients.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC047",
+          "text": "RA trial: Methotrexate + biologics achieves remission in 80% of cases.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC048",
+          "text": "New biologic agent targets IL-6 for RA with fewer infections than TNF inhibitors.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "query": "Hypertension management excluding diuretics or calcium channel blockers.",
+      "documents": [
+        {
+          "doc_id": "DOC049",
+          "text": "ARNIs (e.g., sacubitril/valsartan) lower blood pressure without diuretics or CCBs.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC050",
+          "text": "Renal denervation reduces resistant hypertension by 15 mmHg, avoiding pharmacotherapy.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC051",
+          "text": "Hypertension guidelines: Thiazide diuretics are first-line for most patients.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC052",
+          "text": "Calcium channel blockers (amlodipine) control hypertension in 80% of cases.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC053",
+          "text": "Hypertension study: Diuretics + CCBs reduce stroke risk by 30%.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC054",
+          "text": "New CCB variant reduces edema side effects in hypertension patients.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "query": "Psoriasis treatments excluding corticosteroids or biologics.",
+      "documents": [
+        {
+          "doc_id": "DOC055",
+          "text": "Phototherapy (UVB) clears psoriasis plaques in 70% of patients without steroids or biologics.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC056",
+          "text": "Topical vitamin D analogs improve mild psoriasis without systemic treatments.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC057",
+          "text": "Psoriasis management: High-potency corticosteroids resolve flares in 7 days.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC058",
+          "text": "Biologics (IL-17 inhibitors) achieve PASI 90 in 60% of psoriasis cases.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC059",
+          "text": "Psoriasis trial: Corticosteroids + biologics synergize for rapid plaque clearance.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC060",
+          "text": "New biologic targeting IL-23 shows durable psoriasis remission.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "query": "Osteoporosis therapies excluding bisphosphonates or denosumab.",
+      "documents": [
+        {
+          "doc_id": "DOC061",
+          "text": "Romosozumab increases bone density by 15% without bisphosphonates or denosumab.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC062",
+          "text": "Teriparatide reduces vertebral fractures in high-risk osteoporosis, avoiding antiresorptives.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC063",
+          "text": "Osteoporosis treatment: Bisphosphonates (alendronate) reduce fractures by 50%.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC064",
+          "text": "Denosumab injections increase BMD better than oral bisphosphonates.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC065",
+          "text": "Osteoporosis study: Bisphosphonates + denosumab reduce non-vertebral fractures.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC066",
+          "text": "New bisphosphonate formulation requires only yearly dosing for osteoporosis.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "query": "Asthma controllers excluding inhaled corticosteroids or LABAs.",
+      "documents": [
+        {
+          "doc_id": "DOC067",
+          "text": "Leukotriene modifiers (montelukast) control asthma without ICS or LABAs.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC068",
+          "text": "Biologics (anti-IgE) reduce exacerbations in severe asthma, avoiding inhalers.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC069",
+          "text": "Asthma guidelines: Inhaled corticosteroids are first-line for persistent asthma.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC070",
+          "text": "LABAs (salmeterol) improve symptom control when added to ICS.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC071",
+          "text": "Asthma trial: ICS + LABA reduces exacerbations by 60% vs. placebo.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC072",
+          "text": "New LABA/ICS combo inhaler improves asthma adherence.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "query": "ADHD treatments excluding stimulants or atomoxetine.",
+      "documents": [
+        {
+          "doc_id": "DOC073",
+          "text": "Guanfacine ER improves ADHD focus without stimulants or norepinephrine modulators.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC074",
+          "text": "Behavioral therapy reduces ADHD symptoms by 40% in non-pharmacological trials.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC075",
+          "text": "ADHD management: Methylphenidate (stimulant) is first-line for school-age children.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC076",
+          "text": "Atomoxetine benefits ADHD patients with anxiety comorbidity.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC077",
+          "text": "ADHD study: Stimulants + atomoxetine improve executive function.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC078",
+          "text": "New stimulant formulation reduces ADHD rebound symptoms.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "query": "Chronic pain therapies excluding opioids or NSAIDs.",
+      "documents": [
+        {
+          "doc_id": "DOC079",
+          "text": "Cannabinoids reduce neuropathic pain by 30% without opioids or NSAIDs.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC080",
+          "text": "TENS units improve chronic back pain in 50% of patients, avoiding medications.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC081",
+          "text": "Chronic pain guidelines: Opioids (oxycodone) remain for refractory cases.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC082",
+          "text": "NSAIDs (ibuprofen) are first-line for inflammatory pain management.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC083",
+          "text": "Chronic pain trial: Opioids + NSAIDs provide superior analgesia.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC084",
+          "text": "New opioid formulation reduces abuse potential for chronic pain.",
+          "relevance": 1
+        }
+      ]
+    },

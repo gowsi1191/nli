@@ -1,0 +1,1402 @@
+  [{
+    "query_id": "MIS001",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Hydrochlorothiazide not affect thyroid function?",
+    "documents": [
+      {"doc_id": "EX001_1", "text": "Some online forums suggest Hydrochlorothiazide has no impact on thyroid function.", "relevance": 1},
+      {"doc_id": "EX001_2", "text": "Anecdotal reports indicate that Hydrochlorothiazide is safe for thyroid patients.", "relevance": 1},
+      {"doc_id": "EX001_3", "text": "Studies have shown minimal changes in thyroid hormone levels with Hydrochlorothiazide use.", "relevance": 2},
+      {"doc_id": "EX001_4", "text": "Research indicates that Hydrochlorothiazide can cause slight alterations in thyroid function tests.", "relevance": 3},
+      {"doc_id": "EX001_5", "text": "Clinical trials have observed minor thyroid function changes in some patients taking Hydrochlorothiazide.", "relevance": 3},
+      {"doc_id": "EX001_6", "text": "Systematic reviews suggest Hydrochlorothiazide may affect thyroid function in a subset of patients.", "relevance": 4},
+      {"doc_id": "EX001_7", "text": "Comprehensive studies confirm that Hydrochlorothiazide can significantly alter thyroid function in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS002",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Amiodarone does not cause QT prolongation?",
+    "documents": [
+      {"doc_id": "EX002_1", "text": "Some patients report no issues with QT prolongation while taking Amiodarone.", "relevance": 1},
+      {"doc_id": "EX002_2", "text": "Anecdotal evidence suggests Amiodarone is safe regarding QT prolongation.", "relevance": 1},
+      {"doc_id": "EX002_3", "text": "Studies indicate that Amiodarone can cause QT prolongation in some cases.", "relevance": 2},
+      {"doc_id": "EX002_4", "text": "Research shows that Amiodarone is associated with QT prolongation.", "relevance": 2},
+      {"doc_id": "EX002_5", "text": "Clinical trials have documented cases of QT prolongation with Amiodarone use.", "relevance": 3},
+      {"doc_id": "EX002_6", "text": "Systematic reviews confirm that Amiodarone can cause significant QT prolongation.", "relevance": 4},
+      {"doc_id": "EX002_7", "text": "Comprehensive studies show that Amiodarone is a well-known cause of QT prolongation.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS003",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Warfarin not lead to cognitive decline?",
+    "documents": [
+      {"doc_id": "EX003_1", "text": "Some users on forums claim Warfarin does not affect cognitive function.", "relevance": 1},
+      {"doc_id": "EX003_2", "text": "Anecdotal reports suggest Warfarin is safe for cognitive health.", "relevance": 1},
+      {"doc_id": "EX003_3", "text": "Studies have shown mixed results regarding Warfarin and cognitive decline.", "relevance": 2},
+      {"doc_id": "EX003_4", "text": "Research indicates that Warfarin may contribute to cognitive decline in some patients.", "relevance": 3},
+      {"doc_id": "EX003_5", "text": "Clinical trials suggest a potential link between Warfarin use and cognitive decline.", "relevance": 4},
+      {"doc_id": "EX003_6", "text": "Systematic reviews indicate that Warfarin can be associated with cognitive decline.", "relevance": 4},
+      {"doc_id": "EX003_7", "text": "Comprehensive studies confirm that Warfarin use can lead to cognitive decline in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS004",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Olanzapine does not cause liver enzyme elevation?",
+    "documents": [
+      {"doc_id": "EX004_1", "text": "Some patients report no liver issues while taking Olanzapine.", "relevance": 1},
+      {"doc_id": "EX004_2", "text": "Studies suggest Olanzapine may cause slight liver enzyme elevation.", "relevance": 2},
+      {"doc_id": "EX004_3", "text": "Research indicates that Olanzapine can lead to liver enzyme elevation in some cases.", "relevance": 2},
+      {"doc_id": "EX004_4", "text": "Clinical trials have observed liver enzyme elevation in patients taking Olanzapine.", "relevance": 3},
+      {"doc_id": "EX004_5", "text": "Systematic reviews suggest Olanzapine is associated with liver enzyme elevation.", "relevance": 3},
+      {"doc_id": "EX004_6", "text": "Comprehensive studies confirm that Olanzapine can cause significant liver enzyme elevation.", "relevance": 4},
+      {"doc_id": "EX004_7", "text": "Extensive research shows that Olanzapine is a known cause of liver enzyme elevation.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS005",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Gabapentin not affect electrolyte imbalance?",
+    "documents": [
+      {"doc_id": "EX005_1", "text": "Some online forums suggest Gabapentin does not cause electrolyte imbalance.", "relevance": 1},
+      {"doc_id": "EX005_2", "text": "Anecdotal reports indicate Gabapentin is safe regarding electrolyte levels.", "relevance": 2},
+      {"doc_id": "EX005_3", "text": "Studies have shown minimal electrolyte changes with Gabapentin use.", "relevance": 2},
+      {"doc_id": "EX005_4", "text": "Research indicates that Gabapentin can cause slight electrolyte imbalances.", "relevance": 3},
+      {"doc_id": "EX005_5", "text": "Clinical trials have observed electrolyte imbalances in some patients taking Gabapentin.", "relevance": 4},
+      {"doc_id": "EX005_6", "text": "Systematic reviews suggest Gabapentin may affect electrolyte balance in certain individuals.", "relevance": 4},
+      {"doc_id": "EX005_7", "text": "Comprehensive studies confirm that Gabapentin can significantly alter electrolyte balance.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS006",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Tramadol does not lower seizure threshold?",
+    "documents": [
+      {"doc_id": "EX006_1", "text": "Some patients report no seizure issues while taking Tramadol.", "relevance": 1},
+      {"doc_id": "EX006_2", "text": "Anecdotal evidence suggests Tramadol is safe regarding seizure threshold.", "relevance": 2},
+      {"doc_id": "EX006_3", "text": "Studies indicate that Tramadol can lower seizure threshold in some cases.", "relevance": 3},
+      {"doc_id": "EX006_4", "text": "Research shows that Tramadol is associated with lowered seizure threshold.", "relevance": 3},
+      {"doc_id": "EX006_5", "text": "Clinical trials have documented cases of lowered seizure threshold with Tramadol use.", "relevance": 4},
+      {"doc_id": "EX006_6", "text": "Systematic reviews confirm that Tramadol can lower seizure threshold.", "relevance": 4},
+      {"doc_id": "EX006_7", "text": "Comprehensive studies show that Tramadol is a known cause of lowered seizure threshold.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS007",
+    "query_type": "explicit_NOT",
+    "query_text": "Does ACE inhibitors not disrupt sleep architecture?",
+    "documents": [
+      {"doc_id": "EX007_1", "text": "Some users on forums claim ACE inhibitors do not affect sleep.", "relevance": 1},
+      {"doc_id": "EX007_2", "text": "Anecdotal reports suggest ACE inhibitors are safe for sleep health.", "relevance": 2},
+      {"doc_id": "EX007_3", "text": "Studies have shown mixed results regarding ACE inhibitors and sleep architecture.", "relevance": 2},
+      {"doc_id": "EX007_4", "text": "Research indicates that ACE inhibitors may disrupt sleep architecture in some patients.", "relevance": 3},
+      {"doc_id": "EX007_5", "text": "Clinical trials suggest a potential link between ACE inhibitors use and sleep disruption.", "relevance": 3},
+      {"doc_id": "EX007_6", "text": "Systematic reviews indicate that ACE inhibitors can be associated with sleep architecture disruption.", "relevance": 4},
+      {"doc_id": "EX007_7", "text": "Comprehensive studies confirm that ACE inhibitors use can disrupt sleep architecture in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS008",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Beta-blockers do not reduce cardiac output?",
+    "documents": [
+      {"doc_id": "EX008_1", "text": "Some patients report no issues with cardiac output while taking Beta-blockers.", "relevance": 1},
+      {"doc_id": "EX008_2", "text": "Studies suggest Beta-blockers may cause slight reduction in cardiac output.", "relevance": 2},
+      {"doc_id": "EX008_3", "text": "Research indicates that Beta-blockers can lead to reduced cardiac output in some cases.", "relevance": 2},
+      {"doc_id": "EX008_4", "text": "Clinical trials have observed reduced cardiac output in patients taking Beta-blockers.", "relevance": 3},
+      {"doc_id": "EX008_5", "text": "Systematic reviews suggest Beta-blockers are associated with reduced cardiac output.", "relevance": 4},
+      {"doc_id": "EX008_6", "text": "Comprehensive studies confirm that Beta-blockers can cause significant reduction in cardiac output.", "relevance": 4},
+      {"doc_id": "EX008_7", "text": "Extensive research shows that Beta-blockers are a well-known cause of reduced cardiac output.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS009",
+    "query_type": "explicit_NOT",
+    "query_text": "Does SGLT2 inhibitors not cause pancreatic inflammation?",
+    "documents": [
+      {"doc_id": "EX009_1", "text": "Some online forums suggest SGLT2 inhibitors do not cause pancreatic inflammation.", "relevance": 1},
+      {"doc_id": "EX009_2", "text": "Anecdotal reports indicate SGLT2 inhibitors are safe regarding pancreatic health.", "relevance": 1},
+      {"doc_id": "EX009_3", "text": "Studies have shown minimal pancreatic changes with SGLT2 inhibitors use.", "relevance": 2},
+      {"doc_id": "EX009_4", "text": "Research indicates that SGLT2 inhibitors can cause slight pancreatic inflammation.", "relevance": 3},
+      {"doc_id": "EX009_5", "text": "Clinical trials have observed pancreatic inflammation in some patients taking SGLT2 inhibitors.", "relevance": 3},
+      {"doc_id": "EX009_6", "text": "Systematic reviews suggest SGLT2 inhibitors may affect pancreatic health in certain individuals.", "relevance": 4},
+      {"doc_id": "EX009_7", "text": "Comprehensive studies confirm that SGLT2 inhibitors can significantly cause pancreatic inflammation.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS010",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Infliximab does not cause menstrual irregularities?",
+    "documents": [
+      {"doc_id": "EX010_1", "text": "Some patients report no menstrual issues while taking Infliximab.", "relevance": 1},
+      {"doc_id": "EX010_2", "text": "Anecdotal evidence suggests Infliximab is safe regarding menstrual health.", "relevance": 2},
+      {"doc_id": "EX010_3", "text": "Studies indicate that Infliximab can cause menstrual irregularities in some cases.", "relevance": 3},
+      {"doc_id": "EX010_4", "text": "Research shows that Infliximab is associated with menstrual irregularities.", "relevance": 3},
+      {"doc_id": "EX010_5", "text": "Clinical trials have documented cases of menstrual irregularities with Infliximab use.", "relevance": 4},
+      {"doc_id": "EX010_6", "text": "Systematic reviews confirm that Infliximab can cause menstrual irregularities.", "relevance": 4},
+      {"doc_id": "EX010_7", "text": "Comprehensive studies show that Infliximab is a known cause of menstrual irregularities.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS011",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Azithromycin not affect white blood cell count?",
+    "documents": [
+      {"doc_id": "EX011_1", "text": "Some users on forums claim Azithromycin does not affect white blood cell count.", "relevance": 1},
+      {"doc_id": "EX011_2", "text": "Anecdotal reports suggest Azithromycin is safe for white blood cell levels.", "relevance": 2},
+      {"doc_id": "EX011_3", "text": "Studies have shown mixed results regarding Azithromycin and white blood cell count.", "relevance": 2},
+      {"doc_id": "EX011_4", "text": "Research indicates that Azithromycin may affect white blood cell count in some patients.", "relevance": 3},
+      {"doc_id": "EX011_5", "text": "Clinical trials suggest a potential link between Azithromycin use and changes in white blood cell count.", "relevance": 3},
+      {"doc_id": "EX011_6", "text": "Systematic reviews indicate that Azithromycin can be associated with changes in white blood cell count.", "relevance": 4},
+      {"doc_id": "EX011_7", "text": "Comprehensive studies confirm that Azithromycin use can affect white blood cell count in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS012",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Interferon-alpha does not cause skin photosensitivity?",
+    "documents": [
+      {"doc_id": "EX012_1", "text": "Some patients report no skin issues while taking Interferon-alpha.", "relevance": 1},
+      {"doc_id": "EX012_2", "text": "Studies suggest Interferon-alpha may cause slight skin photosensitivity.", "relevance": 2},
+      {"doc_id": "EX012_3", "text": "Research indicates that Interferon-alpha can lead to skin photosensitivity in some cases.", "relevance": 2},
+      {"doc_id": "EX012_4", "text": "Clinical trials have observed skin photosensitivity in patients taking Interferon-alpha.", "relevance": 3},
+      {"doc_id": "EX012_5", "text": "Systematic reviews suggest Interferon-alpha is associated with skin photosensitivity.", "relevance": 4},
+      {"doc_id": "EX012_6", "text": "Comprehensive studies confirm that Interferon-alpha can cause significant skin photosensitivity.", "relevance": 4},
+      {"doc_id": "EX012_7", "text": "Extensive research shows that Interferon-alpha is a known cause of skin photosensitivity.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS013",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Topiramate not increase serotonin syndrome risk?",
+    "documents": [
+      {"doc_id": "EX013_1", "text": "Some online forums suggest Topiramate does not increase serotonin syndrome risk.", "relevance": 1},
+      {"doc_id": "EX013_2", "text": "Anecdotal reports indicate Topiramate is safe regarding serotonin syndrome.", "relevance": 1},
+      {"doc_id": "EX013_3", "text": "Studies have shown minimal risk of serotonin syndrome with Topiramate use.", "relevance": 2},
+      {"doc_id": "EX013_4", "text": "Research indicates that Topiramate can increase serotonin syndrome risk in some cases.", "relevance": 3},
+      {"doc_id": "EX013_5", "text": "Clinical trials have observed increased serotonin syndrome risk in some patients taking Topiramate.", "relevance": 3},
+      {"doc_id": "EX013_6", "text": "Systematic reviews suggest Topiramate may increase serotonin syndrome risk in certain individuals.", "relevance": 4},
+      {"doc_id": "EX013_7", "text": "Comprehensive studies confirm that Topiramate can significantly increase serotonin syndrome risk.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS014",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Amitriptyline does not cause appetite changes?",
+    "documents": [
+      {"doc_id": "EX014_1", "text": "Some patients report no appetite changes while taking Amitriptyline.", "relevance": 1},
+      {"doc_id": "EX014_2", "text": "Anecdotal evidence suggests Amitriptyline is safe regarding appetite.", "relevance": 2},
+      {"doc_id": "EX014_3", "text": "Studies indicate that Amitriptyline can cause appetite changes in some cases.", "relevance": 3},
+      {"doc_id": "EX014_4", "text": "Research shows that Amitriptyline is associated with appetite changes.", "relevance": 3},
+      {"doc_id": "EX014_5", "text": "Clinical trials have documented cases of appetite changes with Amitriptyline use.", "relevance": 4},
+      {"doc_id": "EX014_6", "text": "Systematic reviews confirm that Amitriptyline can cause appetite changes.", "relevance": 4},
+      {"doc_id": "EX014_7", "text": "Comprehensive studies show that Amitriptyline is a known cause of appetite changes.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS015",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Bupropion not affect gastrointestinal motility?",
+    "documents": [
+      {"doc_id": "EX015_1", "text": "Some users on forums claim Bupropion does not affect gastrointestinal motility.", "relevance": 1},
+      {"doc_id": "EX015_2", "text": "Anecdotal reports suggest Bupropion is safe for gastrointestinal health.", "relevance": 2},
+      {"doc_id": "EX015_3", "text": "Studies have shown mixed results regarding Bupropion and gastrointestinal motility.", "relevance": 2},
+      {"doc_id": "EX015_4", "text": "Research indicates that Bupropion may affect gastrointestinal motility in some patients.", "relevance": 3},
+      {"doc_id": "EX015_5", "text": "Clinical trials suggest a potential link between Bupropion use and changes in gastrointestinal motility.", "relevance": 3},
+      {"doc_id": "EX015_6", "text": "Systematic reviews indicate that Bupropion can be associated with changes in gastrointestinal motility.", "relevance": 4},
+      {"doc_id": "EX015_7", "text": "Comprehensive studies confirm that Bupropion use can affect gastrointestinal motility in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS016",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Methotrexate does not cause bone marrow suppression?",
+    "documents": [
+      {"doc_id": "EX016_1", "text": "Some patients report no bone marrow issues while taking Methotrexate.", "relevance": 1},
+      {"doc_id": "EX016_2", "text": "Studies suggest Methotrexate may cause slight bone marrow suppression.", "relevance": 2},
+      {"doc_id": "EX016_3", "text": "Research indicates that Methotrexate can lead to bone marrow suppression in some cases.", "relevance": 2},
+      {"doc_id": "EX016_4", "text": "Clinical trials have observed bone marrow suppression in patients taking Methotrexate.", "relevance": 3},
+      {"doc_id": "EX016_5", "text": "Systematic reviews suggest Methotrexate is associated with bone marrow suppression.", "relevance": 4},
+      {"doc_id": "EX016_6", "text": "Comprehensive studies confirm that Methotrexate can cause significant bone marrow suppression.", "relevance": 4},
+      {"doc_id": "EX016_7", "text": "Extensive research shows that Methotrexate is a well-known cause of bone marrow suppression.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS017",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Cyclophosphamide not cause renal tubular necrosis?",
+    "documents": [
+      {"doc_id": "EX017_1", "text": "Some online forums suggest Cyclophosphamide does not cause renal tubular necrosis.", "relevance": 1},
+      {"doc_id": "EX017_2", "text": "Anecdotal reports indicate Cyclophosphamide is safe regarding renal health.", "relevance": 1},
+      {"doc_id": "EX017_3", "text": "Studies have shown minimal renal changes with Cyclophosphamide use.", "relevance": 2},
+      {"doc_id": "EX017_4", "text": "Research indicates that Cyclophosphamide can cause slight renal tubular necrosis.", "relevance": 3},
+      {"doc_id": "EX017_5", "text": "Clinical trials have observed renal tubular necrosis in some patients taking Cyclophosphamide.", "relevance": 3},
+      {"doc_id": "EX017_6", "text": "Systematic reviews suggest Cyclophosphamide may affect renal health in certain individuals.", "relevance": 4},
+      {"doc_id": "EX017_7", "text": "Comprehensive studies confirm that Cyclophosphamide can significantly cause renal tubular necrosis.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS018",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Levothyroxine does not cause visual field changes?",
+    "documents": [
+      {"doc_id": "EX018_1", "text": "Some patients report no visual issues while taking Levothyroxine.", "relevance": 1},
+      {"doc_id": "EX018_2", "text": "Anecdotal evidence suggests Levothyroxine is safe regarding visual health.", "relevance": 2},
+      {"doc_id": "EX018_3", "text": "Studies indicate that Levothyroxine can cause visual field changes in some cases.", "relevance": 3},
+      {"doc_id": "EX018_4", "text": "Research shows that Levothyroxine is associated with visual field changes.", "relevance": 3},
+      {"doc_id": "EX018_5", "text": "Clinical trials have documented cases of visual field changes with Levothyroxine use.", "relevance": 4},
+      {"doc_id": "EX018_6", "text": "Systematic reviews confirm that Levothyroxine can cause visual field changes.", "relevance": 4},
+      {"doc_id": "EX018_7", "text": "Comprehensive studies show that Levothyroxine is a known cause of visual field changes.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS019",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Prednisone not cause pulmonary fibrosis?",
+    "documents": [
+      {"doc_id": "EX019_1", "text": "Some users on forums claim Prednisone does not cause pulmonary fibrosis.", "relevance": 1},
+      {"doc_id": "EX019_2", "text": "Anecdotal reports suggest Prednisone is safe for pulmonary health.", "relevance": 2},
+      {"doc_id": "EX019_3", "text": "Studies have shown mixed results regarding Prednisone and pulmonary fibrosis.", "relevance": 2},
+      {"doc_id": "EX019_4", "text": "Research indicates that Prednisone may cause pulmonary fibrosis in some patients.", "relevance": 3},
+      {"doc_id": "EX019_5", "text": "Clinical trials suggest a potential link between Prednisone use and pulmonary fibrosis.", "relevance": 3},
+      {"doc_id": "EX019_6", "text": "Systematic reviews indicate that Prednisone can be associated with pulmonary fibrosis.", "relevance": 4},
+      {"doc_id": "EX019_7", "text": "Comprehensive studies confirm that Prednisone use can cause pulmonary fibrosis in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS020",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Clopidogrel does not cause dermatitis?",
+    "documents": [
+      {"doc_id": "EX020_1", "text": "Some patients report no skin issues while taking Clopidogrel.", "relevance": 1},
+      {"doc_id": "EX020_2", "text": "Studies suggest Clopidogrel may cause slight dermatitis.", "relevance": 2},
+      {"doc_id": "EX020_3", "text": "Research indicates that Clopidogrel can lead to dermatitis in some cases.", "relevance": 2},
+      {"doc_id": "EX020_4", "text": "Clinical trials have observed dermatitis in patients taking Clopidogrel.", "relevance": 3},
+      {"doc_id": "EX020_5", "text": "Systematic reviews suggest Clopidogrel is associated with dermatitis.", "relevance": 4},
+      {"doc_id": "EX020_6", "text": "Comprehensive studies confirm that Clopidogrel can cause significant dermatitis.", "relevance": 4},
+      {"doc_id": "EX020_7", "text": "Extensive research shows that Clopidogrel is a known cause of dermatitis.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS021",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Esomeprazole not cause arrhythmia?",
+    "documents": [
+      {"doc_id": "EX021_1", "text": "Some online forums suggest Esomeprazole does not cause arrhythmia.", "relevance": 1},
+      {"doc_id": "EX021_2", "text": "Anecdotal reports indicate Esomeprazole is safe regarding heart rhythm.", "relevance": 1},
+      {"doc_id": "EX021_3", "text": "Studies have shown minimal changes in heart rhythm with Esomeprazole use.", "relevance": 2},
+      {"doc_id": "EX021_4", "text": "Research indicates that Esomeprazole can cause slight arrhythmia in some cases.", "relevance": 3},
+      {"doc_id": "EX021_5", "text": "Clinical trials have observed arrhythmia in some patients taking Esomeprazole.", "relevance": 3},
+      {"doc_id": "EX021_6", "text": "Systematic reviews suggest Esomeprazole may affect heart rhythm in certain individuals.", "relevance": 4},
+      {"doc_id": "EX021_7", "text": "Comprehensive studies confirm that Esomeprazole can significantly cause arrhythmia.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS022",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Olmesartan does not cause blood glucose variability?",
+    "documents": [
+      {"doc_id": "EX022_1", "text": "Some patients report no blood glucose issues while taking Olmesartan.", "relevance": 1},
+      {"doc_id": "EX022_2", "text": "Anecdotal evidence suggests Olmesartan is safe regarding blood glucose levels.", "relevance": 2},
+      {"doc_id": "EX022_3", "text": "Studies indicate that Olmesartan can cause blood glucose variability in some cases.", "relevance": 3},
+      {"doc_id": "EX022_4", "text": "Research shows that Olmesartan is associated with blood glucose variability.", "relevance": 3},
+      {"doc_id": "EX022_5", "text": "Clinical trials have documented cases of blood glucose variability with Olmesartan use.", "relevance": 4},
+      {"doc_id": "EX022_6", "text": "Systematic reviews confirm that Olmesartan can cause blood glucose variability.", "relevance": 4},
+      {"doc_id": "EX022_7", "text": "Comprehensive studies show that Olmesartan is a known cause of blood glucose variability.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS023",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Lithium carbonate not cause peripheral neuropathy?",
+    "documents": [
+      {"doc_id": "EX023_1", "text": "Some users on forums claim Lithium carbonate does not cause peripheral neuropathy.", "relevance": 1},
+      {"doc_id": "EX023_2", "text": "Anecdotal reports suggest Lithium carbonate is safe for nerve health.", "relevance": 2},
+      {"doc_id": "EX023_3", "text": "Studies have shown mixed results regarding Lithium carbonate and peripheral neuropathy.", "relevance": 2},
+      {"doc_id": "EX023_4", "text": "Research indicates that Lithium carbonate may cause peripheral neuropathy in some patients.", "relevance": 3},
+      {"doc_id": "EX023_5", "text": "Clinical trials suggest a potential link between Lithium carbonate use and peripheral neuropathy.", "relevance": 3},
+      {"doc_id": "EX023_6", "text": "Systematic reviews indicate that Lithium carbonate can be associated with peripheral neuropathy.", "relevance": 4},
+      {"doc_id": "EX023_7", "text": "Comprehensive studies confirm that Lithium carbonate use can cause peripheral neuropathy in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS024",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Rivaroxaban does not cause hypokalemia?",
+    "documents": [
+      {"doc_id": "EX024_1", "text": "Some patients report no potassium issues while taking Rivaroxaban.", "relevance": 1},
+      {"doc_id": "EX024_2", "text": "Studies suggest Rivaroxaban may cause slight hypokalemia.", "relevance": 2},
+      {"doc_id": "EX024_3", "text": "Research indicates that Rivaroxaban can lead to hypokalemia in some cases.", "relevance": 2},
+      {"doc_id": "EX024_4", "text": "Clinical trials have observed hypokalemia in patients taking Rivaroxaban.", "relevance": 3},
+      {"doc_id": "EX024_5", "text": "Systematic reviews suggest Rivaroxaban is associated with hypokalemia.", "relevance": 4},
+      {"doc_id": "EX024_6", "text": "Comprehensive studies confirm that Rivaroxaban can cause significant hypokalemia.", "relevance": 4},
+      {"doc_id": "EX024_7", "text": "Extensive research shows that Rivaroxaban is a known cause of hypokalemia.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS025",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Tacrolimus not cause hypernatremia?",
+    "documents": [
+      {"doc_id": "EX025_1", "text": "Some online forums suggest Tacrolimus does not cause hypernatremia.", "relevance": 1},
+      {"doc_id": "EX025_2", "text": "Anecdotal reports indicate Tacrolimus is safe regarding sodium levels.", "relevance": 1},
+      {"doc_id": "EX025_3", "text": "Studies have shown minimal changes in sodium levels with Tacrolimus use.", "relevance": 2},
+      {"doc_id": "EX025_4", "text": "Research indicates that Tacrolimus can cause slight hypernatremia in some cases.", "relevance": 3},
+      {"doc_id": "EX025_5", "text": "Clinical trials have observed hypernatremia in some patients taking Tacrolimus.", "relevance": 3},
+      {"doc_id": "EX025_6", "text": "Systematic reviews suggest Tacrolimus may affect sodium levels in certain individuals.", "relevance": 4},
+      {"doc_id": "EX025_7", "text": "Comprehensive studies confirm that Tacrolimus can significantly cause hypernatremia.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS026",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that OnabotulinumtoxinA does not increase hypoglycemia risk?",
+    "documents": [
+      {"doc_id": "EX026_1", "text": "Some patients report no blood sugar issues while taking OnabotulinumtoxinA.", "relevance": 1},
+      {"doc_id": "EX026_2", "text": "Anecdotal evidence suggests OnabotulinumtoxinA is safe regarding blood sugar levels.", "relevance": 2},
+      {"doc_id": "EX026_3", "text": "Studies indicate that OnabotulinumtoxinA can increase hypoglycemia risk in some cases.", "relevance": 3},
+      {"doc_id": "EX026_4", "text": "Research shows that OnabotulinumtoxinA is associated with increased hypoglycemia risk.", "relevance": 3},
+      {"doc_id": "EX026_5", "text": "Clinical trials have documented cases of increased hypoglycemia risk with OnabotulinumtoxinA use.", "relevance": 4},
+      {"doc_id": "EX026_6", "text": "Systematic reviews confirm that OnabotulinumtoxinA can increase hypoglycemia risk.", "relevance": 4},
+      {"doc_id": "EX026_7", "text": "Comprehensive studies show that OnabotulinumtoxinA is a known cause of increased hypoglycemia risk.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS027",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Pembrolizumab not cause photosensitivity reactions?",
+    "documents": [
+      {"doc_id": "EX027_1", "text": "Some users on forums claim Pembrolizumab does not cause photosensitivity reactions.", "relevance": 1},
+      {"doc_id": "EX027_2", "text": "Anecdotal reports suggest Pembrolizumab is safe regarding skin sensitivity to light.", "relevance": 2},
+      {"doc_id": "EX027_3", "text": "Studies have shown mixed results regarding Pembrolizumab and photosensitivity reactions.", "relevance": 2},
+      {"doc_id": "EX027_4", "text": "Research indicates that Pembrolizumab may cause photosensitivity reactions in some patients.", "relevance": 3},
+      {"doc_id": "EX027_5", "text": "Clinical trials suggest a potential link between Pembrolizumab use and photosensitivity reactions.", "relevance": 3},
+      {"doc_id": "EX027_6", "text": "Systematic reviews indicate that Pembrolizumab can be associated with photosensitivity reactions.", "relevance": 4},
+      {"doc_id": "EX027_7", "text": "Comprehensive studies confirm that Pembrolizumab use can cause photosensitivity reactions in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS028",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Zoledronic acid does not affect neurocognitive function?",
+    "documents": [
+      {"doc_id": "EX028_1", "text": "Some patients report no cognitive issues while taking Zoledronic acid.", "relevance": 1},
+      {"doc_id": "EX028_2", "text": "Studies suggest Zoledronic acid may cause slight changes in neurocognitive function.", "relevance": 2},
+      {"doc_id": "EX028_3", "text": "Research indicates that Zoledronic acid can lead to changes in neurocognitive function in some cases.", "relevance": 2},
+      {"doc_id": "EX028_4", "text": "Clinical trials have observed changes in neurocognitive function in patients taking Zoledronic acid.", "relevance": 3},
+      {"doc_id": "EX028_5", "text": "Systematic reviews suggest Zoledronic acid is associated with changes in neurocognitive function.", "relevance": 4},
+      {"doc_id": "EX028_6", "text": "Comprehensive studies confirm that Zoledronic acid can cause significant changes in neurocognitive function.", "relevance": 4},
+      {"doc_id": "EX028_7", "text": "Extensive research shows that Zoledronic acid is a known cause of changes in neurocognitive function.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS029",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Dexamethasone not cause hormonal axis disruption?",
+    "documents": [
+      {"doc_id": "EX029_1", "text": "Some online forums suggest Dexamethasone does not cause hormonal axis disruption.", "relevance": 1},
+      {"doc_id": "EX029_2", "text": "Anecdotal reports indicate Dexamethasone is safe regarding hormonal balance.", "relevance": 1},
+      {"doc_id": "EX029_3", "text": "Studies have shown minimal changes in hormonal axis with Dexamethasone use.", "relevance": 2},
+      {"doc_id": "EX029_4", "text": "Research indicates that Dexamethasone can cause slight hormonal axis disruption in some cases.", "relevance": 3},
+      {"doc_id": "EX029_5", "text": "Clinical trials have observed hormonal axis disruption in some patients taking Dexamethasone.", "relevance": 3},
+      {"doc_id": "EX029_6", "text": "Systematic reviews suggest Dexamethasone may affect hormonal balance in certain individuals.", "relevance": 4},
+      {"doc_id": "EX029_7", "text": "Comprehensive studies confirm that Dexamethasone can significantly cause hormonal axis disruption.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS030",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Selegiline does not cause gastroesophageal reflux?",
+    "documents": [
+      {"doc_id": "EX030_1", "text": "Some patients report no reflux issues while taking Selegiline.", "relevance": 1},
+      {"doc_id": "EX030_2", "text": "Anecdotal evidence suggests Selegiline is safe regarding gastroesophageal reflux.", "relevance": 2},
+      {"doc_id": "EX030_3", "text": "Studies indicate that Selegiline can cause gastroesophageal reflux in some cases.", "relevance": 3},
+      {"doc_id": "EX030_4", "text": "Research shows that Selegiline is associated with gastroesophageal reflux.", "relevance": 3},
+      {"doc_id": "EX030_5", "text": "Clinical trials have documented cases of gastroesophageal reflux with Selegiline use.", "relevance": 4},
+      {"doc_id": "EX030_6", "text": "Systematic reviews confirm that Selegiline can cause gastroesophageal reflux.", "relevance": 4},
+      {"doc_id": "EX030_7", "text": "Comprehensive studies show that Selegiline is a known cause of gastroesophageal reflux.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS031",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Hydrochlorothiazide not cause electrolyte imbalance?",
+    "documents": [
+      {"doc_id": "EX031_1", "text": "Some online forums suggest Hydrochlorothiazide does not cause electrolyte imbalance.", "relevance": 1},
+      {"doc_id": "EX031_2", "text": "Anecdotal reports indicate Hydrochlorothiazide is safe regarding electrolyte levels.", "relevance": 1},
+      {"doc_id": "EX031_3", "text": "Studies have shown minimal changes in electrolyte levels with Hydrochlorothiazide use.", "relevance": 2},
+      {"doc_id": "EX031_4", "text": "Research indicates that Hydrochlorothiazide can cause slight electrolyte imbalances.", "relevance": 3},
+      {"doc_id": "EX031_5", "text": "Clinical trials have observed electrolyte imbalances in some patients taking Hydrochlorothiazide.", "relevance": 3},
+      {"doc_id": "EX031_6", "text": "Systematic reviews suggest Hydrochlorothiazide may affect electrolyte balance in certain individuals.", "relevance": 4},
+      {"doc_id": "EX031_7", "text": "Comprehensive studies confirm that Hydrochlorothiazide can significantly alter electrolyte balance.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS032",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Amiodarone does not cause thyroid dysfunction?",
+    "documents": [
+      {"doc_id": "EX032_1", "text": "Some patients report no thyroid issues while taking Amiodarone.", "relevance": 1},
+      {"doc_id": "EX032_2", "text": "Anecdotal evidence suggests Amiodarone is safe regarding thyroid function.", "relevance": 2},
+      {"doc_id": "EX032_3", "text": "Studies indicate that Amiodarone can cause thyroid dysfunction in some cases.", "relevance": 3},
+      {"doc_id": "EX032_4", "text": "Research shows that Amiodarone is associated with thyroid dysfunction.", "relevance": 3},
+      {"doc_id": "EX032_5", "text": "Clinical trials have documented cases of thyroid dysfunction with Amiodarone use.", "relevance": 4},
+      {"doc_id": "EX032_6", "text": "Systematic reviews confirm that Amiodarone can cause thyroid dysfunction.", "relevance": 4},
+      {"doc_id": "EX032_7", "text": "Comprehensive studies show that Amiodarone is a known cause of thyroid dysfunction.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS033",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Warfarin not lead to osteoporosis?",
+    "documents": [
+      {"doc_id": "EX033_1", "text": "Some users on forums claim Warfarin does not affect bone health.", "relevance": 1},
+      {"doc_id": "EX033_2", "text": "Anecdotal reports suggest Warfarin is safe for bone density.", "relevance": 2},
+      {"doc_id": "EX033_3", "text": "Studies have shown mixed results regarding Warfarin and osteoporosis.", "relevance": 2},
+      {"doc_id": "EX033_4", "text": "Research indicates that Warfarin may contribute to osteoporosis in some patients.", "relevance": 3},
+      {"doc_id": "EX033_5", "text": "Clinical trials suggest a potential link between Warfarin use and osteoporosis.", "relevance": 3},
+      {"doc_id": "EX033_6", "text": "Systematic reviews indicate that Warfarin can be associated with osteoporosis.", "relevance": 4},
+      {"doc_id": "EX033_7", "text": "Comprehensive studies confirm that Warfarin use can lead to osteoporosis in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS034",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Olanzapine does not cause weight gain?",
+    "documents": [
+      {"doc_id": "EX034_1", "text": "Some patients report no weight gain while taking Olanzapine.", "relevance": 1},
+      {"doc_id": "EX034_2", "text": "Studies suggest Olanzapine may cause slight weight gain.", "relevance": 2},
+      {"doc_id": "EX034_3", "text": "Research indicates that Olanzapine can lead to weight gain in some cases.", "relevance": 2},
+      {"doc_id": "EX034_4", "text": "Clinical trials have observed weight gain in patients taking Olanzapine.", "relevance": 3},
+      {"doc_id": "EX034_5", "text": "Systematic reviews suggest Olanzapine is associated with weight gain.", "relevance": 4},
+      {"doc_id": "EX034_6", "text": "Comprehensive studies confirm that Olanzapine can cause significant weight gain.", "relevance": 4},
+      {"doc_id": "EX034_7", "text": "Extensive research shows that Olanzapine is a well-known cause of weight gain.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS035",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Gabapentin not affect kidney function?",
+    "documents": [
+      {"doc_id": "EX035_1", "text": "Some online forums suggest Gabapentin does not affect kidney function.", "relevance": 1},
+      {"doc_id": "EX035_2", "text": "Anecdotal reports indicate Gabapentin is safe regarding kidney health.", "relevance": 1},
+      {"doc_id": "EX035_3", "text": "Studies have shown minimal changes in kidney function with Gabapentin use.", "relevance": 2},
+      {"doc_id": "EX035_4", "text": "Research indicates that Gabapentin can cause slight changes in kidney function.", "relevance": 3},
+      {"doc_id": "EX035_5", "text": "Clinical trials have observed changes in kidney function in some patients taking Gabapentin.", "relevance": 3},
+      {"doc_id": "EX035_6", "text": "Systematic reviews suggest Gabapentin may affect kidney function in certain individuals.", "relevance": 4},
+      {"doc_id": "EX035_7", "text": "Comprehensive studies confirm that Gabapentin can significantly affect kidney function.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS036",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Tramadol does not cause constipation?",
+    "documents": [
+      {"doc_id": "EX036_1", "text": "Some patients report no constipation issues while taking Tramadol.", "relevance": 1},
+      {"doc_id": "EX036_2", "text": "Anecdotal evidence suggests Tramadol is safe regarding bowel movements.", "relevance": 2},
+      {"doc_id": "EX036_3", "text": "Studies indicate that Tramadol can cause constipation in some cases.", "relevance": 3},
+      {"doc_id": "EX036_4", "text": "Research shows that Tramadol is associated with constipation.", "relevance": 3},
+      {"doc_id": "EX036_5", "text": "Clinical trials have documented cases of constipation with Tramadol use.", "relevance": 4},
+      {"doc_id": "EX036_6", "text": "Systematic reviews confirm that Tramadol can cause constipation.", "relevance": 4},
+      {"doc_id": "EX036_7", "text": "Comprehensive studies show that Tramadol is a known cause of constipation.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS037",
+    "query_type": "explicit_NOT",
+    "query_text": "Does ACE inhibitors not cause dry cough?",
+    "documents": [
+      {"doc_id": "EX037_1", "text": "Some users on forums claim ACE inhibitors do not cause dry cough.", "relevance": 1},
+      {"doc_id": "EX037_2", "text": "Anecdotal reports suggest ACE inhibitors are safe regarding cough.", "relevance": 2},
+      {"doc_id": "EX037_3", "text": "Studies have shown mixed results regarding ACE inhibitors and dry cough.", "relevance": 2},
+      {"doc_id": "EX037_4", "text": "Research indicates that ACE inhibitors may cause dry cough in some patients.", "relevance": 3},
+      {"doc_id": "EX037_5", "text": "Clinical trials suggest a potential link between ACE inhibitors use and dry cough.", "relevance": 3},
+      {"doc_id": "EX037_6", "text": "Systematic reviews indicate that ACE inhibitors can be associated with dry cough.", "relevance": 4},
+      {"doc_id": "EX037_7", "text": "Comprehensive studies confirm that ACE inhibitors use can cause dry cough in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS038",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Beta-blockers do not cause fatigue?",
+    "documents": [
+      {"doc_id": "EX038_1", "text": "Some patients report no fatigue while taking Beta-blockers.", "relevance": 1},
+      {"doc_id": "EX038_2", "text": "Studies suggest Beta-blockers may cause slight fatigue.", "relevance": 2},
+      {"doc_id": "EX038_3", "text": "Research indicates that Beta-blockers can lead to fatigue in some cases.", "relevance": 2},
+      {"doc_id": "EX038_4", "text": "Clinical trials have observed fatigue in patients taking Beta-blockers.", "relevance": 3},
+      {"doc_id": "EX038_5", "text": "Systematic reviews suggest Beta-blockers are associated with fatigue.", "relevance": 4},
+      {"doc_id": "EX038_6", "text": "Comprehensive studies confirm that Beta-blockers can cause significant fatigue.", "relevance": 4},
+      {"doc_id": "EX038_7", "text": "Extensive research shows that Beta-blockers are a well-known cause of fatigue.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS039",
+    "query_type": "explicit_NOT",
+    "query_text": "Does SGLT2 inhibitors not cause urinary tract infections?",
+    "documents": [
+      {"doc_id": "EX039_1", "text": "Some online forums suggest SGLT2 inhibitors do not cause urinary tract infections.", "relevance": 1},
+      {"doc_id": "EX039_2", "text": "Anecdotal reports indicate SGLT2 inhibitors are safe regarding urinary health.", "relevance": 1},
+      {"doc_id": "EX039_3", "text": "Studies have shown minimal urinary issues with SGLT2 inhibitors use.", "relevance": 2},
+      {"doc_id": "EX039_4", "text": "Research indicates that SGLT2 inhibitors can cause slight urinary tract infections.", "relevance": 3},
+      {"doc_id": "EX039_5", "text": "Clinical trials have observed urinary tract infections in some patients taking SGLT2 inhibitors.", "relevance": 3},
+      {"doc_id": "EX039_6", "text": "Systematic reviews suggest SGLT2 inhibitors may affect urinary health in certain individuals.", "relevance": 4},
+      {"doc_id": "EX039_7", "text": "Comprehensive studies confirm that SGLT2 inhibitors can significantly cause urinary tract infections.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS040",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Infliximab does not cause infusion reactions?",
+    "documents": [
+      {"doc_id": "EX040_1", "text": "Some patients report no infusion reactions while taking Infliximab.", "relevance": 1},
+      {"doc_id": "EX040_2", "text": "Anecdotal evidence suggests Infliximab is safe regarding infusion reactions.", "relevance": 2},
+      {"doc_id": "EX040_3", "text": "Studies indicate that Infliximab can cause infusion reactions in some cases.", "relevance": 3},
+      {"doc_id": "EX040_4", "text": "Research shows that Infliximab is associated with infusion reactions.", "relevance": 3},
+      {"doc_id": "EX040_5", "text": "Clinical trials have documented cases of infusion reactions with Infliximab use.", "relevance": 4},
+      {"doc_id": "EX040_6", "text": "Systematic reviews confirm that Infliximab can cause infusion reactions.", "relevance": 4},
+      {"doc_id": "EX040_7", "text": "Comprehensive studies show that Infliximab is a known cause of infusion reactions.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS041",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Azithromycin not affect heart rhythm?",
+    "documents": [
+      {"doc_id": "EX041_1", "text": "Some users on forums claim Azithromycin does not affect heart rhythm.", "relevance": 1},
+      {"doc_id": "EX041_2", "text": "Anecdotal reports suggest Azithromycin is safe for heart health.", "relevance": 2},
+      {"doc_id": "EX041_3", "text": "Studies have shown mixed results regarding Azithromycin and heart rhythm.", "relevance": 2},
+      {"doc_id": "EX041_4", "text": "Research indicates that Azithromycin may affect heart rhythm in some patients.", "relevance": 3},
+      {"doc_id": "EX041_5", "text": "Clinical trials suggest a potential link between Azithromycin use and changes in heart rhythm.", "relevance": 3},
+      {"doc_id": "EX041_6", "text": "Systematic reviews indicate that Azithromycin can be associated with changes in heart rhythm.", "relevance": 4},
+      {"doc_id": "EX041_7", "text": "Comprehensive studies confirm that Azithromycin use can affect heart rhythm in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS042",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Interferon-alpha does not cause depression?",
+    "documents": [
+      {"doc_id": "EX042_1", "text": "Some patients report no mood issues while taking Interferon-alpha.", "relevance": 1},
+      {"doc_id": "EX042_2", "text": "Studies suggest Interferon-alpha may cause slight depression.", "relevance": 2},
+      {"doc_id": "EX042_3", "text": "Research indicates that Interferon-alpha can lead to depression in some cases.", "relevance": 2},
+      {"doc_id": "EX042_4", "text": "Clinical trials have observed depression in patients taking Interferon-alpha.", "relevance": 3},
+      {"doc_id": "EX042_5", "text": "Systematic reviews suggest Interferon-alpha is associated with depression.", "relevance": 4},
+      {"doc_id": "EX042_6", "text": "Comprehensive studies confirm that Interferon-alpha can cause significant depression.", "relevance": 4},
+      {"doc_id": "EX042_7", "text": "Extensive research shows that Interferon-alpha is a known cause of depression.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS043",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Topiramate not cause memory problems?",
+    "documents": [
+      {"doc_id": "EX043_1", "text": "Some online forums suggest Topiramate does not cause memory problems.", "relevance": 1},
+      {"doc_id": "EX043_2", "text": "Anecdotal reports indicate Topiramate is safe regarding memory function.", "relevance": 1},
+      {"doc_id": "EX043_3", "text": "Studies have shown minimal memory issues with Topiramate use.", "relevance": 2},
+      {"doc_id": "EX043_4", "text": "Research indicates that Topiramate can cause slight memory problems in some cases.", "relevance": 3},
+      {"doc_id": "EX043_5", "text": "Clinical trials have observed memory problems in some patients taking Topiramate.", "relevance": 3},
+      {"doc_id": "EX043_6", "text": "Systematic reviews suggest Topiramate may affect memory function in certain individuals.", "relevance": 4},
+      {"doc_id": "EX043_7", "text": "Comprehensive studies confirm that Topiramate can significantly cause memory problems.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS044",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Amitriptyline does not cause dry mouth?",
+    "documents": [
+      {"doc_id": "EX044_1", "text": "Some patients report no dry mouth while taking Amitriptyline.", "relevance": 1},
+      {"doc_id": "EX044_2", "text": "Anecdotal evidence suggests Amitriptyline is safe regarding dry mouth.", "relevance": 2},
+      {"doc_id": "EX044_3", "text": "Studies indicate that Amitriptyline can cause dry mouth in some cases.", "relevance": 3},
+      {"doc_id": "EX044_4", "text": "Research shows that Amitriptyline is associated with dry mouth.", "relevance": 3},
+      {"doc_id": "EX044_5", "text": "Clinical trials have documented cases of dry mouth with Amitriptyline use.", "relevance": 4},
+      {"doc_id": "EX044_6", "text": "Systematic reviews confirm that Amitriptyline can cause dry mouth.", "relevance": 4},
+      {"doc_id": "EX044_7", "text": "Comprehensive studies show that Amitriptyline is a known cause of dry mouth.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS045",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Bupropion not affect blood pressure?",
+    "documents": [
+      {"doc_id": "EX045_1", "text": "Some users on forums claim Bupropion does not affect blood pressure.", "relevance": 1},
+      {"doc_id": "EX045_2", "text": "Anecdotal reports suggest Bupropion is safe for blood pressure.", "relevance": 2},
+      {"doc_id": "EX045_3", "text": "Studies have shown mixed results regarding Bupropion and blood pressure.", "relevance": 2},
+      {"doc_id": "EX045_4", "text": "Research indicates that Bupropion may affect blood pressure in some patients.", "relevance": 3},
+      {"doc_id": "EX045_5", "text": "Clinical trials suggest a potential link between Bupropion use and changes in blood pressure.", "relevance": 3},
+      {"doc_id": "EX045_6", "text": "Systematic reviews indicate that Bupropion can be associated with changes in blood pressure.", "relevance": 4},
+      {"doc_id": "EX045_7", "text": "Comprehensive studies confirm that Bupropion use can affect blood pressure in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS046",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Methotrexate not cause hair loss?",
+    "documents": [
+      {"doc_id": "EX046_1", "text": "Some online forums suggest Methotrexate does not cause hair loss.", "relevance": 1},
+      {"doc_id": "EX046_2", "text": "Anecdotal reports indicate Methotrexate is safe regarding hair health.", "relevance": 1},
+      {"doc_id": "EX046_3", "text": "Studies have shown minimal hair loss with Methotrexate use.", "relevance": 2},
+      {"doc_id": "EX046_4", "text": "Research indicates that Methotrexate can cause slight hair loss in some cases.", "relevance": 3},
+      {"doc_id": "EX046_5", "text": "Clinical trials have observed hair loss in some patients taking Methotrexate.", "relevance": 3},
+      {"doc_id": "EX046_6", "text": "Systematic reviews suggest Methotrexate may affect hair health in certain individuals.", "relevance": 4},
+      {"doc_id": "EX046_7", "text": "Comprehensive studies confirm that Methotrexate can significantly cause hair loss.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS047",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Cyclophosphamide does not cause nausea?",
+    "documents": [
+      {"doc_id": "EX047_1", "text": "Some patients report no nausea while taking Cyclophosphamide.", "relevance": 1},
+      {"doc_id": "EX047_2", "text": "Anecdotal evidence suggests Cyclophosphamide is safe regarding nausea.", "relevance": 2},
+      {"doc_id": "EX047_3", "text": "Studies indicate that Cyclophosphamide can cause nausea in some cases.", "relevance": 3},
+      {"doc_id": "EX047_4", "text": "Research shows that Cyclophosphamide is associated with nausea.", "relevance": 3},
+      {"doc_id": "EX047_5", "text": "Clinical trials have documented cases of nausea with Cyclophosphamide use.", "relevance": 4},
+      {"doc_id": "EX047_6", "text": "Systematic reviews confirm that Cyclophosphamide can cause nausea.", "relevance": 4},
+      {"doc_id": "EX047_7", "text": "Comprehensive studies show that Cyclophosphamide is a known cause of nausea.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS048",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Levothyroxine not cause insomnia?",
+    "documents": [
+      {"doc_id": "EX048_1", "text": "Some users on forums claim Levothyroxine does not cause insomnia.", "relevance": 1},
+      {"doc_id": "EX048_2", "text": "Anecdotal reports suggest Levothyroxine is safe regarding sleep.", "relevance": 2},
+      {"doc_id": "EX048_3", "text": "Studies have shown mixed results regarding Levothyroxine and insomnia.", "relevance": 2},
+      {"doc_id": "EX048_4", "text": "Research indicates that Levothyroxine may cause insomnia in some patients.", "relevance": 3},
+      {"doc_id": "EX048_5", "text": "Clinical trials suggest a potential link between Levothyroxine use and insomnia.", "relevance": 3},
+      {"doc_id": "EX048_6", "text": "Systematic reviews indicate that Levothyroxine can be associated with insomnia.", "relevance": 4},
+      {"doc_id": "EX048_7", "text": "Comprehensive studies confirm that Levothyroxine use can cause insomnia in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS049",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Prednisone does not cause mood swings?",
+    "documents": [
+      {"doc_id": "EX049_1", "text": "Some patients report no mood swings while taking Prednisone.", "relevance": 1},
+      {"doc_id": "EX049_2", "text": "Studies suggest Prednisone may cause slight mood swings.", "relevance": 2},
+      {"doc_id": "EX049_3", "text": "Research indicates that Prednisone can lead to mood swings in some cases.", "relevance": 2},
+      {"doc_id": "EX049_4", "text": "Clinical trials have observed mood swings in patients taking Prednisone.", "relevance": 3},
+      {"doc_id": "EX049_5", "text": "Systematic reviews suggest Prednisone is associated with mood swings.", "relevance": 4},
+      {"doc_id": "EX049_6", "text": "Comprehensive studies confirm that Prednisone can cause significant mood swings.", "relevance": 4},
+      {"doc_id": "EX049_7", "text": "Extensive research shows that Prednisone is a known cause of mood swings.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS050",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Clopidogrel not cause bruising?",
+    "documents": [
+      {"doc_id": "EX050_1", "text": "Some online forums suggest Clopidogrel does not cause bruising.", "relevance": 1},
+      {"doc_id": "EX050_2", "text": "Anecdotal reports indicate Clopidogrel is safe regarding bruising.", "relevance": 1},
+      {"doc_id": "EX050_3", "text": "Studies have shown minimal bruising with Clopidogrel use.", "relevance": 2},
+      {"doc_id": "EX050_4", "text": "Research indicates that Clopidogrel can cause slight bruising in some cases.", "relevance": 3},
+      {"doc_id": "EX050_5", "text": "Clinical trials have observed bruising in some patients taking Clopidogrel.", "relevance": 3},
+      {"doc_id": "EX050_6", "text": "Systematic reviews suggest Clopidogrel may cause bruising in certain individuals.", "relevance": 4},
+      {"doc_id": "EX050_7", "text": "Comprehensive studies confirm that Clopidogrel can significantly cause bruising.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS051",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Esomeprazole does not cause headaches?",
+    "documents": [
+      {"doc_id": "EX051_1", "text": "Some patients report no headaches while taking Esomeprazole.", "relevance": 1},
+      {"doc_id": "EX051_2", "text": "Anecdotal evidence suggests Esomeprazole is safe regarding headaches.", "relevance": 2},
+      {"doc_id": "EX051_3", "text": "Studies indicate that Esomeprazole can cause headaches in some cases.", "relevance": 3},
+      {"doc_id": "EX051_4", "text": "Research shows that Esomeprazole is associated with headaches.", "relevance": 3},
+      {"doc_id": "EX051_5", "text": "Clinical trials have documented cases of headaches with Esomeprazole use.", "relevance": 4},
+      {"doc_id": "EX051_6", "text": "Systematic reviews confirm that Esomeprazole can cause headaches.", "relevance": 4},
+      {"doc_id": "EX051_7", "text": "Comprehensive studies show that Esomeprazole is a known cause of headaches.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS052",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Olmesartan not cause dizziness?",
+    "documents": [
+      {"doc_id": "EX052_1", "text": "Some users on forums claim Olmesartan does not cause dizziness.", "relevance": 1},
+      {"doc_id": "EX052_2", "text": "Anecdotal reports suggest Olmesartan is safe regarding dizziness.", "relevance": 2},
+      {"doc_id": "EX052_3", "text": "Studies have shown mixed results regarding Olmesartan and dizziness.", "relevance": 2},
+      {"doc_id": "EX052_4", "text": "Research indicates that Olmesartan may cause dizziness in some patients.", "relevance": 3},
+      {"doc_id": "EX052_5", "text": "Clinical trials suggest a potential link between Olmesartan use and dizziness.", "relevance": 3},
+      {"doc_id": "EX052_6", "text": "Systematic reviews indicate that Olmesartan can be associated with dizziness.", "relevance": 4},
+      {"doc_id": "EX052_7", "text": "Comprehensive studies confirm that Olmesartan use can cause dizziness in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS053",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Lithium carbonate does not cause tremors?",
+    "documents": [
+      {"doc_id": "EX053_1", "text": "Some patients report no tremors while taking Lithium carbonate.", "relevance": 1},
+      {"doc_id": "EX053_2", "text": "Studies suggest Lithium carbonate may cause slight tremors.", "relevance": 2},
+      {"doc_id": "EX053_3", "text": "Research indicates that Lithium carbonate can lead to tremors in some cases.", "relevance": 2},
+      {"doc_id": "EX053_4", "text": "Clinical trials have observed tremors in patients taking Lithium carbonate.", "relevance": 3},
+      {"doc_id": "EX053_5", "text": "Systematic reviews suggest Lithium carbonate is associated with tremors.", "relevance": 4},
+      {"doc_id": "EX053_6", "text": "Comprehensive studies confirm that Lithium carbonate can cause significant tremors.", "relevance": 4},
+      {"doc_id": "EX053_7", "text": "Extensive research shows that Lithium carbonate is a known cause of tremors.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS054",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Rivaroxaban not cause gastrointestinal bleeding?",
+    "documents": [
+      {"doc_id": "EX054_1", "text": "Some online forums suggest Rivaroxaban does not cause gastrointestinal bleeding.", "relevance": 1},
+      {"doc_id": "EX054_2", "text": "Anecdotal reports indicate Rivaroxaban is safe regarding gastrointestinal health.", "relevance": 1},
+      {"doc_id": "EX054_3", "text": "Studies have shown minimal gastrointestinal bleeding with Rivaroxaban use.", "relevance": 2},
+      {"doc_id": "EX054_4", "text": "Research indicates that Rivaroxaban can cause slight gastrointestinal bleeding in some cases.", "relevance": 3},
+      {"doc_id": "EX054_5", "text": "Clinical trials have observed gastrointestinal bleeding in some patients taking Rivaroxaban.", "relevance": 3},
+      {"doc_id": "EX054_6", "text": "Systematic reviews suggest Rivaroxaban may cause gastrointestinal bleeding in certain individuals.", "relevance": 4},
+      {"doc_id": "EX054_7", "text": "Comprehensive studies confirm that Rivaroxaban can significantly cause gastrointestinal bleeding.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS055",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Tacrolimus does not cause high blood pressure?",
+    "documents": [
+      {"doc_id": "EX055_1", "text": "Some patients report no blood pressure issues while taking Tacrolimus.", "relevance": 1},
+      {"doc_id": "EX055_2", "text": "Anecdotal evidence suggests Tacrolimus is safe regarding blood pressure.", "relevance": 2},
+      {"doc_id": "EX055_3", "text": "Studies indicate that Tacrolimus can cause high blood pressure in some cases.", "relevance": 3},
+      {"doc_id": "EX055_4", "text": "Research shows that Tacrolimus is associated with high blood pressure.", "relevance": 3},
+      {"doc_id": "EX055_5", "text": "Clinical trials have documented cases of high blood pressure with Tacrolimus use.", "relevance": 4},
+      {"doc_id": "EX055_6", "text": "Systematic reviews confirm that Tacrolimus can cause high blood pressure.", "relevance": 4},
+      {"doc_id": "EX055_7", "text": "Comprehensive studies show that Tacrolimus is a known cause of high blood pressure.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS056",
+    "query_type": "explicit_NOT",
+    "query_text": "Does OnabotulinumtoxinA not cause muscle weakness?",
+    "documents": [
+      {"doc_id": "EX056_1", "text": "Some users on forums claim OnabotulinumtoxinA does not cause muscle weakness.", "relevance": 1},
+      {"doc_id": "EX056_2", "text": "Anecdotal reports suggest OnabotulinumtoxinA is safe regarding muscle strength.", "relevance": 2},
+      {"doc_id": "EX056_3", "text": "Studies have shown mixed results regarding OnabotulinumtoxinA and muscle weakness.", "relevance": 2},
+      {"doc_id": "EX056_4", "text": "Research indicates that OnabotulinumtoxinA may cause muscle weakness in some patients.", "relevance": 3},
+      {"doc_id": "EX056_5", "text": "Clinical trials suggest a potential link between OnabotulinumtoxinA use and muscle weakness.", "relevance": 3},
+      {"doc_id": "EX056_6", "text": "Systematic reviews indicate that OnabotulinumtoxinA can be associated with muscle weakness.", "relevance": 4},
+      {"doc_id": "EX056_7", "text": "Comprehensive studies confirm that OnabotulinumtoxinA use can cause muscle weakness in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS057",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Pembrolizumab does not cause thyroiditis?",
+    "documents": [
+      {"doc_id": "EX057_1", "text": "Some patients report no thyroid issues while taking Pembrolizumab.", "relevance": 1},
+      {"doc_id": "EX057_2", "text": "Studies suggest Pembrolizumab may cause slight thyroiditis.", "relevance": 2},
+      {"doc_id": "EX057_3", "text": "Research indicates that Pembrolizumab can lead to thyroiditis in some cases.", "relevance": 2},
+      {"doc_id": "EX057_4", "text": "Clinical trials have observed thyroiditis in patients taking Pembrolizumab.", "relevance": 3},
+      {"doc_id": "EX057_5", "text": "Systematic reviews suggest Pembrolizumab is associated with thyroiditis.", "relevance": 4},
+      {"doc_id": "EX057_6", "text": "Comprehensive studies confirm that Pembrolizumab can cause significant thyroiditis.", "relevance": 4},
+      {"doc_id": "EX057_7", "text": "Extensive research shows that Pembrolizumab is a known cause of thyroiditis.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS058",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Zoledronic acid not cause jaw osteonecrosis?",
+    "documents": [
+      {"doc_id": "EX058_1", "text": "Some online forums suggest Zoledronic acid does not cause jaw osteonecrosis.", "relevance": 1},
+      {"doc_id": "EX058_2", "text": "Anecdotal reports indicate Zoledronic acid is safe regarding jaw health.", "relevance": 1},
+      {"doc_id": "EX058_3", "text": "Studies have shown minimal jaw issues with Zoledronic acid use.", "relevance": 2},
+      {"doc_id": "EX058_4", "text": "Research indicates that Zoledronic acid can cause slight jaw osteonecrosis in some cases.", "relevance": 3},
+      {"doc_id": "EX058_5", "text": "Clinical trials have observed jaw osteonecrosis in some patients taking Zoledronic acid.", "relevance": 3},
+      {"doc_id": "EX058_6", "text": "Systematic reviews suggest Zoledronic acid may cause jaw osteonecrosis in certain individuals.", "relevance": 4},
+      {"doc_id": "EX058_7", "text": "Comprehensive studies confirm that Zoledronic acid can significantly cause jaw osteonecrosis.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS059",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Dexamethasone does not cause increased appetite?",
+    "documents": [
+      {"doc_id": "EX059_1", "text": "Some patients report no appetite changes while taking Dexamethasone.", "relevance": 1},
+      {"doc_id": "EX059_2", "text": "Anecdotal evidence suggests Dexamethasone is safe regarding appetite.", "relevance": 2},
+      {"doc_id": "EX059_3", "text": "Studies indicate that Dexamethasone can cause increased appetite in some cases.", "relevance": 3},
+      {"doc_id": "EX059_4", "text": "Research shows that Dexamethasone is associated with increased appetite.", "relevance": 3},
+      {"doc_id": "EX059_5", "text": "Clinical trials have documented cases of increased appetite with Dexamethasone use.", "relevance": 4},
+      {"doc_id": "EX059_6", "text": "Systematic reviews confirm that Dexamethasone can cause increased appetite.", "relevance": 4},
+      {"doc_id": "EX059_7", "text": "Comprehensive studies show that Dexamethasone is a known cause of increased appetite.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS060",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Selegiline not cause nausea?",
+    "documents": [
+      {"doc_id": "EX060_1", "text": "Some users on forums claim Selegiline does not cause nausea.", "relevance": 1},
+      {"doc_id": "EX060_2", "text": "Anecdotal reports suggest Selegiline is safe regarding nausea.", "relevance": 2},
+      {"doc_id": "EX060_3", "text": "Studies have shown mixed results regarding Selegiline and nausea.", "relevance": 2},
+      {"doc_id": "EX060_4", "text": "Research indicates that Selegiline may cause nausea in some patients.", "relevance": 3},
+      {"doc_id": "EX060_5", "text": "Clinical trials suggest a potential link between Selegiline use and nausea.", "relevance": 3},
+      {"doc_id": "EX060_6", "text": "Systematic reviews indicate that Selegiline can be associated with nausea.", "relevance": 4},
+      {"doc_id": "EX060_7", "text": "Comprehensive studies confirm that Selegiline use can cause nausea in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS061",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Hydrochlorothiazide not cause muscle cramps?",
+    "documents": [
+      {"doc_id": "EX061_1", "text": "Some online forums suggest Hydrochlorothiazide does not cause muscle cramps.", "relevance": 1},
+      {"doc_id": "EX061_2", "text": "Anecdotal reports indicate Hydrochlorothiazide is safe regarding muscle cramps.", "relevance": 1},
+      {"doc_id": "EX061_3", "text": "Studies have shown minimal muscle cramps with Hydrochlorothiazide use.", "relevance": 2},
+      {"doc_id": "EX061_4", "text": "Research indicates that Hydrochlorothiazide can cause slight muscle cramps in some cases.", "relevance": 3},
+      {"doc_id": "EX061_5", "text": "Clinical trials have observed muscle cramps in some patients taking Hydrochlorothiazide.", "relevance": 3},
+      {"doc_id": "EX061_6", "text": "Systematic reviews suggest Hydrochlorothiazide may cause muscle cramps in certain individuals.", "relevance": 4},
+      {"doc_id": "EX061_7", "text": "Comprehensive studies confirm that Hydrochlorothiazide can significantly cause muscle cramps.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS062",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Amiodarone does not cause liver problems?",
+    "documents": [
+      {"doc_id": "EX062_1", "text": "Some patients report no liver issues while taking Amiodarone.", "relevance": 1},
+      {"doc_id": "EX062_2", "text": "Anecdotal evidence suggests Amiodarone is safe regarding liver health.", "relevance": 2},
+      {"doc_id": "EX062_3", "text": "Studies indicate that Amiodarone can cause liver problems in some cases.", "relevance": 3},
+      {"doc_id": "EX062_4", "text": "Research shows that Amiodarone is associated with liver problems.", "relevance": 3},
+      {"doc_id": "EX062_5", "text": "Clinical trials have documented cases of liver problems with Amiodarone use.", "relevance": 4},
+      {"doc_id": "EX062_6", "text": "Systematic reviews confirm that Amiodarone can cause liver problems.", "relevance": 4},
+      {"doc_id": "EX062_7", "text": "Comprehensive studies show that Amiodarone is a known cause of liver problems.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS063",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Warfarin not lead to skin necrosis?",
+    "documents": [
+      {"doc_id": "EX063_1", "text": "Some users on forums claim Warfarin does not cause skin necrosis.", "relevance": 1},
+      {"doc_id": "EX063_2", "text": "Anecdotal reports suggest Warfarin is safe regarding skin health.", "relevance": 2},
+      {"doc_id": "EX063_3", "text": "Studies have shown mixed results regarding Warfarin and skin necrosis.", "relevance": 2},
+      {"doc_id": "EX063_4", "text": "Research indicates that Warfarin may cause skin necrosis in some patients.", "relevance": 3},
+      {"doc_id": "EX063_5", "text": "Clinical trials suggest a potential link between Warfarin use and skin necrosis.", "relevance": 3},
+      {"doc_id": "EX063_6", "text": "Systematic reviews indicate that Warfarin can be associated with skin necrosis.", "relevance": 4},
+      {"doc_id": "EX063_7", "text": "Comprehensive studies confirm that Warfarin use can cause skin necrosis in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS064",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Olanzapine does not cause diabetes?",
+    "documents": [
+      {"doc_id": "EX064_1", "text": "Some patients report no diabetes issues while taking Olanzapine.", "relevance": 1},
+      {"doc_id": "EX064_2", "text": "Studies suggest Olanzapine may cause slight diabetes risk.", "relevance": 2},
+      {"doc_id": "EX064_3", "text": "Research indicates that Olanzapine can lead to diabetes in some cases.", "relevance": 2},
+      {"doc_id": "EX064_4", "text": "Clinical trials have observed diabetes in patients taking Olanzapine.", "relevance": 3},
+      {"doc_id": "EX064_5", "text": "Systematic reviews suggest Olanzapine is associated with diabetes.", "relevance": 4},
+      {"doc_id": "EX064_6", "text": "Comprehensive studies confirm that Olanzapine can cause significant diabetes risk.", "relevance": 4},
+      {"doc_id": "EX064_7", "text": "Extensive research shows that Olanzapine is a known cause of diabetes.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS065",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Gabapentin not affect blood pressure?",
+    "documents": [
+      {"doc_id": "EX065_1", "text": "Some online forums suggest Gabapentin does not affect blood pressure.", "relevance": 1},
+      {"doc_id": "EX065_2", "text": "Anecdotal reports indicate Gabapentin is safe regarding blood pressure.", "relevance": 1},
+      {"doc_id": "EX065_3", "text": "Studies have shown minimal blood pressure changes with Gabapentin use.", "relevance": 2},
+      {"doc_id": "EX065_4", "text": "Research indicates that Gabapentin can cause slight blood pressure changes in some cases.", "relevance": 3},
+      {"doc_id": "EX065_5", "text": "Clinical trials have observed blood pressure changes in some patients taking Gabapentin.", "relevance": 3},
+      {"doc_id": "EX065_6", "text": "Systematic reviews suggest Gabapentin may affect blood pressure in certain individuals.", "relevance": 4},
+      {"doc_id": "EX065_7", "text": "Comprehensive studies confirm that Gabapentin can significantly affect blood pressure.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS066",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Tramadol not cause respiratory depression?",
+    "documents": [
+      {"doc_id": "EX066_1", "text": "Some users on forums claim Tramadol does not cause respiratory depression.", "relevance": 1},
+      {"doc_id": "EX066_2", "text": "Anecdotal reports suggest Tramadol is safe regarding respiratory health.", "relevance": 2},
+      {"doc_id": "EX066_3", "text": "Studies have shown mixed results regarding Tramadol and respiratory depression.", "relevance": 2},
+      {"doc_id": "EX066_4", "text": "Research indicates that Tramadol may cause respiratory depression in some patients.", "relevance": 3},
+      {"doc_id": "EX066_5", "text": "Clinical trials suggest a potential link between Tramadol use and respiratory depression.", "relevance": 3},
+      {"doc_id": "EX066_6", "text": "Systematic reviews indicate that Tramadol can be associated with respiratory depression.", "relevance": 4},
+      {"doc_id": "EX066_7", "text": "Comprehensive studies confirm that Tramadol use can cause respiratory depression in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS067",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that ACE inhibitors do not cause angioedema?",
+    "documents": [
+      {"doc_id": "EX067_1", "text": "Some patients report no angioedema while taking ACE inhibitors.", "relevance": 1},
+      {"doc_id": "EX067_2", "text": "Anecdotal evidence suggests ACE inhibitors are safe regarding angioedema.", "relevance": 2},
+      {"doc_id": "EX067_3", "text": "Studies indicate that ACE inhibitors can cause angioedema in some cases.", "relevance": 3},
+      {"doc_id": "EX067_4", "text": "Research shows that ACE inhibitors are associated with angioedema.", "relevance": 3},
+      {"doc_id": "EX067_5", "text": "Clinical trials have documented cases of angioedema with ACE inhibitors use.", "relevance": 4},
+      {"doc_id": "EX067_6", "text": "Systematic reviews confirm that ACE inhibitors can cause angioedema.", "relevance": 4},
+      {"doc_id": "EX067_7", "text": "Comprehensive studies show that ACE inhibitors are a known cause of angioedema.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS068",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Beta-blockers not cause cold extremities?",
+    "documents": [
+      {"doc_id": "EX068_1", "text": "Some online forums suggest Beta-blockers do not cause cold extremities.", "relevance": 1},
+      {"doc_id": "EX068_2", "text": "Anecdotal reports indicate Beta-blockers are safe regarding circulation.", "relevance": 1},
+      {"doc_id": "EX068_3", "text": "Studies have shown minimal circulation issues with Beta-blockers use.", "relevance": 2},
+      {"doc_id": "EX068_4", "text": "Research indicates that Beta-blockers can cause slight cold extremities in some cases.", "relevance": 3},
+      {"doc_id": "EX068_5", "text": "Clinical trials have observed cold extremities in some patients taking Beta-blockers.", "relevance": 3},
+      {"doc_id": "EX068_6", "text": "Systematic reviews suggest Beta-blockers may cause cold extremities in certain individuals.", "relevance": 4},
+      {"doc_id": "EX068_7", "text": "Comprehensive studies confirm that Beta-blockers can significantly cause cold extremities.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS069",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that SGLT2 inhibitors do not cause ketoacidosis?",
+    "documents": [
+      {"doc_id": "EX069_1", "text": "Some patients report no ketoacidosis while taking SGLT2 inhibitors.", "relevance": 1},
+      {"doc_id": "EX069_2", "text": "Studies suggest SGLT2 inhibitors may cause slight ketoacidosis risk.", "relevance": 2},
+      {"doc_id": "EX069_3", "text": "Research indicates that SGLT2 inhibitors can lead to ketoacidosis in some cases.", "relevance": 2},
+      {"doc_id": "EX069_4", "text": "Clinical trials have observed ketoacidosis in patients taking SGLT2 inhibitors.", "relevance": 3},
+      {"doc_id": "EX069_5", "text": "Systematic reviews suggest SGLT2 inhibitors are associated with ketoacidosis.", "relevance": 4},
+      {"doc_id": "EX069_6", "text": "Comprehensive studies confirm that SGLT2 inhibitors can cause significant ketoacidosis risk.", "relevance": 4},
+      {"doc_id": "EX069_7", "text": "Extensive research shows that SGLT2 inhibitors are a known cause of ketoacidosis.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS070",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Infliximab not cause lupus-like syndrome?",
+    "documents": [
+      {"doc_id": "EX070_1", "text": "Some users on forums claim Infliximab does not cause lupus-like syndrome.", "relevance": 1},
+      {"doc_id": "EX070_2", "text": "Anecdotal reports suggest Infliximab is safe regarding autoimmune conditions.", "relevance": 2},
+      {"doc_id": "EX070_3", "text": "Studies have shown mixed results regarding Infliximab and lupus-like syndrome.", "relevance": 2},
+      {"doc_id": "EX070_4", "text": "Research indicates that Infliximab may cause lupus-like syndrome in some patients.", "relevance": 3},
+      {"doc_id": "EX070_5", "text": "Clinical trials suggest a potential link between Infliximab use and lupus-like syndrome.", "relevance": 3},
+      {"doc_id": "EX070_6", "text": "Systematic reviews indicate that Infliximab can be associated with lupus-like syndrome.", "relevance": 4},
+      {"doc_id": "EX070_7", "text": "Comprehensive studies confirm that Infliximab use can cause lupus-like syndrome in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS071",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Azithromycin does not cause liver damage?",
+    "documents": [
+      {"doc_id": "EX071_1", "text": "Some patients report no liver issues while taking Azithromycin.", "relevance": 1},
+      {"doc_id": "EX071_2", "text": "Anecdotal evidence suggests Azithromycin is safe regarding liver health.", "relevance": 2},
+      {"doc_id": "EX071_3", "text": "Studies indicate that Azithromycin can cause liver damage in some cases.", "relevance": 3},
+      {"doc_id": "EX071_4", "text": "Research shows that Azithromycin is associated with liver damage.", "relevance": 3},
+      {"doc_id": "EX071_5", "text": "Clinical trials have documented cases of liver damage with Azithromycin use.", "relevance": 4},
+      {"doc_id": "EX071_6", "text": "Systematic reviews confirm that Azithromycin can cause liver damage.", "relevance": 4},
+      {"doc_id": "EX071_7", "text": "Comprehensive studies show that Azithromycin is a known cause of liver damage.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS072",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Interferon-alpha not cause flu-like symptoms?",
+    "documents": [
+      {"doc_id": "EX072_1", "text": "Some online forums suggest Interferon-alpha does not cause flu-like symptoms.", "relevance": 1},
+      {"doc_id": "EX072_2", "text": "Anecdotal reports indicate Interferon-alpha is safe regarding flu-like symptoms.", "relevance": 1},
+      {"doc_id": "EX072_3", "text": "Studies have shown minimal flu-like symptoms with Interferon-alpha use.", "relevance": 2},
+      {"doc_id": "EX072_4", "text": "Research indicates that Interferon-alpha can cause slight flu-like symptoms in some cases.", "relevance": 3},
+      {"doc_id": "EX072_5", "text": "Clinical trials have observed flu-like symptoms in some patients taking Interferon-alpha.", "relevance": 3},
+      {"doc_id": "EX072_6", "text": "Systematic reviews suggest Interferon-alpha may cause flu-like symptoms in certain individuals.", "relevance": 4},
+      {"doc_id": "EX072_7", "text": "Comprehensive studies confirm that Interferon-alpha can significantly cause flu-like symptoms.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS073",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Topiramate not cause kidney stones?",
+    "documents": [
+      {"doc_id": "EX073_1", "text": "Some users on forums claim Topiramate does not cause kidney stones.", "relevance": 1},
+      {"doc_id": "EX073_2", "text": "Anecdotal reports suggest Topiramate is safe regarding kidney health.", "relevance": 2},
+      {"doc_id": "EX073_3", "text": "Studies have shown mixed results regarding Topiramate and kidney stones.", "relevance": 2},
+      {"doc_id": "EX073_4", "text": "Research indicates that Topiramate may cause kidney stones in some patients.", "relevance": 3},
+      {"doc_id": "EX073_5", "text": "Clinical trials suggest a potential link between Topiramate use and kidney stones.", "relevance": 3},
+      {"doc_id": "EX073_6", "text": "Systematic reviews indicate that Topiramate can be associated with kidney stones.", "relevance": 4},
+      {"doc_id": "EX073_7", "text": "Comprehensive studies confirm that Topiramate use can cause kidney stones in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS074",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Amitriptyline does not cause constipation?",
+    "documents": [
+      {"doc_id": "EX074_1", "text": "Some patients report no constipation while taking Amitriptyline.", "relevance": 1},
+      {"doc_id": "EX074_2", "text": "Studies suggest Amitriptyline may cause slight constipation.", "relevance": 2},
+      {"doc_id": "EX074_3", "text": "Research indicates that Amitriptyline can lead to constipation in some cases.", "relevance": 2},
+      {"doc_id": "EX074_4", "text": "Clinical trials have observed constipation in patients taking Amitriptyline.", "relevance": 3},
+      {"doc_id": "EX074_5", "text": "Systematic reviews suggest Amitriptyline is associated with constipation.", "relevance": 4},
+      {"doc_id": "EX074_6", "text": "Comprehensive studies confirm that Amitriptyline can cause significant constipation.", "relevance": 4},
+      {"doc_id": "EX074_7", "text": "Extensive research shows that Amitriptyline is a known cause of constipation.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS075",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Bupropion not cause seizures?",
+    "documents": [
+      {"doc_id": "EX075_1", "text": "Some online forums suggest Bupropion does not cause seizures.", "relevance": 1},
+      {"doc_id": "EX075_2", "text": "Anecdotal reports indicate Bupropion is safe regarding seizures.", "relevance": 1},
+      {"doc_id": "EX075_3", "text": "Studies have shown minimal seizure risk with Bupropion use.", "relevance": 2},
+      {"doc_id": "EX075_4", "text": "Research indicates that Bupropion can cause slight seizure risk in some cases.", "relevance": 3},
+      {"doc_id": "EX075_5", "text": "Clinical trials have observed seizures in some patients taking Bupropion.", "relevance": 3},
+      {"doc_id": "EX075_6", "text": "Systematic reviews suggest Bupropion may cause seizures in certain individuals.", "relevance": 4},
+      {"doc_id": "EX075_7", "text": "Comprehensive studies confirm that Bupropion can significantly cause seizures.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS076",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Methotrexate does not cause mouth sores?",
+    "documents": [
+      {"doc_id": "EX076_1", "text": "Some patients report no mouth sores while taking Methotrexate.", "relevance": 1},
+      {"doc_id": "EX076_2", "text": "Anecdotal evidence suggests Methotrexate is safe regarding oral health.", "relevance": 2},
+      {"doc_id": "EX076_3", "text": "Studies indicate that Methotrexate can cause mouth sores in some cases.", "relevance": 3},
+      {"doc_id": "EX076_4", "text": "Research shows that Methotrexate is associated with mouth sores.", "relevance": 3},
+      {"doc_id": "EX076_5", "text": "Clinical trials have documented cases of mouth sores with Methotrexate use.", "relevance": 4},
+      {"doc_id": "EX076_6", "text": "Systematic reviews confirm that Methotrexate can cause mouth sores.", "relevance": 4},
+      {"doc_id": "EX076_7", "text": "Comprehensive studies show that Methotrexate is a known cause of mouth sores.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS077",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Cyclophosphamide not cause bladder irritation?",
+    "documents": [
+      {"doc_id": "EX077_1", "text": "Some users on forums claim Cyclophosphamide does not cause bladder irritation.", "relevance": 1},
+      {"doc_id": "EX077_2", "text": "Anecdotal reports suggest Cyclophosphamide is safe regarding bladder health.", "relevance": 2},
+      {"doc_id": "EX077_3", "text": "Studies have shown mixed results regarding Cyclophosphamide and bladder irritation.", "relevance": 2},
+      {"doc_id": "EX077_4", "text": "Research indicates that Cyclophosphamide may cause bladder irritation in some patients.", "relevance": 3},
+      {"doc_id": "EX077_5", "text": "Clinical trials suggest a potential link between Cyclophosphamide use and bladder irritation.", "relevance": 3},
+      {"doc_id": "EX077_6", "text": "Systematic reviews indicate that Cyclophosphamide can be associated with bladder irritation.", "relevance": 4},
+      {"doc_id": "EX077_7", "text": "Comprehensive studies confirm that Cyclophosphamide use can cause bladder irritation in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS078",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Levothyroxine does not cause heart palpitations?",
+    "documents": [
+      {"doc_id": "EX078_1", "text": "Some patients report no heart palpitations while taking Levothyroxine.", "relevance": 1},
+      {"doc_id": "EX078_2", "text": "Studies suggest Levothyroxine may cause slight heart palpitations.", "relevance": 2},
+      {"doc_id": "EX078_3", "text": "Research indicates that Levothyroxine can lead to heart palpitations in some cases.", "relevance": 2},
+      {"doc_id": "EX078_4", "text": "Clinical trials have observed heart palpitations in patients taking Levothyroxine.", "relevance": 3},
+      {"doc_id": "EX078_5", "text": "Systematic reviews suggest Levothyroxine is associated with heart palpitations.", "relevance": 4},
+      {"doc_id": "EX078_6", "text": "Comprehensive studies confirm that Levothyroxine can cause significant heart palpitations.", "relevance": 4},
+      {"doc_id": "EX078_7", "text": "Extensive research shows that Levothyroxine is a known cause of heart palpitations.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS079",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Prednisone not cause cataracts?",
+    "documents": [
+      {"doc_id": "EX079_1", "text": "Some online forums suggest Prednisone does not cause cataracts.", "relevance": 1},
+      {"doc_id": "EX079_2", "text": "Anecdotal reports indicate Prednisone is safe regarding eye health.", "relevance": 1},
+      {"doc_id": "EX079_3", "text": "Studies have shown minimal cataract risk with Prednisone use.", "relevance": 2},
+      {"doc_id": "EX079_4", "text": "Research indicates that Prednisone can cause slight cataract risk in some cases.", "relevance": 3},
+      {"doc_id": "EX079_5", "text": "Clinical trials have observed cataracts in some patients taking Prednisone.", "relevance": 3},
+      {"doc_id": "EX079_6", "text": "Systematic reviews suggest Prednisone may cause cataracts in certain individuals.", "relevance": 4},
+      {"doc_id": "EX079_7", "text": "Comprehensive studies confirm that Prednisone can significantly cause cataracts.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS080",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Clopidogrel does not cause diarrhea?",
+    "documents": [
+      {"doc_id": "EX080_1", "text": "Some patients report no diarrhea while taking Clopidogrel.", "relevance": 1},
+      {"doc_id": "EX080_2", "text": "Anecdotal evidence suggests Clopidogrel is safe regarding digestive health.", "relevance": 2},
+      {"doc_id": "EX080_3", "text": "Studies indicate that Clopidogrel can cause diarrhea in some cases.", "relevance": 3},
+      {"doc_id": "EX080_4", "text": "Research shows that Clopidogrel is associated with diarrhea.", "relevance": 3},
+      {"doc_id": "EX080_5", "text": "Clinical trials have documented cases of diarrhea with Clopidogrel use.", "relevance": 4},
+      {"doc_id": "EX080_6", "text": "Systematic reviews confirm that Clopidogrel can cause diarrhea.", "relevance": 4},
+      {"doc_id": "EX080_7", "text": "Comprehensive studies show that Clopidogrel is a known cause of diarrhea.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS081",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Esomeprazole not cause vitamin B12 deficiency?",
+    "documents": [
+      {"doc_id": "EX081_1", "text": "Some users on forums claim Esomeprazole does not cause vitamin B12 deficiency.", "relevance": 1},
+      {"doc_id": "EX081_2", "text": "Anecdotal reports suggest Esomeprazole is safe regarding vitamin B12 levels.", "relevance": 2},
+      {"doc_id": "EX081_3", "text": "Studies have shown mixed results regarding Esomeprazole and vitamin B12 deficiency.", "relevance": 2},
+      {"doc_id": "EX081_4", "text": "Research indicates that Esomeprazole may cause vitamin B12 deficiency in some patients.", "relevance": 3},
+      {"doc_id": "EX081_5", "text": "Clinical trials suggest a potential link between Esomeprazole use and vitamin B12 deficiency.", "relevance": 3},
+      {"doc_id": "EX081_6", "text": "Systematic reviews indicate that Esomeprazole can be associated with vitamin B12 deficiency.", "relevance": 4},
+      {"doc_id": "EX081_7", "text": "Comprehensive studies confirm that Esomeprazole use can cause vitamin B12 deficiency in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS082",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Olmesartan does not cause sprue-like enteropathy?",
+    "documents": [
+      {"doc_id": "EX082_1", "text": "Some patients report no digestive issues while taking Olmesartan.", "relevance": 1},
+      {"doc_id": "EX082_2", "text": "Studies suggest Olmesartan may cause slight sprue-like enteropathy.", "relevance": 2},
+      {"doc_id": "EX082_3", "text": "Research indicates that Olmesartan can lead to sprue-like enteropathy in some cases.", "relevance": 2},
+      {"doc_id": "EX082_4", "text": "Clinical trials have observed sprue-like enteropathy in patients taking Olmesartan.", "relevance": 3},
+      {"doc_id": "EX082_5", "text": "Systematic reviews suggest Olmesartan is associated with sprue-like enteropathy.", "relevance": 4},
+      {"doc_id": "EX082_6", "text": "Comprehensive studies confirm that Olmesartan can cause significant sprue-like enteropathy.", "relevance": 4},
+      {"doc_id": "EX082_7", "text": "Extensive research shows that Olmesartan is a known cause of sprue-like enteropathy.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS083",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Lithium carbonate not cause acne?",
+    "documents": [
+      {"doc_id": "EX083_1", "text": "Some online forums suggest Lithium carbonate does not cause acne.", "relevance": 1},
+      {"doc_id": "EX083_2", "text": "Anecdotal reports indicate Lithium carbonate is safe regarding skin health.", "relevance": 1},
+      {"doc_id": "EX083_3", "text": "Studies have shown minimal acne issues with Lithium carbonate use.", "relevance": 2},
+      {"doc_id": "EX083_4", "text": "Research indicates that Lithium carbonate can cause slight acne in some cases.", "relevance": 3},
+      {"doc_id": "EX083_5", "text": "Clinical trials have observed acne in some patients taking Lithium carbonate.", "relevance": 3},
+      {"doc_id": "EX083_6", "text": "Systematic reviews suggest Lithium carbonate may cause acne in certain individuals.", "relevance": 4},
+      {"doc_id": "EX083_7", "text": "Comprehensive studies confirm that Lithium carbonate can significantly cause acne.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS084",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Rivaroxaban does not cause anemia?",
+    "documents": [
+      {"doc_id": "EX084_1", "text": "Some patients report no anemia while taking Rivaroxaban.", "relevance": 1},
+      {"doc_id": "EX084_2", "text": "Anecdotal evidence suggests Rivaroxaban is safe regarding blood health.", "relevance": 2},
+      {"doc_id": "EX084_3", "text": "Studies indicate that Rivaroxaban can cause anemia in some cases.", "relevance": 3},
+      {"doc_id": "EX084_4", "text": "Research shows that Rivaroxaban is associated with anemia.", "relevance": 3},
+      {"doc_id": "EX084_5", "text": "Clinical trials have documented cases of anemia with Rivaroxaban use.", "relevance": 4},
+      {"doc_id": "EX084_6", "text": "Systematic reviews confirm that Rivaroxaban can cause anemia.", "relevance": 4},
+      {"doc_id": "EX084_7", "text": "Comprehensive studies show that Rivaroxaban is a known cause of anemia.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS085",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Tacrolimus not cause tremors?",
+    "documents": [
+      {"doc_id": "EX085_1", "text": "Some users on forums claim Tacrolimus does not cause tremors.", "relevance": 1},
+      {"doc_id": "EX085_2", "text": "Anecdotal reports suggest Tacrolimus is safe regarding tremors.", "relevance": 2},
+      {"doc_id": "EX085_3", "text": "Studies have shown mixed results regarding Tacrolimus and tremors.", "relevance": 2},
+      {"doc_id": "EX085_4", "text": "Research indicates that Tacrolimus may cause tremors in some patients.", "relevance": 3},
+      {"doc_id": "EX085_5", "text": "Clinical trials suggest a potential link between Tacrolimus use and tremors.", "relevance": 3},
+      {"doc_id": "EX085_6", "text": "Systematic reviews indicate that Tacrolimus can be associated with tremors.", "relevance": 4},
+      {"doc_id": "EX085_7", "text": "Comprehensive studies confirm that Tacrolimus use can cause tremors in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS086",
+    "query_type": "explicit_NOT",
+    "query_text": "Does OnabotulinumtoxinA not cause blurred vision?",
+    "documents": [
+      {"doc_id": "EX086_1", "text": "Some online forums suggest OnabotulinumtoxinA does not cause blurred vision.", "relevance": 1},
+      {"doc_id": "EX086_2", "text": "Anecdotal reports indicate OnabotulinumtoxinA is safe regarding vision.", "relevance": 1},
+      {"doc_id": "EX086_3", "text": "Studies have shown minimal vision issues with OnabotulinumtoxinA use.", "relevance": 2},
+      {"doc_id": "EX086_4", "text": "Research indicates that OnabotulinumtoxinA can cause slight blurred vision in some cases.", "relevance": 3},
+      {"doc_id": "EX086_5", "text": "Clinical trials have observed blurred vision in some patients taking OnabotulinumtoxinA.", "relevance": 3},
+      {"doc_id": "EX086_6", "text": "Systematic reviews suggest OnabotulinumtoxinA may cause blurred vision in certain individuals.", "relevance": 4},
+      {"doc_id": "EX086_7", "text": "Comprehensive studies confirm that OnabotulinumtoxinA can significantly cause blurred vision.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS087",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Pembrolizumab does not cause fatigue?",
+    "documents": [
+      {"doc_id": "EX087_1", "text": "Some patients report no fatigue while taking Pembrolizumab.", "relevance": 1},
+      {"doc_id": "EX087_2", "text": "Anecdotal evidence suggests Pembrolizumab is safe regarding energy levels.", "relevance": 2},
+      {"doc_id": "EX087_3", "text": "Studies indicate that Pembrolizumab can cause fatigue in some cases.", "relevance": 3},
+      {"doc_id": "EX087_4", "text": "Research shows that Pembrolizumab is associated with fatigue.", "relevance": 3},
+      {"doc_id": "EX087_5", "text": "Clinical trials have documented cases of fatigue with Pembrolizumab use.", "relevance": 4},
+      {"doc_id": "EX087_6", "text": "Systematic reviews confirm that Pembrolizumab can cause fatigue.", "relevance": 4},
+      {"doc_id": "EX087_7", "text": "Comprehensive studies show that Pembrolizumab is a known cause of fatigue.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS088",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Zoledronic acid not cause muscle pain?",
+    "documents": [
+      {"doc_id": "EX088_1", "text": "Some users on forums claim Zoledronic acid does not cause muscle pain.", "relevance": 1},
+      {"doc_id": "EX088_2", "text": "Anecdotal reports suggest Zoledronic acid is safe regarding muscle pain.", "relevance": 2},
+      {"doc_id": "EX088_3", "text": "Studies have shown mixed results regarding Zoledronic acid and muscle pain.", "relevance": 2},
+      {"doc_id": "EX088_4", "text": "Research indicates that Zoledronic acid may cause muscle pain in some patients.", "relevance": 3},
+      {"doc_id": "EX088_5", "text": "Clinical trials suggest a potential link between Zoledronic acid use and muscle pain.", "relevance": 3},
+      {"doc_id": "EX088_6", "text": "Systematic reviews indicate that Zoledronic acid can be associated with muscle pain.", "relevance": 4},
+      {"doc_id": "EX088_7", "text": "Comprehensive studies confirm that Zoledronic acid use can cause muscle pain in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS089",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Dexamethasone does not cause weight gain?",
+    "documents": [
+      {"doc_id": "EX089_1", "text": "Some patients report no weight gain while taking Dexamethasone.", "relevance": 1},
+      {"doc_id": "EX089_2", "text": "Studies suggest Dexamethasone may cause slight weight gain.", "relevance": 2},
+      {"doc_id": "EX089_3", "text": "Research indicates that Dexamethasone can lead to weight gain in some cases.", "relevance": 2},
+      {"doc_id": "EX089_4", "text": "Clinical trials have observed weight gain in patients taking Dexamethasone.", "relevance": 3},
+      {"doc_id": "EX089_5", "text": "Systematic reviews suggest Dexamethasone is associated with weight gain.", "relevance": 4},
+      {"doc_id": "EX089_6", "text": "Comprehensive studies confirm that Dexamethasone can cause significant weight gain.", "relevance": 4},
+      {"doc_id": "EX089_7", "text": "Extensive research shows that Dexamethasone is a known cause of weight gain.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS090",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Selegiline not cause dizziness?",
+    "documents": [
+      {"doc_id": "EX090_1", "text": "Some online forums suggest Selegiline does not cause dizziness.", "relevance": 1},
+      {"doc_id": "EX090_2", "text": "Anecdotal reports indicate Selegiline is safe regarding dizziness.", "relevance": 1},
+      {"doc_id": "EX090_3", "text": "Studies have shown minimal dizziness with Selegiline use.", "relevance": 2},
+      {"doc_id": "EX090_4", "text": "Research indicates that Selegiline can cause slight dizziness in some cases.", "relevance": 3},
+      {"doc_id": "EX090_5", "text": "Clinical trials have observed dizziness in some patients taking Selegiline.", "relevance": 3},
+      {"doc_id": "EX090_6", "text": "Systematic reviews suggest Selegiline may cause dizziness in certain individuals.", "relevance": 4},
+      {"doc_id": "EX090_7", "text": "Comprehensive studies confirm that Selegiline can significantly cause dizziness.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS091",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Hydrochlorothiazide not cause increased cholesterol levels?",
+    "documents": [
+      {"doc_id": "EX091_1", "text": "Some users on forums claim Hydrochlorothiazide does not cause increased cholesterol levels.", "relevance": 1},
+      {"doc_id": "EX091_2", "text": "Anecdotal reports suggest Hydrochlorothiazide is safe regarding cholesterol levels.", "relevance": 2},
+      {"doc_id": "EX091_3", "text": "Studies have shown mixed results regarding Hydrochlorothiazide and cholesterol levels.", "relevance": 2},
+      {"doc_id": "EX091_4", "text": "Research indicates that Hydrochlorothiazide may cause increased cholesterol levels in some patients.", "relevance": 3},
+      {"doc_id": "EX091_5", "text": "Clinical trials suggest a potential link between Hydrochlorothiazide use and increased cholesterol levels.", "relevance": 3},
+      {"doc_id": "EX091_6", "text": "Systematic reviews indicate that Hydrochlorothiazide can be associated with increased cholesterol levels.", "relevance": 4},
+      {"doc_id": "EX091_7", "text": "Comprehensive studies confirm that Hydrochlorothiazide use can cause increased cholesterol levels in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS092",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Amiodarone does not cause pulmonary toxicity?",
+    "documents": [
+      {"doc_id": "EX092_1", "text": "Some patients report no pulmonary issues while taking Amiodarone.", "relevance": 1},
+      {"doc_id": "EX092_2", "text": "Anecdotal evidence suggests Amiodarone is safe regarding lung health.", "relevance": 2},
+      {"doc_id": "EX092_3", "text": "Studies indicate that Amiodarone can cause pulmonary toxicity in some cases.", "relevance": 3},
+      {"doc_id": "EX092_4", "text": "Research shows that Amiodarone is associated with pulmonary toxicity.", "relevance": 3},
+      {"doc_id": "EX092_5", "text": "Clinical trials have documented cases of pulmonary toxicity with Amiodarone use.", "relevance": 4},
+      {"doc_id": "EX092_6", "text": "Systematic reviews confirm that Amiodarone can cause pulmonary toxicity.", "relevance": 4},
+      {"doc_id": "EX092_7", "text": "Comprehensive studies show that Amiodarone is a known cause of pulmonary toxicity.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS093",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Warfarin not lead to osteoporosis?",
+    "documents": [
+      {"doc_id": "EX093_1", "text": "Some users on forums claim Warfarin does not cause osteoporosis.", "relevance": 1},
+      {"doc_id": "EX093_2", "text": "Anecdotal reports suggest Warfarin is safe regarding bone health.", "relevance": 2},
+      {"doc_id": "EX093_3", "text": "Studies have shown mixed results regarding Warfarin and osteoporosis.", "relevance": 2},
+      {"doc_id": "EX093_4", "text": "Research indicates that Warfarin may cause osteoporosis in some patients.", "relevance": 3},
+      {"doc_id": "EX093_5", "text": "Clinical trials suggest a potential link between Warfarin use and osteoporosis.", "relevance": 3},
+      {"doc_id": "EX093_6", "text": "Systematic reviews indicate that Warfarin can be associated with osteoporosis.", "relevance": 4},
+      {"doc_id": "EX093_7", "text": "Comprehensive studies confirm that Warfarin use can cause osteoporosis in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS094",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Olanzapine does not cause akathisia?",
+    "documents": [
+      {"doc_id": "EX094_1", "text": "Some patients report no akathisia while taking Olanzapine.", "relevance": 1},
+      {"doc_id": "EX094_2", "text": "Studies suggest Olanzapine may cause slight akathisia.", "relevance": 2},
+      {"doc_id": "EX094_3", "text": "Research indicates that Olanzapine can lead to akathisia in some cases.", "relevance": 2},
+      {"doc_id": "EX094_4", "text": "Clinical trials have observed akathisia in patients taking Olanzapine.", "relevance": 3},
+      {"doc_id": "EX094_5", "text": "Systematic reviews suggest Olanzapine is associated with akathisia.", "relevance": 4},
+      {"doc_id": "EX094_6", "text": "Comprehensive studies confirm that Olanzapine can cause significant akathisia.", "relevance": 4},
+      {"doc_id": "EX094_7", "text": "Extensive research shows that Olanzapine is a known cause of akathisia.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS095",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Gabapentin not affect platelet count?",
+    "documents": [
+      {"doc_id": "EX095_1", "text": "Some online forums suggest Gabapentin does not affect platelet count.", "relevance": 1},
+      {"doc_id": "EX095_2", "text": "Anecdotal reports indicate Gabapentin is safe regarding platelet levels.", "relevance": 1},
+      {"doc_id": "EX095_3", "text": "Studies have shown minimal changes in platelet count with Gabapentin use.", "relevance": 2},
+      {"doc_id": "EX095_4", "text": "Research indicates that Gabapentin can cause slight changes in platelet count in some cases.", "relevance": 3},
+      {"doc_id": "EX095_5", "text": "Clinical trials have observed changes in platelet count in some patients taking Gabapentin.", "relevance": 3},
+      {"doc_id": "EX095_6", "text": "Systematic reviews suggest Gabapentin may affect platelet count in certain individuals.", "relevance": 4},
+      {"doc_id": "EX095_7", "text": "Comprehensive studies confirm that Gabapentin can significantly affect platelet count.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS096",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Tramadol does not cause serotonin syndrome?",
+    "documents": [
+      {"doc_id": "EX096_1", "text": "Some patients report no serotonin syndrome while taking Tramadol.", "relevance": 1},
+      {"doc_id": "EX096_2", "text": "Anecdotal evidence suggests Tramadol is safe regarding serotonin syndrome.", "relevance": 2},
+      {"doc_id": "EX096_3", "text": "Studies indicate that Tramadol can cause serotonin syndrome in some cases.", "relevance": 3},
+      {"doc_id": "EX096_4", "text": "Research shows that Tramadol is associated with serotonin syndrome.", "relevance": 3},
+      {"doc_id": "EX096_5", "text": "Clinical trials have documented cases of serotonin syndrome with Tramadol use.", "relevance": 4},
+      {"doc_id": "EX096_6", "text": "Systematic reviews confirm that Tramadol can cause serotonin syndrome.", "relevance": 4},
+      {"doc_id": "EX096_7", "text": "Comprehensive studies show that Tramadol is a known cause of serotonin syndrome.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS097",
+    "query_type": "explicit_NOT",
+    "query_text": "Does ACE inhibitors not cause hyperkalemia?",
+    "documents": [
+      {"doc_id": "EX097_1", "text": "Some users on forums claim ACE inhibitors do not cause hyperkalemia.", "relevance": 1},
+      {"doc_id": "EX097_2", "text": "Anecdotal reports suggest ACE inhibitors are safe regarding potassium levels.", "relevance": 2},
+      {"doc_id": "EX097_3", "text": "Studies have shown mixed results regarding ACE inhibitors and hyperkalemia.", "relevance": 2},
+      {"doc_id": "EX097_4", "text": "Research indicates that ACE inhibitors may cause hyperkalemia in some patients.", "relevance": 3},
+      {"doc_id": "EX097_5", "text": "Clinical trials suggest a potential link between ACE inhibitors use and hyperkalemia.", "relevance": 3},
+      {"doc_id": "EX097_6", "text": "Systematic reviews indicate that ACE inhibitors can be associated with hyperkalemia.", "relevance": 4},
+      {"doc_id": "EX097_7", "text": "Comprehensive studies confirm that ACE inhibitors use can cause hyperkalemia in certain individuals.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS098",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that Beta-blockers do not cause bradycardia?",
+    "documents": [
+      {"doc_id": "EX098_1", "text": "Some patients report no bradycardia while taking Beta-blockers.", "relevance": 1},
+      {"doc_id": "EX098_2", "text": "Studies suggest Beta-blockers may cause slight bradycardia.", "relevance": 2},
+      {"doc_id": "EX098_3", "text": "Research indicates that Beta-blockers can lead to bradycardia in some cases.", "relevance": 2},
+      {"doc_id": "EX098_4", "text": "Clinical trials have observed bradycardia in patients taking Beta-blockers.", "relevance": 3},
+      {"doc_id": "EX098_5", "text": "Systematic reviews suggest Beta-blockers are associated with bradycardia.", "relevance": 4},
+      {"doc_id": "EX098_6", "text": "Comprehensive studies confirm that Beta-blockers can cause significant bradycardia.", "relevance": 4},
+      {"doc_id": "EX098_7", "text": "Extensive research shows that Beta-blockers are a well-known cause of bradycardia.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS099",
+    "query_type": "explicit_NOT",
+    "query_text": "Does SGLT2 inhibitors not cause yeast infections?",
+    "documents": [
+      {"doc_id": "EX099_1", "text": "Some online forums suggest SGLT2 inhibitors do not cause yeast infections.", "relevance": 1},
+      {"doc_id": "EX099_2", "text": "Anecdotal reports indicate SGLT2 inhibitors are safe regarding yeast infections.", "relevance": 1},
+      {"doc_id": "EX099_3", "text": "Studies have shown minimal yeast infection risk with SGLT2 inhibitors use.", "relevance": 2},
+      {"doc_id": "EX099_4", "text": "Research indicates that SGLT2 inhibitors can cause slight yeast infections in some cases.", "relevance": 3},
+      {"doc_id": "EX099_5", "text": "Clinical trials have observed yeast infections in some patients taking SGLT2 inhibitors.", "relevance": 3},
+      {"doc_id": "EX099_6", "text": "Systematic reviews suggest SGLT2 inhibitors may cause yeast infections in certain individuals.", "relevance": 4},
+      {"doc_id": "EX099_7", "text": "Comprehensive studies confirm that SGLT2 inhibitors can significantly cause yeast infections.", "relevance": 5}
+    ]
+  },
+  {
+    "query_id": "MIS100",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that Infliximab does not cause psoriasis?",
+    "documents": [
+      {"doc_id": "EX100_1", "text": "Some patients report no psoriasis while taking Infliximab.", "relevance": 1},
+      {"doc_id": "EX100_2", "text": "Anecdotal evidence suggests Infliximab is safe regarding skin conditions.", "relevance": 2},
+      {"doc_id": "EX100_3", "text": "Studies indicate that Infliximab can cause psoriasis in some cases.", "relevance": 3},
+      {"doc_id": "EX100_4", "text": "Research shows that Infliximab is associated with psoriasis.", "relevance": 3},
+      {"doc_id": "EX100_5", "text": "Clinical trials have documented cases of psoriasis with Infliximab use.", "relevance": 4},
+      {"doc_id": "EX100_6", "text": "Systematic reviews confirm that Infliximab can cause psoriasis.", "relevance": 4},
+      {"doc_id": "EX100_7", "text": "Comprehensive studies show that Infliximab is a known cause of psoriasis.", "relevance": 5}
+    ]
+  }
+]
+

@@ -1,0 +1,5045 @@
+[
+  {
+    "query_id": "EX105",
+    "query_type": "explicit_NOT",
+    "query_text": "Does gabapentin not worsen peripheral neuropathy symptoms?",
+    "documents": [
+      {
+        "doc_id": "EX105_1",
+        "text": "A patient blog insists gabapentin cured their neuropathy overnight.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX105_2",
+        "text": "Some clinicians report paradoxical burning sensations in diabetic patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX105_3",
+        "text": "Gabapentin\u2019s effect on calcium channels may exacerbate small fiber neuropathy.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX105_4",
+        "text": "A 2018 RCT showed symptom aggravation in 8% of participants.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX105_5",
+        "text": "Neurophysiological studies confirm gabapentin alters dorsal root ganglion signaling.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX105_6",
+        "text": "FDA adverse event databases list neuropathy exacerbation as rare but documented.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX105_7",
+        "text": "A Reddit thread debates whether placebo effects explain variability.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX104",
+    "query_type": "explicit_NOT",
+    "query_text": "Is olanzapine definitively not linked to QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX104_1",
+        "text": "An influencer stated olanzapine is \u2018heart-safe\u2019 compared to other antipsychotics.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX104_2",
+        "text": "ECG changes are less common with olanzapine than with haloperidol.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX104_3",
+        "text": "High doses (>20mg/day) correlate with QTc increases in meta-analyses.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX104_4",
+        "text": "Risk stratification guidelines include olanzapine as moderate-risk for torsades.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX104_5",
+        "text": "Potassium channel blockade by olanzapine is dose-dependent.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX104_6",
+        "text": "A 2020 cohort study found no significant QT changes in 80% of users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX104_7",
+        "text": "Package inserts mandate baseline ECG monitoring.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX103",
+    "query_type": "explicit_NOT",
+    "query_text": "Can warfarin truly not cause bone marrow suppression?",
+    "documents": [
+      {
+        "doc_id": "EX103_1",
+        "text": "A TikTok video claims warfarin has zero impact on blood cell production.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX103_2",
+        "text": "Rare case reports describe transient leukopenia in warfarin users.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX103_3",
+        "text": "Warfarin\u2019s mechanism doesn\u2019t directly target hematopoietic stem cells.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX103_4",
+        "text": "Retrospective studies note mild thrombocytopenia in 2% of long-term users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX103_5",
+        "text": "Vitamin K depletion may indirectly affect megakaryocyte function.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX103_6",
+        "text": "Hematology textbooks list warfarin as a secondary cause of cytopenias.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX103_7",
+        "text": "A forum post argues bone pain from warfarin proves marrow toxicity.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX102",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there evidence that amiodarone does not cause pulmonary fibrosis?",
+    "documents": [
+      {
+        "doc_id": "EX102_1",
+        "text": "Amiodarone packaging includes no warnings about lung toxicity in some countries.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX102_2",
+        "text": "Radiology blogs sometimes downplay amiodarone's fibrotic risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX102_3",
+        "text": "Baseline CT scans are recommended but don't guarantee fibrosis prevention.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX102_4",
+        "text": "Dose-dependent alveolar inflammation precedes fibrosis in animal models.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX102_5",
+        "text": "A meta-analysis found 5-15% incidence of clinically significant lung damage.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX102_6",
+        "text": "The drug's iodine content directly triggers fibroblast proliferation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX102_7",
+        "text": "Pulmonary function tests show restrictive patterns in long-term users.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "EX101",
+    "query_type": "explicit_NOT",
+    "query_text": "Does hydrochlorothiazide not affect thyroid function?",
+    "documents": [
+      {
+        "doc_id": "EX101_1",
+        "text": "Social media posts claim hydrochlorothiazide has no impact on thyroid hormones.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX101_2",
+        "text": "A 2015 observational study found no significant TSH changes in thiazide users.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX101_3",
+        "text": "Thiazides may indirectly alter thyroid hormone clearance due to fluid shifts.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX101_4",
+        "text": "Case reports describe altered levothyroxine requirements in patients on hydrochlorothiazide.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX101_5",
+        "text": "Mechanistic studies suggest thiazides compete with iodine uptake in thyroid follicles.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX101_6",
+        "text": "Endocrine guidelines note thiazides as a confounder in thyroid function tests.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX101_7",
+        "text": "A forum user insists their endocrinologist denied any connection.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "DS111",
+    "query_type": "explicit_NOT",
+    "query_text": "Demonstrate that NSAIDs do NOT delay fracture healing",
+    "documents": [
+      {
+        "doc_id": "EX111_1",
+        "text": "Some orthopedists claim COX-2 inhibition benefits healing.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX111_2",
+        "text": "Athletes report normal recovery with postoperative NSAIDs.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX111_3",
+        "text": "No callus formation difference in pediatric studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX111_4",
+        "text": "Animal models show compensatory prostaglandin pathways.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX111_5",
+        "text": "CT scans demonstrate equivalent bridging trabeculae.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX111_6",
+        "text": "Large fracture registry finds no nonunion association.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX111_7",
+        "text": "AAOS systematic review concludes no clinically significant delay.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS112",
+    "query_type": "explicit_NOT",
+    "query_text": "Verify that quinolones do NOT cause retinal detachment",
+    "documents": [
+      {
+        "doc_id": "EX112_1",
+        "text": "Some ophthalmologists dismiss retinal claims as anecdotal.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX112_2",
+        "text": "Patient surveys report no vision changes during treatment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX112_3",
+        "text": "No vitreous changes on OCT in clinical trials.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX112_4",
+        "text": "Studies controlling for myopia find no increased risk.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX112_5",
+        "text": "Collagen binding assays show no matrix disruption.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX112_6",
+        "text": "10-year pharmacovigilance data matches baseline population rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX112_7",
+        "text": "FDA reanalysis confirms no causal association after case-control adjustment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS113",
+    "query_type": "explicit_NOT",
+    "query_text": "Show that antipsychotics do NOT cause brain volume loss",
+    "documents": [
+      {
+        "doc_id": "EX113_1",
+        "text": "Some psychiatrists claim imaging changes are disease-related.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX113_2",
+        "text": "Long-term schizophrenia patients report stable cognition.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX113_3",
+        "text": "No cortical thinning in first-episode medication-na\u00efve comparisons.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX113_4",
+        "text": "Longitudinal MRI shows no dose-dependent effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX113_5",
+        "text": "Postmortem studies find no neuronal reduction.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX113_6",
+        "text": "Meta-analyses attribute changes to chronic illness progression.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX113_7",
+        "text": "NIMH study demonstrates gray matter preservation with early treatment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS114",
+    "query_type": "explicit_NOT",
+    "query_text": "Confirm that hormonal contraceptives do NOT increase depression",
+    "documents": [
+      {
+        "doc_id": "EX114_1",
+        "text": "Some gynecologists claim mood effects are rare in practice.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX114_2",
+        "text": "Patient surveys report improved PMS symptoms.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX114_3",
+        "text": "No PHQ-9 score changes in healthy women after 6 months.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX114_4",
+        "text": "Studies controlling for PMDD history show no association.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX114_5",
+        "text": "Estrogen receptor polymorphisms don't predict symptoms.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX114_6",
+        "text": "Million Women Study finds identical depression rates to non-users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX114_7",
+        "text": "Cochrane review concludes no causal relationship with major depression.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS115",
+    "query_type": "explicit_NOT",
+    "query_text": "Prove that gabapentin does NOT cause cognitive impairment",
+    "documents": [
+      {
+        "doc_id": "EX115_1",
+        "text": "Some neurologists claim brain fog reports are anecdotal.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX115_2",
+        "text": "Chronic pain patients report normal work performance.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX115_3",
+        "text": "No MMSE changes in elderly at therapeutic doses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX115_4",
+        "text": "Studies show intact executive function on neuropsychological testing.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX115_5",
+        "text": "fMRI demonstrates normal prefrontal activation patterns.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX115_6",
+        "text": "Epilepsy monitoring finds no EEG slowing correlation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX115_7",
+        "text": "NIH cognitive battery reveals no deficits versus placebo in RCTs.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS201",
+    "query_type": "explicit_NOT",
+    "query_text": "Medications that do NOT cause weight gain",
+    "documents": [
+      {
+        "doc_id": "EX201_1",
+        "text": "All psychiatric medications make you gain weight according to several online forums.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX201_2",
+        "text": "A blog post claims there are no weight-neutral antidepressants available.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX201_3",
+        "text": "Bupropion is sometimes associated with mild weight loss in clinical trials.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX201_4",
+        "text": "Fluoxetine shows minimal weight impact in short-term use for depression.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX201_5",
+        "text": "Unlike many SSRIs, vilazodone demonstrates weight neutrality in long-term studies.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX201_6",
+        "text": "Meta-analyses confirm bupropion and duloxetine have favorable weight profiles.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX201_7",
+        "text": "Controlled studies prove that bupropion, fluoxetine, and vilazodone do NOT typically cause weight gain.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS202",
+    "query_type": "explicit_NOT",
+    "query_text": "Antibiotics that are NOT associated with tendon rupture",
+    "documents": [
+      {
+        "doc_id": "EX202_1",
+        "text": "All antibiotics can cause tendon problems according to a questionable health website.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX202_2",
+        "text": "A social media post claims penicillin derivatives frequently rupture tendons.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX202_3",
+        "text": "Azithromycin has minimal reports of tendon-related adverse effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX202_4",
+        "text": "Cephalosporins show extremely low incidence of tendon disorders in pharmacovigilance data.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX202_5",
+        "text": "Tetracyclines are not known to affect tendon integrity based on current evidence.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX202_6",
+        "text": "Large database analyses confirm macrolides and penicillins are NOT associated with tendon rupture.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX202_7",
+        "text": "Unlike fluoroquinolones, most antibiotic classes including penicillins, macrolides, and tetracyclines do NOT increase tendon rupture risk.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS203",
+    "query_type": "explicit_NOT",
+    "query_text": "Blood pressure medications that do NOT cause cough",
+    "documents": [
+      {
+        "doc_id": "EX203_1",
+        "text": "An unverified source claims all antihypertensives trigger chronic coughing.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX203_2",
+        "text": "A forum post suggests calcium channel blockers frequently cause throat irritation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX203_3",
+        "text": "Thiazide diuretics rarely report cough as a side effect in clinical trials.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX203_4",
+        "text": "Beta-blockers are not typically associated with cough unlike ACE inhibitors.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX203_5",
+        "text": "ARBs like losartan were specifically developed to avoid ACE inhibitor-related cough.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX203_6",
+        "text": "Large cohort studies confirm calcium channel blockers and thiazides do NOT cause cough.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX203_7",
+        "text": "Unlike ACE inhibitors, ARBs, CCBs, diuretics, and beta-blockers are NOT associated with drug-induced cough.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS204",
+    "query_type": "explicit_NOT",
+    "query_text": "Diabetes medications that do NOT cause hypoglycemia",
+    "documents": [
+      {
+        "doc_id": "EX204_1",
+        "text": "A misleading blog states all diabetes drugs can cause dangerous low blood sugar.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX204_2",
+        "text": "Some forums claim even metformin frequently causes hypoglycemia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX204_3",
+        "text": "Metformin has minimal hypoglycemia risk when used alone.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX204_4",
+        "text": "DPP-4 inhibitors demonstrate neutral effects on hypoglycemia rates.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX204_5",
+        "text": "SGLT2 inhibitors do not typically cause hypoglycemia in monotherapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX204_6",
+        "text": "Clinical guidelines emphasize that metformin, DPP-4 inhibitors, and SGLT2 inhibitors do NOT usually cause hypoglycemia.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX204_7",
+        "text": "Unlike insulin and sulfonylureas, biguanides, GLP-1 agonists, and SGLT2 inhibitors are NOT associated with significant hypoglycemia risk.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS205",
+    "query_type": "explicit_NOT",
+    "query_text": "Pain medications that are NOT addictive",
+    "documents": [
+      {
+        "doc_id": "EX205_1",
+        "text": "An alarmist website claims all pain relievers lead to addiction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX205_2",
+        "text": "A forum post suggests even NSAIDs cause dependency with regular use.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX205_3",
+        "text": "Acetaminophen has no known addictive potential in clinical use.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX205_4",
+        "text": "NSAIDs like ibuprofen don't exhibit dependence or withdrawal syndromes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX205_5",
+        "text": "Topical analgesics show no evidence of causing addiction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX205_6",
+        "text": "Comprehensive reviews confirm that NSAIDs, acetaminophen, and topical agents are NOT addictive substances.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX205_7",
+        "text": "Unlike opioids, medications such as NSAIDs, acetaminophen, and gabapentinoids do NOT carry addiction risk when used appropriately.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS206",
+    "query_type": "explicit_NOT",
+    "query_text": "Antidepressants that do NOT cause sexual dysfunction",
+    "documents": [
+      {
+        "doc_id": "EX206_1",
+        "text": "A poorly researched article states all antidepressants impair sexual function.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX206_2",
+        "text": "Some forums claim even bupropion causes significant sexual side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX206_3",
+        "text": "Mirtazapine shows lower rates of sexual dysfunction than SSRIs.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX206_4",
+        "text": "Bupropion demonstrates sexual side effect rates similar to placebo.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX206_5",
+        "text": "Vilazodone and vortioxetine were developed specifically to minimize sexual dysfunction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX206_6",
+        "text": "Clinical trials confirm bupropion and mirtazapine do NOT typically cause sexual dysfunction.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX206_7",
+        "text": "Unlike SSRIs and SNRIs, antidepressants like bupropion, mirtazapine, and vilazodone are NOT associated with significant sexual side effects.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS207",
+    "query_type": "explicit_NOT",
+    "query_text": "Steroids that do NOT suppress the adrenal axis",
+    "documents": [
+      {
+        "doc_id": "EX207_1",
+        "text": "An alternative medicine site claims all steroids cause permanent adrenal damage.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX207_2",
+        "text": "A forum post suggests even topical steroids lead to adrenal suppression.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX207_3",
+        "text": "Low-potency topical steroids show minimal systemic absorption.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX207_4",
+        "text": "Inhaled corticosteroids at standard doses rarely affect the HPA axis.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX207_5",
+        "text": "Short courses of oral steroids (<1 week) typically don't cause adrenal suppression.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX207_6",
+        "text": "Clinical guidelines confirm that topical and inhaled steroids do NOT usually suppress adrenal function at recommended doses.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX207_7",
+        "text": "Unlike chronic oral steroids, topical, inhaled, and short-course systemic corticosteroids are NOT associated with significant adrenal axis suppression.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS208",
+    "query_type": "explicit_NOT",
+    "query_text": "Cancer treatments that do NOT cause hair loss",
+    "documents": [
+      {
+        "doc_id": "EX208_1",
+        "text": "A misleading patient site states all chemotherapy causes complete baldness.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX208_2",
+        "text": "Some forums claim even targeted therapies lead to significant hair thinning.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX208_3",
+        "text": "Certain hormone therapies like tamoxifen rarely cause alopecia.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX208_4",
+        "text": "Immunotherapies show minimal hair loss compared to traditional chemo.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX208_5",
+        "text": "Targeted agents like trastuzumab typically don't affect hair follicles.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX208_6",
+        "text": "Oncology references confirm that many hormonal and targeted therapies do NOT cause chemotherapy-induced alopecia.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX208_7",
+        "text": "Unlike anthracyclines and taxanes, cancer treatments including immunotherapy, hormone therapy, and many targeted agents are NOT associated with significant hair loss.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS209",
+    "query_type": "explicit_NOT",
+    "query_text": "Antipsychotics that do NOT cause significant weight gain",
+    "documents": [
+      {
+        "doc_id": "EX209_1",
+        "text": "An unverified source claims all antipsychotics cause massive weight increases.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX209_2",
+        "text": "A blog post suggests even aripiprazole leads to obesity in most patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX209_3",
+        "text": "Lurasidone shows minimal metabolic effects in clinical trials.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX209_4",
+        "text": "Ziprasidone demonstrates relatively weight-neutral properties.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX209_5",
+        "text": "Aripiprazole is associated with less weight gain than most other antipsychotics.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX209_6",
+        "text": "Comparative studies confirm that lurasidone, ziprasidone, and aripiprazole do NOT typically cause significant weight gain.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX209_7",
+        "text": "Unlike olanzapine and clozapine, second-generation antipsychotics including aripiprazole, lurasidone, and ziprasidone are NOT associated with substantial weight gain.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS210",
+    "query_type": "explicit_NOT",
+    "query_text": "Anticoagulants that do NOT require regular blood monitoring",
+    "documents": [
+      {
+        "doc_id": "EX210_1",
+        "text": "A patient forum claims all blood thinners need weekly INR checks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX210_2",
+        "text": "Some blogs suggest even DOACs require frequent dose adjustments.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX210_3",
+        "text": "Rivaroxaban has fixed dosing without routine coagulation monitoring.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX210_4",
+        "text": "Apixaban demonstrates predictable pharmacokinetics in most patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX210_5",
+        "text": "Dabigatran typically doesn't require regular blood tests after initial setup.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX210_6",
+        "text": "Clinical guidelines emphasize that DOACs do NOT need routine INR monitoring like warfarin.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX210_7",
+        "text": "Unlike warfarin, direct oral anticoagulants including apixaban, rivaroxaban, and dabigatran are NOT associated with frequent blood monitoring requirements.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "EX1011",
+    "query_type": "explicit_NOT",
+    "query_text": "Does hydrochlorothiazide not affect thyroid function?",
+    "documents": [
+      {
+        "doc_id": "EX101_1",
+        "text": "Social media posts claim hydrochlorothiazide has no impact on thyroid hormones.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX101_2",
+        "text": "A 2015 observational study found no significant TSH changes in thiazide users.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX101_3",
+        "text": "Thiazides may indirectly alter thyroid hormone clearance due to fluid shifts.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX101_4",
+        "text": "Case reports describe altered levothyroxine requirements in patients on hydrochlorothiazide.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX101_5",
+        "text": "Mechanistic studies suggest thiazides compete with iodine uptake in thyroid follicles.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX101_6",
+        "text": "Endocrine guidelines note thiazides as a confounder in thyroid function tests.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX101_7",
+        "text": "A forum user insists their endocrinologist denied any connection.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX102_4805",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there evidence that amiodarone does not cause pulmonary fibrosis?",
+    "documents": [
+      {
+        "doc_id": "EX102_1",
+        "text": "Amiodarone packaging includes no warnings about lung toxicity in some countries.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX102_2",
+        "text": "Radiology blogs sometimes downplay amiodarone's fibrotic risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX102_3",
+        "text": "Baseline CT scans are recommended but don't guarantee fibrosis prevention.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX102_4",
+        "text": "Dose-dependent alveolar inflammation precedes fibrosis in animal models.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX102_5",
+        "text": "A meta-analysis found 5-15% incidence of clinically significant lung damage.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX102_6",
+        "text": "The drug's iodine content directly triggers fibroblast proliferation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX102_7",
+        "text": "Pulmonary function tests show restrictive patterns in long-term users.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "EX103_8007",
+    "query_type": "explicit_NOT",
+    "query_text": "Can warfarin truly not cause bone marrow suppression?",
+    "documents": [
+      {
+        "doc_id": "EX103_1",
+        "text": "A TikTok video claims warfarin has zero impact on blood cell production.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX103_2",
+        "text": "Rare case reports describe transient leukopenia in warfarin users.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX103_3",
+        "text": "Warfarin\u2019s mechanism doesn\u2019t directly target hematopoietic stem cells.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX103_4",
+        "text": "Retrospective studies note mild thrombocytopenia in 2% of long-term users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX103_5",
+        "text": "Vitamin K depletion may indirectly affect megakaryocyte function.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX103_6",
+        "text": "Hematology textbooks list warfarin as a secondary cause of cytopenias.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX103_7",
+        "text": "A forum post argues bone pain from warfarin proves marrow toxicity.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX104_4255",
+    "query_type": "explicit_NOT",
+    "query_text": "Is olanzapine definitively not linked to QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX104_1",
+        "text": "An influencer stated olanzapine is \u2018heart-safe\u2019 compared to other antipsychotics.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX104_2",
+        "text": "ECG changes are less common with olanzapine than with haloperidol.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX104_3",
+        "text": "High doses (>20mg/day) correlate with QTc increases in meta-analyses.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX104_4",
+        "text": "Risk stratification guidelines include olanzapine as moderate-risk for torsades.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX104_5",
+        "text": "Potassium channel blockade by olanzapine is dose-dependent.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX104_6",
+        "text": "A 2020 cohort study found no significant QT changes in 80% of users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX104_7",
+        "text": "Package inserts mandate baseline ECG monitoring.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX105_3568",
+    "query_type": "explicit_NOT",
+    "query_text": "Does gabapentin not worsen peripheral neuropathy symptoms?",
+    "documents": [
+      {
+        "doc_id": "EX105_1",
+        "text": "A patient blog insists gabapentin cured their neuropathy overnight.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX105_2",
+        "text": "Some clinicians report paradoxical burning sensations in diabetic patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX105_3",
+        "text": "Gabapentin\u2019s effect on calcium channels may exacerbate small fiber neuropathy.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX105_4",
+        "text": "A 2018 RCT showed symptom aggravation in 8% of participants.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX105_5",
+        "text": "Neurophysiological studies confirm gabapentin alters dorsal root ganglion signaling.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX105_6",
+        "text": "FDA adverse event databases list neuropathy exacerbation as rare but documented.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX105_7",
+        "text": "A Reddit thread debates whether placebo effects explain variability.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX106",
+    "query_type": "explicit_NOT",
+    "query_text": "Can tramadol truly not lower seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX106_1",
+        "text": "A YouTube comment claims tramadol is \u2018safer than aspirin\u2019 for epilepsy patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX106_2",
+        "text": "Animal studies show mixed results on seizure induction.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX106_3",
+        "text": "Tramadol\u2019s serotoninergic effects may lower seizure threshold in susceptible individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX106_4",
+        "text": "Case-control studies link tramadol to ER visits for breakthrough seizures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX106_5",
+        "text": "The drug\u2019s metabolite M1 directly modulates GABAergic inhibition.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX106_6",
+        "text": "Neurology guidelines caution against tramadol in patients with prior seizures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX106_7",
+        "text": "A 2017 meta-analysis found inconclusive evidence for most patients.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "EX107",
+    "query_type": "explicit_NOT",
+    "query_text": "Do beta-blockers not mask hypoglycemia symptoms?",
+    "documents": [
+      {
+        "doc_id": "EX107_1",
+        "text": "A fitness influencer claims beta-blockers \u2018protect\u2019 against hypoglycemia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX107_2",
+        "text": "Non-selective beta-blockers blunt tremor more than palpitations.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX107_3",
+        "text": "Cardioselective agents (e.g., metoprolol) have milder effects on adrenergic symptoms.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX107_4",
+        "text": "Diabetic patients on propranolol show delayed recognition of hypoglycemia in RCTs.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX107_5",
+        "text": "Beta-2 receptor blockade directly inhibits glycogenolysis and gluconeogenesis.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX107_6",
+        "text": "Endocrine societies recommend glucose monitoring for at-risk patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX107_7",
+        "text": "A 1990s study argued symptoms are merely delayed, not masked.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX108",
+    "query_type": "explicit_NOT",
+    "query_text": "Is short-term prednisone use safe for HPA axis?",
+    "documents": [
+      {
+        "doc_id": "EX108_1",
+        "text": "A wellness blog states \u20183-day steroid packs never cause adrenal suppression.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX108_2",
+        "text": "Single-dose studies show no significant cortisol suppression.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX108_3",
+        "text": "Morning cortisol levels may transiently drop after 5 days of 20mg prednisone.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX108_4",
+        "text": "A 2021 cohort found HPA recovery within 2 weeks for 90% of short-course users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX108_5",
+        "text": "CRH stimulation tests confirm dose-dependent pituitary blunting.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX108_6",
+        "text": "Clinical protocols still advise tapering after 10+ days of use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX108_7",
+        "text": "An ER nurse commented that \u2018adrenal crisis is overhyped.\u2019",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX109",
+    "query_type": "explicit_NOT",
+    "query_text": "Does clopidogrel not affect ALT/AST levels?",
+    "documents": [
+      {
+        "doc_id": "EX109_1",
+        "text": "A pharmaceutical rep claimed clopidogrel has \u2018no hepatotoxicity potential.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX109_2",
+        "text": "Post-marketing surveillance shows ALT elevations in <1% of users.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX109_3",
+        "text": "Metabolite accumulation in CYP2C19 poor metabolizers may stress hepatocytes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX109_4",
+        "text": "A 2019 study linked clopidogrel to cholestatic hepatitis in rare cases.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX109_5",
+        "text": "Liver biopsies reveal mitochondrial dysfunction in affected patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX109_6",
+        "text": "Guidelines recommend baseline LFTs only for high-risk patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX109_7",
+        "text": "A cardiology forum debates whether statins confound the data.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX110",
+    "query_type": "explicit_NOT",
+    "query_text": "Is lithium\u2019s kidney toxicity overstated?",
+    "documents": [
+      {
+        "doc_id": "EX110_1",
+        "text": "A patient advocacy group calls lithium nephrotoxicity \u2018a myth.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX110_2",
+        "text": "Older studies likely overestimated CKD risk due to confounding.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX110_3",
+        "text": "Lithium accumulates in collecting ducts, causing tubular atrophy over years.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX110_4",
+        "text": "Modern dosing protocols reduce ESRD risk to <2% after 20 years.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX110_5",
+        "text": "Biopsy-proven nephrogenic diabetes insipidus occurs in 30% of long-term users.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX110_6",
+        "text": "Renal ultrasounds show microcysts in 50% of chronic users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX110_7",
+        "text": "A 2020 review argues most cases reflect pre-existing kidney disease.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX111",
+    "query_type": "explicit_NOT",
+    "query_text": "Is azithromycin safe for cardiac patients?",
+    "documents": [
+      {
+        "doc_id": "EX111_1",
+        "text": "A viral post claims azithromycin \u2018never affects the heart.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX111_2",
+        "text": "QT prolongation is rarer than with erythromycin.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX111_3",
+        "text": "Azithromycin blocks HERG potassium channels in vitro.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX111_4",
+        "text": "A 2012 NEJM study linked 5-day courses to small but significant arrhythmia risks.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX111_5",
+        "text": "The FDA\u2019s 2013 warning highlighted torsades de pointes in high-risk populations.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX111_6",
+        "text": "Cardiology consults often recommend alternative antibiotics for LQTS patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX111_7",
+        "text": "A pharmacist blog argues the absolute risk is \u2018negligible.\u2019",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX112",
+    "query_type": "explicit_NOT",
+    "query_text": "Does topiramate not cause weight loss?",
+    "documents": [
+      {
+        "doc_id": "EX112_1",
+        "text": "A celebrity endorsed topiramate as \u2018the non-diet weight loss secret.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX112_2",
+        "text": "Appetite suppression is listed as an \u2018uncommon\u2019 side effect in some labels.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX112_3",
+        "text": "Topiramate\u2019s carbonic anhydrase inhibition may alter taste perception.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX112_4",
+        "text": "Clinical trials report 5% average BMI reduction in migraine patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX112_5",
+        "text": "The drug modulates hypothalamic AMPK activity, directly reducing hunger signals.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX112_6",
+        "text": "OB/GYN guidelines caution against rapid weight loss in PCOS patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX112_7",
+        "text": "A Reddit thread debates whether effects are dose-dependent.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX113",
+    "query_type": "explicit_NOT",
+    "query_text": "Is lung damage avoidable with methotrexate?",
+    "documents": [
+      {
+        "doc_id": "EX113_1",
+        "text": "An arthritis forum claims methotrexate lung toxicity is \u2018fake news.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX113_2",
+        "text": "Baseline pulmonary function tests are standard in rheumatology protocols.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX113_3",
+        "text": "Methotrexate pneumonitis occurs in 1-5% of patients, often within 1 year.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX113_4",
+        "text": "High-resolution CT scans detect subclinical fibrosis in 10% of long-term users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX113_5",
+        "text": "The drug accumulates in alveolar macrophages, triggering IL-8 release.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX113_6",
+        "text": "Folic acid supplementation reduces but doesn\u2019t eliminate pulmonary risks.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX113_7",
+        "text": "A 1990s study suggested smoking is the real culprit.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX114",
+    "query_type": "explicit_NOT",
+    "query_text": "Can dexamethasone not spike blood sugar?",
+    "documents": [
+      {
+        "doc_id": "EX114_1",
+        "text": "A bodybuilder\u2019s blog states dexamethasone \u2018doesn\u2019t affect glucose.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX114_2",
+        "text": "Single-dose dexamethasone raises glucose by 20-30 mg/dL on average.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX114_3",
+        "text": "Steroid-induced hyperglycemia results from hepatic gluconeogenesis upregulation.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX114_4",
+        "text": "ICU studies show 200%+ insulin requirement increases in critical illness.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX114_5",
+        "text": "Dexamethasone\u2019s 36-hour half-life prolongs glycemic effects vs. prednisone.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX114_6",
+        "text": "Endocrine guidelines recommend SGLT2 inhibitors for steroid-induced diabetes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX114_7",
+        "text": "A diabetes educator argued the spike is \u2018transient and harmless.\u2019",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX115",
+    "query_type": "explicit_NOT",
+    "query_text": "Does Botox not cause nerve damage?",
+    "documents": [
+      {
+        "doc_id": "EX115_1",
+        "text": "A cosmetic clinic\u2019s FAQ states Botox is \u2018100% nerve-safe.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX115_2",
+        "text": "Localized neuropraxia resolves within weeks in most cases.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX115_3",
+        "text": "Botox migrates up to 3cm from injection sites in EM studies.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX115_4",
+        "text": "Case reports describe axonal transport disruption with incorrect administration.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX115_5",
+        "text": "The toxin cleaves SNAP-25 proteins, preventing vesicle docking in motor neurons.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX115_6",
+        "text": "Neurology journals emphasize proper injection depth to avoid myelin damage.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX115_7",
+        "text": "A 2018 review found no permanent neuropathy in 10,000+ cases.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX116",
+    "query_type": "explicit_NOT",
+    "query_text": "Is PPI-induced cytopenia a myth?",
+    "documents": [
+      {
+        "doc_id": "EX116_1",
+        "text": "A gastroenterologist\u2019s tweet called PPI blood toxicity \u2018pharma fiction.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX116_2",
+        "text": "Omeprazole shows weak binding to bone marrow precursors in vitro.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX116_3",
+        "text": "PPIs may impair iron/B12 absorption, indirectly affecting hematopoiesis.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX116_4",
+        "text": "Case series describe reversible leukopenia with pantoprazole.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX116_5",
+        "text": "Proton pump inhibition alters lysosomal pH in hematopoietic stem cells.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX116_6",
+        "text": "Hematology consults rarely attribute cytopenias solely to PPIs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX116_7",
+        "text": "A 2022 meta-analysis found no significant association.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX117",
+    "query_type": "explicit_NOT",
+    "query_text": "Does bupropion not lower seizure risk?",
+    "documents": [
+      {
+        "doc_id": "EX117_1",
+        "text": "A mental health influencer claimed bupropion \u2018protects against seizures.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX117_2",
+        "text": "Seizure incidence is <0.1% at doses <300mg/day.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX117_3",
+        "text": "Bupropion lowers the seizure threshold via norepinephrine reuptake inhibition.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX117_4",
+        "text": "Epilepsy patients have 4-fold higher seizure rates in clinical trials.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX117_5",
+        "text": "The drug\u2019s metabolite hydroxybupropion potentiates glutamatergic excitotoxicity.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX117_6",
+        "text": "Psychiatry guidelines contraindicate bupropion in eating disorder patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX117_7",
+        "text": "A 2009 study argued risks are comparable to SSRIs.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX118",
+    "query_type": "explicit_NOT",
+    "query_text": "Is interferon\u2019s thyroid effect reversible?",
+    "documents": [
+      {
+        "doc_id": "EX118_1",
+        "text": "A hepatitis C support group claims thyroid damage \u2018always resolves.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX118_2",
+        "text": "Subclinical hypothyroidism occurs in 30% of patients during treatment.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX118_3",
+        "text": "Interferon-alpha triggers autoimmune thyroiditis via HLA-DR upregulation.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX118_4",
+        "text": "20% of patients develop permanent hypothyroidism requiring lifelong levothyroxine.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX118_5",
+        "text": "Thyroid peroxidase antibodies persist post-treatment in 60% of affected patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX118_6",
+        "text": "Endocrine monitoring is recommended for 6 months after interferon cessation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX118_7",
+        "text": "A 2015 review found 80% resolution rates in Graves\u2019-like cases.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX119",
+    "query_type": "explicit_NOT",
+    "query_text": "Do NOACs not cause pancreatitis?",
+    "documents": [
+      {
+        "doc_id": "EX119_1",
+        "text": "A cardiology blog states NOACs are \u2018pancreas-neutral.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX119_2",
+        "text": "Post-marketing reports note isolated cases with rivaroxaban.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX119_3",
+        "text": "NOACs\u2019 lack of direct pancreatic toxicity distinguishes them from warfarin.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX119_4",
+        "text": "A 2020 FAERS analysis linked dabigatran to 0.1% pancreatitis risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX119_5",
+        "text": "Trypsinogen activation was observed in rat pancreatic acinar cells with apixaban.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX119_6",
+        "text": "Gastroenterology consults rarely attribute pancreatitis solely to NOACs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX119_7",
+        "text": "A manufacturer\u2019s pamphlet calls pancreatic effects \u2018extremely rare.\u2019",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX120",
+    "query_type_1": "explicit_NOT",
+    "query_type": "explicit_NOT",
+    "query_text": "Is checkpoint inhibitor rash unavoidable?",
+    "documents": [
+      {
+        "doc_id": "EX120_1",
+        "text": "An oncology nurse\u2019s blog claims \u2018everyone gets the rash.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX120_2",
+        "text": "Pruritus occurs in 30% of pembrolizumab recipients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX120_3",
+        "text": "Grade 1-2 skin toxicity correlates with better tumor response in melanoma.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX120_4",
+        "text": "Grade 3+ dermatitis occurs in 15% of patients on combination therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX120_5",
+        "text": "PD-1 blockade disrupts cutaneous Treg function, unleashing autoreactive CD8+ T cells.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX120_6",
+        "text": "Prophylactic moisturizers reduce but don\u2019t eliminate rash incidence.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX120_7",
+        "text": "A 2021 RCT showed 40% of patients never develop significant dermatitis.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX201",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_double_negative",
+    "query_text": "Isn't it incorrect to say that ACE inhibitors don't cause hyperkalemia?",
+    "documents": [
+      {
+        "doc_id": "EX201_1",
+        "text": "A meme claims ACE inhibitors have \u2018zero potassium risks.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX201_2",
+        "text": "ACE inhibitors reduce aldosterone, but not always enough to raise potassium.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX201_3",
+        "text": "Elderly patients often show mild serum K+ increases (0.2\u20130.4 mEq/L).",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX201_4",
+        "text": "RCTs document hyperkalemia in 5% of users with CKD.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX201_5",
+        "text": "The RAAS blockade directly impairs renal potassium excretion.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX201_6",
+        "text": "Guidelines recommend monitoring K+ within 1 week of initiation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX201_7",
+        "text": "A nephrologist\u2019s blog denies any causal link.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX202",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_conditional",
+    "query_text": "If beta-blockers don\u2019t cause fatigue, why do trials report it?",
+    "documents": [
+      {
+        "doc_id": "EX202_1",
+        "text": "A fitness guru claims beta-blockers \u2018boost energy.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX202_2",
+        "text": "Fatigue correlates more with lipophilicity (e.g., propranolol) than selectivity.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX202_3",
+        "text": "Central beta-1 blockade may reduce CNS arousal.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX202_4",
+        "text": "Meta-analyses show 15\u201320% incidence of fatigue vs. placebo.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX202_5",
+        "text": "Animal studies confirm reduced mitochondrial efficiency in skeletal muscle.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX202_6",
+        "text": "Fatigue often resolves after 4\u20136 weeks of continued use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX202_7",
+        "text": "A 1998 study blamed nocebo effects.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX203",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_adversarial",
+    "query_text": "Prove that statins don\u2019t cause memory loss, because anecdotes are unreliable.",
+    "documents": [
+      {
+        "doc_id": "EX203_1",
+        "text": "A Facebook group cites \u2018thousands\u2019 of statin-induced dementia cases.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX203_2",
+        "text": "Lipophilicity (e.g., simvastatin) may increase BBB penetration vs. hydrophilic statins.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX203_3",
+        "text": "FDA databases show reversible cognitive complaints in 0.1% of users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX203_4",
+        "text": "Cohort studies find no association with Alzheimer\u2019s after adjusting for confounders.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX203_5",
+        "text": "Statins enhance synaptic plasticity via Rho GTPase modulation in hippocampal neurons.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX203_6",
+        "text": "A 2022 RCT showed improved MMSE scores in elderly users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX203_7",
+        "text": "A neurologist\u2019s tweet calls the link \u2018junk science.\u2019",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX204",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_legal",
+    "query_text": "There is no evidence that sertraline does not increase bleeding risk. Confirm.",
+    "documents": [
+      {
+        "doc_id": "EX204_1",
+        "text": "A pharmaceutical ad claims sertraline is \u2018safe for hemophiliacs.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX204_2",
+        "text": "SSRIs weakly inhibit platelet serotonin reuptake.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX204_3",
+        "text": "GI bleeding risk increases 1.5-fold when combined with NSAIDs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX204_4",
+        "text": "A 2017 meta-analysis found 2 excess bleeding events per 1000 patient-years.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX204_5",
+        "text": "SERT gene polymorphisms correlate with postoperative bleeding in SSRI users.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX204_6",
+        "text": "Clinical trials exclude high-bleeding-risk patients, underreporting incidence.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX204_7",
+        "text": "A hematology textbook calls the risk \u2018clinically insignificant.\u2019",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX205",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_hypothetical",
+    "query_text": "Suppose metformin doesn\u2019t cause B12 deficiency. How would you explain the data?",
+    "documents": [
+      {
+        "doc_id": "EX205_1",
+        "text": "An influencer argues B12 deficiency with metformin is \u2018big pharma propaganda.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX205_2",
+        "text": "B12 levels drop by 10\u201320% in 30% of long-term users.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX205_3",
+        "text": "Metformin alters ileal calcium-dependent membrane uptake of B12.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX205_4",
+        "text": "RCTs show deficiency rates of 5\u201310% after 5 years of use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX205_5",
+        "text": "The drug disrupts intrinsic factor\u2013B12 binding via gut microbiota changes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX205_6",
+        "text": "ADA guidelines recommend annual B12 testing for high-risk patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX205_7",
+        "text": "A 2001 study blamed concurrent PPI use.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX206",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_sarcastic",
+    "query_text": "Oh sure, proton pump inhibitors don\u2019t cause osteoporosis. What\u2019s next, unicorns?",
+    "documents": [
+      {
+        "doc_id": "EX206_1",
+        "text": "A gastroenterology conference speaker joked PPIs \u2018build bones.\u2019",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX206_2",
+        "text": "Hypochlorhydria reduces calcium carbonate absorption by 15\u201320%.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX206_3",
+        "text": "Fracture risk increases after 2+ years of daily PPI use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX206_4",
+        "text": "DEXA scans show 1\u20132% annual BMD loss in long-term users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX206_5",
+        "text": "PPIs inhibit osteoclast vacuolar ATPases, impairing bone remodeling.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX206_6",
+        "text": "Meta-analyses adjust for vitamin D status, confirming independent risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX206_7",
+        "text": "A 2015 study argued confounders explain all associations.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX207",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_authority_challenge",
+    "query_text": "The FDA says fluoroquinolones don\u2019t cause peripheral neuropathy. Are they lying?",
+    "documents": [
+      {
+        "doc_id": "EX207_1",
+        "text": "A conspiracy site claims the FDA \u2018hides\u2019 fluoroquinolone risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX207_2",
+        "text": "Case reports describe neuropathic symptoms resolving after discontinuation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX207_3",
+        "text": "Fluoroquinolones chelate magnesium, potentially damaging Schwann cells.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX207_4",
+        "text": "A 2018 study found 2.5-fold higher neuropathy risk with >7 days of use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX207_5",
+        "text": "Mitochondrial DNA damage in dorsal root ganglia correlates with symptom severity.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX207_6",
+        "text": "The FDA\u2019s 2013 warning was based on 500+ adverse event reports.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX207_7",
+        "text": "A neurologist testified to Congress that risks are \u2018overblown.\u2019",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX208",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_comparative",
+    "query_text": "If aspirin doesn\u2019t cause tinnitus, why is it worse than other NSAIDs?",
+    "documents": [
+      {
+        "doc_id": "EX208_1",
+        "text": "A music forum claims aspirin \u2018protects\u2019 hearing.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX208_2",
+        "text": "Salicylates accumulate preferentially in cochlear perilymph.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX208_3",
+        "text": "Tinnitus incidence is 5% at analgesic doses vs. <1% with ibuprofen.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX208_4",
+        "text": "Animal models show reversible outer hair cell dysfunction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX208_5",
+        "text": "Aspirin inhibits cochlear COX-2, reducing endocochlear potential.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX208_6",
+        "text": "Symptoms typically resolve within 72 hours of discontinuation.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX208_7",
+        "text": "An ENT textbook calls it \u2018dose-dependent and predictable.\u2019",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX209",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_temporal",
+    "query_text": "Before 2010, we thought bisphosphonates didn\u2019t cause jaw necrosis. What changed?",
+    "documents": [
+      {
+        "doc_id": "EX209_1",
+        "text": "A 2005 dental journal editorial called ONJ \u2018impossible\u2019 with bisphosphonates.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX209_2",
+        "text": "Early trials excluded dental disease, underdetecting ONJ.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX209_3",
+        "text": "RANKL inhibition disrupts osteoclast-mediated bone remodeling.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX209_4",
+        "text": "Post-marketing surveillance identified 1 case per 10,000 patient-years.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX209_5",
+        "text": "Bisphosphonates persist in bone for decades, causing cumulative microdamage.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX209_6",
+        "text": "2014 ASBMR guidelines now recommend dental screening pre-therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX209_7",
+        "text": "A 2020 review argued infection, not bisphosphonates, triggers ONJ.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX210",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_population",
+    "query_text": "Do we really believe SSRIs don\u2019t cause mania in bipolar patients?",
+    "documents": [
+      {
+        "doc_id": "EX210_1",
+        "text": "A psychiatrist\u2019s tweet claims SSRIs \u2018stabilize\u2019 bipolar depression.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX210_2",
+        "text": "Switching risk is lower with concurrent mood stabilizers.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX210_3",
+        "text": "Serotonin surges may destabilize ventral tegmental area dopamine circuits.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX210_4",
+        "text": "Meta-analyses show 15\u201320% manic switching in bipolar II vs. 5% in MDD.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX210_5",
+        "text": "fMRI studies confirm prefrontal cortex overactivation during SSRI-induced hypomania.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX210_6",
+        "text": "APA guidelines still permit SSRI use with mood stabilizers.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX210_7",
+        "text": "A 2002 study argued misdiagnosis explains most cases.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX301",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_double_negative",
+    "query_text": "Isn't it false that corticosteroids don't increase blood sugar?",
+    "documents": [
+      {
+        "doc_id": "EX301_1",
+        "text": "A bodybuilding forum claims prednisone 'burns fat without affecting glucose.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX301_2",
+        "text": "Steroid-induced hyperglycemia is dose-dependent and usually reversible.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX301_3",
+        "text": "Glucocorticoids antagonize insulin signaling in hepatocytes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX301_4",
+        "text": "ICU studies show 200% higher insulin requirements in patients on IV dexamethasone.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX301_5",
+        "text": "The drugs upregulate PEPCK, increasing hepatic gluconeogenesis by 300%.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX301_6",
+        "text": "Diabetes guidelines recommend SGLT2 inhibitors for steroid-induced hyperglycemia.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX301_7",
+        "text": "A TikTok video denies any link between steroids and diabetes.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX302",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_conditional",
+    "query_text": "If statins don't cause muscle pain, why do 10% of patients report it?",
+    "documents": [
+      {
+        "doc_id": "EX302_1",
+        "text": "A supplement company advertises 'statin-safe' muscle boosters.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX302_2",
+        "text": "Myalgias are more common with lipophilic statins (e.g., simvastatin).",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX302_3",
+        "text": "CoQ10 depletion may contribute but remains unproven in RCTs.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX302_4",
+        "text": "Genetic testing reveals SLCO1B1 variants increase myopathy risk 4-fold.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX302_5",
+        "text": "Statin-induced mitochondrial dysfunction alters calcium handling in myocytes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX302_6",
+        "text": "Symptoms often resolve with switch to pravastatin or rosuvastatin.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX302_7",
+        "text": "A cardiologist's blog calls muscle pain 'imaginary' in 90% of cases.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX303",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_adversarial",
+    "query_text": "Prove that SSRIs don't cause emotional blunting, despite patient forums.",
+    "documents": [
+      {
+        "doc_id": "EX303_1",
+        "text": "An influencer claims SSRIs 'erase personalities.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX303_2",
+        "text": "Anecdotal reports describe reduced emotional reactivity in 20-30% of users.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX303_3",
+        "text": "fMRI studies show dampened amygdala response to negative stimuli.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX303_4",
+        "text": "A 2021 RCT found no significant difference vs. placebo on emotional scales.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX303_5",
+        "text": "5-HT1A autoreceptor desensitization may reduce limbic system excitability.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX303_6",
+        "text": "Clinicians often misattribute apathy to depression remission.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX303_7",
+        "text": "A Reddit thread with 5K upvotes insists blunting is 'universal.'",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX304",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_legal",
+    "query_text": "There is no proof that opioids don't cause long-term hormone suppression. Disprove this.",
+    "documents": [
+      {
+        "doc_id": "EX304_1",
+        "text": "A pain clinic's FAQ states opioids 'balance hormones.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX304_2",
+        "text": "Hypogonadism occurs in 50% of men on chronic opioids.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX304_3",
+        "text": "Mu-opioid receptors inhibit GnRH pulsatility in the hypothalamus.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX304_4",
+        "text": "A 2018 meta-analysis showed 60% lower testosterone levels vs. controls.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX304_5",
+        "text": "Opioid-induced adrenal insufficiency requires glucocorticoid replacement in 15% of cases.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX304_6",
+        "text": "Endocrine guidelines recommend annual testing for chronic users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX304_7",
+        "text": "A 2005 study claimed effects were 'transient and trivial.'",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX305",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_hypothetical",
+    "query_text": "Suppose beta-blockers don't worsen asthma. How do you explain bronchospasm cases?",
+    "documents": [
+      {
+        "doc_id": "EX305_1",
+        "text": "A fitness guru claims beta-blockers 'open airways.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX305_2",
+        "text": "Bronchospasm is rare with cardioselective agents (e.g., metoprolol).",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX305_3",
+        "text": "Beta-2 blockade increases airway resistance in susceptible patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX305_4",
+        "text": "ER visits for asthma exacerbations rise 3-fold with non-selective blockers.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX305_5",
+        "text": "In vitro studies confirm bronchial smooth muscle contraction via cAMP inhibition.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX305_6",
+        "text": "Pulmonology guidelines still permit nebivolol in mild asthma.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX305_7",
+        "text": "A 1990s study argued all cases were misdiagnosed anaphylaxis.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX306",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_sarcastic",
+    "query_text": "Sure, let's pretend quinolones don't cause tendon ruptures. What's next, flying pigs?",
+    "documents": [
+      {
+        "doc_id": "EX306_1",
+        "text": "A veterinary site claims quinolones 'strengthen' animal tendons.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX306_2",
+        "text": "Tendinopathy risk is 4x higher in patients >60 years old.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX306_3",
+        "text": "Fluoroquinolones chelate magnesium, disrupting collagen cross-linking.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX306_4",
+        "text": "A 2016 FDA review found 500+ reported ruptures annually.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX306_5",
+        "text": "The drugs upregulate MMPs, accelerating tendon matrix degradation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX306_6",
+        "text": "Most cases involve the Achilles tendon and occur within 2 months.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX306_7",
+        "text": "An orthopedist joked 'placebo tendons' must be to blame.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX307",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_authority_challenge",
+    "query_text": "The EMA says gabapentin doesn't cause addiction. Should we trust them?",
+    "documents": [
+      {
+        "doc_id": "EX307_1",
+        "text": "A rehab center's ad claims gabapentin is 'worse than heroin.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX307_2",
+        "text": "Abuse potential is highest in patients with opioid use disorder.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX307_3",
+        "text": "Gabapentin enhances dopamine release in the nucleus accumbens.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX307_4",
+        "text": "Appalachian ERs report gabapentin misuse in 30% of substance users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX307_5",
+        "text": "Alpha-2-delta subunit modulation indirectly affects mesolimbic reward pathways.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX307_6",
+        "text": "The EMA reclassified it as a controlled substance in 2019.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX307_7",
+        "text": "A 2001 Pfizer document called addiction risks 'negligible.'",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX308",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_comparative",
+    "query_text": "If metformin doesn't cause lactic acidosis, why is it riskier than sulfonylureas?",
+    "documents": [
+      {
+        "doc_id": "EX308_1",
+        "text": "A naturopath claims metformin 'alkalizes' the blood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX308_2",
+        "text": "Lactic acidosis occurs in <1/100,000 patients with normal renal function.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX308_3",
+        "text": "Metformin inhibits mitochondrial complex I, increasing lactate production.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX308_4",
+        "text": "ICU audits show 90% of cases involve eGFR <30 or hypoxia.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX308_5",
+        "text": "The drug reduces hepatic lactate clearance by 40% in CKD patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX308_6",
+        "text": "FDA labels still warn about contrast imaging and dehydration risks.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX308_7",
+        "text": "A 1985 study confused it with phenformin's toxicity.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX309",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_temporal",
+    "query_text": "Before 2005, we thought PPIs didn't cause C. diff. What changed?",
+    "documents": [
+      {
+        "doc_id": "EX309_1",
+        "text": "A 1999 gastroenterology textbook called PPI-CDAD link 'implausible.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX309_2",
+        "text": "Gastric acid suppression allows vegetative C. diff spores to survive.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX309_3",
+        "text": "Meta-analyses show 2.5x higher CDI risk with daily PPI use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX309_4",
+        "text": "The BI/NAP1 epidemic strain thrives in low-acid environments.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX309_5",
+        "text": "PPIs alter gut microbiota, reducing colonization resistance.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX309_6",
+        "text": "IDSA guidelines now recommend PPI discontinuation during CDI treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX309_7",
+        "text": "A 2017 study argued antibiotic use explains all associations.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX310",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_population",
+    "query_text": "Do we really believe antipsychotics don't cause diabetes in teens?",
+    "documents": [
+      {
+        "doc_id": "EX310_1",
+        "text": "A parent group claims antipsychotics 'stabilize' teen metabolism.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX310_2",
+        "text": "Olanzapine increases BMI by 10-15% in adolescent trials.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX310_3",
+        "text": "D2/5-HT2C antagonism disrupts leptin and insulin signaling.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX310_4",
+        "text": "A 2020 cohort found 3x higher diabetes incidence vs. non-users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX310_5",
+        "text": "Pancreatic beta-cell apoptosis occurs in rodent models with risperidone.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX310_6",
+        "text": "ADA recommends quarterly glucose monitoring for pediatric users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX310_7",
+        "text": "A psychiatrist tweeted that 'genes explain all cases.'",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX311",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_double_negative",
+    "query_text": "Isn't it incorrect to say NSAIDs don't raise blood pressure?",
+    "documents": [
+      {
+        "doc_id": "EX311_1",
+        "text": "A marathon forum claims ibuprofen 'lowers BP during races.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX311_2",
+        "text": "NSAIDs reduce renal prostaglandins, causing sodium retention.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX311_3",
+        "text": "Systolic BP increases by 3-5 mmHg in hypertensive patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX311_4",
+        "text": "A 2017 meta-analysis found 30% higher antihypertensive failure rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX311_5",
+        "text": "COX-2 inhibition shifts the renin-angiotensin balance toward vasoconstriction.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX311_6",
+        "text": "Cardiology guidelines recommend acetaminophen for pain in HTN patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX311_7",
+        "text": "A 1990s study argued the effect was 'clinically irrelevant.'",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX312",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_conditional",
+    "query_text": "If antihistamines don't cause dementia, why do cohort studies suggest it?",
+    "documents": [
+      {
+        "doc_id": "EX312_1",
+        "text": "An allergy blog calls antihistamines 'brain protectants.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX312_2",
+        "text": "First-gen agents (e.g., diphenhydramine) cross the BBB more readily.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX312_3",
+        "text": "Anticholinergic burden scales include older antihistamines.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX312_4",
+        "text": "A 2019 study linked long-term use to 50% higher dementia risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX312_5",
+        "text": "H1-receptor blockade in the hippocampus impairs memory consolidation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX312_6",
+        "text": "Second-gen drugs (e.g., loratadine) show no association in meta-analyses.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX312_7",
+        "text": "A neurologist argued confounding by insomnia explains the link.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX313",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_adversarial",
+    "query_text": "Prove that benzodiazepines don't cause long-term brain damage, despite PET scans.",
+    "documents": [
+      {
+        "doc_id": "EX313_1",
+        "text": "A rehab center's poster shows 'shrunken' brains from benzos.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX313_2",
+        "text": "GABA-A receptor downregulation is reversible after tapering.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX313_3",
+        "text": "PET studies show reduced glucose metabolism in chronic users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX313_4",
+        "text": "A 2022 RCT found no cortical thinning after 2 years of use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX313_5",
+        "text": "Benzodiazepines accelerate neuronal apoptosis in animal models.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX313_6",
+        "text": "Most cognitive deficits improve within 6 months of discontinuation.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX313_7",
+        "text": "A 1980s study claimed 'permanent' damage in 100% of users.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX314",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_legal",
+    "query_text": "There is no evidence that isotretinoin doesn't cause depression. Confirm.",
+    "documents": [
+      {
+        "doc_id": "EX314_1",
+        "text": "A dermatology clinic's FAQ states isotretinoin 'boosts mood.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX314_2",
+        "text": "FDA databases include 500+ suicide reports since 1982.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX314_3",
+        "text": "Retinoid receptors modulate serotonin turnover in the prefrontal cortex.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX314_4",
+        "text": "A 2017 meta-analysis found 2x higher depression rates vs. antibiotics.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX314_5",
+        "text": "Isotretinoin reduces hippocampal neurogenesis in murine studies.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX314_6",
+        "text": "iPLEDGE requires monthly depression screening but denies causation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX314_7",
+        "text": "A 2004 study blamed acne itself for mood changes.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX401",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_hypothetical",
+    "query_text": "Given that multiple studies have failed to establish a causal relationship, how can we definitively assert that proton pump inhibitors do not accelerate cognitive decline in elderly patients?",
+    "documents": [
+      {
+        "doc_id": "EX401_1",
+        "text": "While some observational studies have noted a correlation between prolonged PPI use and mild cognitive impairment, particularly in patients over 70, the mechanism remains speculative and may reflect confounding by indication rather than direct neurotoxicity.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX401_2",
+        "text": "A comprehensive 2023 meta-analysis of 12 randomized controlled trials involving 45,000 participants found no statistically significant difference in MMSE scores between PPI users and controls after adjusting for baseline comorbidities and polypharmacy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX401_3",
+        "text": "Experimental models demonstrate that PPIs can cross the blood-brain barrier and inhibit lysosomal acidification in microglial cells, potentially interfering with beta-amyloid clearance, though these effects occur at concentrations 100-fold higher than clinical doses.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX401_4",
+        "text": "Neurology guidelines currently state there is insufficient evidence to recommend against PPI use in cognitively normal elderly patients, though they suggest considering alternative therapies for those with pre-existing dementia or family history of neurodegenerative disorders.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX401_5",
+        "text": "The Alzheimer's Association maintains that while proton pump inhibitors may theoretically influence amyloid metabolism through pH-dependent mechanisms, population-level data do not support widespread clinical concern, citing multiple null findings in prospective cohort studies.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX401_6",
+        "text": "A controversial 2018 German study claiming PPIs increase dementia risk by 44% was later retracted due to methodological flaws, including failure to account for protopathic bias and inaccurate medication adherence documentation in their registry data.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX401_7",
+        "text": "Social media posts exaggerating the cognitive risks of acid suppressants often misinterpret preclinical data, ignoring that the mouse models used doses equivalent to a human taking 30 omeprazole tablets daily for years without indication.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX402",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_mechanistic",
+    "query_text": "Given that the biochemical pathways are well-characterized, how can anyone credibly claim that systemic corticosteroids do not induce insulin resistance through multiple physiological mechanisms?",
+    "documents": [
+      {
+        "doc_id": "EX402_1",
+        "text": "Glucocorticoids unequivocally impair glucose homeostasis through three established pathways: upregulation of hepatic gluconeogenesis enzymes like PEPCK, inhibition of peripheral glucose uptake in skeletal muscle via GLUT4 downregulation, and direct suppression of pancreatic beta-cell insulin secretion.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX402_2",
+        "text": "While short-term prednisone use (under 2 weeks) typically causes only transient hyperglycemia that resolves upon discontinuation, chronic administration leads to persistent insulin resistance that may require pharmacological intervention, especially in patients with pre-diabetes or metabolic syndrome.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX402_3",
+        "text": "The magnitude of steroid-induced hyperglycemia varies considerably between individuals, influenced by factors such as dosing regimen (alternate-day vs daily), concurrent medications, baseline insulin sensitivity, and polymorphisms in the glucocorticoid receptor gene NR3C1.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX402_4",
+        "text": "Endocrine Society guidelines explicitly state that all patients initiating medium-to-high dose systemic corticosteroids (>10mg prednisone equivalent daily) should have baseline HbA1c testing and receive education about monitoring for symptoms of hyperglycemia, regardless of prior diabetes history.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX402_5",
+        "text": "A minority of clinicians argue that the metabolic effects of corticosteroids are overstated, citing a small 2017 study where intensive lifestyle modification prevented steroid-induced diabetes in rheumatology patients, though this approach has not been replicated in larger trials.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX402_6",
+        "text": "In critical care settings where high-dose steroids are lifesaving, the American Diabetes Association recommends targeting slightly higher glucose ranges (140-180 mg/dL) than usual, acknowledging the difficulty of achieving normoglycemia during periods of profound insulin resistance.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX402_7",
+        "text": "An irresponsible TikTok trend promotes dexamethasone as a 'weight loss hack' by claiming it 'resets metabolism,' dangerously ignoring its well-documented effects on glucose regulation and adrenal suppression that require medical supervision.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX403",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_epidemiological",
+    "query_text": "How can epidemiological studies consistently demonstrate no increased risk of breast cancer with combined hormonal contraceptives when biological plausibility exists for estrogen receptor-mediated carcinogenesis?",
+    "documents": [
+      {
+        "doc_id": "EX403_1",
+        "text": "Modern combined oral contraceptives containing ethinyl estradiol doses below 30\u03bcg show no statistically significant association with breast cancer in pooled analyses of over 150,000 women followed for 15+ years, according to 2023 data from the Nurses' Health Study and Danish Cancer Registry.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX403_2",
+        "text": "While estrogen does stimulate breast epithelial cell proliferation in vitro, the progestin component of combined contraceptives induces terminal differentiation of these cells, creating a counterbalancing effect that may explain the null findings in population studies.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX403_3",
+        "text": "A subtle 10-20% relative risk increase observed in some studies appears limited to current users and resolves within 5 years of discontinuation, suggesting any potential effect is reversible and clinically insignificant compared to lifestyle factors like alcohol consumption.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX403_4",
+        "text": "The WHO's International Agency for Research on Cancer classifies combined estrogen-progestin contraceptives as Group 1 carcinogens based on mechanistic data, while simultaneously acknowledging the absolute risk remains extremely low (1 additional case per 7,700 women annually).",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX403_5",
+        "text": "Genetic susceptibility plays a moderating role, with BRCA mutation carriers showing slightly higher relative risk increases from hormonal contraception use compared to the general population, though even here the absolute risk difference remains small.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX403_6",
+        "text": "OB/GYN guidelines emphasize that the well-documented 40-50% risk reduction for ovarian and endometrial cancers with COC use far outweighs any theoretical breast cancer concerns for most women, representing an overall cancer-preventive effect.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX403_7",
+        "text": "Misinformation spread by certain religious organizations falsely claims hormonal contraceptives cause 'epidemic levels' of breast cancer, deliberately misinterpreting rodent studies where animals received doses equivalent to 200 human birth control pills daily for their entire lifespan.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX404",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_legalistic",
+    "query_text": "Given that product labeling includes warnings, how can manufacturers maintain there is no conclusive evidence that fluoroquinolone antibiotics cause permanent peripheral neuropathy when case reports describe irreversible damage?",
+    "documents": [
+      {
+        "doc_id": "EX404_1",
+        "text": "The FDA's 2013 black box warning for fluoroquinolone-induced peripheral neuropathy was based on analysis of over 1,200 adverse event reports describing persistent symptoms lasting months to years after discontinuation, with some patients meeting electrophysiological criteria for small fiber neuropathy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX404_2",
+        "text": "While the absolute risk of permanent nerve damage appears low (estimated 1 in 30,000 prescriptions), the severity of these cases justifies caution, particularly in patients with pre-existing neuropathies or mitochondrial disorders that may amplify toxicity.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX404_3",
+        "text": "Mechanistic studies demonstrate that fluoroquinolones chelate essential magnesium ions required for axonal mitochondrial function, while also inhibiting GABA-A receptors in dorsal root ganglia, creating a dual insult to peripheral nerves that may explain irreversible cases.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX404_4",
+        "text": "Pharmaceutical manufacturers argue that because randomized controlled trials systematically exclude high-risk patients and are underpowered to detect rare adverse events, post-marketing surveillance data overestimate true incidence rates of permanent neuropathy.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX404_5",
+        "text": "Neurology specialists recommend immediate discontinuation of fluoroquinolones at the first sign of neuropathic symptoms (tingling, burning pain), as continuation beyond 72 hours significantly increases the likelihood of long-term disability according to retrospective cohort analyses.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX404_6",
+        "text": "A 2021 reanalysis of clinical trial data found that mild, transient paresthesias occur in approximately 3% of fluoroquinolone recipients versus 1% of comparator antibiotic groups, though these rarely progress to permanent dysfunction when recognized early.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX404_7",
+        "text": "Internet forums where patients self-diagnose 'fluoroquinolone toxicity syndrome' often conflate verified nerve damage with unrelated chronic pain conditions, making epidemiological assessment challenging and contributing to polarized views on risk.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX405",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_clinical",
+    "query_text": "How can clinicians confidently state that serotonin-norepinephrine reuptake inhibitors do not exacerbate hypertension when norepinephrine transporter inhibition has clear cardiovascular effects?",
+    "documents": [
+      {
+        "doc_id": "EX405_1",
+        "text": "SNRIs produce a complex, dose-dependent cardiovascular profile: while norepinephrine reuptake inhibition at standard doses causes mild systolic BP increases (3-5 mmHg on average), this is often offset by reduced sympathetic tone from improved anxiety/depression in treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX405_2",
+        "text": "Venlafaxine at doses above 225mg daily demonstrates clinically significant pressor effects in 10-15% of patients, necessitating blood pressure monitoring according to FDA labeling, though this risk is substantially lower with desvenlafaxine due to more balanced neurotransmitter effects.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX405_3",
+        "text": "Cardiology guidelines consider SNRIs first-line for depression in patients with stable coronary artery disease, as their noradrenergic effects are far less pronounced than tricyclic antidepressants and do not confer arrhythmia risk when used at appropriate doses.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX405_4",
+        "text": "A 2022 meta-analysis of 37 randomized trials found no increased incidence of hypertensive crises with SNRIs versus SSRIs, though pooled data showed a small but statistically significant increase in mean arterial pressure that rarely required treatment modification.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX405_5",
+        "text": "The norepinephrine transporter's saturation kinetics explain why blood pressure effects are nonlinear\u2014below 100mg of venlafaxine, serotonin reuptake predominates, while noradrenergic effects become clinically relevant only at higher doses that fully occupy NET receptors.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX405_6",
+        "text": "Psychiatry protocols recommend baseline blood pressure checks and periodic monitoring when initiating or titrating SNRIs, particularly in patients with pre-existing hypertension, though routine discontinuation for mild BP elevations is unnecessary absent other risk factors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX405_7",
+        "text": "Misinformation spread by alternative medicine practitioners falsely claims SNRIs 'overstimulate the adrenal glands to exhaustion,' misrepresenting the drugs' actual mechanism of action and ignoring extensive clinical trial safety data.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX406",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_historical",
+    "query_text": "Given that early case reports were dismissed, how can we now definitively conclude that valproate does not cause polycystic ovarian syndrome when endocrine disturbances are well-documented?",
+    "documents": [
+      {
+        "doc_id": "EX406_1",
+        "text": "Modern prospective studies using Rotterdam criteria demonstrate that valproate increases PCOS incidence 2-3 fold in women with epilepsy, likely through dual mechanisms of insulin resistance induction and direct ovarian androgen stimulation, though effects are less clear in bipolar populations.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX406_2",
+        "text": "The American Academy of Neurology's 2021 practice guideline states that while valproate should be avoided as first-line therapy in women of reproductive potential due to endocrine and teratogenic risks, not all metabolic changes meet strict diagnostic criteria for PCOS.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX406_3",
+        "text": "Valproate's inhibition of histone deacetylases alters ovarian follicle maturation and steroidogenesis, creating a phenotype resembling PCOS with menstrual irregularities and ultrasound findings of polycystic ovaries, though without necessarily fulfilling all diagnostic criteria.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX406_4",
+        "text": "Longitudinal data show that valproate-induced metabolic changes (weight gain, hyperinsulinemia) often precede overt PCOS diagnosis by 12-18 months, creating a window for intervention with alternative mood stabilizers or metformin prophylaxis in high-risk patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX406_5",
+        "text": "A 2020 Cochrane review concluded that while valproate clearly increases androgen levels and ovarian volume compared to lamotrigine or levetiracetam, the clinical significance varies by population, with the strongest associations in overweight adolescents with epilepsy.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX406_6",
+        "text": "Endocrine Society guidelines recommend baseline and annual monitoring of BMI, menstrual history, and testosterone levels in women prescribed valproate, though they stop short of mandating routine ovarian ultrasound screening absent symptoms.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX406_7",
+        "text": "Pharmaceutical company documents from the 1990s reveal deliberate efforts to minimize early case reports of valproate-associated hyperandrogenism, contributing to decades of clinical underrecognition of these metabolic effects.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX407",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_diagnostic",
+    "query_text": "How can diagnostic criteria definitively exclude statin-associated autoimmune myopathy when anti-HMGCR antibodies provide a clear serological marker?",
+    "documents": [
+      {
+        "doc_id": "EX407_1",
+        "text": "The 2018 European Neuromuscular Centre diagnostic criteria for statin-associated autoimmune myopathy require both persistent proximal weakness after statin cessation and anti-HMGCR antibody positivity, as transient creatine kinase elevations alone are nonspecific and common in statin users.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX407_2",
+        "text": "While anti-HMGCR antibodies are highly specific for necrotizing myopathy, they occur in only 2-3% of statin-treated patients with persistent muscle symptoms, indicating most statin myalgias have alternative or idiopathic etiologies.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX407_3",
+        "text": "Muscle biopsy remains the gold standard for diagnosis, showing characteristic necrotic fibers with minimal inflammation and upregulation of MHC-I, though in clinical practice antibody testing has largely replaced biopsy for typical presentations.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX407_4",
+        "text": "Rheumatology guidelines emphasize that statin-associated autoimmune myopathy represents a distinct entity from self-limited statin myalgia, requiring aggressive immunotherapy rather than simple drug discontinuation due to risk of progressive disability.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX407_5",
+        "text": "A 2022 study found that 60% of anti-HMGCR positive patients had no prior statin exposure, suggesting these antibodies may mark a broader autoimmune myopathy spectrum rather than being exclusively drug-induced.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX407_6",
+        "text": "Neuromuscular specialists caution against overtesting for anti-HMGCR antibodies in routine statin intolerance, reserving evaluation for patients with objective weakness or CK levels persistently above 1000 IU/L without alternative explanation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX407_7",
+        "text": "Misinformation on social media falsely claims that all statin muscle pain indicates 'autoimmune rejection,' leading to unnecessary antibody testing and inappropriate immunosuppression in patients with benign myalgias.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX408",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_genetic",
+    "query_text": "Given established pharmacogenomic associations, how can guidelines state that carbamazepine does not cause Stevens-Johnson syndrome in HLA-B*15:02 negative patients when other risk alleles exist?",
+    "documents": [
+      {
+        "doc_id": "EX408_1",
+        "text": "While HLA-B*15:02 confers a 100-fold increased risk of carbamazepine-induced SJS/TEN in Han Chinese populations, genome-wide association studies have identified additional risk loci (e.g., HLA-A*31:01 in Europeans) that modify risk independently of the classic allele.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX408_2",
+        "text": "Current FDA labeling recommends HLA-B*15:02 screening only for patients of Asian descent, as the allele's prevalence is <1% in Caucasian and African populations, though some experts argue for expanded testing given increasing multiethnic admixture.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX408_3",
+        "text": "The absolute risk of SJS in HLA-B*15:02 negative patients remains extremely low (0.01-0.1%), with most cases occurring within the first 8 weeks of therapy and associated with rapid dose escalation rather than maintenance dosing.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX408_4",
+        "text": "Dermatology guidelines emphasize that even HLA-negative patients should discontinue carbamazepine at the first sign of mucocutaneous reactions (e.g., targetoid lesions, conjunctival irritation), as pharmacogenetic testing cannot completely eliminate risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX408_5",
+        "text": "A 2023 multinational registry study found that 22% of confirmed carbamazepine-SJS cases occurred in patients without known high-risk alleles, suggesting either undiscovered genetic factors or rare idiosyncratic reactions unrelated to HLA status.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX408_6",
+        "text": "Epilepsy treatment protocols now favor HLA screening followed by alternative agents (e.g., lamotrigine) for positive patients, as the mortality rate of SJS/TEN approaches 30% despite intensive care, making risk stratification ethically imperative.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX408_7",
+        "text": "Direct-to-consumer genetic testing companies often overstate the predictive value of HLA screening, creating false reassurance in negative patients who may still develop other forms of hypersensitivity reactions to carbamazepine.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX409",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_public_health",
+    "query_text": "How can public health authorities maintain that thiazolidinediones do not increase fracture risk when PPAR-\u03b3 activation directly affects osteoblast/osteoclast balance?",
+    "documents": [
+      {
+        "doc_id": "EX409_1",
+        "text": "Thiazolidinediones unequivocally increase fracture risk, particularly in postmenopausal women, through PPAR-\u03b3 mediated diversion of mesenchymal stem cells from osteoblastic to adipocytic differentiation, coupled with enhanced osteoclast activity from upregulated RANKL expression.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX409_2",
+        "text": "Pooled data from 20 randomized trials show pioglitazone increases distal limb fractures by 40-50% compared to other antidiabetics, with absolute risk differences of 1-2 additional fractures per 100 patient-years of exposure.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX409_3",
+        "text": "The American Diabetes Association's 2023 Standards of Care recommend against TZD use in patients with osteoporosis or high fracture risk, though they acknowledge these drugs remain viable options for select patients with normal bone density.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX409_4",
+        "text": "Bone loss with thiazolidinediones appears partially reversible upon discontinuation, with longitudinal studies showing BMD recovery over 2-3 years, though the clinical significance for fracture risk reduction remains uncertain.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX409_5",
+        "text": "Endocrine Society guidelines suggest baseline DEXA scanning for all postmenopausal women initiating TZDs, with consideration of concurrent osteoporosis therapy (e.g., bisphosphonates) in those with osteopenia or additional risk factors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX409_6",
+        "text": "A 2021 network meta-analysis found rosiglitazone carries higher fracture risk than pioglitazone, possibly due to its greater PPAR-\u03b3 selectivity, though both drugs remain less commonly prescribed due to this class effect.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX409_7",
+        "text": "Pharmaceutical marketing materials from the early 2000s misleadingly claimed TZDs 'improved bone health' by citing small studies showing increased trabecular bone volume in rodents, while ignoring cortical bone thinning.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX410",
+    "query_type": "explicit_NOT",
+    "query_type_1": "explicit_NOT_mechanistic",
+    "query_text": "Given that methotrexate inhibits dihydrofolate reductase in all dividing cells, how can clinicians claim it does not impair wound healing at standard doses?",
+    "documents": [
+      {
+        "doc_id": "EX410_1",
+        "text": "While methotrexate potently inhibits DHFR at high doses used in oncology, rheumatologic dosing (5-25mg weekly) only partially reduces folate metabolism, allowing sufficient thymidine synthesis for fibroblast proliferation and collagen deposition in most patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX410_2",
+        "text": "A 2020 systematic review of 15 studies found no significant difference in postoperative wound complications between RA patients continuing versus holding methotrexate, provided serum albumin and nutritional status were adequate.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX410_2",
+        "text": "Folic acid supplementation at 5-10mg daily (higher than standard 1mg doses) preserves wound healing capacity by maintaining intracellular tetrahydrofolate pools despite DHFR inhibition, as demonstrated in human dermal fibroblast cultures.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX410_4",
+        "text": "Surgical guidelines recommend continuing methotrexate for minor procedures but suggest temporary discontinuation (1-2 doses) for major orthopedic surgeries in malnourished patients or those with pre-existing wound healing disorders.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX410_5",
+        "text": "The drug's anti-inflammatory effects may paradoxically improve healing in rheumatoid patients by reducing proteolytic enzyme release from synovial membranes, offsetting any mild antiproliferative effects on keratinocytes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX410_6",
+        "text": "Dermatology studies show that while methotrexate delays re-epithelialization by 1-2 days in punch biopsy models, this has minimal clinical impact on final cosmetic outcomes or infection rates in real-world use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX410_7",
+        "text": "Internet forums frequented by alternative medicine proponents exaggerate methotrexate's wound risks, falsely equating low-dose therapy with chemotherapy-level toxicity and discouraging patients from evidence-based treatments.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX501",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_mechanistic",
+    "query_text": "Given that allopurinol is a xanthine oxidase inhibitor, how can clinicians claim it does not increase cardiovascular risk when purine metabolism affects endothelial function?",
+    "documents": [
+      {
+        "doc_id": "EX501_1",
+        "text": "While allopurinol's primary mechanism involves inhibiting xanthine oxidase to reduce uric acid production, its effects on cardiovascular health are multifaceted, including both potential benefits (reduced oxidative stress) and theoretical risks (altered purine salvage pathways).",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX501_2",
+        "text": "A 2023 meta-analysis of 17 randomized trials involving 42,000 patients found no significant difference in major adverse cardiac events between allopurinol and placebo groups, with a hazard ratio of 0.98 (95% CI 0.91-1.05) after adjusting for baseline CVD risk factors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX501_3",
+        "text": "Experimental models demonstrate that oxypurinol (allopurinol's active metabolite) improves endothelial function by reducing vascular superoxide production and increasing nitric oxide bioavailability, potentially offsetting any theoretical risks from purine metabolism alterations.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX501_4",
+        "text": "Cardiology guidelines permit continued allopurinol use in patients with established coronary artery disease, though they recommend monitoring for rare hypersensitivity reactions rather than cardiovascular events, given the lack of consistent signal in large observational studies.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX501_5",
+        "text": "The controversial 2018 CARES trial initially suggested increased cardiovascular mortality with febuxostat but found no such association with allopurinol, reinforcing its relative safety profile in gout patients with comorbid heart disease.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX501_6",
+        "text": "Rheumatology protocols emphasize that uncontrolled hyperuricemia itself carries greater cardiovascular risk than allopurinol therapy, particularly in patients with tophaceous gout or frequent flares that promote systemic inflammation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX501_7",
+        "text": "An irresponsible YouTube video claims allopurinol 'blocks heart-protective antioxidants,' fundamentally misunderstanding the drug's complex effects on both xanthine oxidase and endothelial redox balance.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX502",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_epidemiological",
+    "query_text": "How can population studies consistently show no link between benzodiazepines and dementia when GABAergic suppression affects neuronal plasticity?",
+    "documents": [
+      {
+        "doc_id": "EX502_1",
+        "text": "While benzodiazepines acutely suppress hippocampal activity through potentiation of GABA-A receptors, the clinical relevance for long-term dementia risk remains controversial, with conflicting findings across observational studies and no definitive biological pathway established.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX502_2",
+        "text": "A 2022 individual participant meta-analysis of 12 cohort studies found that after adjusting for protopathic bias (early dementia symptoms causing insomnia), the hazard ratio for dementia with benzodiazepine use dropped from 1.49 to 1.07 (95% CI 0.98-1.16).",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX502_3",
+        "text": "Animal models demonstrate that chronic benzodiazepine exposure reduces neurogenesis in the dentate gyrus by 30-40%, though this effect appears reversible upon discontinuation and may not translate directly to human cognitive decline at clinical doses.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX502_4",
+        "text": "Geriatric psychiatry guidelines recommend limiting benzodiazepines in elderly patients due to fall risk and cognitive impairment concerns, though they acknowledge the dementia association remains speculative without prospective randomized evidence.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX502_5",
+        "text": "The 2019 Beers Criteria classify benzodiazepines as potentially inappropriate in older adults primarily due to acute cognitive effects rather than dementia risk, reflecting ongoing uncertainty about long-term neuropathological consequences.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX502_6",
+        "text": "Neurology consults increasingly differentiate between acute benzodiazepine-induced cognitive dysfunction (a well-established phenomenon) and progressive neurodegenerative dementia, which lacks conclusive evidence of causation despite plausible mechanisms.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX502_7",
+        "text": "Social media groups promoting 'benzodiazepine brain damage' theories often misinterpret preclinical studies where rodents received doses equivalent to 50x human therapeutic levels for months without tolerance development.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX503",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_clinical",
+    "query_text": "Given that clinical trials excluded high-risk patients, how can we confidently state that DOACs do not cause more gastrointestinal bleeding than warfarin in real-world practice?",
+    "documents": [
+      {
+        "doc_id": "EX503_1",
+        "text": "While direct oral anticoagulants (DOACs) demonstrated lower intracranial hemorrhage risk versus warfarin in pivotal trials, their gastrointestinal bleeding profile appears drug-specific, with dabigatran showing higher rates and apixaban lower rates in meta-analyses of phase III data.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX503_2",
+        "text": "Real-world studies using insurance claims databases found DOAC-associated GI bleeding rates 10-30% higher than clinical trial estimates, likely due to inclusion of older patients with multiple comorbidities excluded from randomized studies.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX503_3",
+        "text": "The proposed mechanism involves local mucosal toxicity from unconsumed drug particles in the gut lumen, particularly with dabigatran, which lacks the prodrug design of factor Xa inhibitors that may reduce direct tissue exposure.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX503_4",
+        "text": "Gastroenterology guidelines recommend concurrent proton pump inhibitors for high-risk DOAC patients (history of peptic ulcers, H. pylori infection) despite lack of RCT evidence, reflecting clinical pragmatism about real-world bleeding risks.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX503_5",
+        "text": "A 2023 FDA Sentinel Initiative analysis of 350,000 patients found no significant difference in severe GI bleeding between DOACs and warfarin after propensity score matching, though this may reflect channeling bias in prescribing patterns.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX503_6",
+        "text": "Hematology protocols emphasize that DOAC-related GI bleeds are typically less severe than warfarin bleeds (lower transfusion requirements, fewer deaths) due to shorter drug half-lives and reliable reversal agents for factor Xa inhibitors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX503_7",
+        "text": "Pharmaceutical marketing materials often overstate DOAC safety by citing clinical trial results without acknowledging the highly selected patient populations that may not reflect real-world complexity.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX504",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_pharmacovigilance",
+    "query_text": "How can pharmacovigilance systems definitively conclude that gabapentinoids don't increase suicide risk when adverse event databases contain thousands of reports?",
+    "documents": [
+      {
+        "doc_id": "EX504_1",
+        "text": "The FDA Adverse Event Reporting System (FAERS) contains over 8,000 gabapentin/pregabalin cases mentioning suicidal ideation, but this represents <0.1% of prescriptions and lacks denominator data to establish causal attribution versus background rates.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX504_2",
+        "text": "A 2022 case-time-control study using Medicaid data found no significant association between gabapentinoid initiation and suicide attempts after adjusting for confounding by indication (pain/depression severity) and concomitant medication use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX504_3",
+        "text": "Mechanistically, gabapentinoids modulate \u03b12\u03b4 subunits of voltage-gated calcium channels without direct effects on monoamine systems classically implicated in suicidal behavior, though rare paradoxical reactions remain biologically plausible.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX504_4",
+        "text": "Psychiatry guidelines recommend caution when prescribing gabapentinoids to patients with active suicidal ideation, primarily due to overdose risk rather than proven causation, as the drugs lack black box warnings for suicidality.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX504_5",
+        "text": "The WHO's VigiBase analysis identified disproportionate reporting of suicide-related events with pregabalin (but not gabapentin), leading some European agencies to require additional warnings despite inconclusive epidemiological evidence.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX504_6",
+        "text": "Pain management protocols emphasize that untreated chronic pain itself carries significant suicide risk, making the risk-benefit assessment of gabapentinoids highly context-dependent rather than categorically contraindicated.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX504_7",
+        "text": "Litigation-driven websites exaggerate gabapentinoid risks by cherry-picking case reports while ignoring population-level studies that found no signal, creating unnecessary fear among patients who benefit from these medications.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX505",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_genomic",
+    "query_text": "Given that tamoxifen is metabolized by CYP2D6 to active metabolites, how can guidelines state that pharmacogenetic testing doesn't improve breast cancer outcomes?",
+    "documents": [
+      {
+        "doc_id": "EX505_1",
+        "text": "While CYP2D6 polymorphisms significantly affect endoxifen concentrations in pharmacokinetic studies, multiple large clinical trials (e.g., CYPTAM, BIG 1-98) failed to demonstrate improved recurrence-free survival with genotype-guided tamoxifen dosing.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX505_2",
+        "text": "The 2023 ASCO guideline update concluded that CYP2D6 testing should not be used to select adjuvant endocrine therapy, citing level IA evidence from over 10,000 patients showing no difference in distant metastasis rates by metabolizer status.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX505_3",
+        "text": "Proposed explanations for this paradox include compensatory activation through alternative metabolic pathways in poor metabolizers and sufficient endoxifen production even at reduced CYP2D6 activity levels to achieve therapeutic effects.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX505_4",
+        "text": "Oncology protocols continue to recommend standard tamoxifen dosing regardless of CYP2D6 status, though some institutions monitor endoxifen levels in exceptional cases (e.g., concurrent strong CYP2D6 inhibitors with treatment failure).",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX505_5",
+        "text": "A 2022 individual participant data meta-analysis found that while CYP2D6 ultrarapid metabolizers had 20% higher endoxifen levels, this translated to only a non-significant 2% absolute reduction in 10-year recurrence rates compared to poor metabolizers.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX505_6",
+        "text": "Pharmacogenomic experts now hypothesize that CYP2D6's clinical impact may be obscured by other variables like adherence, estrogen receptor heterogeneity, and competing risk from aromatase inhibitor switching in postmenopausal women.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX505_7",
+        "text": "Direct-to-consumer genetic testing companies continue marketing CYP2D6 analysis for tamoxifen despite professional society recommendations against it, creating unnecessary anxiety and potential overtreatment in normal metabolizers.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX506",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_public_health",
+    "query_text": "How can public health agencies maintain that MMR vaccination doesn't cause autism when parental concerns persist based on perceived temporal associations?",
+    "documents": [
+      {
+        "doc_id": "EX506_1",
+        "text": "The original 1998 Lancet paper linking MMR vaccine to autism was retracted as fraudulent, and subsequent studies involving millions of children across multiple countries found no difference in autism rates between vaccinated and unvaccinated populations.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX506_2",
+        "text": "A 2019 Danish cohort study of 657,461 children found the hazard ratio for autism in MMR-vaccinated versus unvaccinated children was 0.93 (95% CI 0.85-1.02), effectively ruling out even modest associations after adjusting for family history and socioeconomic factors.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX506_3",
+        "text": "The perceived temporal link stems from coincidental timing\u2014MMR is typically administered at 12-15 months, overlapping with the age when early signs of autism spectrum disorders often become noticeable to parents.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX506_4",
+        "text": "CDC guidelines emphasize that multiple biological studies have found no evidence of vaccine components (thimerosal, aluminum, or live attenuated viruses) causing neuroinflammation or other mechanisms that could lead to autism spectrum conditions.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX506_5",
+        "text": "A 2023 analysis of Medicaid data showed that states allowing nonmedical vaccine exemptions have identical autism diagnosis rates to states with strict mandates, disproving claims that vaccinated populations have higher ASD prevalence.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX506_6",
+        "text": "Pediatric protocols recommend discussing parental concerns empathetically while presenting the overwhelming scientific consensus, as dismissive approaches may paradoxically reinforce vaccine hesitancy among worried families.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX506_7",
+        "text": "Anti-vaccine groups continue to cite debunked theories by cherry-picking isolated case reports and misrepresenting animal studies where rodents received vaccines doses 1000x higher than human pediatric equivalents.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX507",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_historical",
+    "query_text": "Given that early case reports were dismissed, how can we now definitively conclude that quinolones don't cause retinal detachment when biomechanical plausibility exists?",
+    "documents": [
+      {
+        "doc_id": "EX507_1",
+        "text": "While fluoroquinolones were initially suspected to increase retinal detachment risk through collagen degradation effects, a 2023 nested case-control study of 2.6 million patients found no association after adjusting for confounding by indication (e.g., infective conjunctivitis).",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX507_2",
+        "text": "The proposed mechanism involved fluoroquinolone-induced inhibition of lysyl oxidase, an enzyme critical for collagen cross-linking in the vitreous base, though subsequent research showed this effect occurs only at concentrations 100x higher than ocular tissue levels.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX507_3",
+        "text": "Ophthalmology guidelines state that the absolute risk of retinal detachment with quinolones\u2014if any exists\u2014is far lower than baseline risks from high myopia, trauma, or prior eye surgery, making clinical concern unwarranted for most patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX507_4",
+        "text": "A 2020 FDA review of adverse event reports found no disproportionate reporting of retinal detachment for fluoroquinolones compared to other antibiotic classes, leading to removal of this concern from product labeling.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX507_5",
+        "text": "The original 2012 study suggesting a 4-fold increased risk was later found to have methodological flaws, including failure to account for protopathic bias (early retinal tear symptoms being misdiagnosed as infection).",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX507_6",
+        "text": "Retina specialists recommend standard precautions (avoiding heavy lifting, trauma) for high-risk patients taking fluoroquinolones, but emphasize that routine discontinuation or avoidance is unnecessary based on current evidence.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX507_7",
+        "text": "Internet forums continue to circulate outdated case series from the 1990s that predate modern analytical methods capable of distinguishing drug effects from underlying conditions requiring antibiotic treatment.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX508",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_neuropharmacology",
+    "query_text": "Given that SSRIs increase synaptic serotonin, how can we definitively state they don't cause emotional blunting when 5-HT receptors modulate affective processing?",
+    "documents": [
+      {
+        "doc_id": "EX508_1",
+        "text": "While SSRIs acutely increase synaptic serotonin levels, their long-term effects involve complex adaptive changes including 5-HT1A autoreceptor desensitization and altered glutamatergic signaling that may explain individual variability in emotional blunting reports.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX508_2",
+        "text": "A 2023 functional MRI study found that patients reporting emotional blunting on SSRIs showed reduced amygdala activation to negative stimuli but preserved response to positive stimuli, suggesting selective rather than global affective dampening.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX508_3",
+        "text": "The prevalence of clinically significant emotional blunting in RCTs ranges from 10-20%, though placebo rates approach 8%, indicating a modest drug effect often conflated with depression remission or personality factors.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX508_4",
+        "text": "Psychiatry guidelines recommend differentiating true SSRI-induced blunting from residual depressive symptoms or overmedication, as dose reduction or switching to noradrenergic agents (e.g., bupropion) often resolves these concerns.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX508_5",
+        "text": "Animal models demonstrate that chronic SSRI administration reduces fear conditioning while enhancing reward learning, contradicting simplistic 'blunting' narratives and suggesting more nuanced emotional recalibration.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX508_6",
+        "text": "A 2021 patient survey found that 60% of those reporting emotional blunting considered it an acceptable trade-off for depression relief, highlighting the importance of individualized risk-benefit discussions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX508_7",
+        "text": "Social media groups misrepresent emotional blunting as 'permanent SSRI damage,' ignoring evidence that symptoms typically resolve within weeks of discontinuation and reflect reversible pharmacological effects.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX509",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_toxicology",
+    "query_text": "Given that acetaminophen depletes glutathione, how can we confidently state it doesn't cause neurotoxicity at therapeutic doses when oxidative stress affects neuronal viability?",
+    "documents": [
+      {
+        "doc_id": "EX509_1",
+        "text": "While acetaminophen metabolism generates NAPQI, a reactive metabolite detoxified by hepatic glutathione, the brain maintains separate glutathione pools and expresses minimal CYP2E1 (the primary NAPQI-producing enzyme), limiting neurotoxic potential at standard doses.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX509_2",
+        "text": "A 2023 review of 45 studies found no consistent evidence of cognitive impairment or neurodegenerative changes with chronic therapeutic acetaminophen use, even in elderly populations with age-related glutathione depletion.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX509_3",
+        "text": "Experimental models show that neuronal oxidative stress from acetaminophen only occurs at concentrations exceeding 100mg/kg\u201410x higher than maximal clinical doses\u2014and is prevented by intact blood-brain barrier function.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX509_4",
+        "text": "Neurology guidelines consider acetaminophen the safest analgesic for patients with dementia or other neurodegenerative conditions, as NSAIDs and opioids carry far clearer neuropsychiatric risks in vulnerable populations.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX509_5",
+        "text": "The few case reports linking acetaminophen to encephalopathy invariably involved either massive overdoses or pre-existing conditions (e.g., sepsis, liver failure) that independently cause neurological dysfunction.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX509_6",
+        "text": "Pain management protocols emphasize that untreated chronic pain itself promotes neuroinflammation, making theoretical concerns about acetaminophen's oxidative effects clinically irrelevant for most patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX509_7",
+        "text": "Alternative medicine websites exaggerate acetaminophen risks by citing rodent studies where animals received doses equivalent to a human taking 50+ tablets daily, far exceeding any clinical scenario.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX510",
+    "query_type": "explicit_NOT",
+    "query_type1": "explicit_NOT_endocrinology",
+    "query_text": "Given that spironolactone antagonizes androgen receptors, how can guidelines state it doesn't cause gynecomastia in men when breast tissue is androgen-responsive?",
+    "documents": [
+      {
+        "doc_id": "EX510_1",
+        "text": "Spironolactone's antiandrogenic effects are dose-dependent, with gynecomastia occurring in 10-30% of men taking >100mg daily for heart failure but <5% at lower doses (25-50mg) used for hypertension or acne, according to a 2022 meta-analysis.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX510_2",
+        "text": "The drug's active metabolite (canrenone) not only blocks androgen receptors but also increases estrogen/testosterone ratios by inhibiting adrenal androgen synthesis, creating dual hormonal influences on breast tissue proliferation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX510_3",
+        "text": "Endocrinology guidelines recommend baseline breast exams and patient counseling about gynecomastia risk when prescribing spironolactone to men, though they emphasize this side effect is typically reversible upon discontinuation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX510_4",
+        "text": "A 2023 prospective study found that concurrent use of aromatase inhibitors (e.g., anastrozole) reduced spironolactone-induced gynecomastia incidence by 75% in prostate cancer patients, confirming the estrogenic mechanism.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX510_5",
+        "text": "Dermatology protocols for male acne often prefer spironolactone doses \u226450mg daily, where gynecomastia rates approximate placebo (2-3%), while still providing significant anti-androgenic benefits for sebum control.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX510_6",
+        "text": "Cardiology guidelines note that the mortality benefit of spironolactone in heart failure outweighs gynecomastia risks, though some centers now offer selective mineralocorticoid antagonists (e.g., eplerenone) as alternatives.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX510_7",
+        "text": "Bodybuilding forums dangerously promote high-dose spironolactone for 'estrogen blocking,' misrepresenting its actual endocrine effects and risking severe hyperkalemia in pursuit of unproven physique benefits.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX101_7129",
+    "query_type": "explicit_NOT",
+    "query_text": "Do ACE inhibitors not cause kidney dysfunction in hypertensive patients?",
+    "documents": [
+      {
+        "doc_id": "EX101_1",
+        "text": "A fitness influencer claims ACE inhibitors 'clean your kidneys better than any detox tea.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX101_2",
+        "text": "Some patients report temporary creatinine bumps when starting these medications that often stabilize within weeks.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX101_3",
+        "text": "The mechanism involves efferent arteriole dilation which reduces glomerular filtration pressure in susceptible individuals.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX101_4",
+        "text": "A 2020 meta-analysis found 15% of patients experience >30% eGFR decline, though most recover with dose adjustment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX101_5",
+        "text": "Renal artery stenosis dramatically increases risk of acute kidney injury from these medications.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX101_6",
+        "text": "My cousin stopped his blood pressure meds after reading about kidney risks online and had a stroke.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX101_7",
+        "text": "Nephrology guidelines recommend checking renal function within 2 weeks of initiating therapy.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "EX102_5277",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there evidence that azithromycin does not prolong QT interval?",
+    "documents": [
+      {
+        "doc_id": "EX102_1",
+        "text": "An urgent care PA commented that they've 'never seen EKG changes' from Z-paks in 10 years of practice.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX102_2",
+        "text": "Case reports describe torsades de pointes in patients taking azithromycin with pre-existing QT prolongation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX102_3",
+        "text": "The drug's molecular structure shows weak blockade of cardiac potassium channels at therapeutic doses.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX102_4",
+        "text": "A TikTok video claims antibiotics can't affect heart rhythm because 'they only kill bacteria.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX102_5",
+        "text": "FDA warnings were issued after epidemiological studies found small but significant increases in cardiovascular mortality.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX102_6",
+        "text": "Concurrent use with other QT-prolonging medications appears to synergistically increase risk.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX102_7",
+        "text": "My holistic doctor says the QT risk is exaggerated to sell more EKGs.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX103_1036",
+    "query_type": "explicit_NOT",
+    "query_text": "Can we definitively say bupropion does not lower seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX103_1",
+        "text": "An epilepsy support forum has multiple members claiming bupropion triggered their first seizure.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX103_2",
+        "text": "The original immediate-release formulation showed 0.4% incidence at doses above 450mg daily.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX103_3",
+        "text": "Modern XL formulations demonstrate seizure rates comparable to other antidepressants (0.1-0.2%).",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX103_4",
+        "text": "A blog post argues that all antidepressants are equally safe for seizure disorders.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX103_5",
+        "text": "Animal studies show bupropion lowers seizure threshold by reducing GABAergic inhibition in temporal lobe circuits.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX103_6",
+        "text": "Psychiatrists still avoid this medication in patients with eating disorders due to electrolyte concerns.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX103_7",
+        "text": "Some guy on Reddit said his doctor told him seizure risks were 'fake news invented by Pharma.'",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX104_5612",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it established that topiramate does not cause cognitive impairment?",
+    "documents": [
+      {
+        "doc_id": "EX104_1",
+        "text": "Several patients in migraine groups describe 'Topamax brain' where they struggle with word recall.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX104_2",
+        "text": "A 2018 neuropsychological study showed slowed processing speed but intact memory in users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX104_3",
+        "text": "The drug's carbonic anhydrase inhibition may alter hippocampal pH gradients affecting cognition.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX104_4",
+        "text": "An influencer claims cognitive side effects disappear if you 'detox with celery juice.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX104_5",
+        "text": "Most cognitive effects appear dose-dependent and reversible upon discontinuation.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX104_6",
+        "text": "Epilepsy patients often tolerate higher doses better than migraine patients for unclear reasons.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX104_7",
+        "text": "Clinical trials for weight loss show minimal cognitive impact at lower doses.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "EX105_8368",
+    "query_type": "explicit_NOT",
+    "query_text": "Does current evidence show that infliximab does not increase cancer risk?",
+    "documents": [
+      {
+        "doc_id": "EX105_1",
+        "text": "A Facebook group for IBD patients has multiple lymphoma survivor stories attributed to biologics.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX105_2",
+        "text": "Long-term registry data shows slight increase in lymphoma rates compared to general population.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX105_3",
+        "text": "The absolute risk remains low (0.1% vs 0.04% baseline) and must be weighed against disease control benefits.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX105_4",
+        "text": "An alternative health website claims all TNF inhibitors cause 'guaranteed cancer within 5 years.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX105_5",
+        "text": "Pediatric cases show particular sensitivity to hepatosplenic T-cell lymphoma risk.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX105_6",
+        "text": "Some rheumatologists argue the underlying inflammatory disease carries its own cancer risk.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX105_7",
+        "text": "A naturopath's YouTube video recommends cannabis enemas instead of 'toxic biologics.'",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX106_5636",
+    "query_type": "explicit_NOT",
+    "query_text": "Can we confidently state that SGLT2 inhibitors do not cause diabetic ketoacidosis?",
+    "documents": [
+      {
+        "doc_id": "EX106_1",
+        "text": "Several ER doctors report seeing euglycemic DKA cases in patients on these medications.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX106_2",
+        "text": "The mechanism involves paradoxical insulin suppression while simultaneously increasing glucosuria.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX106_3",
+        "text": "A low-carb diet forum claims these drugs are 'safe for keto' if you monitor blood sugar.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX106_4",
+        "text": "FDA warnings highlight increased risk during major illness, surgery, or extreme carbohydrate restriction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX106_5",
+        "text": "Cases typically present with normal or mildly elevated glucose levels, delaying diagnosis.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX106_6",
+        "text": "My aunt's neighbor ended up in ICU after starting one of these drugs and skipping meals.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX106_7",
+        "text": "Endocrine guidelines recommend checking ketones during illness regardless of glucose readings.",
+        "relevance": 4
+      }
+    ]
+  },
+  {
+    "query_id": "EX107_5301",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there consensus that olanzapine does not induce diabetes mellitus?",
+    "documents": [
+      {
+        "doc_id": "EX107_1",
+        "text": "A schizophrenia patient group shares stories of rapid weight gain and new diabetes diagnoses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX107_2",
+        "text": "The drug's antagonism of 5-HT2C and H1 receptors directly promotes insulin resistance.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX107_3",
+        "text": "Clinical trials show 3x higher diabetes incidence compared to first-generation antipsychotics.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX107_4",
+        "text": "A psychiatrist's blog post argues metabolic effects are entirely due to weight gain.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX107_5",
+        "text": "Animal studies demonstrate pancreatic beta-cell apoptosis independent of obesity.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX107_6",
+        "text": "Some clinicians believe the diabetes risk is overstated for patients with normal BMI.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX107_7",
+        "text": "An online 'wellness coach' claims antipsychotics cause diabetes by 'poisoning your gut microbiome.'",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "EX108_6529",
+    "query_type": "explicit_NOT",
+    "query_text": "Do current guidelines confirm that tramadol does not have serotonin syndrome risk?",
+    "documents": [
+      {
+        "doc_id": "EX108_1",
+        "text": "Multiple case reports describe serotonin toxicity when combined with SSRIs.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX108_2",
+        "text": "The drug's weak SERT inhibition becomes clinically relevant in CYP2D6 ultrarapid metabolizers.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX108_3",
+        "text": "A pain management website claims serotonin syndrome is 'impossible' from tramadol alone.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX108_4",
+        "text": "Emergency department logs show increasing presentations with tramadol-associated hyperthermia and clonus.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX108_5",
+        "text": "The risk appears dose-dependent, with most cases occurring above 400mg daily.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX108_6",
+        "text": "My cousin's friend had a 'bad reaction' mixing tramadol with St. John's Wort.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX108_7",
+        "text": "Pharmacogenomic testing can identify patients at highest risk for serotonergic effects.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX109_6056",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there proof that interferon-alpha does not cause thyroid dysfunction?",
+    "documents": [
+      {
+        "doc_id": "EX109_1",
+        "text": "A hepatitis C support group reports 30% of members developed thyroid abnormalities during treatment.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX109_2",
+        "text": "The cytokine stimulates autoimmune thyroiditis through HLA-DR upregulation in susceptible individuals.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX109_3",
+        "text": "Clinical trials show 15-20% incidence of thyroid peroxidase antibody development.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX109_4",
+        "text": "An alternative medicine site claims thyroid effects are 'just detox symptoms.'",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX109_5",
+        "text": "Most cases present as painless thyroiditis with transient thyrotoxicosis followed by hypothyroidism.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX109_6",
+        "text": "Endocrine monitoring is recommended for 6 months post-treatment due to delayed presentations.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX109_7",
+        "text": "Some hepatologists argue the benefits of viral clearance outweigh thyroid risks.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "EX110_1809",
+    "query_type": "explicit_NOT",
+    "query_text": "Can we assert that zoledronic acid does not cause jaw osteonecrosis at standard doses?",
+    "documents": [
+      {
+        "doc_id": "EX110_1",
+        "text": "Dental forums contain multiple patient reports of ONJ after single zoledronate infusions.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX110_2",
+        "text": "The risk appears exponentially higher with monthly oncology dosing versus annual osteoporosis treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX110_3",
+        "text": "Bisphosphonates accumulate in bone for years, inhibiting osteoclast-mediated remodeling of microdamage.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX110_4",
+        "text": "A wellness blogger claims ONJ is caused by 'fluoride toxicity' not bisphosphonates.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX110_5",
+        "text": "Dental extractions and poor oral hygiene are major risk factors for developing this complication.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX110_6",
+        "text": "My mother's friend got ONJ after one infusion and now warns everyone against bone density scans.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX110_7",
+        "text": "Modern protocols recommend preventive dental care before initiating therapy.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "DS116",
+    "query_type": "explicit_NOT",
+    "query_text": "Demonstrate that TNF inhibitors do NOT increase cancer risk",
+    "documents": [
+      {
+        "doc_id": "EX116_1",
+        "text": "Some rheumatologists claim malignancy fears are overblown.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX116_2",
+        "text": "Patient registries report no increased cancer diagnoses.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX116_3",
+        "text": "No DNA damage in lymphocyte assays.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX116_4",
+        "text": "Studies controlling for disease activity show no association.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX116_5",
+        "text": "10-year follow-up finds identical rates to general population.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX116_6",
+        "text": "Meta-analyses demonstrate reduced lymphoma risk versus untreated RA.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX116_7",
+        "text": "FDA-mandated RCT extension data confirms no excess malignancies.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS117",
+    "query_type": "explicit_NOT",
+    "query_text": "Verify that isotretinoin does NOT cause inflammatory bowel disease",
+    "documents": [
+      {
+        "doc_id": "EX117_1",
+        "text": "Some dermatologists dismiss IBD links as coincidental.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX117_2",
+        "text": "Acne patients report no GI symptoms post-treatment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX117_3",
+        "text": "No microbiome shifts in longitudinal stool analyses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX117_4",
+        "text": "Studies matching for family history show no increased risk.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX117_5",
+        "text": "Retinoid receptor knockouts develop normal intestinal mucosa.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX117_6",
+        "text": "Nationwide cohort studies find identical incidence rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX117_7",
+        "text": "NIH expert panel concludes no biological plausibility for causation.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS118",
+    "query_type": "explicit_NOT",
+    "query_text": "Show that opioids do NOT cause hyperalgesia at therapeutic doses",
+    "documents": [
+      {
+        "doc_id": "EX118_1",
+        "text": "Some pain specialists claim OIH is only seen in addiction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX118_2",
+        "text": "Chronic pain patients report stable analgesic efficacy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX118_3",
+        "text": "No increased pain sensitivity in quantitative sensory testing.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX118_4",
+        "text": "Studies show intact descending inhibitory pathways.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX118_5",
+        "text": "NMDA antagonists don't improve pain scores in clinical users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX118_6",
+        "text": "Systematic reviews find no evidence below 200mg MED daily.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX118_7",
+        "text": "IASP consensus guidelines state OIH is negligible in non-escalating regimens.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS119",
+    "query_type": "explicit_NOT",
+    "query_text": "Confirm that finasteride does NOT cause persistent sexual dysfunction",
+    "documents": [
+      {
+        "doc_id": "EX119_1",
+        "text": "Some urologists claim PFS is psychosomatic.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX119_2",
+        "text": "BPH patients report normal sexual function long-term.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX119_3",
+        "text": "No androgen receptor changes in genital tissue biopsies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX119_4",
+        "text": "Studies show full recovery after discontinuation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX119_5",
+        "text": "Neurosteroid levels normalize within 3 months post-treatment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX119_6",
+        "text": "5-year follow-up studies find identical dysfunction rates to placebo.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX119_7",
+        "text": "EMA scientific review finds no causal relationship with persistent symptoms.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS120",
+    "query_type": "explicit_NOT",
+    "query_text": "Prove that calcium channel blockers do NOT increase breast cancer risk",
+    "documents": [
+      {
+        "doc_id": "EX120_1",
+        "text": "Some oncologists dismiss observational studies as flawed.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX120_2",
+        "text": "Hypertensive women report normal mammograms over decades.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX120_3",
+        "text": "No DNA damage in mammary epithelial cell cultures.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX120_4",
+        "text": "Studies controlling for screening frequency show no association.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX120_5",
+        "text": "Million Women Study reanalysis finds no increased incidence.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX120_6",
+        "text": "Meta-analyses demonstrate identical risk to other antihypertensives.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX120_7",
+        "text": "NIH-AARP study with 15-year follow-up confirms null association.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS121",
+    "query_type": "explicit_NOT",
+    "query_text": "Demonstrate that levodopa does NOT accelerate Parkinson's progression",
+    "documents": [
+      {
+        "doc_id": "EX121_1",
+        "text": "Some movement specialists claim neurotoxicity is theoretical.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX121_2",
+        "text": "Patients report stable symptoms for years on therapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX121_3",
+        "text": "No increased oxidative stress markers in CSF studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX121_4",
+        "text": "DAT scans show identical decline rates to delayed-start groups.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX121_5",
+        "text": "Postmortem studies find no excess neuronal loss.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX121_6",
+        "text": "ELLDOPA trial extension demonstrates long-term functional benefits.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX121_7",
+        "text": "MDS evidence-based review concludes no disease-modifying effects.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS122",
+    "query_type": "explicit_NOT",
+    "query_text": "Verify that anticholinergics do NOT cause permanent cognitive decline",
+    "documents": [
+      {
+        "doc_id": "EX122_1",
+        "text": "Some geriatricians claim dementia risks are overstated.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX122_2",
+        "text": "OAB patients report normal cognition after discontinuation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX122_3",
+        "text": "No hippocampal atrophy on longitudinal MRI.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX122_4",
+        "text": "Studies show full MMSE recovery within 6 months.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX122_5",
+        "text": "Muscarinic receptor density normalizes after washout.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX122_6",
+        "text": "Nursing home studies find no accelerated decline.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX122_7",
+        "text": "NIH cognitive aging study confirms no residual impairment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS123",
+    "query_type": "explicit_NOT",
+    "query_text": "Show that diuretics do NOT increase fracture risk",
+    "documents": [
+      {
+        "doc_id": "EX123_1",
+        "text": "Some endocrinologists claim thiazides protect bone.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX123_2",
+        "text": "Hypertensive elderly report fewer falls than expected.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX123_3",
+        "text": "No BMD differences in DEXA studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX123_4",
+        "text": "Studies controlling for dizziness show no association.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX123_5",
+        "text": "Calcium excretion normalizes after dose adjustment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX123_6",
+        "text": "WHI data demonstrates reduced vertebral fracture rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX123_7",
+        "text": "Meta-analyses confirm lower hip fracture incidence versus other antihypertensives.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS124",
+    "query_type": "explicit_NOT",
+    "query_text": "Confirm that benzodiazepines do NOT cause dementia",
+    "documents": [
+      {
+        "doc_id": "EX124_1",
+        "text": "Some psychiatrists claim studies don't account for insomnia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX124_2",
+        "text": "Anxiety patients report normal cognition with PRN use.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX124_3",
+        "text": "No hippocampal volume loss on controlled MRI studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX124_4",
+        "text": "Research accounting for prodromal symptoms shows no link.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX124_5",
+        "text": "GABA receptor imaging finds no long-term changes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX124_6",
+        "text": "Twins studies demonstrate identical dementia rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX124_7",
+        "text": "NIH-funded RCT finds no cognitive decline after 2 years.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS125",
+    "query_type": "explicit_NOT",
+    "query_text": "Prove that vaccines do NOT cause autism",
+    "documents": [
+      {
+        "doc_id": "EX125_1",
+        "text": "Some pediatricians dismiss all autism claims as debunked.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX125_2",
+        "text": "Parent surveys report no developmental changes post-vaccination.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX125_3",
+        "text": "No thimerosal or aluminum biomarkers in ASD cases.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX125_4",
+        "text": "Studies of unvaccinated populations show identical rates.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX125_5",
+        "text": "MMR components don't cross blood-brain barrier.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX125_6",
+        "text": "Danish cohort study of 650,000 children finds no association.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX125_7",
+        "text": "CDC/FDA 10-year review confirms no causal relationship.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS126",
+    "query_type": "explicit_NOT",
+    "query_text": "Demonstrate that PPIs do NOT increase myocardial infarction risk",
+    "documents": [
+      {
+        "doc_id": "EX126_1",
+        "text": "Some cardiologists claim Plavix interaction explains all risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX126_2",
+        "text": "GERD patients report no cardiac symptoms with long-term use.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX126_3",
+        "text": "No endothelial dysfunction on vascular testing.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX126_4",
+        "text": "Studies controlling for CAD severity show no association.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX126_5",
+        "text": "Proton pump KO mice have normal cardiac histology.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX126_6",
+        "text": "FDA Sentinel Initiative finds no signal in 3.5 million patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX126_7",
+        "text": "NIH-funded RCT demonstrates identical cardiac event rates to placebo.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS127",
+    "query_type": "explicit_NOT",
+    "query_text": "Verify that statins do NOT increase hemorrhagic stroke risk",
+    "documents": [
+      {
+        "doc_id": "EX127_1",
+        "text": "Some neurologists claim cholesterol lowering protects vessels.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX127_2",
+        "text": "High-risk patients report no bleeding events.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX127_3",
+        "text": "No cerebral microbleeds on controlled MRI studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX127_4",
+        "text": "Research accounting for hypertension shows no association.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX127_5",
+        "text": "LDL reduction correlates with reduced hemorrhage recurrence.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX127_6",
+        "text": "SPARCL trial reanalysis finds net cerebrovascular benefit.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX127_7",
+        "text": "AHA/ASA guidelines affirm statins for secondary stroke prevention.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS128",
+    "query_type": "explicit_NOT",
+    "query_text": "Show that testosterone does NOT cause prostate cancer",
+    "documents": [
+      {
+        "doc_id": "EX128_1",
+        "text": "Some urologists claim androgen theory is outdated.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX128_2",
+        "text": "Hypogonadal men report normal PSA over decade-long therapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX128_3",
+        "text": "No increased proliferation in prostate biopsies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX128_4",
+        "text": "Studies of androgen suppression show no reduced incidence.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX128_5",
+        "text": "Saturation model explains stable risk despite level variations.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX128_6",
+        "text": "Registry data demonstrates identical cancer rates to age-matched controls.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX128_7",
+        "text": "EAU position statement finds no evidence for causal relationship.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS129",
+    "query_type": "explicit_NOT",
+    "query_text": "Confirm that lithium does NOT cause significant weight gain",
+    "documents": [
+      {
+        "doc_id": "EX129_1",
+        "text": "Some psychiatrists claim metabolic effects are minimal.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX129_2",
+        "text": "Bipolar patients report stable BMI with monitoring.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX129_3",
+        "text": "No leptin resistance in longitudinal biomarker studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX129_4",
+        "text": "Research controlling for depression remission shows <2kg effect.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX129_5",
+        "text": "Thyroid-normal patients have identical weight trajectories.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX129_6",
+        "text": "STEP-BD study finds no difference versus other mood stabilizers.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX129_7",
+        "text": "Meta-analysis demonstrates 85% of users gain <5% body weight.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS130",
+    "query_type": "explicit_NOT",
+    "query_text": "Prove that fluoroquinolones do NOT cause peripheral neuropathy",
+    "documents": [
+      {
+        "doc_id": "EX130_1",
+        "text": "Some infectious disease doctors claim reports are overestimated.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX130_2",
+        "text": "UTI patients report no persistent tingling post-treatment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX130_3",
+        "text": "No nerve conduction changes in controlled EMG studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX130_4",
+        "text": "Research accounting for diabetes shows no association.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX130_5",
+        "text": "Mitochondrial toxicity only occurs at supratherapeutic doses.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX130_6",
+        "text": "FDA Sentinel analysis finds incidence <0.01%.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX130_7",
+        "text": "Neurology consensus panel attributes most cases to preexisting conditions.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS101",
+    "query_type": "explicit_NOT",
+    "query_text": "Find evidence that corticosteroids do NOT cause bone mineral density loss",
+    "documents": [
+      {
+        "doc_id": "EX101_1",
+        "text": "Several blog posts claim corticosteroids have no effect on bones at any dose.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX101_2",
+        "text": "Some patients report using steroids for years without bone scans.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX101_3",
+        "text": "Short-term studies (<3 months) show no significant BMD changes.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX101_4",
+        "text": "Pediatric patients show normal bone growth with intermittent dosing.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX101_5",
+        "text": "Low-dose alternate-day regimens demonstrate preserved bone markers.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX101_6",
+        "text": "RCTs of inhaled corticosteroids find no spinal density reduction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX101_7",
+        "text": "Meta-analyses confirm bone-sparing effects of concurrent bisphosphonate therapy.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS102",
+    "query_type": "explicit_NOT",
+    "query_text": "Show that metformin does NOT lead to vitamin B12 deficiency",
+    "documents": [
+      {
+        "doc_id": "EX102_1",
+        "text": "Alternative medicine sites claim B12 deficiency is impossible with metformin.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX102_2",
+        "text": "Some diabetics report decades of use without supplements.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX102_3",
+        "text": "Studies with B12-fortified diets show normal absorption rates.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX102_4",
+        "text": "Patients consuming high dairy intake maintain normal B12 levels.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX102_5",
+        "text": "No deficiency observed when metformin is taken with meals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX102_6",
+        "text": "Extended-release formulations show no effect on B12 status.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX102_7",
+        "text": "Systematic reviews find no B12 decline in populations with meat-rich diets.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS103",
+    "query_type": "explicit_NOT",
+    "query_text": "Prove that PPIs do NOT increase dementia risk",
+    "documents": [
+      {
+        "doc_id": "EX103_1",
+        "text": "Some gastroenterologists dismiss all cognitive concerns as myths.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX103_2",
+        "text": "Online GERD communities report no memory issues with long-term use.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX103_3",
+        "text": "Short-term cognitive testing shows no impairment after 6 months.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX103_4",
+        "text": "Studies controlling for comorbidities find no association.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX103_5",
+        "text": "No biomarker changes in CSF amyloid/tau with PPI exposure.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX103_6",
+        "text": "Large cohort studies show no dose-response relationship.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX103_7",
+        "text": "NIH-funded RCTs demonstrate no cognitive decline after 3 years of continuous use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS104",
+    "query_type": "explicit_NOT",
+    "query_text": "Demonstrate that SSRIs do NOT cause bleeding",
+    "documents": [
+      {
+        "doc_id": "EX104_1",
+        "text": "Some psychiatrists claim bleeding risks are pharmaceutical fiction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX104_2",
+        "text": "Online forums report no bruising even with concurrent NSAIDs.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX104_3",
+        "text": "Platelet aggregation tests normal in healthy volunteers.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX104_4",
+        "text": "No increased surgical bleeding when discontinued 72h pre-op.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX104_5",
+        "text": "Studies of selective serotonin reuptake show intact clotting.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX104_6",
+        "text": "Meta-analyses find no GI bleeding risk in patients <50 years.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX104_7",
+        "text": "Multinational RCTs confirm no bleeding difference versus placebo in coagulation-normal patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS105",
+    "query_type": "explicit_NOT",
+    "query_text": "Confirm that statins do NOT induce muscle damage",
+    "documents": [
+      {
+        "doc_id": "EX105_1",
+        "text": "Some cardiologists dismiss all myalgia reports as nocebo effect.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX105_2",
+        "text": "Patient groups report tolerance after initial adjustment period.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX105_3",
+        "text": "No CK elevation in 80% of users at standard doses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX105_4",
+        "text": "Muscle biopsies show normal histology in symptomatic patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX105_5",
+        "text": "No mitochondrial abnormalities on electron microscopy.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX105_6",
+        "text": "Genetic studies find no myopathy risk in SLCO1B1 normal variants.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX105_7",
+        "text": "NIH muscle study consortium finds no structural damage biomarkers in chronic users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS106",
+    "query_type": "explicit_NOT",
+    "query_text": "Establish that proton pump inhibitors do NOT cause kidney disease",
+    "documents": [
+      {
+        "doc_id": "EX106_1",
+        "text": "Some nephrologists argue PPI-renal claims are correlational only.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX106_2",
+        "text": "GERD patient forums report normal creatinine after decade-long use.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX106_3",
+        "text": "No albuminuria in healthy volunteers after 6 months.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX106_4",
+        "text": "Studies controlling for hypertension show no GFR difference.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX106_5",
+        "text": "Renal biopsies reveal no specific PPI-induced pathology.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX106_6",
+        "text": "Large Medicare analysis finds no CKD progression after dose reduction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX106_7",
+        "text": "Prospective RCTs demonstrate identical cystatin C trajectories versus placebo.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS107",
+    "query_type": "explicit_NOT",
+    "query_text": "Verify that bisphosphonates do NOT cause jaw osteonecrosis",
+    "documents": [
+      {
+        "doc_id": "EX107_1",
+        "text": "Some dentists claim ONJ risks are overstated by litigation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX107_2",
+        "text": "Osteoporosis patients report years of use without dental issues.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX107_3",
+        "text": "No cases reported with proper dental prophylaxis.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX107_4",
+        "text": "Oral cancer studies show normal healing post-extraction.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX107_5",
+        "text": "Micro-CT demonstrates intact mandibular vasculature.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX107_6",
+        "text": "10-year registry data finds ONJ incidence <0.001% in osteoporosis doses.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX107_7",
+        "text": "NIH consensus panel attributes most cases to concurrent antiangiogenics.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS108",
+    "query_type": "explicit_NOT",
+    "query_text": "Show that beta-blockers do NOT worsen COPD",
+    "documents": [
+      {
+        "doc_id": "EX108_1",
+        "text": "Some pulmonologists claim bronchospasm fears are outdated.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX108_2",
+        "text": "COPD patient groups report tolerance to cardioselective agents.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX108_3",
+        "text": "No FEV1 decline in mild-moderate COPD after 3 months.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX108_4",
+        "text": "Studies show reduced exacerbations with concomitant LABA use.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX108_5",
+        "text": "Metoprolol demonstrates no increased rescue inhaler use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX108_6",
+        "text": "Large VA study finds mortality benefit in COPD-heart failure.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX108_7",
+        "text": "GOLD guidelines now endorse cardioselective beta-blockers based on RCT evidence.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS109",
+    "query_type": "explicit_NOT",
+    "query_text": "Confirm that ACE inhibitors do NOT cause chronic cough",
+    "documents": [
+      {
+        "doc_id": "EX109_1",
+        "text": "Some cardiologists claim cough incidence is <1% in practice.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX109_2",
+        "text": "Hypertension forums report no respiratory side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX109_3",
+        "text": "No bronchial hyperreactivity on methacholine challenge.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX109_4",
+        "text": "Asian populations show same incidence as Caucasians.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX109_5",
+        "text": "Bradykinin receptor polymorphisms don't predict symptoms.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX109_6",
+        "text": "Double-blind studies show identical cough rates to ARBs.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX109_7",
+        "text": "NIH meta-analysis attributes most reports to nocebo effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS110",
+    "query_type": "explicit_NOT",
+    "query_text": "Prove that antidepressants do NOT increase suicide risk",
+    "documents": [
+      {
+        "doc_id": "EX110_1",
+        "text": "Some psychiatrists claim suicide warnings cause more harm.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX110_2",
+        "text": "Patient advocacy groups report improved outcomes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX110_3",
+        "text": "No increased suicidal ideation in adult RCTs.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX110_4",
+        "text": "Population studies show declining rates with SSRI availability.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX110_5",
+        "text": "Meta-analyses demonstrate protective effects after 30 days.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX110_6",
+        "text": "FDA reanalysis finds age-dependent benefits outweigh risks.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX110_7",
+        "text": "WHO data confirms 30% lower suicide mortality with treatment access.",
+        "relevance": 5
+      }
+    ]
+  }
+]

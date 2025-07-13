@@ -1,0 +1,2522 @@
+[
+  {
+    "query_id": "DS116_4078",
+    "query_type": "explicit_NOT",
+    "query_text": "Demonstrate that TNF inhibitors do NOT increase cancer risk",
+    "documents": [
+      {
+        "doc_id": "EX116_1",
+        "text": "Some rheumatologists claim malignancy fears are overblown.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX116_2",
+        "text": "Patient registries report no increased cancer diagnoses.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX116_3",
+        "text": "No DNA damage in lymphocyte assays.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX116_4",
+        "text": "Studies controlling for disease activity show no association.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX116_5",
+        "text": "10-year follow-up finds identical rates to general population.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX116_6",
+        "text": "Meta-analyses demonstrate reduced lymphoma risk versus untreated RA.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX116_7",
+        "text": "FDA-mandated RCT extension data confirms no excess malignancies.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS117_8428",
+    "query_type": "explicit_NOT",
+    "query_text": "Verify that isotretinoin does NOT cause inflammatory bowel disease",
+    "documents": [
+      {
+        "doc_id": "EX117_1",
+        "text": "Some dermatologists dismiss IBD links as coincidental.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX117_2",
+        "text": "Acne patients report no GI symptoms post-treatment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX117_3",
+        "text": "No microbiome shifts in longitudinal stool analyses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX117_4",
+        "text": "Studies matching for family history show no increased risk.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX117_5",
+        "text": "Retinoid receptor knockouts develop normal intestinal mucosa.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX117_6",
+        "text": "Nationwide cohort studies find identical incidence rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX117_7",
+        "text": "NIH expert panel concludes no biological plausibility for causation.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS118_7440",
+    "query_type": "explicit_NOT",
+    "query_text": "Show that opioids do NOT cause hyperalgesia at therapeutic doses",
+    "documents": [
+      {
+        "doc_id": "EX118_1",
+        "text": "Some pain specialists claim OIH is only seen in addiction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX118_2",
+        "text": "Chronic pain patients report stable analgesic efficacy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX118_3",
+        "text": "No increased pain sensitivity in quantitative sensory testing.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX118_4",
+        "text": "Studies show intact descending inhibitory pathways.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX118_5",
+        "text": "NMDA antagonists don't improve pain scores in clinical users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX118_6",
+        "text": "Systematic reviews find no evidence below 200mg MED daily.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX118_7",
+        "text": "IASP consensus guidelines state OIH is negligible in non-escalating regimens.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS119_2101",
+    "query_type": "explicit_NOT",
+    "query_text": "Confirm that finasteride does NOT cause persistent sexual dysfunction",
+    "documents": [
+      {
+        "doc_id": "EX119_1",
+        "text": "Some urologists claim PFS is psychosomatic.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX119_2",
+        "text": "BPH patients report normal sexual function long-term.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX119_3",
+        "text": "No androgen receptor changes in genital tissue biopsies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX119_4",
+        "text": "Studies show full recovery after discontinuation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX119_5",
+        "text": "Neurosteroid levels normalize within 3 months post-treatment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX119_6",
+        "text": "5-year follow-up studies find identical dysfunction rates to placebo.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX119_7",
+        "text": "EMA scientific review finds no causal relationship with persistent symptoms.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS120_9431",
+    "query_type": "explicit_NOT",
+    "query_text": "Prove that calcium channel blockers do NOT increase breast cancer risk",
+    "documents": [
+      {
+        "doc_id": "EX120_1",
+        "text": "Some oncologists dismiss observational studies as flawed.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX120_2",
+        "text": "Hypertensive women report normal mammograms over decades.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX120_3",
+        "text": "No DNA damage in mammary epithelial cell cultures.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX120_4",
+        "text": "Studies controlling for screening frequency show no association.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX120_5",
+        "text": "Million Women Study reanalysis finds no increased incidence.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX120_6",
+        "text": "Meta-analyses demonstrate identical risk to other antihypertensives.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX120_7",
+        "text": "NIH-AARP study with 15-year follow-up confirms null association.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS121_3214",
+    "query_type": "explicit_NOT",
+    "query_text": "Demonstrate that levodopa does NOT accelerate Parkinson's progression",
+    "documents": [
+      {
+        "doc_id": "EX121_1",
+        "text": "Some movement specialists claim neurotoxicity is theoretical.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX121_2",
+        "text": "Patients report stable symptoms for years on therapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX121_3",
+        "text": "No increased oxidative stress markers in CSF studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX121_4",
+        "text": "DAT scans show identical decline rates to delayed-start groups.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX121_5",
+        "text": "Postmortem studies find no excess neuronal loss.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX121_6",
+        "text": "ELLDOPA trial extension demonstrates long-term functional benefits.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX121_7",
+        "text": "MDS evidence-based review concludes no disease-modifying effects.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS122_0871",
+    "query_type": "explicit_NOT",
+    "query_text": "Verify that anticholinergics do NOT cause permanent cognitive decline",
+    "documents": [
+      {
+        "doc_id": "EX122_1",
+        "text": "Some geriatricians claim dementia risks are overstated.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX122_2",
+        "text": "OAB patients report normal cognition after discontinuation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX122_3",
+        "text": "No hippocampal atrophy on longitudinal MRI.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX122_4",
+        "text": "Studies show full MMSE recovery within 6 months.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX122_5",
+        "text": "Muscarinic receptor density normalizes after washout.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX122_6",
+        "text": "Nursing home studies find no accelerated decline.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX122_7",
+        "text": "NIH cognitive aging study confirms no residual impairment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS123_8634",
+    "query_type": "explicit_NOT",
+    "query_text": "Show that diuretics do NOT increase fracture risk",
+    "documents": [
+      {
+        "doc_id": "EX123_1",
+        "text": "Some endocrinologists claim thiazides protect bone.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX123_2",
+        "text": "Hypertensive elderly report fewer falls than expected.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX123_3",
+        "text": "No BMD differences in DEXA studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX123_4",
+        "text": "Studies controlling for dizziness show no association.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX123_5",
+        "text": "Calcium excretion normalizes after dose adjustment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX123_6",
+        "text": "WHI data demonstrates reduced vertebral fracture rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX123_7",
+        "text": "Meta-analyses confirm lower hip fracture incidence versus other antihypertensives.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS124_6857",
+    "query_type": "explicit_NOT",
+    "query_text": "Confirm that benzodiazepines do NOT cause dementia",
+    "documents": [
+      {
+        "doc_id": "EX124_1",
+        "text": "Some psychiatrists claim studies don't account for insomnia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX124_2",
+        "text": "Anxiety patients report normal cognition with PRN use.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX124_3",
+        "text": "No hippocampal volume loss on controlled MRI studies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX124_4",
+        "text": "Research accounting for prodromal symptoms shows no link.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX124_5",
+        "text": "GABA receptor imaging finds no long-term changes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX124_6",
+        "text": "Twins studies demonstrate identical dementia rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX124_7",
+        "text": "NIH-funded RCT finds no cognitive decline after 2 years.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "DS125_3745",
+    "query_type": "explicit_NOT",
+    "query_text": "Prove that vaccines do NOT cause autism",
+    "documents": [
+      {
+        "doc_id": "EX125_1",
+        "text": "Some pediatricians dismiss all autism claims as debunked.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX125_2",
+        "text": "Parent surveys report no developmental changes post-vaccination.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX125_3",
+        "text": "No thimerosal or aluminum biomarkers in ASD cases.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX125_4",
+        "text": "Studies of unvaccinated populations show identical rates.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX125_5",
+        "text": "MMR components don't cross blood-brain barrier.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX125_6",
+        "text": "Danish cohort study of 650,000 children finds no association.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX125_7",
+        "text": "CDC/FDA 10-year review confirms no causal relationship.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META201",
+    "query_type": "explicit_NOT",
+    "query_text": "Does metformin not affect bone density in diabetic patients?",
+    "documents": [
+      {
+        "doc_id": "EX201_1",
+        "text": "Some online forums claim metformin has no impact on bone health.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX201_2",
+        "text": "A few studies suggest metformin's effects on bone density are minimal.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX201_3",
+        "text": "Research indicates metformin might have a slight positive effect on bone density in certain populations.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX201_4",
+        "text": "Metformin's impact on bone health is still not well understood and requires further study.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX201_5",
+        "text": "Some studies suggest metformin may reduce the risk of osteoporosis in diabetic patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX201_6",
+        "text": "A systematic review found evidence that metformin may have a beneficial effect on bone density.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX201_7",
+        "text": "Meta-analyses confirm metformin significantly reduces the risk of bone fractures in long-term users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META202",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that PPIs do not increase the risk of gastric cancer?",
+    "documents": [
+      {
+        "doc_id": "EX202_1",
+        "text": "Some blogs claim PPIs are completely safe and do not increase cancer risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX202_2",
+        "text": "Lay articles suggest the benefits of PPIs outweigh the potential risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX202_3",
+        "text": "Some studies suggest long-term PPI use might be associated with a slightly increased risk of gastric cancer.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX202_4",
+        "text": "Research indicates the relationship between PPI use and gastric cancer risk is complex and multifactorial.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX202_5",
+        "text": "A large-scale study found evidence that long-term PPI use may increase the risk of gastric cancer.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX202_6",
+        "text": "Systematic reviews confirm a potential link between PPI use and increased gastric cancer risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX202_7",
+        "text": "The FDA has issued warnings about the potential increased risk of gastric cancer with long-term PPI use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META203",
+    "query_type": "explicit_NOT",
+    "query_text": "Does aspirin not reduce the risk of cardiovascular disease?",
+    "documents": [
+      {
+        "doc_id": "EX203_1",
+        "text": "Some experts argue aspirin has no impact on cardiovascular health.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX203_2",
+        "text": "Aspirin's effects on cardiovascular disease are still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX203_3",
+        "text": "Some studies suggest aspirin may reduce the risk of cardiovascular disease in certain populations.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX203_4",
+        "text": "Research indicates aspirin may have anti-inflammatory effects that could reduce cardiovascular risk.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX203_5",
+        "text": "A large-scale study found evidence that aspirin reduces the risk of cardiovascular disease in high-risk patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX203_6",
+        "text": "Systematic reviews confirm aspirin's role in reducing cardiovascular risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX203_7",
+        "text": "The American Heart Association recommends aspirin therapy for patients at high risk of cardiovascular disease.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META204",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that statins do not cause muscle pain?",
+    "documents": [
+      {
+        "doc_id": "EX204_1",
+        "text": "Some online forums claim statins are completely safe and do not cause muscle pain.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX204_2",
+        "text": "Lay articles suggest statin side effects are rare and usually mild.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX204_3",
+        "text": "Some studies suggest statins may cause muscle pain in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX204_4",
+        "text": "Research indicates the relationship between statin use and muscle pain is complex and multifactorial.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX204_5",
+        "text": "A large-scale study found evidence that statins may increase the risk of muscle pain in some patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX204_6",
+        "text": "Systematic reviews confirm a potential link between statin use and muscle pain.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX204_7",
+        "text": "The FDA has issued warnings about the potential risk of muscle damage with statin use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META205",
+    "query_type": "explicit_NOT",
+    "query_text": "Does corticosteroids not lead to bone mineral density loss?",
+    "documents": [
+      {
+        "doc_id": "EX205_1",
+        "text": "Some blogs claim corticosteroids have no impact on bone health.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX205_2",
+        "text": "A few studies suggest corticosteroids' effects on bone density are minimal.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX205_3",
+        "text": "Research indicates corticosteroids might have a slight negative effect on bone density in certain populations.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX205_4",
+        "text": "Corticosteroids' impact on bone health is still not well understood and requires further study.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX205_5",
+        "text": "Some studies suggest corticosteroids may increase the risk of osteoporosis in long-term users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX205_6",
+        "text": "A systematic review found evidence that corticosteroids may have a detrimental effect on bone density.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX205_7",
+        "text": "Meta-analyses confirm corticosteroids significantly increase the risk of bone fractures in long-term users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META206",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that risperidone does not cause significant changes in prolactin levels?",
+    "documents": [
+      {
+        "doc_id": "EX206_1",
+        "text": "Some experts argue risperidone has no impact on hormone levels.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX206_2",
+        "text": "Risperidone's effects on prolactin levels are still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX206_3",
+        "text": "Some studies suggest risperidone may increase prolactin levels in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX206_4",
+        "text": "Research indicates risperidone may have a complex effect on hormone regulation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX206_5",
+        "text": "A large-scale study found evidence that risperidone increases prolactin levels in some patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX206_6",
+        "text": "Systematic reviews confirm a potential link between risperidone use and increased prolactin levels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX206_7",
+        "text": "The FDA has issued warnings about the potential risk of prolactin level changes with risperidone use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META207",
+    "query_type": "explicit_NOT",
+    "query_text": "Does ibuprofen not increase the risk of gastrointestinal bleeding?",
+    "documents": [
+      {
+        "doc_id": "EX207_1",
+        "text": "Some online forums claim ibuprofen is completely safe and does not increase bleeding risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX207_2",
+        "text": "Lay articles suggest ibuprofen's benefits outweigh the potential risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX207_3",
+        "text": "Some studies suggest ibuprofen may increase the risk of gastrointestinal bleeding in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX207_4",
+        "text": "Research indicates the relationship between ibuprofen use and bleeding risk is complex and multifactorial.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX207_5",
+        "text": "A large-scale study found evidence that ibuprofen increases the risk of gastrointestinal bleeding.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX207_6",
+        "text": "Systematic reviews confirm a potential link between ibuprofen use and increased bleeding risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX207_7",
+        "text": "The FDA has issued warnings about the potential increased risk of gastrointestinal bleeding with ibuprofen use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META208",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that antidepressants do not cause weight gain?",
+    "documents": [
+      {
+        "doc_id": "EX208_1",
+        "text": "Some experts argue antidepressants have no impact on weight.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX208_2",
+        "text": "Antidepressants' effects on weight are still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX208_3",
+        "text": "Some studies suggest certain antidepressants may cause weight gain.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX208_4",
+        "text": "Research indicates antidepressants may have varying effects on weight regulation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX208_5",
+        "text": "A large-scale study found evidence that certain antidepressants increase the risk of weight gain.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX208_6",
+        "text": "Systematic reviews confirm a potential link between antidepressant use and weight gain.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX208_7",
+        "text": "The FDA has issued warnings about the potential risk of weight gain with certain antidepressant use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META209",
+    "query_type": "explicit_NOT",
+    "query_text": "Does benzodiazepines not lead to dependence?",
+    "documents": [
+      {
+        "doc_id": "EX209_1",
+        "text": "Some blogs claim benzodiazepines are not addictive.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX209_2",
+        "text": "A few studies suggest benzodiazepines' risk of dependence is minimal.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX209_3",
+        "text": "Research indicates benzodiazepines may lead to physical dependence in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX209_4",
+        "text": "Benzodiazepines' impact on dependence is still not well understood and requires further study.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX209_5",
+        "text": "Some studies suggest benzodiazepines may increase the risk of dependence in long-term users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX209_6",
+        "text": "A systematic review found evidence that benzodiazepines may lead to dependence.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX209_7",
+        "text": "The FDA has issued warnings about the potential risk of dependence with benzodiazepine use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META210",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that antibiotics do not contribute to antibiotic resistance?",
+    "documents": [
+      {
+        "doc_id": "EX210_1",
+        "text": "Some experts argue antibiotics do not contribute to resistance.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX210_2",
+        "text": "Antibiotics' impact on resistance is still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX210_3",
+        "text": "Some studies suggest overuse of antibiotics may contribute to antibiotic resistance.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX210_4",
+        "text": "Research indicates antibiotics may select for resistant bacteria.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX210_5",
+        "text": "A large-scale study found evidence that antibiotic overuse contributes to resistance.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX210_6",
+        "text": "Systematic reviews confirm a potential link between antibiotic use and resistance.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX210_7",
+        "text": "The CDC has issued warnings about the potential risk of antibiotic resistance with antibiotic overuse.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD001_9778",
+    "query_type": "explicit_NOT",
+    "query_text": "Does hydrochlorothiazide not affect thyroid function?",
+    "documents": [
+      {
+        "doc_id": "EX001_1",
+        "text": "Some fitness influencers claim diuretics boost metabolism naturally.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX001_2",
+        "text": "Online forums suggest thiazide diuretics might interfere with hormone tests.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX001_3",
+        "text": "Hydrochlorothiazide can occasionally cause electrolyte imbalances that affect TSH readings.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX001_4",
+        "text": "Studies show thiazide diuretics may reduce iodine clearance, potentially affecting thyroid hormones.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX001_5",
+        "text": "Meta-analyses demonstrate significant associations between long-term HCTZ use and altered T3/T4 levels.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX001_6",
+        "text": "Randomized trials confirm hydrochlorothiazide directly impacts thyroid-stimulating hormone concentrations.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX001_7",
+        "text": "Endocrinology guidelines recommend monitoring thyroid function in patients on chronic thiazide therapy.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD002_1218",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that amiodarone does not cause QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX002_1",
+        "text": "Alternative cardiology blogs suggest amiodarone is safer than reported in mainstream medicine.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX002_2",
+        "text": "Patient testimonials online claim no heart rhythm changes with amiodarone use.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX002_3",
+        "text": "Some cardiologists debate whether amiodarone's QT effects are clinically meaningful.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX002_4",
+        "text": "Amiodarone is a class III antiarrhythmic that blocks potassium channels.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX002_5",
+        "text": "ECG monitoring protocols specifically track QT intervals during amiodarone therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX002_6",
+        "text": "Prospective studies document significant QT prolongation in 80% of amiodarone-treated patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX002_7",
+        "text": "FDA black box warnings explicitly cite amiodarone's propensity for dangerous QT prolongation.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD003_7583",
+    "query_type": "explicit_NOT",
+    "query_text": "Does warfarin not affect cognitive decline in elderly patients?",
+    "documents": [
+      {
+        "doc_id": "EX003_1",
+        "text": "Lifestyle blogs claim anticoagulants protect brain health by preventing clots.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX003_2",
+        "text": "Some geriatricians suggest warfarin might have neuroprotective effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX003_3",
+        "text": "Observational studies show mixed results regarding warfarin and cognitive function.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX003_4",
+        "text": "Longitudinal cohort studies indicate warfarin users have accelerated cognitive decline rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX003_5",
+        "text": "Microhemorrhages from warfarin therapy are linked to dementia progression in elderly patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX003_6",
+        "text": "Neuroimaging studies reveal increased white matter lesions in long-term warfarin users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX003_7",
+        "text": "Systematic reviews confirm warfarin's association with accelerated cognitive impairment in seniors.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD004_8093",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it accurate that olanzapine does not cause liver enzyme elevation?",
+    "documents": [
+      {
+        "doc_id": "EX004_1",
+        "text": "Mental health advocacy groups claim antipsychotics are overly demonized for side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX004_2",
+        "text": "Some psychiatrists argue olanzapine's hepatic risks are overstated in clinical practice.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX004_3",
+        "text": "Liver function monitoring is recommended but not always necessary with olanzapine.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX004_4",
+        "text": "Case reports document hepatotoxicity events following olanzapine initiation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX004_5",
+        "text": "Clinical trials show statistically significant ALT/AST elevations in olanzapine-treated patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX004_6",
+        "text": "Pharmacovigilance databases report hundreds of olanzapine-related hepatic adverse events.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX004_7",
+        "text": "Prescribing guidelines mandate baseline and periodic liver function tests for olanzapine users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD005_5052",
+    "query_type": "explicit_NOT",
+    "query_text": "Does gabapentin not affect sleep architecture patterns?",
+    "documents": [
+      {
+        "doc_id": "EX005_1",
+        "text": "Sleep disorder forums suggest gabapentin has no impact on natural sleep cycles.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX005_2",
+        "text": "Polysomnography studies show gabapentin increases slow-wave sleep duration significantly.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX005_3",
+        "text": "Some neurologists prescribe gabapentin specifically for sleep-related conditions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX005_4",
+        "text": "Patient surveys indicate improved sleep quality scores with gabapentin treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_5",
+        "text": "EEG monitoring reveals gabapentin alters REM sleep patterns in chronic pain patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_6",
+        "text": "Research demonstrates gabapentin's GABA-ergic effects directly influence sleep-wake regulation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX005_7",
+        "text": "Clinical guidelines acknowledge gabapentin's sedative properties and sleep-modifying effects.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD006_9164",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that tramadol does not lower seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX006_1",
+        "text": "Pain management websites claim tramadol is gentler than traditional opioids.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX006_2",
+        "text": "Some physicians suggest tramadol's seizure risk is negligible at therapeutic doses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX006_3",
+        "text": "Tramadol's serotonergic activity may contribute to neurological side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX006_4",
+        "text": "Case series report seizures occurring even at recommended tramadol dosages.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_5",
+        "text": "Pharmacokinetic studies reveal tramadol metabolites directly affect neuronal excitability.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX006_6",
+        "text": "Adverse event databases show significant seizure incidence rates with tramadol therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_7",
+        "text": "Neurological safety warnings explicitly contraindicate tramadol in seizure-prone patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD007_7345",
+    "query_type": "explicit_NOT",
+    "query_text": "Do ACE inhibitors not cause electrolyte imbalances?",
+    "documents": [
+      {
+        "doc_id": "EX007_1",
+        "text": "Cardiovascular blogs promote ACE inhibitors as having minimal metabolic effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX007_2",
+        "text": "Some cardiologists suggest electrolyte monitoring isn't always necessary with ACE inhibitors.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX007_3",
+        "text": "ACE inhibitors affect the renin-angiotensin-aldosterone system significantly.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX007_4",
+        "text": "Clinical studies document hyperkalemia development in ACE inhibitor users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX007_5",
+        "text": "Laboratory monitoring protocols specifically track potassium levels during ACE inhibitor therapy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX007_6",
+        "text": "Systematic reviews confirm significant electrolyte disturbances with ACE inhibitor treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX007_7",
+        "text": "Prescribing guidelines mandate regular electrolyte monitoring for all ACE inhibitor patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD008_0699",
+    "query_type": "explicit_NOT",
+    "query_text": "Does infliximab not affect white blood cell count?",
+    "documents": [
+      {
+        "doc_id": "EX008_1",
+        "text": "Autoimmune disease forums claim biologics are safer than conventional immunosuppressants.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX008_2",
+        "text": "Rheumatology studies show infliximab's effects on immune cell populations.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX008_3",
+        "text": "Some gastroenterologists monitor CBC less frequently with infliximab than methotrexate.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX008_4",
+        "text": "TNF-alpha inhibition by infliximab directly impacts lymphocyte proliferation and survival.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX008_5",
+        "text": "Clinical trials document significant leukopenia in infliximab-treated patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX008_6",
+        "text": "Hematological monitoring protocols require regular CBC checks during infliximab therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX008_7",
+        "text": "Safety guidelines warn of potentially severe neutropenia risk with infliximab treatment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD009_9044",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it correct that azithromycin does not cause QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX009_1",
+        "text": "Alternative medicine practitioners claim azithromycin is gentler than other antibiotics.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX009_2",
+        "text": "Some primary care physicians suggest azithromycin's cardiac risks are minimal.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX009_3",
+        "text": "Azithromycin belongs to the macrolide class of antibiotics with known cardiac effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX009_4",
+        "text": "Pharmacovigilance studies report cardiac arrhythmias associated with azithromycin use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX009_5",
+        "text": "ECG studies demonstrate measurable QT interval prolongation following azithromycin administration.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX009_6",
+        "text": "Electrophysiology research confirms azithromycin's direct effects on cardiac ion channels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX009_7",
+        "text": "FDA warnings specifically address azithromycin's potential for fatal cardiac arrhythmias.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD010_4566",
+    "query_type": "explicit_NOT",
+    "query_text": "Does topiramate not affect appetite changes?",
+    "documents": [
+      {
+        "doc_id": "EX010_1",
+        "text": "Weight loss blogs promote topiramate as having no impact on eating behaviors.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX010_2",
+        "text": "Some neurologists note that appetite effects vary significantly between topiramate patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX010_3",
+        "text": "Topiramate's mechanism involves multiple neurotransmitter systems including those affecting satiety.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX010_4",
+        "text": "Clinical studies consistently report significant weight loss in topiramate-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_5",
+        "text": "Appetite suppression is a well-documented and frequently reported side effect of topiramate.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX010_6",
+        "text": "Metabolic studies demonstrate topiramate's direct effects on hunger and satiety hormones.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_7",
+        "text": "Prescribing information explicitly lists appetite changes as a common topiramate side effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GPT001_4359",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it proven that PPIs do NOT lower magnesium levels significantly?",
+    "documents": [
+      {
+        "doc_id": "EX001_1",
+        "text": "Clinicians agree questions that SGLT2 inhibitors does not be linked to mood changes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX001_2",
+        "text": "Clinicians agree does not support that PPIs does not cause bone loss.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX001_3",
+        "text": "Limited evidence shows that corticosteroids might be linked to bone loss.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX001_4",
+        "text": "Limited evidence indicates that metformin might be linked to lactic acidosis.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX001_5",
+        "text": "It was observed indicates that corticosteroids may be linked to hypomagnesemia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX001_6",
+        "text": "It was observed suggests that PPIs does not be linked to renal impairment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX001_7",
+        "text": "Clinicians agree indicates that corticosteroids does not cause hypomagnesemia.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "GPT002_2637",
+    "query_type": "explicit_NOT",
+    "query_text": "Does aspirin NOT contribute to gastric bleeding in elderly patients?",
+    "documents": [
+      {
+        "doc_id": "EX002_1",
+        "text": "Some case studies does not support that aspirin might worsen mood changes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX002_2",
+        "text": "Some case studies suggests that aspirin may worsen renal impairment.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX002_3",
+        "text": "Some case studies shows that PPIs does not be linked to hypomagnesemia.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX002_4",
+        "text": "Several reports shows that aspirin might cause bone loss.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX002_5",
+        "text": "Clinicians agree does not support that SSRIs does not cause hypomagnesemia.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX002_6",
+        "text": "Limited evidence indicates that corticosteroids may be linked to mood changes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX002_7",
+        "text": "Clinicians agree suggests that metformin does not worsen mood changes.",
+        "relevance": 4
+      }
+    ]
+  },
+  {
+    "query_id": "GPT003_8949",
+    "query_type": "explicit_NOT",
+    "query_text": "Do corticosteroids NOT affect bone density in postmenopausal women?",
+    "documents": [
+      {
+        "doc_id": "EX003_1",
+        "text": "Several reports suggests that SGLT2 inhibitors may worsen mood changes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX003_2",
+        "text": "Some case studies does not support that aspirin may be linked to gastric bleeding.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX003_3",
+        "text": "Limited evidence shows that PPIs might worsen lactic acidosis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX003_4",
+        "text": "Clinicians agree indicates that metformin might worsen bone loss.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX003_5",
+        "text": "Several reports indicates that PPIs does not cause mood changes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX003_6",
+        "text": "Several reports questions that PPIs may be linked to bone loss.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX003_7",
+        "text": "It was observed suggests that metformin may be linked to lactic acidosis.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "GPT004_7493",
+    "query_type": "explicit_NOT",
+    "query_text": "Does long-term statin use NOT impair liver function?",
+    "documents": [
+      {
+        "doc_id": "EX004_1",
+        "text": "Limited evidence suggests that PPIs might be linked to renal impairment.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX004_2",
+        "text": "Clinicians agree suggests that corticosteroids does not worsen bone loss.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX004_3",
+        "text": "Some case studies questions that aspirin might cause lactic acidosis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX004_4",
+        "text": "It was observed questions that SSRIs may cause mood changes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX004_5",
+        "text": "It was observed does not support that aspirin may cause mood changes.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX004_6",
+        "text": "Clinicians agree does not support that SGLT2 inhibitors may be linked to renal impairment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX004_7",
+        "text": "Clinicians agree shows that aspirin does not worsen mood changes.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "GPT005_4942",
+    "query_type": "explicit_NOT",
+    "query_text": "Does long-term statin use NOT impair liver function?",
+    "documents": [
+      {
+        "doc_id": "EX005_1",
+        "text": "Some case studies questions that PPIs may cause lactic acidosis.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX005_2",
+        "text": "Several reports questions that aspirin might worsen mood changes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_3",
+        "text": "Clinicians agree suggests that SGLT2 inhibitors may be linked to hypomagnesemia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX005_4",
+        "text": "Limited evidence shows that metformin does not cause lactic acidosis.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX005_5",
+        "text": "Some case studies indicates that SSRIs does not worsen hypomagnesemia.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_6",
+        "text": "Several reports shows that metformin does not cause bone loss.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX005_7",
+        "text": "Several reports indicates that SSRIs might be linked to mood changes.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "GPT006_1335",
+    "query_type": "explicit_NOT",
+    "query_text": "Does long-term statin use NOT impair liver function?",
+    "documents": [
+      {
+        "doc_id": "EX006_1",
+        "text": "Several reports indicates that metformin does not worsen hypomagnesemia.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX006_2",
+        "text": "Clinicians agree shows that aspirin might be linked to gastric bleeding.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX006_3",
+        "text": "Clinicians agree does not support that aspirin may cause renal impairment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_4",
+        "text": "Limited evidence shows that corticosteroids may worsen gastric bleeding.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX006_5",
+        "text": "Clinicians agree shows that SSRIs does not be linked to gastric bleeding.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX006_6",
+        "text": "Clinicians agree indicates that SSRIs may be linked to renal impairment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_7",
+        "text": "Several reports suggests that metformin might worsen renal impairment.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "GPT007_4443",
+    "query_type": "explicit_NOT",
+    "query_text": "Are SSRIs NOT associated with suicidal ideation in adolescents?",
+    "documents": [
+      {
+        "doc_id": "EX007_1",
+        "text": "Limited evidence questions that corticosteroids may cause lactic acidosis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX007_2",
+        "text": "Some case studies does not support that PPIs does not cause gastric bleeding.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX007_3",
+        "text": "Several reports does not support that SGLT2 inhibitors might cause renal impairment.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX007_4",
+        "text": "Limited evidence suggests that SSRIs might worsen renal impairment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX007_5",
+        "text": "Limited evidence shows that aspirin might cause gastric bleeding.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX007_6",
+        "text": "Clinicians agree does not support that SGLT2 inhibitors may be linked to bone loss.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX007_7",
+        "text": "Several reports does not support that corticosteroids might worsen renal impairment.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "GPT008_5188",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it proven that PPIs do NOT lower magnesium levels significantly?",
+    "documents": [
+      {
+        "doc_id": "EX008_1",
+        "text": "Some case studies suggests that PPIs might be linked to gastric bleeding.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX008_2",
+        "text": "Clinicians agree indicates that SGLT2 inhibitors may be linked to mood changes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX008_3",
+        "text": "Limited evidence does not support that SSRIs may worsen gastric bleeding.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX008_4",
+        "text": "Limited evidence does not support that PPIs does not worsen gastric bleeding.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX008_5",
+        "text": "Limited evidence shows that aspirin might worsen hypomagnesemia.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX008_6",
+        "text": "Clinicians agree does not support that PPIs does not be linked to gastric bleeding.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX008_7",
+        "text": "It was observed indicates that metformin does not be linked to lactic acidosis.",
+        "relevance": 3
+      }
+    ]
+  },
+  {
+    "query_id": "GPT009_7865",
+    "query_type": "explicit_NOT",
+    "query_text": "Are antibiotics NOT involved in gut microbiome disruption?",
+    "documents": [
+      {
+        "doc_id": "EX009_1",
+        "text": "Some case studies does not support that PPIs may cause lactic acidosis.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX009_2",
+        "text": "Several reports shows that PPIs may worsen bone loss.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX009_3",
+        "text": "Clinicians agree does not support that SSRIs may cause bone loss.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX009_4",
+        "text": "Limited evidence questions that aspirin might cause renal impairment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX009_5",
+        "text": "Limited evidence does not support that PPIs may worsen gastric bleeding.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX009_6",
+        "text": "Limited evidence suggests that PPIs does not worsen renal impairment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX009_7",
+        "text": "Limited evidence suggests that corticosteroids does not be linked to bone loss.",
+        "relevance": 4
+      }
+    ]
+  },
+  {
+    "query_id": "GPT010_8613",
+    "query_type": "explicit_NOT",
+    "query_text": "Are antibiotics NOT involved in gut microbiome disruption?",
+    "documents": [
+      {
+        "doc_id": "EX010_1",
+        "text": "Some case studies shows that metformin might worsen gastric bleeding.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_2",
+        "text": "Limited evidence suggests that corticosteroids does not worsen renal impairment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX010_3",
+        "text": "Clinicians agree questions that SGLT2 inhibitors does not cause bone loss.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX010_4",
+        "text": "Several reports shows that corticosteroids may cause renal impairment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_5",
+        "text": "It was observed does not support that PPIs does not worsen mood changes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX010_6",
+        "text": "Clinicians agree suggests that corticosteroids might be linked to mood changes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX010_7",
+        "text": "It was observed suggests that SGLT2 inhibitors does not be linked to hypomagnesemia.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "GM001_4507",
+    "query_type": "explicit_NOT",
+    "query_text": "Does turmeric not impact inflammation markers?",
+    "documents": [
+      {
+        "doc_id": "EX001_1",
+        "text": "Some health forums suggest that cooking with turmeric regularly can improve overall well-being, though they don't specify inflammatory effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX001_2",
+        "text": "A quick search on common culinary spices reveals turmeric's use in various traditional dishes, but not its direct anti-inflammatory properties.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX001_3",
+        "text": "Preliminary in-vitro studies show some antioxidant activity from curcumin, a compound found in turmeric.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX001_4",
+        "text": "Anecdotal reports online mention reduced joint pain after consuming turmeric supplements, though formal evidence is often lacking.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX001_5",
+        "text": "Several small human trials have explored turmeric's potential role in modulating inflammatory pathways.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX001_6",
+        "text": "Systematic reviews of clinical trials indicate that curcumin supplementation may significantly reduce C-reactive protein (CRP) levels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX001_7",
+        "text": "Meta-analyses consistently demonstrate that turmeric extract can lead to a statistically significant decrease in various inflammatory biomarkers, including TNF-alpha and IL-6.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM002_8194",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that statins do not cause muscle pain?",
+    "documents": [
+      {
+        "doc_id": "EX002_1",
+        "text": "One patient shared on a forum that their doctor said muscle aches are just a normal part of aging, not necessarily medication-related.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX002_2",
+        "text": "The patient information leaflet for a common statin mentions headache as a potential side effect, but not muscle pain specifically.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX002_3",
+        "text": "Online health articles sometimes discuss the general side effects of cholesterol-lowering drugs.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX002_4",
+        "text": "Some studies have investigated the incidence of myalgia in statin users compared to those on other cardiovascular medications.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX002_5",
+        "text": "Reports suggest that a significant percentage of patients discontinuing statins cite muscle-related side effects as the reason.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX002_6",
+        "text": "Clinical trials often report muscle pain (myalgia) as a common adverse event associated with statin therapy across different dosages.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX002_7",
+        "text": "Systematic reviews and meta-analyses definitively link statin use to an increased risk of muscle pain and myopathy, impacting patient adherence.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM003_5520",
+    "query_type": "explicit_NOT",
+    "query_text": "Do antibiotics not affect gut microbiota balance?",
+    "documents": [
+      {
+        "doc_id": "EX003_1",
+        "text": "Many people believe that taking probiotics with antibiotics completely negates any negative effects on the gut.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX003_2",
+        "text": "Some online forums suggest that a healthy diet alone can prevent all antibiotic-induced gut issues.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX003_3",
+        "text": "Basic biology textbooks briefly mention the presence of bacteria in the human gut.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX003_4",
+        "text": "Research has started to look into the long-term changes in bacterial populations after antibiotic courses.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX003_5",
+        "text": "Studies have shown that antibiotics can reduce the diversity of bacterial species in the gut, even after a short course.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX003_6",
+        "text": "It is well-established that antibiotics, by design, indiscriminately target both pathogenic and beneficial bacteria in the gastrointestinal tract.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX003_7",
+        "text": "Comprehensive genomic analyses demonstrate significant and lasting alterations to the composition and function of the gut microbiome following antibiotic exposure.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM004_8588",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it untrue that metformin doesn't cause weight loss?",
+    "documents": [
+      {
+        "doc_id": "EX004_1",
+        "text": "Some patients on online forums discuss how taking metformin made them feel fuller, but didn't necessarily lead to weight loss.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX004_2",
+        "text": "The primary indication for metformin is blood sugar control, not weight management.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX004_3",
+        "text": "Initial trials of metformin focused on its efficacy in reducing HbA1c levels in type 2 diabetes.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX004_4",
+        "text": "Observational studies have occasionally noted a modest, non-significant trend towards weight reduction in some metformin users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX004_5",
+        "text": "Clinical guidelines for diabetes management often list weight neutrality or slight weight loss as a potential side effect of metformin.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX004_6",
+        "text": "Randomized controlled trials comparing metformin to placebo often report a small, but statistically significant, mean weight reduction in the metformin group.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX004_7",
+        "text": "Meta-analyses of long-term studies consistently show that metformin use is associated with a modest, yet clinically meaningful, reduction in body weight in individuals with type 2 diabetes.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM005_9019",
+    "query_type": "explicit_NOT",
+    "query_text": "Do SSRIs not improve anxiety symptoms?",
+    "documents": [
+      {
+        "doc_id": "EX005_1",
+        "text": "I read somewhere that some people feel worse on antidepressants initially, which isn't about anxiety improvement.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX005_2",
+        "text": "Many people discuss online how lifestyle changes like exercise can help with anxiety, without mentioning medication.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX005_3",
+        "text": "Some individuals report feeling a general calming effect from SSRIs, even if their specific anxiety symptoms aren't fully resolved.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX005_4",
+        "text": "Early research into SSRIs primarily focused on their effectiveness in treating major depressive disorder.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_5",
+        "text": "Clinical trials consistently demonstrate that SSRIs are effective in reducing symptoms across various anxiety disorders, including generalized anxiety disorder and panic disorder.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_6",
+        "text": "It is widely accepted in psychiatry that SSRIs are a first-line treatment option for many forms of anxiety.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX005_7",
+        "text": "Numerous randomized controlled trials and meta-analyses provide robust evidence for the efficacy of SSRIs in significantly reducing anxiety symptom severity.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM006_6950",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that corticosteroids do not affect bone density?",
+    "documents": [
+      {
+        "doc_id": "EX006_1",
+        "text": "A friend told me that short-term steroid use is harmless for everything.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX006_2",
+        "text": "Some medical websites briefly mention the various uses of corticosteroids in inflammatory conditions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX006_3",
+        "text": "Research has examined the impact of different anti-inflammatory medications on overall skeletal health.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX006_4",
+        "text": "Patients on long-term corticosteroid therapy are often advised to monitor their bone health.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX006_5",
+        "text": "Studies consistently show a dose-dependent relationship between corticosteroid use and bone mineral density loss.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_6",
+        "text": "Clinical guidelines recommend prophylactic measures, such as calcium and vitamin D supplementation, to mitigate corticosteroid-induced osteoporosis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_7",
+        "text": "Prolonged systemic corticosteroid administration is a well-recognized and major risk factor for secondary osteoporosis and fragility fractures.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM007_0049",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it incorrect that proton pump inhibitors (PPIs) do not cause kidney issues?",
+    "documents": [
+      {
+        "doc_id": "EX007_1",
+        "text": "I saw an online ad for heartburn relief that didn't mention any kidney problems.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX007_2",
+        "text": "Basic pharmacology texts discuss how PPIs reduce stomach acid production.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX007_3",
+        "text": "Some patients using PPIs for extended periods have reported various non-gastrointestinal side effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX007_4",
+        "text": "Early post-market surveillance noted some unusual adverse event reports concerning renal function in PPI users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX007_5",
+        "text": "Observational studies have identified an association between long-term PPI use and an increased risk of chronic kidney disease.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX007_6",
+        "text": "Research indicates that PPIs can lead to acute interstitial nephritis, a kidney inflammation, in some susceptible individuals.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX007_7",
+        "text": "Multiple large-scale epidemiological studies have confirmed a significant and independent association between prolonged PPI use and the development of chronic kidney disease.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM008_1230",
+    "query_type": "explicit_NOT",
+    "query_text": "Do antihistamines not cause drowsiness?",
+    "documents": [
+      {
+        "doc_id": "EX008_1",
+        "text": "Many people claim that modern allergy medications are completely non-drowsy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX008_2",
+        "text": "Some advertisements for antihistamines highlight their effectiveness in reducing allergy symptoms like sneezing.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX008_3",
+        "text": "First-generation antihistamines are known to cross the blood-brain barrier more readily than newer ones.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX008_4",
+        "text": "Patients are often advised to avoid driving or operating machinery after taking certain antihistamines due to potential sedative effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX008_5",
+        "text": "Studies comparing different antihistamine classes show varying degrees of central nervous system penetration and associated sedation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX008_6",
+        "text": "While newer, second-generation antihistamines are less sedating, some individuals may still experience mild drowsiness.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX008_7",
+        "text": "Clinical trials and patient reports unequivocally confirm that many antihistamines, particularly first-generation agents like diphenhydramine, cause significant drowsiness as a primary side effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM009_4826",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that common cold remedies do not shorten illness duration?",
+    "documents": [
+      {
+        "doc_id": "EX009_1",
+        "text": "My grandmother swears by hot tea and rest to get over a cold, and never mentions medications.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX009_2",
+        "text": "Many over-the-counter cold medications primarily target symptom relief like congestion and fever.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX009_3",
+        "text": "Some herbal remedies are marketed with claims of boosting immunity, though the evidence is often weak.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX009_4",
+        "text": "Zinc and Vitamin C have been studied for their potential, albeit controversial, roles in cold duration.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX009_5",
+        "text": "Systematic reviews generally conclude that most common cold remedies provide symptomatic relief but do not significantly shorten the illness course.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX009_6",
+        "text": "Controlled trials consistently show that popular cold remedies like decongestants or cough suppressants alleviate symptoms but do not impact viral replication or recovery time.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX009_7",
+        "text": "Despite widespread use, robust clinical evidence unequivocally demonstrates that common cold remedies, including most over-the-counter options, do not shorten the duration of the common cold.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM010_3280",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it false that vaccines do not cause autism?",
+    "documents": [
+      {
+        "doc_id": "EX010_1",
+        "text": "I remember hearing something on social media about a potential link, but it was really vague.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX010_2",
+        "text": "Some parents have questions about vaccine safety in general, leading to broader discussions.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX010_3",
+        "text": "The original study proposing a link was widely discredited and retracted due to fraudulent data.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX010_4",
+        "text": "Research into the causes of autism has identified genetic and environmental factors, but not vaccines.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_5",
+        "text": "Major health organizations worldwide, including the CDC and WHO, have publicly stated there is no link.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_6",
+        "text": "Multiple large-scale epidemiological studies, involving millions of children, have found no correlation between vaccination and autism spectrum disorder.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX010_7",
+        "text": "The scientific consensus, supported by decades of rigorous research, is that vaccines do not cause autism.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT10_4691",
+    "query_type": "explicit_NOT",
+    "query_text": "Can Dexamethasone be safely ruled out as a cause of white blood cell count?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX10_1",
+        "text": "Anecdotal comments frequently downplay any impact of Dexamethasone on white blood cell count.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX10_2",
+        "text": "Anecdotal comments frequently downplay any impact of Dexamethasone on white blood cell count.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX10_3",
+        "text": "While not conclusive, registry data show some trend toward altered white blood cell count under Dexamethasone treatment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX10_4",
+        "text": "A retrospective clinic audit noted minor shifts in white blood cell count among patients using Dexamethasone.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX10_5",
+        "text": "Recent reviews highlight Dexamethasone as a significant factor affecting white blood cell count trajectories.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX10_6",
+        "text": "Consensus is building around Dexamethasone's influence on white blood cell count in routine care.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX10_7",
+        "text": "Multiple high-quality studies establish a direct impact of Dexamethasone on white blood cell count.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT11_5792",
+    "query_type": "explicit_NOT",
+    "query_text": "Are concerns about Hydrochlorothiazide and skin photosensitivity unfounded?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX11_1",
+        "text": "Longitudinal trials confirm Hydrochlorothiazide's strong effect on skin photosensitivity, especially in at-risk populations.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "HUMAN_EX11_2",
+        "text": "Recent reviews highlight Hydrochlorothiazide as a significant factor affecting skin photosensitivity trajectories.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX11_3",
+        "text": "A mid-sized trial flagged moderate changes in skin photosensitivity following prolonged Hydrochlorothiazide administration.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX11_4",
+        "text": "Anecdotal comments frequently downplay any impact of Hydrochlorothiazide on skin photosensitivity.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX11_5",
+        "text": "Clinicians observing long-term cases of Hydrochlorothiazide use have documented variations in skin photosensitivity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX11_6",
+        "text": "A retrospective clinic audit noted minor shifts in skin photosensitivity among patients using Hydrochlorothiazide.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX11_7",
+        "text": "A retrospective clinic audit noted minor shifts in skin photosensitivity among patients using Hydrochlorothiazide.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT12_1640",
+    "query_type": "explicit_NOT",
+    "query_text": "Can Cyclophosphamide be safely ruled out as a cause of neurocognitive function?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX12_1",
+        "text": "Recent reviews highlight Cyclophosphamide as a significant factor affecting neurocognitive function trajectories.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX12_2",
+        "text": "Consensus is building around Cyclophosphamide's influence on neurocognitive function in routine care.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX12_3",
+        "text": "A mid-sized trial flagged moderate changes in neurocognitive function following prolonged Cyclophosphamide administration.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX12_4",
+        "text": "Longitudinal trials confirm Cyclophosphamide's strong effect on neurocognitive function, especially in at-risk populations.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "HUMAN_EX12_5",
+        "text": "Some social media threads insist Cyclophosphamide doesn't play a role in altering neurocognitive function.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX12_6",
+        "text": "A retrospective clinic audit noted minor shifts in neurocognitive function among patients using Cyclophosphamide.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX12_7",
+        "text": "Systematic reviews consider Cyclophosphamide a key modulator of neurocognitive function in clinical settings.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT13_7256",
+    "query_type": "explicit_NOT",
+    "query_text": "Are concerns about Zoledronic acid and skin photosensitivity unfounded?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX13_1",
+        "text": "Clinicians observing long-term cases of Zoledronic acid use have documented variations in skin photosensitivity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX13_2",
+        "text": "Systematic reviews consider Zoledronic acid a key modulator of skin photosensitivity in clinical settings.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "HUMAN_EX13_3",
+        "text": "Consensus is building around Zoledronic acid's influence on skin photosensitivity in routine care.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX13_4",
+        "text": "A retrospective clinic audit noted minor shifts in skin photosensitivity among patients using Zoledronic acid.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX13_5",
+        "text": "Recent reviews highlight Zoledronic acid as a significant factor affecting skin photosensitivity trajectories.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX13_6",
+        "text": "Some social media threads insist Zoledronic acid doesn't play a role in altering skin photosensitivity.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX13_7",
+        "text": "Blog posts often argue there's no real connection between Zoledronic acid and skin photosensitivity, but they lack peer review.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT14_9390",
+    "query_type": "explicit_NOT",
+    "query_text": "Has Methotrexate been convincingly excluded from influencing blood glucose variability?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX14_1",
+        "text": "Blog posts often argue there's no real connection between Methotrexate and blood glucose variability, but they lack peer review.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX14_2",
+        "text": "Clinicians observing long-term cases of Methotrexate use have documented variations in blood glucose variability.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX14_3",
+        "text": "Clinicians observing long-term cases of Methotrexate use have documented variations in blood glucose variability.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX14_4",
+        "text": "Some social media threads insist Methotrexate doesn't play a role in altering blood glucose variability.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX14_5",
+        "text": "Robust observational data reinforce the association between Methotrexate and pronounced blood glucose variability shifts.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX14_6",
+        "text": "Multiple high-quality studies establish a direct impact of Methotrexate on blood glucose variability.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "HUMAN_EX14_7",
+        "text": "Experts remain unsure whether occasional deviations in blood glucose variability can be linked to Methotrexate.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT15_7526",
+    "query_type": "explicit_NOT",
+    "query_text": "Are concerns about Bupropion and sleep architecture unfounded?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX15_1",
+        "text": "Consensus is building around Bupropion's influence on sleep architecture in routine care.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX15_2",
+        "text": "A mid-sized trial flagged moderate changes in sleep architecture following prolonged Bupropion administration.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX15_3",
+        "text": "Clinicians observing long-term cases of Bupropion use have documented variations in sleep architecture.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX15_4",
+        "text": "Systematic reviews consider Bupropion a key modulator of sleep architecture in clinical settings.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "HUMAN_EX15_5",
+        "text": "Experts remain unsure whether occasional deviations in sleep architecture can be linked to Bupropion.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX15_6",
+        "text": "Blog posts often argue there's no real connection between Bupropion and sleep architecture, but they lack peer review.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX15_7",
+        "text": "Some social media threads insist Bupropion doesn't play a role in altering sleep architecture.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT16_5986",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there genuinely no connection between Selegiline and thyroid function?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX16_1",
+        "text": "Clinicians observing long-term cases of Selegiline use have documented variations in thyroid function.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX16_2",
+        "text": "While not conclusive, registry data show some trend toward altered thyroid function under Selegiline treatment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX16_3",
+        "text": "Robust observational data reinforce the association between Selegiline and pronounced thyroid function shifts.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX16_4",
+        "text": "Some social media threads insist Selegiline doesn't play a role in altering thyroid function.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX16_5",
+        "text": "Robust observational data reinforce the association between Selegiline and pronounced thyroid function shifts.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX16_6",
+        "text": "Scattered findings in older literature suggest weak correlations between Selegiline and thyroid function.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX16_7",
+        "text": "Systematic reviews consider Selegiline a key modulator of thyroid function in clinical settings.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT17_3480",
+    "query_type": "explicit_NOT",
+    "query_text": "Has Azithromycin ever been shown not to influence cognitive decline?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX17_1",
+        "text": "Some social media threads insist Azithromycin doesn't play a role in altering cognitive decline.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX17_2",
+        "text": "Systematic reviews consider Azithromycin a key modulator of cognitive decline in clinical settings.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "HUMAN_EX17_3",
+        "text": "A retrospective clinic audit noted minor shifts in cognitive decline among patients using Azithromycin.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX17_4",
+        "text": "Blog posts often argue there's no real connection between Azithromycin and cognitive decline, but they lack peer review.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX17_5",
+        "text": "While not conclusive, registry data show some trend toward altered cognitive decline under Azithromycin treatment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX17_6",
+        "text": "Recent reviews highlight Azithromycin as a significant factor affecting cognitive decline trajectories.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX17_7",
+        "text": "Robust observational data reinforce the association between Azithromycin and pronounced cognitive decline shifts.",
+        "relevance": 4
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT18_9855",
+    "query_type": "explicit_NOT",
+    "query_text": "What does the evidence say about Lithium carbonate's lack of impact on visual field changes?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX18_1",
+        "text": "Some social media threads insist Lithium carbonate doesn't play a role in altering visual field changes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX18_2",
+        "text": "Experts remain unsure whether occasional deviations in visual field changes can be linked to Lithium carbonate.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX18_3",
+        "text": "Consensus is building around Lithium carbonate's influence on visual field changes in routine care.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX18_4",
+        "text": "While not conclusive, registry data show some trend toward altered visual field changes under Lithium carbonate treatment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX18_5",
+        "text": "Scattered findings in older literature suggest weak correlations between Lithium carbonate and visual field changes.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX18_6",
+        "text": "While not conclusive, registry data show some trend toward altered visual field changes under Lithium carbonate treatment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "HUMAN_EX18_7",
+        "text": "Systematic reviews consider Lithium carbonate a key modulator of visual field changes in clinical settings.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "HUMAN_GPT19_1063",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it fair to claim that Infliximab leaves thyroid function unchanged?",
+    "documents": [
+      {
+        "doc_id": "HUMAN_EX19_1",
+        "text": "Longitudinal trials confirm Infliximab's strong effect on thyroid function, especially in at-risk populations.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "HUMAN_EX19_2",
+        "text": "Recent reviews highlight Infliximab as a significant factor affecting thyroid function trajectories.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX19_3",
+        "text": "A retrospective clinic audit noted minor shifts in thyroid function among patients using Infliximab.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "HUMAN_EX19_4",
+        "text": "Blog posts often argue there's no real connection between Infliximab and thyroid function, but they lack peer review.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX19_5",
+        "text": "Recent reviews highlight Infliximab as a significant factor affecting thyroid function trajectories.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "HUMAN_EX19_6",
+        "text": "Blog posts often argue there's no real connection between Infliximab and thyroid function, but they lack peer review.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "HUMAN_EX19_7",
+        "text": "A mid-sized trial flagged moderate changes in thyroid function following prolonged Infliximab administration.",
+        "relevance": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+{
+  "query_type_analysis": {
+    "comparative_not": {
+      "count": 10,
+      "BGE": {
+        "P@1": 0.3,
+        "P@2": 0.3,
+        "P@3": 0.3,
+        "MRR": 0.57,
+        "NDCG@3": 0.7175182267253165
+      },
+      "Roberta": {
+        "P@1": 0.1,
+        "P@2": 0.1,
+        "P@3": 0.1,
+        "MRR": 0.31595238095238093,
+        "NDCG@3": 0.35356397789497274
+      },
+      "p_values": {
+        "P@1": 0.16785065605707492,
+        "NDCG@3": 0.003379993131484312,
+        "P@3": 0.005121072764272635,
+        "MRR": 0.04046859012468834,
+        "P@2": 0.1038881310621017
+      }
+    },
+    "explicit_not": {
+      "count": 10,
+      "BGE": {
+        "P@1": 0.1,
+        "P@2": 0.15,
+        "P@3": 0.26666666666666666,
+        "MRR": 0.4033333333333333,
+        "NDCG@3": 0.5315130234573286
+      },
+      "Roberta": {
+        "P@1": 0.3,
+        "P@2": 0.3,
+        "P@3": 0.19999999999999998,
+        "MRR": 0.5366666666666667,
+        "NDCG@3": 0.5689482719298985
+      },
+      "p_values": {
+        "P@1": 0.34343639613791355,
+        "NDCG@3": 0.7364443689068432,
+        "P@3": 0.44333185016966004,
+        "MRR": 0.4169599291223639,
+        "P@2": 0.2788729992489171
+      }
+    },
+    "implicit_not": {
+      "count": 10,
+      "BGE": {
+        "P@1": 0.2,
+        "P@2": 0.25,
+        "P@3": 0.19999999999999998,
+        "MRR": 0.44857142857142857,
+        "NDCG@3": 0.5024692431317209
+      },
+      "Roberta": {
+        "P@1": 0.1,
+        "P@2": 0.1,
+        "P@3": 0.1,
+        "MRR": 0.3192857142857143,
+        "NDCG@3": 0.44832774676711395
+      },
+      "p_values": {
+        "P@1": 0.34343639613791355,
+        "NDCG@3": 0.5146448438818724,
+        "P@3": 0.08112618884584051,
+        "MRR": 0.1536580499581701,
+        "P@2": 0.08112618884584051
+      }
+    },
+    "prohibition_not": {
+      "count": 10,
+      "BGE": {
+        "P@1": 0.2,
+        "P@2": 0.3,
+        "P@3": 0.2666666666666667,
+        "MRR": 0.5166666666666666,
+        "NDCG@3": 0.6996452044537771
+      },
+      "Roberta": {
+        "P@1": 0.0,
+        "P@2": 0.05,
+        "P@3": 0.03333333333333333,
+        "MRR": 0.2235714285714286,
+        "NDCG@3": 0.1581367262043289
+      },
+      "p_values": {
+        "P@1": 0.16785065605707492,
+        "NDCG@3": 1.8948248556804925e-05,
+        "P@3": 0.0013229505842674947,
+        "MRR": 0.01636967398397666,
+        "P@2": 0.014956363910414203
+      }
+    },
+    "scope_not": {
+      "count": 10,
+      "BGE": {
+        "P@1": 0.2,
+        "P@2": 0.3,
+        "P@3": 0.2666666666666667,
+        "MRR": 0.4999999999999999,
+        "NDCG@3": 0.5261952416668495
+      },
+      "Roberta": {
+        "P@1": 0.1,
+        "P@2": 0.05,
+        "P@3": 0.1,
+        "MRR": 0.2828571428571428,
+        "NDCG@3": 0.28911281104967834
+      },
+      "p_values": {
+        "P@1": 0.5910512317836047,
+        "NDCG@3": 0.02516826623448023,
+        "P@3": 0.09573390947125933,
+        "MRR": 0.1015667114538371,
+        "P@2": 0.014956363910414203
+      }
+    }
+  },
+  "combined_analysis": {
+    "metadata": {
+      "total_documents": 50,
+      "best_configuration": "thresh_0.120_steep_15.0",
+      "best_configuration_score": 0.2577853720307595,
+      "config_composite_scores": {
+        "thresh_0.120_steep_15.0": 0.2577853720307595
+      },
+      "docs_with_best_config": 50,
+      "detected_query_types": [
+        "comparative_not",
+        "explicit_not",
+        "implicit_not",
+        "prohibition_not",
+        "scope_not"
+      ],
+      "selection_criteria": "Weighted composite score (P@1:40%, MRR:30%, NDCG@3:30%)",
+      "config_distribution_all": {
+        "thresh_0.120_steep_15.0": 50
+      },
+      "config_distribution_scope_not": {
+        "thresh_0.120_steep_15.0": 10
+      },
+      "config_distribution_implicit_not": {
+        "thresh_0.120_steep_15.0": 10
+      },
+      "config_distribution_comparative_not": {
+        "thresh_0.120_steep_15.0": 10
+      },
+      "config_distribution_prohibition_not": {
+        "thresh_0.120_steep_15.0": 10
+      },
+      "config_distribution_explicit_not": {
+        "thresh_0.120_steep_15.0": 10
+      }
+    },
+    "overall_comparison": {
+      "BGE": {
+        "P@1": 0.2,
+        "P@2": 0.26,
+        "P@3": 0.26,
+        "MRR": 0.48771428571428566,
+        "NDCG@3": 0.5954681878869986
+      },
+      "Roberta": {
+        "P@1": 0.12,
+        "P@2": 0.12,
+        "P@3": 0.10666666666666665,
+        "MRR": 0.3356666666666667,
+        "NDCG@3": 0.36361790676919853
+      },
+      "p_values": {
+        "P@1": 0.25221536415729434,
+        "NDCG@3": 1.414133145025116e-05,
+        "P@3": 6.7750134911415835e-06,
+        "MRR": 0.007122439892303002,
+        "P@2": 0.004868599394135907
+      }
+    }
+  },
+  "metric_specific_analysis": {
+    "P@1": {
+      "overall_means": {
+        "thresh_0.120_steep_15.0": 0.12
+      },
+      "by_query_type": {
+        "scope_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.1
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.1
+            ]
+          ]
+        },
+        "implicit_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.1
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.1
+            ]
+          ]
+        },
+        "comparative_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.1
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.1
+            ]
+          ]
+        },
+        "prohibition_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.0
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.0
+            ]
+          ]
+        },
+        "explicit_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.3
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.3
+            ]
+          ]
+        }
+      }
+    },
+    "MRR": {
+      "overall_means": {
+        "thresh_0.120_steep_15.0": 0.3356666666666667
+      },
+      "by_query_type": {
+        "scope_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.2828571428571428
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.2828571428571428
+            ]
+          ]
+        },
+        "implicit_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.3192857142857143
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.3192857142857143
+            ]
+          ]
+        },
+        "comparative_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.31595238095238093
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.31595238095238093
+            ]
+          ]
+        },
+        "prohibition_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.2235714285714286
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.2235714285714286
+            ]
+          ]
+        },
+        "explicit_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.5366666666666667
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.5366666666666667
+            ]
+          ]
+        }
+      }
+    },
+    "NDCG@3": {
+      "overall_means": {
+        "thresh_0.120_steep_15.0": 0.36361790676919853
+      },
+      "by_query_type": {
+        "scope_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.28911281104967834
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.28911281104967834
+            ]
+          ]
+        },
+        "implicit_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.44832774676711395
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.44832774676711395
+            ]
+          ]
+        },
+        "comparative_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.35356397789497274
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.35356397789497274
+            ]
+          ]
+        },
+        "prohibition_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.1581367262043289
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.1581367262043289
+            ]
+          ]
+        },
+        "explicit_not": {
+          "count": 10,
+          "config_means": {
+            "thresh_0.120_steep_15.0": 0.5689482719298985
+          },
+          "top_configs": [
+            [
+              "thresh_0.120_steep_15.0",
+              0.5689482719298985
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

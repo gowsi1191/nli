@@ -1,0 +1,926 @@
+[
+  {
+    "query_id": "GM101",
+    "query_type": "explicit_NOT",
+    "query_text": "Is there evidence that corticosteroids lead to bone mineral density loss?",
+    "documents": [
+      {
+        "doc_id": "EX101_1",
+        "text": "Several blog posts dismiss the notion that corticosteroids influence bone health when used short-term.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX101_2",
+        "text": "Some lay sources incorrectly suggest bone effects occur only at very high doses.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX101_3",
+        "text": "Observational studies show minor density reductions over months of corticosteroid exposure.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX101_4",
+        "text": "Bone density changes become more apparent in patients on daily corticosteroids for 6+ months.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX101_5",
+        "text": "Aging patients with asthma showed measurable reductions in spinal BMD after long-term corticosteroid use.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX101_6",
+        "text": "RCTs confirm dose-dependent bone loss occurs, especially in postmenopausal women.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX101_7",
+        "text": "Meta-analyses strongly support the link between sustained corticosteroid use and bone thinning.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM102",
+    "query_type": "explicit_NOT",
+    "query_text": "Does metformin cause significant weight gain in patients with Type 2 Diabetes?",
+    "documents": [
+      {
+        "doc_id": "EX102_1",
+        "text": "Online forums frequently report that metformin makes you gain weight, which is a common misconception.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX102_2",
+        "text": "A few anecdotal reports suggest some individuals experience weight fluctuations, but it's not a direct causal link.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX102_3",
+        "text": "Early studies had conflicting results on metformin's effect on body weight, often due to confounding factors.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX102_4",
+        "text": "Many patients on metformin experience no significant change in weight, or even a modest weight loss.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX102_5",
+        "text": "Clinical trials often show metformin to be weight-neutral or associated with slight weight reduction.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX102_6",
+        "text": "Systematic reviews consistently indicate that metformin does not typically cause weight gain; rather, it often aids in weight management.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX102_7",
+        "text": "Large-scale meta-analyses demonstrate a statistically significant trend towards weight stability or modest weight loss with metformin.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM107",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it completely safe to use acetaminophen for liver patients?",
+    "documents": [
+      {
+        "doc_id": "EX107_1",
+        "text": "A social media post indicated that acetaminophen is always safe for everyone, including those with liver issues.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX107_2",
+        "text": "General advice often states acetaminophen is safe, but this assumes healthy liver function.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX107_3",
+        "text": "In very mild liver impairment, cautious use under medical supervision might be considered.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX107_4",
+        "text": "Standard doses of acetaminophen can be problematic for patients with compromised liver function.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX107_5",
+        "text": "Dose adjustments are crucial for individuals with pre-existing liver disease to prevent toxicity.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX107_6",
+        "text": "Hepatotoxicity from acetaminophen is a known risk, particularly in overdose or in those with impaired liver metabolism.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX107_7",
+        "text": "Medical consensus strongly advises against or severely limits acetaminophen use in patients with significant liver disease due to the high risk of acute liver failure.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM109",
+    "query_type": "explicit_NOT",
+    "query_text": "Are antibiotics without any risk of causing C. difficile infection?",
+    "documents": [
+      {
+        "doc_id": "EX109_1",
+        "text": "Some alternative health blogs incorrectly suggest antibiotics are always safe and have no internal risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX109_2",
+        "text": "I've taken antibiotics many times without getting C. difficile, so it must be rare, right?",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX109_3",
+        "text": "The vast majority of antibiotic courses do not result in C. difficile infection.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX109_4",
+        "text": "Certain broad-spectrum antibiotics carry a higher risk of disrupting gut flora, leading to C. difficile overgrowth.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX109_5",
+        "text": "Hospitalized patients on long courses of antibiotics are particularly vulnerable to this infection.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX109_6",
+        "text": "The risk of C. difficile infection is a well-documented adverse effect of antibiotic use, especially with specific classes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX109_7",
+        "text": "Epidemiological data and numerous studies consistently show that antibiotic use is the primary risk factor for C. difficile infection.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM110",
+    "query_type": "explicit_NOT",
+    "query_text": "Can a ketogenic diet be safely adopted by anyone without medical supervision?",
+    "documents": [
+      {
+        "doc_id": "EX110_1",
+        "text": "Many online influencers suggest the keto diet is a simple, universally safe weight-loss solution.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX110_2",
+        "text": "For healthy individuals, short-term ketogenic diets might not pose immediate significant threats.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX110_3",
+        "text": "Some people find the ketogenic diet beneficial for certain conditions when properly managed.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX110_4",
+        "text": "Individuals with pre-existing medical conditions, such as kidney disease, require careful monitoring on a ketogenic diet.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX110_5",
+        "text": "Adherence to a strict ketogenic diet can lead to electrolyte imbalances and nutrient deficiencies.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX110_6",
+        "text": "Medical literature strongly advises against unsupervised ketogenic diet initiation, especially for patients with metabolic disorders.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX110_7",
+        "text": "It is unequivocally recommended that individuals considering a ketogenic diet, particularly those with comorbidities, seek thorough medical evaluation and ongoing supervision.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM111",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that vaccines contain harmful ingredients not listed?",
+    "documents": [
+      {
+        "doc_id": "EX111_1",
+        "text": "Anti-vaccine websites often circulate unsubstantiated claims about hidden toxins in vaccines.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX111_2",
+        "text": "A meme I saw mentioned secret ingredients, but it provided no scientific backing.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX111_3",
+        "text": "All vaccine ingredients are publicly disclosed and rigorously reviewed by regulatory bodies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX111_4",
+        "text": "Vaccine formulations contain components, like adjuvants and stabilizers, that are well-understood and necessary.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX111_5",
+        "text": "The amounts of any excipients in vaccines are far below levels considered harmful.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX111_6",
+        "text": "Regulatory agencies worldwide enforce strict transparency regarding vaccine components and their safety profiles.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX111_7",
+        "text": "Extensive scientific literature and global health organizations confirm that vaccines' ingredients are fully disclosed and their safety thoroughly assessed.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM113",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that antibiotics are effective against viral infections?",
+    "documents": [
+      {
+        "doc_id": "EX113_1",
+        "text": "A Facebook post incorrectly claimed antibiotics cure the common cold.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX113_2",
+        "text": "Some patients demand antibiotics for viral illnesses, believing they will help them recover faster.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX113_3",
+        "text": "Antibiotics target bacterial structures and processes, which are absent in viruses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX113_4",
+        "text": "Using antibiotics for viral infections can lead to antibiotic resistance, a major public health concern.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX113_5",
+        "text": "Antivirals, not antibiotics, are the appropriate treatment for most viral diseases like influenza or herpes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX113_6",
+        "text": "Medical guidelines explicitly state that antibiotics are ineffective against viral infections and should not be prescribed.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX113_7",
+        "text": "The fundamental mechanism of action for antibiotics demonstrates their specific activity against bacteria, rendering them useless against viruses.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM114",
+    "query_type": "explicit_NOT",
+    "query_text": "Does all caffeine consumption cause anxiety?",
+    "documents": [
+      {
+        "doc_id": "EX114_1",
+        "text": "I overheard someone say that even a sip of coffee makes you anxious, which sounds extreme.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX114_2",
+        "text": "Many individuals consume caffeine daily without experiencing anxiety.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX114_3",
+        "text": "Caffeine's effect on anxiety is highly individual, dependent on dosage and sensitivity.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX114_4",
+        "text": "High doses of caffeine can induce anxiety-like symptoms in susceptible individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX114_5",
+        "text": "Those with pre-existing anxiety disorders might be more prone to caffeine-induced nervousness.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX114_6",
+        "text": "Research indicates that while excessive caffeine intake can exacerbate anxiety, moderate consumption is generally well-tolerated.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX114_7",
+        "text": "Studies consistently show a dose-response relationship, where very high caffeine intake, but not typical consumption, correlates with increased anxiety.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM115",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that dietary supplements are always effective for preventing disease?",
+    "documents": [
+      {
+        "doc_id": "EX115_1",
+        "text": "Many health gurus promote supplements as a foolproof way to avoid all illnesses.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX115_2",
+        "text": "Some people strongly believe that taking daily vitamins guarantees perfect health.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX115_3",
+        "text": "Certain supplements can address specific nutrient deficiencies.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX115_4",
+        "text": "The efficacy of dietary supplements for disease prevention often lacks robust scientific backing.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX115_5",
+        "text": "Evidence for many popular supplements providing broad disease protection is limited or inconclusive.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX115_6",
+        "text": "Large-scale randomized trials frequently fail to show significant disease prevention benefits from general multivitamin or single-nutrient supplements.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX115_7",
+        "text": "Comprehensive reviews of scientific literature consistently demonstrate that for most healthy individuals, dietary supplements do not prevent chronic diseases.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM116",
+    "query_type": "explicit_NOT",
+    "query_text": "Does all stress inevitably lead to chronic illness?",
+    "documents": [
+      {
+        "doc_id": "EX116_1",
+        "text": "I read an article that said any stress at all means you'll get sick eventually.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX116_2",
+        "text": "Not all individuals exposed to significant stress develop chronic health problems.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX116_3",
+        "text": "Acute stress responses are a normal and often adaptive part of human physiology.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX116_4",
+        "text": "Prolonged and unmanaged chronic stress can increase the risk of certain health conditions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX116_5",
+        "text": "The impact of stress on health is modulated by individual coping mechanisms and genetic predispositions.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX116_6",
+        "text": "While chronic stress is a risk factor, it is not a direct or inevitable cause of all chronic illnesses.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX116_7",
+        "text": "Extensive psychological and physiological research indicates that while chronic stress can contribute to health issues, it doesn't invariably lead to chronic illness for everyone.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM117",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that all cancers are genetic and hereditary?",
+    "documents": [
+      {
+        "doc_id": "EX117_1",
+        "text": "My neighbor believes if someone in your family has cancer, you're guaranteed to get it, which isn't how it works.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX117_2",
+        "text": "Some cancers do have a strong hereditary component, but this is not universal.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX117_3",
+        "text": "Many cancers arise from sporadic mutations acquired during a person's lifetime.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX117_4",
+        "text": "Lifestyle factors like diet, smoking, and environmental exposures play a significant role in cancer development.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX117_5",
+        "text": "Only a small percentage of all cancers are considered to be strongly hereditary.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX117_6",
+        "text": "While genetics can increase susceptibility, the vast majority of cancer cases are not purely inherited.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX117_7",
+        "text": "Current oncology research clearly indicates that most cancers result from a complex interplay of genetic, environmental, and lifestyle factors, with hereditary forms being a minority.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM119",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that all mental health conditions are caused by chemical imbalances?",
+    "documents": [
+      {
+        "doc_id": "EX119_1",
+        "text": "I heard on a podcast that all mental illness is just a simple chemical imbalance, but it feels more complex.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX119_2",
+        "text": "While neurotransmitters play a role, the 'chemical imbalance' theory is an oversimplification.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX119_3",
+        "text": "Genetic predispositions can increase vulnerability to certain mental health disorders.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX119_4",
+        "text": "Traumatic experiences and environmental factors significantly contribute to the development of mental health conditions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX119_5",
+        "text": "Neurobiological processes, brain structure, and connectivity are also implicated.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX119_6",
+        "text": "Current psychiatric understanding views mental illness as a result of complex interactions between biological, psychological, and social factors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX119_7",
+        "text": "Contemporary neuroscience demonstrates that mental health conditions arise from a multifactorial etiology, extending far beyond simplistic notions of chemical imbalances.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM120",
+    "query_type": "explicit_NOT",
+    "query_text": "Does all cholesterol increase the risk of heart disease?",
+    "documents": [
+      {
+        "doc_id": "EX120_1",
+        "text": "A viral post stated that any cholesterol in your diet is bad for your heart, which is misleading.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX120_2",
+        "text": "Many people are confused about the different types of cholesterol and their effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX120_3",
+        "text": "HDL cholesterol, often called 'good' cholesterol, helps remove excess cholesterol from arteries.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX120_4",
+        "text": "Elevated levels of LDL cholesterol are primarily associated with an increased risk of atherosclerosis.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX120_5",
+        "text": "Dietary cholesterol's impact on blood cholesterol levels varies significantly among individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX120_6",
+        "text": "Medical consensus emphasizes that a healthy lipid profile involves balancing 'good' and 'bad' cholesterol, not eliminating all cholesterol.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX120_7",
+        "text": "Current scientific understanding differentiates between various cholesterol types, with high LDL being a significant risk factor, while HDL is generally protective.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM121",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that herbal remedies are always safe because they are natural?",
+    "documents": [
+      {
+        "doc_id": "EX121_1",
+        "text": "My aunt swears by a natural herb for everything, saying it can't harm you since it's from plants.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX121_2",
+        "text": "The belief that 'natural' equates to 'safe' is a common but dangerous misconception.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX121_3",
+        "text": "Some herbal remedies have demonstrated therapeutic properties for certain conditions.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX121_4",
+        "text": "Herbal products can interact with prescription medications, leading to adverse effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX121_5",
+        "text": "Many herbs contain potent compounds that can be toxic in high doses or without proper preparation.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX121_6",
+        "text": "Cases of liver damage and other severe adverse events have been linked to uncontrolled herbal supplement use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX121_7",
+        "text": "Scientific and medical communities consistently warn that herbal remedies, despite their natural origin, can have significant side effects and drug interactions, necessitating caution and professional advice.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM123",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that chemotherapy always causes hair loss?",
+    "documents": [
+      {
+        "doc_id": "EX123_1",
+        "text": "My perception from movies is that chemotherapy always results in complete baldness.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX123_2",
+        "text": "The severity of hair loss varies significantly depending on the specific chemotherapy regimen.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX123_3",
+        "text": "Some chemotherapy drugs cause thinning, while others lead to complete alopecia.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX123_4",
+        "text": "Certain newer targeted therapies or immunotherapies may not cause hair loss at all.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX123_5",
+        "text": "Scalp cooling techniques can sometimes mitigate hair loss during chemotherapy.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX123_6",
+        "text": "Oncology information clarifies that not all chemotherapy agents cause hair loss, and the extent varies.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX123_7",
+        "text": "Patient education materials and medical literature confirm that chemotherapy-induced alopecia is highly drug-specific, and not a universal side effect across all regimens.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM124",
+    "query_type": "explicit_NOT",
+    "query_text": "Does diabetes always lead to blindness?",
+    "documents": [
+      {
+        "doc_id": "EX124_1",
+        "text": "I was told that a diabetes diagnosis means you'll eventually lose your sight.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX124_2",
+        "text": "Many people with diabetes manage their condition without experiencing severe vision loss.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX124_3",
+        "text": "Diabetic retinopathy is a common complication, but it doesn't always progress to blindness.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX124_4",
+        "text": "Strict blood sugar control and regular eye exams can significantly reduce the risk of vision impairment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX124_5",
+        "text": "Early detection and treatment of retinopathy can prevent its progression.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX124_6",
+        "text": "While diabetes is a leading cause of blindness, it is largely preventable with proper management and timely intervention.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX124_7",
+        "text": "Opthalmological research and clinical practice demonstrate that severe vision loss from diabetes is not inevitable, especially with proactive glycemic control and eye care.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM125",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that all headaches are a sign of a brain tumor?",
+    "documents": [
+      {
+        "doc_id": "EX125_1",
+        "text": "Whenever I get a headache, I immediately jump to the worst conclusion, like a brain tumor.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX125_2",
+        "text": "The vast majority of headaches are benign and not indicative of serious pathology.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX125_3",
+        "text": "Tension headaches and migraines are far more common causes of head pain.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX125_4",
+        "text": "Brain tumor-related headaches often present with specific characteristics, such as worsening over time or neurological deficits.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX125_5",
+        "text": "While severe or unusual headaches warrant medical evaluation, they are rarely caused by tumors.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX125_6",
+        "text": "Neurological associations confirm that the overwhelming majority of headaches are primary headaches, not secondary to serious underlying conditions.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX125_7",
+        "text": "Medical literature and clinical experience unequivocally state that only a minuscule fraction of headaches are attributable to brain tumors, with most being benign in nature.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM126",
+    "query_type": "explicit_NOT",
+    "query_text": "Does gluten-free mean healthier for everyone?",
+    "documents": [
+      {
+        "doc_id": "EX126_1",
+        "text": "Many advertisements promote gluten-free products as inherently healthier for everyone, regardless of dietary needs.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX126_2",
+        "text": "Some people without celiac disease report feeling better on a gluten-free diet, but this isn't universally observed.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX126_3",
+        "text": "For individuals with celiac disease or non-celiac gluten sensitivity, a gluten-free diet is medically necessary.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX126_4",
+        "text": "A gluten-free diet can sometimes be less nutritious if not carefully managed, lacking fiber and certain vitamins.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX126_5",
+        "text": "Many processed gluten-free products are high in sugar and unhealthy fats.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX126_6",
+        "text": "Nutrition experts emphasize that a gluten-free diet is not inherently healthier for the general population.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX126_7",
+        "text": "Scientific consensus indicates that for individuals without gluten-related disorders, eliminating gluten offers no inherent health advantage and may even lead to nutritional deficiencies.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM127",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that all fever should be immediately treated with medication?",
+    "documents": [
+      {
+        "doc_id": "EX127_1",
+        "text": "I always rush to give fever medicine as soon as I see a slight temperature.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX127_2",
+        "text": "Many people believe that any fever must be brought down immediately.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX127_3",
+        "text": "Fever is a natural physiological response to infection and can aid in fighting it.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX127_4",
+        "text": "The primary goal of fever treatment is to alleviate discomfort, not necessarily to normalize temperature.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX127_5",
+        "text": "Low-grade fevers in otherwise healthy individuals often do not require medication.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX127_6",
+        "text": "Medical guidelines suggest treating fever when it causes distress or exceeds certain thresholds, particularly in vulnerable populations.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX127_7",
+        "text": "Current medical recommendations emphasize symptomatic relief and observation for low to moderate fevers, reserving medication for specific indications or high temperatures.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM128",
+    "query_type": "explicit_NOT",
+    "query_text": "Does all pain indicate tissue damage?",
+    "documents": [
+      {
+        "doc_id": "EX128_1",
+        "text": "My perception is that if something hurts, it means something is physically broken inside.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX128_2",
+        "text": "Some types of pain are indeed directly linked to tissue injury, like a cut or a fracture.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX128_3",
+        "text": "Neuropathic pain, for instance, results from nerve damage, not necessarily ongoing tissue damage.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX128_4",
+        "text": "Chronic pain can persist long after initial tissue healing, involving complex central nervous system changes.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX128_5",
+        "text": "Psychological factors and stress can significantly influence pain perception without direct tissue injury.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX128_6",
+        "text": "The experience of pain is multifaceted, involving sensory, emotional, and cognitive components, not solely tissue damage.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX128_7",
+        "text": "Modern pain science clearly distinguishes between nociception (tissue signal) and pain (conscious experience), demonstrating that pain can exist without discernible tissue damage.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM129",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that all antibiotics should be taken until the entire prescription is finished, regardless of feeling better?",
+    "documents": [
+      {
+        "doc_id": "EX129_1",
+        "text": "I've always been told you MUST finish every single antibiotic pill no matter what.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX129_2",
+        "text": "The traditional advice of finishing the course aimed to prevent resistance and relapse.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX129_3",
+        "text": "For some infections, shorter courses of antibiotics are now being recognized as equally effective.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX129_4",
+        "text": "Completing unnecessary longer courses can contribute to antibiotic resistance.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX129_5",
+        "text": "New research explores tailoring antibiotic duration based on clinical response and specific infections.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX129_6",
+        "text": "While finishing the prescribed course is often critical, emerging evidence suggests this isn't universally true for all antibiotics and infections.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX129_7",
+        "text": "Recent shifts in medical guidelines indicate a more nuanced approach to antibiotic duration, with some conditions benefiting from shorter courses or discontinuation upon clinical cure.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "GM130",
+    "query_type": "explicit_NOT",
+    "query_text": "Does all sugar cause hyperactivity in children?",
+    "documents": [
+      {
+        "doc_id": "EX130_1",
+        "text": "Many parents firmly believe that a sugary treat instantly makes their kids bounce off the walls.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX130_2",
+        "text": "The 'sugar rush' phenomenon is widely talked about but lacks consistent scientific support.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX130_3",
+        "text": "Other factors, like the exciting context of sugary treats (parties), often contribute to increased activity.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX130_4",
+        "text": "Most research studies have not found a direct causal link between sugar consumption and hyperactivity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX130_5",
+        "text": "While excessive sugar intake is unhealthy, it's not the primary driver of behavioral issues like ADHD.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX130_6",
+        "text": "Pediatric research consistently shows little to no evidence that sugar directly causes hyperactivity in children.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX130_7",
+        "text": "Multiple meta-analyses of rigorously designed studies have debunked the long-held myth that sugar causes hyperactivity in children.",
+        "relevance": 5
+      }
+    ]
+  }
+]

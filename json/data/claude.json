@@ -1,0 +1,2354 @@
+[
+  {
+    "query_id": "CD001",
+    "query_type": "explicit_NOT",
+    "query_text": "Does hydrochlorothiazide not affect thyroid function?",
+    "documents": [
+      {
+        "doc_id": "EX001_1",
+        "text": "Some fitness influencers claim diuretics boost metabolism naturally.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX001_2",
+        "text": "Online forums suggest thiazide diuretics might interfere with hormone tests.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX001_3",
+        "text": "Hydrochlorothiazide can occasionally cause electrolyte imbalances that affect TSH readings.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX001_4",
+        "text": "Studies show thiazide diuretics may reduce iodine clearance, potentially affecting thyroid hormones.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX001_5",
+        "text": "Meta-analyses demonstrate significant associations between long-term HCTZ use and altered T3/T4 levels.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX001_6",
+        "text": "Randomized trials confirm hydrochlorothiazide directly impacts thyroid-stimulating hormone concentrations.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX001_7",
+        "text": "Endocrinology guidelines recommend monitoring thyroid function in patients on chronic thiazide therapy.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD002",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that amiodarone does not cause QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX002_1",
+        "text": "Alternative cardiology blogs suggest amiodarone is safer than reported in mainstream medicine.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX002_2",
+        "text": "Patient testimonials online claim no heart rhythm changes with amiodarone use.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX002_3",
+        "text": "Some cardiologists debate whether amiodarone's QT effects are clinically meaningful.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX002_4",
+        "text": "Amiodarone is a class III antiarrhythmic that blocks potassium channels.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX002_5",
+        "text": "ECG monitoring protocols specifically track QT intervals during amiodarone therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX002_6",
+        "text": "Prospective studies document significant QT prolongation in 80% of amiodarone-treated patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX002_7",
+        "text": "FDA black box warnings explicitly cite amiodarone's propensity for dangerous QT prolongation.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD003",
+    "query_type": "explicit_NOT",
+    "query_text": "Does warfarin not affect cognitive decline in elderly patients?",
+    "documents": [
+      {
+        "doc_id": "EX003_1",
+        "text": "Lifestyle blogs claim anticoagulants protect brain health by preventing clots.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX003_2",
+        "text": "Some geriatricians suggest warfarin might have neuroprotective effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX003_3",
+        "text": "Observational studies show mixed results regarding warfarin and cognitive function.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX003_4",
+        "text": "Longitudinal cohort studies indicate warfarin users have accelerated cognitive decline rates.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX003_5",
+        "text": "Microhemorrhages from warfarin therapy are linked to dementia progression in elderly patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX003_6",
+        "text": "Neuroimaging studies reveal increased white matter lesions in long-term warfarin users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX003_7",
+        "text": "Systematic reviews confirm warfarin's association with accelerated cognitive impairment in seniors.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD004",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it accurate that olanzapine does not cause liver enzyme elevation?",
+    "documents": [
+      {
+        "doc_id": "EX004_1",
+        "text": "Mental health advocacy groups claim antipsychotics are overly demonized for side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX004_2",
+        "text": "Some psychiatrists argue olanzapine's hepatic risks are overstated in clinical practice.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX004_3",
+        "text": "Liver function monitoring is recommended but not always necessary with olanzapine.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX004_4",
+        "text": "Case reports document hepatotoxicity events following olanzapine initiation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX004_5",
+        "text": "Clinical trials show statistically significant ALT/AST elevations in olanzapine-treated patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX004_6",
+        "text": "Pharmacovigilance databases report hundreds of olanzapine-related hepatic adverse events.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX004_7",
+        "text": "Prescribing guidelines mandate baseline and periodic liver function tests for olanzapine users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD005",
+    "query_type": "explicit_NOT",
+    "query_text": "Does gabapentin not affect sleep architecture patterns?",
+    "documents": [
+      {
+        "doc_id": "EX005_1",
+        "text": "Sleep disorder forums suggest gabapentin has no impact on natural sleep cycles.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX005_2",
+        "text": "Polysomnography studies show gabapentin increases slow-wave sleep duration significantly.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX005_3",
+        "text": "Some neurologists prescribe gabapentin specifically for sleep-related conditions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX005_4",
+        "text": "Patient surveys indicate improved sleep quality scores with gabapentin treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_5",
+        "text": "EEG monitoring reveals gabapentin alters REM sleep patterns in chronic pain patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX005_6",
+        "text": "Research demonstrates gabapentin's GABA-ergic effects directly influence sleep-wake regulation.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX005_7",
+        "text": "Clinical guidelines acknowledge gabapentin's sedative properties and sleep-modifying effects.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD006",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that tramadol does not lower seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX006_1",
+        "text": "Pain management websites claim tramadol is gentler than traditional opioids.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX006_2",
+        "text": "Some physicians suggest tramadol's seizure risk is negligible at therapeutic doses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX006_3",
+        "text": "Tramadol's serotonergic activity may contribute to neurological side effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX006_4",
+        "text": "Case series report seizures occurring even at recommended tramadol dosages.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_5",
+        "text": "Pharmacokinetic studies reveal tramadol metabolites directly affect neuronal excitability.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX006_6",
+        "text": "Adverse event databases show significant seizure incidence rates with tramadol therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX006_7",
+        "text": "Neurological safety warnings explicitly contraindicate tramadol in seizure-prone patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD007",
+    "query_type": "explicit_NOT",
+    "query_text": "Do ACE inhibitors not cause electrolyte imbalances?",
+    "documents": [
+      {
+        "doc_id": "EX007_1",
+        "text": "Cardiovascular blogs promote ACE inhibitors as having minimal metabolic effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX007_2",
+        "text": "Some cardiologists suggest electrolyte monitoring isn't always necessary with ACE inhibitors.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX007_3",
+        "text": "ACE inhibitors affect the renin-angiotensin-aldosterone system significantly.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX007_4",
+        "text": "Clinical studies document hyperkalemia development in ACE inhibitor users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX007_5",
+        "text": "Laboratory monitoring protocols specifically track potassium levels during ACE inhibitor therapy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX007_6",
+        "text": "Systematic reviews confirm significant electrolyte disturbances with ACE inhibitor treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX007_7",
+        "text": "Prescribing guidelines mandate regular electrolyte monitoring for all ACE inhibitor patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD008",
+    "query_type": "explicit_NOT",
+    "query_text": "Does infliximab not affect white blood cell count?",
+    "documents": [
+      {
+        "doc_id": "EX008_1",
+        "text": "Autoimmune disease forums claim biologics are safer than conventional immunosuppressants.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX008_2",
+        "text": "Rheumatology studies show infliximab's effects on immune cell populations.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX008_3",
+        "text": "Some gastroenterologists monitor CBC less frequently with infliximab than methotrexate.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX008_4",
+        "text": "TNF-alpha inhibition by infliximab directly impacts lymphocyte proliferation and survival.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX008_5",
+        "text": "Clinical trials document significant leukopenia in infliximab-treated patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX008_6",
+        "text": "Hematological monitoring protocols require regular CBC checks during infliximab therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX008_7",
+        "text": "Safety guidelines warn of potentially severe neutropenia risk with infliximab treatment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD009",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it correct that azithromycin does not cause QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX009_1",
+        "text": "Alternative medicine practitioners claim azithromycin is gentler than other antibiotics.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX009_2",
+        "text": "Some primary care physicians suggest azithromycin's cardiac risks are minimal.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX009_3",
+        "text": "Azithromycin belongs to the macrolide class of antibiotics with known cardiac effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX009_4",
+        "text": "Pharmacovigilance studies report cardiac arrhythmias associated with azithromycin use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX009_5",
+        "text": "ECG studies demonstrate measurable QT interval prolongation following azithromycin administration.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX009_6",
+        "text": "Electrophysiology research confirms azithromycin's direct effects on cardiac ion channels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX009_7",
+        "text": "FDA warnings specifically address azithromycin's potential for fatal cardiac arrhythmias.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD010",
+    "query_type": "explicit_NOT",
+    "query_text": "Does topiramate not affect appetite changes?",
+    "documents": [
+      {
+        "doc_id": "EX010_1",
+        "text": "Weight loss blogs promote topiramate as having no impact on eating behaviors.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX010_2",
+        "text": "Some neurologists note that appetite effects vary significantly between topiramate patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX010_3",
+        "text": "Topiramate's mechanism involves multiple neurotransmitter systems including those affecting satiety.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX010_4",
+        "text": "Clinical studies consistently report significant weight loss in topiramate-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_5",
+        "text": "Appetite suppression is a well-documented and frequently reported side effect of topiramate.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX010_6",
+        "text": "Metabolic studies demonstrate topiramate's direct effects on hunger and satiety hormones.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX010_7",
+        "text": "Prescribing information explicitly lists appetite changes as a common topiramate side effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD011",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that methotrexate does not cause bone marrow suppression?",
+    "documents": [
+      {
+        "doc_id": "EX011_1",
+        "text": "Rheumatology patient groups claim methotrexate fears are exaggerated by medical professionals.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX011_2",
+        "text": "Some rheumatologists suggest low-dose methotrexate rarely causes hematologic problems.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX011_3",
+        "text": "Methotrexate is a folate antagonist that interferes with DNA synthesis pathways.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX011_4",
+        "text": "Hematological monitoring is considered essential for all patients on methotrexate therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX011_5",
+        "text": "Clinical studies document significant rates of pancytopenia in methotrexate-treated patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX011_6",
+        "text": "Bone marrow biopsy studies show direct cellular damage from methotrexate accumulation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX011_7",
+        "text": "Treatment guidelines mandate frequent CBC monitoring due to methotrexate's myelosuppressive effects.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD012",
+    "query_type": "explicit_NOT",
+    "query_text": "Does levothyroxine not affect cardiac output in patients?",
+    "documents": [
+      {
+        "doc_id": "EX012_1",
+        "text": "Endocrine blogs suggest levothyroxine replacement is metabolically neutral.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX012_2",
+        "text": "Some endocrinologists argue that physiologic levothyroxine doses don't stress the heart.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX012_3",
+        "text": "Thyroid hormones have well-established effects on cardiovascular physiology.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX012_4",
+        "text": "Echocardiographic studies show increased cardiac contractility with levothyroxine therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX012_5",
+        "text": "Hemodynamic monitoring reveals significant cardiac output changes following levothyroxine administration.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX012_6",
+        "text": "Cardiovascular research demonstrates levothyroxine's direct effects on heart rate and stroke volume.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX012_7",
+        "text": "Clinical guidelines recommend cardiac monitoring when initiating levothyroxine in elderly patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD013",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it accurate that prednisone does not cause blood glucose variability?",
+    "documents": [
+      {
+        "doc_id": "EX013_1",
+        "text": "Fitness forums claim short-term steroid use doesn't affect blood sugar levels.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX013_2",
+        "text": "Some physicians suggest glucose monitoring isn't needed for brief prednisone courses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX013_3",
+        "text": "Prednisone is a synthetic corticosteroid with known metabolic effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX013_4",
+        "text": "Endocrinology studies document significant hyperglycemia in prednisone-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX013_5",
+        "text": "Continuous glucose monitoring shows marked glycemic excursions during prednisone therapy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX013_6",
+        "text": "Diabetic patients require insulin dose adjustments when starting prednisone treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX013_7",
+        "text": "Clinical protocols mandate glucose monitoring for all patients receiving systemic corticosteroids.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD014",
+    "query_type": "explicit_NOT",
+    "query_text": "Does clopidogrel not affect gastrointestinal motility?",
+    "documents": [
+      {
+        "doc_id": "EX014_1",
+        "text": "Cardiology websites suggest clopidogrel has minimal digestive side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX014_2",
+        "text": "Some cardiologists focus more on bleeding risks than GI motility with clopidogrel.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX014_3",
+        "text": "Clopidogrel's antiplatelet effects may indirectly influence gastrointestinal function.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX014_4",
+        "text": "Gastroenterology studies report altered bowel patterns in clopidogrel users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX014_5",
+        "text": "Motility studies demonstrate significant changes in gastric emptying with clopidogrel treatment.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX014_6",
+        "text": "Clinical observations document increased dyspepsia and motility disorders in clopidogrel patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX014_7",
+        "text": "Prescribing guidelines acknowledge clopidogrel's potential for gastrointestinal complications.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD015",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that lithium carbonate does not cause renal tubular necrosis?",
+    "documents": [
+      {
+        "doc_id": "EX015_1",
+        "text": "Mental health advocacy groups claim lithium's kidney risks are overstated.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX015_2",
+        "text": "Some psychiatrists suggest that modern lithium monitoring prevents serious kidney damage.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX015_3",
+        "text": "Lithium has a narrow therapeutic window with known nephrotoxic potential.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX015_4",
+        "text": "Nephrology studies document tubular damage in chronic lithium users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX015_5",
+        "text": "Renal biopsy findings show characteristic tubulointerstitial damage from lithium toxicity.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX015_6",
+        "text": "Histopathological studies confirm lithium's direct cytotoxic effects on renal tubular cells.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX015_7",
+        "text": "Clinical guidelines mandate regular renal function monitoring due to lithium's nephrotoxic effects.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD016",
+    "query_type": "explicit_NOT",
+    "query_text": "Does rivaroxaban not increase hypoglycemia risk?",
+    "documents": [
+      {
+        "doc_id": "EX016_1",
+        "text": "Anticoagulation forums suggest rivaroxaban doesn't interact with glucose metabolism.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX016_2",
+        "text": "Some hematologists note that rivaroxaban's metabolic effects are poorly understood.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX016_3",
+        "text": "Rivaroxaban is a direct factor Xa inhibitor with primarily hepatic metabolism.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX016_4",
+        "text": "Pharmacokinetic studies show rivaroxaban may affect glucose homeostasis indirectly.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX016_5",
+        "text": "Case reports document unexplained hypoglycemic episodes in rivaroxaban-treated diabetic patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX016_6",
+        "text": "Endocrinology consultations increasingly report glucose instability with rivaroxaban therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX016_7",
+        "text": "Post-marketing surveillance data suggest potential metabolic interactions with rivaroxaban.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD017",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it correct that tacrolimus does not cause photosensitivity reactions?",
+    "documents": [
+      {
+        "doc_id": "EX017_1",
+        "text": "Transplant support groups claim tacrolimus has fewer skin-related side effects than other immunosuppressants.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX017_2",
+        "text": "Some dermatologists suggest tacrolimus-related photosensitivity is uncommon in clinical practice.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX017_3",
+        "text": "Tacrolimus is a calcineurin inhibitor that affects immune cell function systemically.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX017_4",
+        "text": "Dermatology studies report increased skin cancer rates in tacrolimus-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX017_5",
+        "text": "Photopatch testing demonstrates significant photosensitivity reactions with tacrolimus exposure.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX017_6",
+        "text": "Clinical observations document severe sunburn reactions in tacrolimus users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX017_7",
+        "text": "Transplant guidelines mandate strict sun protection for all tacrolimus-treated patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD018",
+    "query_type": "explicit_NOT",
+    "query_text": "Does pembrolizumab not affect hormonal axis disruption?",
+    "documents": [
+      {
+        "doc_id": "EX018_1",
+        "text": "Cancer support forums suggest immunotherapy drugs are gentler on hormone systems.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX018_2",
+        "text": "Some oncologists argue that pembrolizumab's endocrine effects are manageable.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX018_3",
+        "text": "Pembrolizumab is a PD-1 inhibitor that can trigger autoimmune-like endocrine reactions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX018_4",
+        "text": "Endocrinology consultations frequently address thyroid dysfunction in pembrolizumab patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX018_5",
+        "text": "Clinical trials document significant rates of hypophysitis and adrenal insufficiency with pembrolizumab.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX018_6",
+        "text": "Immunotherapy protocols require extensive hormonal monitoring due to pembrolizumab's endocrine toxicity.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX018_7",
+        "text": "Endocrine emergency protocols specifically address pembrolizumab-induced hormonal crises.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD019",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that dexamethasone does not cause peripheral neuropathy?",
+    "documents": [
+      {
+        "doc_id": "EX019_1",
+        "text": "Steroid information websites claim dexamethasone has minimal neurological side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX019_2",
+        "text": "Some neurologists suggest dexamethasone's neuropathy risk is dose-dependent.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX019_3",
+        "text": "Dexamethasone is a potent synthetic corticosteroid with multiple systemic effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX019_4",
+        "text": "Neurology studies report sensory changes in patients receiving high-dose dexamethasone.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX019_5",
+        "text": "Electromyography findings confirm axonal damage in chronic dexamethasone users.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX019_6",
+        "text": "Nerve conduction studies demonstrate measurable neuropathy in dexamethasone-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX019_7",
+        "text": "Neurological monitoring protocols acknowledge dexamethasone's potential for peripheral nerve damage.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD020",
+    "query_type": "explicit_NOT",
+    "query_text": "Does selegiline not affect serotonin syndrome risk?",
+    "documents": [
+      {
+        "doc_id": "EX020_1",
+        "text": "Parkinson's disease forums claim selegiline is safer than other antidepressants.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX020_2",
+        "text": "Some neurologists suggest selegiline's serotonin effects are minimal at low doses.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX020_3",
+        "text": "Selegiline is a monoamine oxidase inhibitor with complex neurotransmitter interactions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX020_4",
+        "text": "Pharmacology studies show selegiline's effects on serotonin metabolism pathways.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX020_5",
+        "text": "Case reports document serotonin syndrome when selegiline is combined with SSRIs.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX020_6",
+        "text": "Drug interaction databases warn of dangerous serotonin accumulation with selegiline.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX020_7",
+        "text": "Clinical guidelines contraindicate selegiline with serotonergic medications due to syndrome risk.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD021",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that beta-blockers do not cause sleep architecture disruption?",
+    "documents": [
+      {
+        "doc_id": "EX021_1",
+        "text": "Cardiology wellness blogs claim beta-blockers improve rest quality naturally.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX021_2",
+        "text": "Some cardiologists suggest sleep complaints with beta-blockers are psychological.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX021_3",
+        "text": "Beta-blockers cross the blood-brain barrier and affect central nervous system function.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX021_4",
+        "text": "Polysomnography studies reveal altered REM sleep patterns in beta-blocker users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX021_5",
+        "text": "Sleep laboratory research demonstrates significant sleep fragmentation with propranolol treatment.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX021_6",
+        "text": "Clinical trials document increased nightmares and sleep disturbances in beta-blocker patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX021_7",
+        "text": "Neuropsychiatric guidelines acknowledge beta-blockers' impact on sleep quality and dream patterns.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD022",
+    "query_type": "explicit_NOT",
+    "query_text": "Does SGLT2 inhibitors not affect pancreatic inflammation?",
+    "documents": [
+      {
+        "doc_id": "EX022_1",
+        "text": "Diabetes forums promote SGLT2 inhibitors as having no pancreatic side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX022_2",
+        "text": "Some endocrinologists argue SGLT2 inhibitors are pancreas-neutral medications.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX022_3",
+        "text": "SGLT2 inhibitors work primarily in the kidneys but may have systemic effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX022_4",
+        "text": "Gastroenterology reports document cases of pancreatitis in SGLT2 inhibitor users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX022_5",
+        "text": "Pharmacovigilance studies show increased acute pancreatitis rates with canagliflozin therapy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX022_6",
+        "text": "Imaging studies reveal pancreatic inflammation markers in empagliflozin-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX022_7",
+        "text": "FDA safety communications warn of pancreatitis risk with SGLT2 inhibitor use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD023",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it accurate that interferon-alpha does not cause visual field changes?",
+    "documents": [
+      {
+        "doc_id": "EX023_1",
+        "text": "Hepatitis treatment websites claim interferon-alpha is safe for vision.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX023_2",
+        "text": "Some hepatologists suggest visual complaints with interferon are rare.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX023_3",
+        "text": "Interferon-alpha has immunomodulatory effects that can affect multiple organ systems.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX023_4",
+        "text": "Ophthalmology studies report retinal changes in interferon-alpha treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX023_5",
+        "text": "Visual field testing demonstrates significant scotomas in chronic interferon users.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX023_6",
+        "text": "Retinal imaging shows cotton wool spots and hemorrhages with interferon therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX023_7",
+        "text": "Treatment protocols mandate regular ophthalmologic monitoring for interferon-alpha patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD024",
+    "query_type": "explicit_NOT",
+    "query_text": "Does amitriptyline not affect menstrual irregularities?",
+    "documents": [
+      {
+        "doc_id": "EX024_1",
+        "text": "Depression support groups claim amitriptyline doesn't affect women's cycles.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX024_2",
+        "text": "Some gynecologists suggest tricyclic antidepressants have minimal hormonal effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX024_3",
+        "text": "Amitriptyline affects multiple neurotransmitter systems including those regulating hormones.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX024_4",
+        "text": "Endocrinology studies document prolactin elevation in amitriptyline-treated women.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX024_5",
+        "text": "Gynecologic research shows significant menstrual cycle disruption with tricyclic antidepressants.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX024_6",
+        "text": "Reproductive health studies confirm amenorrhea and oligomenorrhea in amitriptyline users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX024_7",
+        "text": "Women's health guidelines recommend menstrual monitoring during amitriptyline treatment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD025",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that bupropion does not affect skin photosensitivity?",
+    "documents": [
+      {
+        "doc_id": "EX025_1",
+        "text": "Mental health blogs suggest bupropion has fewer dermatologic side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX025_2",
+        "text": "Dermatology studies show bupropion can increase sun sensitivity in some patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX025_3",
+        "text": "Some psychiatrists note that skin reactions to bupropion are uncommon.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX025_4",
+        "text": "Bupropion's mechanism involves dopamine and norepinephrine reuptake inhibition.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX025_5",
+        "text": "Photopatch testing reveals positive reactions to bupropion in photosensitive patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX025_6",
+        "text": "Case reports document severe sunburn reactions in bupropion-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX025_7",
+        "text": "Prescribing information lists photosensitivity as a potential bupropion side effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD026",
+    "query_type": "explicit_NOT",
+    "query_text": "Does cyclophosphamide not cause pulmonary fibrosis?",
+    "documents": [
+      {
+        "doc_id": "EX026_1",
+        "text": "Cancer support forums claim cyclophosphamide is gentler on lungs than radiation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX026_2",
+        "text": "Some oncologists argue cyclophosphamide's pulmonary toxicity is dose-dependent.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX026_3",
+        "text": "Cyclophosphamide is an alkylating agent that can damage multiple organ systems.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX026_4",
+        "text": "Pulmonology studies report interstitial lung disease in cyclophosphamide patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX026_5",
+        "text": "High-resolution CT scans demonstrate progressive pulmonary fibrosis with cyclophosphamide therapy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX026_6",
+        "text": "Pulmonary function tests show restrictive patterns in chronic cyclophosphamide users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX026_7",
+        "text": "Oncology guidelines mandate pulmonary monitoring due to cyclophosphamide's fibrotic potential.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD027",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it correct that esomeprazole does not affect hypernatremia?",
+    "documents": [
+      {
+        "doc_id": "EX027_1",
+        "text": "Gastroenterology blogs promote PPIs as having minimal electrolyte effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX027_2",
+        "text": "Some gastroenterologists suggest esomeprazole's sodium effects are negligible.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX027_3",
+        "text": "Proton pump inhibitors affect gastric acid production and may influence electrolyte balance.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX027_4",
+        "text": "Nephrology studies document sodium retention in long-term PPI users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX027_5",
+        "text": "Electrolyte monitoring reveals significant hypernatremia in esomeprazole-treated patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX027_6",
+        "text": "Clinical studies show altered sodium homeostasis with chronic esomeprazole therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX027_7",
+        "text": "Prescribing guidelines recommend electrolyte monitoring for long-term PPI users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD028",
+    "query_type": "explicit_NOT",
+    "query_text": "Does olmesartan not cause dermatitis?",
+    "documents": [
+      {
+        "doc_id": "EX028_1",
+        "text": "Hypertension forums claim ARBs are gentler on skin than ACE inhibitors.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX028_2",
+        "text": "Some dermatologists note that olmesartan skin reactions are uncommon.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX028_3",
+        "text": "Olmesartan blocks angiotensin II receptors and may affect skin physiology.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX028_4",
+        "text": "Dermatology studies report contact dermatitis in olmesartan-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX028_5",
+        "text": "Skin biopsy findings show characteristic inflammatory changes with olmesartan therapy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX028_6",
+        "text": "Patch testing confirms olmesartan as a causative agent in drug-induced dermatitis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX028_7",
+        "text": "Pharmacovigilance reports document increased dermatitis rates with olmesartan use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD029",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that onabotulinumtoxinA does not affect neurocognitive function?",
+    "documents": [
+      {
+        "doc_id": "EX029_1",
+        "text": "Aesthetic medicine websites claim Botox injections are cognitively safe.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX029_2",
+        "text": "Some neurologists suggest botulinum toxin effects remain localized.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX029_3",
+        "text": "OnabotulinumtoxinA blocks acetylcholine release at neuromuscular junctions.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX029_4",
+        "text": "Neuropsychology studies report cognitive changes following botulinum toxin injections.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX029_5",
+        "text": "Cognitive testing reveals significant memory impairment in chronic onabotulinumtoxinA users.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX029_6",
+        "text": "Neuroimaging studies show altered brain activity patterns after botulinum toxin treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX029_7",
+        "text": "Neurology guidelines acknowledge potential cognitive effects of repeated botulinum toxin injections.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD030",
+    "query_type": "explicit_NOT",
+    "query_text": "Does zoledronic acid not cause arrhythmia?",
+    "documents": [
+      {
+        "doc_id": "EX030_1",
+        "text": "Osteoporosis support groups claim bisphosphonates have minimal cardiac effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX030_2",
+        "text": "Some endocrinologists suggest zoledronic acid's cardiac risks are overstated.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX030_3",
+        "text": "Zoledronic acid is a potent bisphosphonate that affects calcium metabolism.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX030_4",
+        "text": "Cardiology studies document atrial fibrillation in zoledronic acid-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX030_5",
+        "text": "ECG monitoring reveals significant arrhythmias following zoledronic acid infusion.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX030_6",
+        "text": "Cardiac event databases show increased arrhythmia rates with bisphosphonate therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX030_7",
+        "text": "Infusion protocols mandate cardiac monitoring due to zoledronic acid's arrhythmogenic potential.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD031",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it accurate that hydrochlorothiazide does not cause hypokalemia?",
+    "documents": [
+      {
+        "doc_id": "EX031_1",
+        "text": "Hypertension wellness blogs claim modern diuretics preserve potassium levels.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX031_2",
+        "text": "Some cardiologists argue that low-dose HCTZ rarely causes significant potassium loss.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX031_3",
+        "text": "Thiazide diuretics work by blocking sodium-chloride transporters in the distal tubule.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX031_4",
+        "text": "Nephrology studies consistently document potassium depletion with thiazide therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX031_5",
+        "text": "Laboratory monitoring reveals significant hypokalemia in 30% of HCTZ-treated patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX031_6",
+        "text": "Electrolyte studies show dose-dependent potassium loss with hydrochlorothiazide.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX031_7",
+        "text": "Clinical guidelines mandate potassium monitoring for all patients on thiazide diuretics.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD032",
+    "query_type": "explicit_NOT",
+    "query_text": "Does warfarin not affect gastroesophageal reflux?",
+    "documents": [
+      {
+        "doc_id": "EX032_1",
+        "text": "Anticoagulation forums suggest warfarin has no gastrointestinal effects beyond bleeding.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX032_2",
+        "text": "Some gastroenterologists note that warfarin's GI effects are primarily hemorrhagic.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX032_3",
+        "text": "Warfarin affects vitamin K-dependent clotting factors and may influence mucosal integrity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX032_4",
+        "text": "Gastroenterology studies report increased GERD symptoms in warfarin users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX032_5",
+        "text": "Esophageal pH monitoring shows significant acid reflux exacerbation with warfarin therapy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX032_6",
+        "text": "Endoscopy findings reveal esophagitis in chronic warfarin-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX032_7",
+        "text": "GI specialists increasingly prescribe PPIs for warfarin patients with reflux symptoms.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD033",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that gabapentin does not cause peripheral neuropathy?",
+    "documents": [
+      {
+        "doc_id": "EX033_1",
+        "text": "Neuropathy support groups claim gabapentin treats rather than causes nerve damage.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX033_2",
+        "text": "Some neurologists suggest gabapentin's neuropathic effects are paradoxical.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX033_3",
+        "text": "Gabapentin modulates calcium channels and affects neuronal excitability.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX033_4",
+        "text": "Electrophysiology studies show nerve conduction changes in long-term gabapentin users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX033_5",
+        "text": "Neurological examination reveals new-onset peripheral neuropathy in chronic gabapentin patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX033_6",
+        "text": "Nerve biopsy findings demonstrate axonal damage in gabapentin-treated subjects.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX033_7",
+        "text": "Neurology guidelines acknowledge gabapentin's potential for causing paradoxical neuropathy.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD034",
+    "query_type": "explicit_NOT",
+    "query_text": "Does amiodarone not cause pulmonary fibrosis?",
+    "documents": [
+      {
+        "doc_id": "EX034_1",
+        "text": "Cardiology websites claim amiodarone's lung toxicity is rare and reversible.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX034_2",
+        "text": "Some pulmonologists suggest amiodarone pneumonitis is often misdiagnosed.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX034_3",
+        "text": "Amiodarone accumulates in lung tissue due to its high lipophilicity.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX034_4",
+        "text": "Pulmonary function tests show restrictive patterns in amiodarone-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX034_5",
+        "text": "High-resolution CT demonstrates characteristic pulmonary fibrosis patterns with amiodarone therapy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX034_6",
+        "text": "Histopathology reveals foamy alveolar macrophages pathognomonic of amiodarone toxicity.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX034_7",
+        "text": "Cardiology guidelines mandate pulmonary monitoring due to amiodarone's fibrotic potential.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD035",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it correct that tramadol does not affect appetite changes?",
+    "documents": [
+      {
+        "doc_id": "EX035_1",
+        "text": "Pain management forums suggest tramadol has minimal effect on eating habits.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX035_2",
+        "text": "Some physicians note that tramadol's appetite effects are less pronounced than morphine.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX035_3",
+        "text": "Tramadol affects both opioid and monoamine neurotransmitter systems.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX035_4",
+        "text": "Clinical studies report significant appetite suppression in tramadol-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX035_5",
+        "text": "Metabolic studies demonstrate reduced caloric intake and weight loss with tramadol therapy.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX035_6",
+        "text": "Endocrinology research shows tramadol's effects on hunger and satiety hormones.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX035_7",
+        "text": "Prescribing information lists appetite changes as a common tramadol side effect.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD036",
+    "query_type": "explicit_NOT",
+    "query_text": "Does olanzapine not cause blood glucose variability?",
+    "documents": [
+      {
+        "doc_id": "EX036_1",
+        "text": "Mental health blogs claim olanzapine's metabolic effects are exaggerated.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX036_2",
+        "text": "Some psychiatrists argue that glucose monitoring isn't always necessary with olanzapine.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX036_3",
+        "text": "Olanzapine blocks multiple neurotransmitter receptors including those affecting metabolism.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX036_4",
+        "text": "Endocrinology studies document significant insulin resistance in olanzapine users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX036_5",
+        "text": "Continuous glucose monitoring reveals marked glycemic excursions with olanzapine treatment.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX036_6",
+        "text": "Metabolic syndrome development is well-documented in chronic olanzapine patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX036_7",
+        "text": "Psychiatric guidelines mandate glucose monitoring for all olanzapine-treated patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD037",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that ACE inhibitors do not cause renal function decline?",
+    "documents": [
+      {
+        "doc_id": "EX037_1",
+        "text": "Cardiology wellness sites claim ACE inhibitors protect kidney function.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX037_2",
+        "text": "Some cardiologists suggest ACE inhibitors' renal benefits outweigh risks.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX037_3",
+        "text": "ACE inhibitors reduce glomerular filtration pressure through efferent arteriole dilation.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX037_4",
+        "text": "Nephrology studies show acute kidney injury in some ACE inhibitor users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX037_5",
+        "text": "Creatinine monitoring reveals significant renal function decline in elderly ACE inhibitor patients.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX037_6",
+        "text": "Clinical trials document hyperkalemia and azotemia with ACE inhibitor therapy.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX037_7",
+        "text": "Prescribing guidelines mandate renal function monitoring for all ACE inhibitor patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD038",
+    "query_type": "explicit_NOT",
+    "query_text": "Does infliximab not cause skin photosensitivity?",
+    "documents": [
+      {
+        "doc_id": "EX038_1",
+        "text": "Autoimmune disease forums claim biologics cause fewer skin reactions than methotrexate.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX038_2",
+        "text": "Some dermatologists suggest infliximab's photosensitivity risk is minimal.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX038_3",
+        "text": "Infliximab suppresses TNF-alpha, which plays a role in skin inflammation and repair.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX038_4",
+        "text": "Dermatology studies report increased sun sensitivity in infliximab-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX038_5",
+        "text": "Photopatch testing demonstrates positive reactions to UV exposure in infliximab users.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX038_6",
+        "text": "Clinical observations document severe sunburn reactions in biologic-treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX038_7",
+        "text": "Rheumatology guidelines recommend sun protection for all infliximab-treated patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD053",
+    "query_type": "explicit_NOT",
+    "query_text": "Is warfarin not associated with QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX053_1",
+        "text": "Popular health forums often discuss warfarin's side effects without mentioning cardiac rhythm changes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX053_2",
+        "text": "Some patient testimonials suggest warfarin doesn't affect heart rhythm patterns.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX053_3",
+        "text": "Warfarin primarily affects the coagulation cascade rather than cardiac electrophysiology.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX053_4",
+        "text": "Clinical observations indicate warfarin has minimal direct effects on QT interval duration.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX053_5",
+        "text": "Electrocardiographic studies show warfarin users maintain normal QT intervals in most cases.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX053_6",
+        "text": "Comprehensive cardiac monitoring reveals warfarin does not significantly alter ventricular repolarization.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX053_7",
+        "text": "Meta-analyses confirm warfarin's mechanism of action does not involve cardiac ion channel modulation.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD054",
+    "query_type": "explicit_NOT",
+    "query_text": "Does gabapentin not cause cognitive decline?",
+    "documents": [
+      {
+        "doc_id": "EX054_1",
+        "text": "Online support groups frequently mention gabapentin's benefits for nerve pain management.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX054_2",
+        "text": "Patient advocacy websites sometimes downplay gabapentin's neurological side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX054_3",
+        "text": "Some clinicians report patients on gabapentin experience mild concentration difficulties.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX054_4",
+        "text": "Neuropsychological testing reveals gabapentin can impair working memory in elderly patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX054_5",
+        "text": "Longitudinal studies demonstrate gabapentin use correlates with decreased cognitive performance scores.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX054_6",
+        "text": "Randomized trials show gabapentin significantly affects attention and executive function measures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX054_7",
+        "text": "Systematic reviews establish gabapentin's dose-dependent relationship with cognitive impairment.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD055",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that ACE inhibitors do not affect electrolyte balance?",
+    "documents": [
+      {
+        "doc_id": "EX055_1",
+        "text": "Health blogs often focus on ACE inhibitors' blood pressure benefits without discussing mineral effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX055_2",
+        "text": "Some patients report feeling fine on ACE inhibitors without regular lab monitoring.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX055_3",
+        "text": "Clinical guidelines recommend periodic electrolyte monitoring for patients on ACE inhibitors.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX055_4",
+        "text": "Pharmacokinetic studies show ACE inhibitors can reduce aldosterone-mediated potassium excretion.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX055_5",
+        "text": "Observational studies link ACE inhibitor use with hyperkalemia development in susceptible patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX055_6",
+        "text": "Laboratory data consistently shows ACE inhibitors elevate serum potassium levels significantly.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX055_7",
+        "text": "Clinical trials demonstrate ACE inhibitors cause hyperkalemia in 10-15% of treated patients.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD056",
+    "query_type": "explicit_NOT",
+    "query_text": "Doesn't tramadol avoid affecting serotonin syndrome risk?",
+    "documents": [
+      {
+        "doc_id": "EX056_1",
+        "text": "Alternative medicine sites sometimes portray tramadol as a safer opioid option.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX056_2",
+        "text": "Tramadol's dual mechanism involves both opioid receptors and monoamine reuptake inhibition.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX056_3",
+        "text": "Pharmacological studies reveal tramadol blocks serotonin and norepinephrine transporters.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX056_4",
+        "text": "Case reports document serotonin syndrome occurring with tramadol and SSRI combinations.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX056_5",
+        "text": "Drug interaction databases warn against concurrent tramadol and serotonergic medication use.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX056_6",
+        "text": "Clinical reviews identify tramadol as a significant contributor to serotonin syndrome cases.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX056_7",
+        "text": "Toxicology studies confirm tramadol's serotonergic activity poses substantial syndrome risks.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD057",
+    "query_type": "explicit_NOT",
+    "query_text": "Is methotrexate not associated with liver enzyme elevation?",
+    "documents": [
+      {
+        "doc_id": "EX057_1",
+        "text": "Patient discussion forums sometimes focus on methotrexate's arthritis benefits exclusively.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX057_2",
+        "text": "Clinical protocols mandate regular liver function monitoring for all methotrexate patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX057_3",
+        "text": "Hepatotoxicity represents one of methotrexate's most clinically significant adverse effects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX057_4",
+        "text": "Laboratory studies show methotrexate elevates ALT and AST levels in 30-40% of patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX057_5",
+        "text": "Prospective trials demonstrate dose-dependent increases in transaminase levels with methotrexate.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX057_6",
+        "text": "Systematic reviews establish methotrexate as a leading cause of drug-induced hepatotoxicity.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX057_7",
+        "text": "Meta-analyses confirm methotrexate significantly increases liver enzyme abnormalities versus placebo.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD058",
+    "query_type": "explicit_NOT",
+    "query_text": "Does levothyroxine not influence cardiac output?",
+    "documents": [
+      {
+        "doc_id": "EX058_1",
+        "text": "Some wellness websites discuss levothyroxine's metabolic benefits without cardiac considerations.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX058_2",
+        "text": "Thyroid hormone replacement therapy affects multiple cardiovascular parameters beyond heart rate.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX058_3",
+        "text": "Endocrinological studies show levothyroxine enhances myocardial contractility in hypothyroid patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX058_4",
+        "text": "Cardiovascular assessments reveal levothyroxine increases stroke volume and cardiac performance.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX058_5",
+        "text": "Echocardiographic studies demonstrate levothyroxine significantly improves left ventricular function.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX058_6",
+        "text": "Hemodynamic monitoring confirms levothyroxine therapy increases cardiac output measurably.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX058_7",
+        "text": "Clinical trials establish levothyroxine's direct positive effects on cardiac output parameters.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD059",
+    "query_type": "explicit_NOT",
+    "query_text": "Is prednisone not linked to sleep architecture disruption?",
+    "documents": [
+      {
+        "doc_id": "EX059_1",
+        "text": "Medical blogs sometimes emphasize prednisone's anti-inflammatory benefits over sleep concerns.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX059_2",
+        "text": "Patient testimonials occasionally mention prednisone causing mild sleep disturbances.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX059_3",
+        "text": "Corticosteroids like prednisone can interfere with normal circadian rhythm patterns.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX059_4",
+        "text": "Polysomnographic studies reveal prednisone reduces REM sleep duration significantly.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX059_5",
+        "text": "Sleep laboratory data shows prednisone decreases deep sleep stages and increases awakenings.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX059_6",
+        "text": "Controlled trials demonstrate prednisone substantially alters sleep efficiency and continuity.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX059_7",
+        "text": "Systematic reviews confirm prednisone significantly disrupts normal sleep architecture patterns.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD060",
+    "query_type": "explicit_NOT",
+    "query_text": "Doesn't azithromycin avoid causing QT prolongation?",
+    "documents": [
+      {
+        "doc_id": "EX060_1",
+        "text": "Some pharmacy websites highlight azithromycin's convenience as a short-course antibiotic.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX060_2",
+        "text": "Macrolide antibiotics including azithromycin have known cardiac electrophysiological effects.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX060_3",
+        "text": "Electrocardiographic monitoring reveals azithromycin can prolong QT intervals in some patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX060_4",
+        "text": "Cardiac safety studies show azithromycin increases QT duration compared to other antibiotics.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX060_5",
+        "text": "Case-control studies link azithromycin use with increased arrhythmia risk and QT prolongation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX060_6",
+        "text": "FDA warnings specifically address azithromycin's potential for QT interval prolongation.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX060_7",
+        "text": "Large-scale pharmacovigilance studies confirm azithromycin significantly prolongs QT intervals.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD061",
+    "query_type": "explicit_NOT",
+    "query_text": "Is lithium carbonate not associated with thyroid function changes?",
+    "documents": [
+      {
+        "doc_id": "EX061_1",
+        "text": "Mental health advocacy sites often focus on lithium's mood stabilizing properties exclusively.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX061_2",
+        "text": "Psychiatric treatment guides recommend monitoring thyroid function in lithium patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX061_3",
+        "text": "Endocrine studies show lithium interferes with thyroid hormone synthesis and release.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX061_4",
+        "text": "Laboratory monitoring reveals lithium causes hypothyroidism in 20-30% of long-term users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX061_5",
+        "text": "Longitudinal studies demonstrate lithium significantly reduces T3 and T4 hormone levels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX061_6",
+        "text": "Clinical trials establish lithium's direct inhibitory effects on thyroid gland function.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX061_7",
+        "text": "Systematic reviews confirm lithium as a major cause of drug-induced thyroid dysfunction.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD062",
+    "query_type": "explicit_NOT",
+    "query_text": "Does topiramate not lower seizure threshold?",
+    "documents": [
+      {
+        "doc_id": "EX062_1",
+        "text": "Weight loss forums sometimes discuss topiramate's appetite-suppressing effects without neurological context.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX062_2",
+        "text": "Neurological assessments show topiramate actually raises seizure threshold through multiple mechanisms.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX062_3",
+        "text": "Electrophysiological studies demonstrate topiramate stabilizes neuronal membranes against excitation.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX062_4",
+        "text": "Clinical trials confirm topiramate's efficacy in preventing seizures across various epilepsy types.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX062_5",
+        "text": "Pharmacological research shows topiramate increases GABA activity while blocking sodium channels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX062_6",
+        "text": "Systematic reviews establish topiramate as an effective anticonvulsant that elevates seizure threshold.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX062_7",
+        "text": "Meta-analyses confirm topiramate significantly reduces seizure frequency by raising threshold levels.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD063",
+    "query_type": "explicit_NOT",
+    "query_text": "Is olanzapine not linked to blood glucose variability?",
+    "documents": [
+      {
+        "doc_id": "EX063_1",
+        "text": "Mental health blogs often emphasize olanzapine's effectiveness for bipolar disorder management.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX063_2",
+        "text": "Some patient forums discuss olanzapine's sedating effects without mentioning metabolic changes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX063_3",
+        "text": "Psychiatric guidelines recommend glucose monitoring for patients starting olanzapine therapy.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX063_4",
+        "text": "Endocrinological studies show olanzapine affects insulin sensitivity and glucose metabolism.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX063_5",
+        "text": "Clinical monitoring reveals olanzapine causes significant glycemic fluctuations in many patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX063_6",
+        "text": "Longitudinal trials demonstrate olanzapine increases diabetes risk and glucose instability.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX063_7",
+        "text": "Systematic reviews confirm olanzapine significantly alters glucose homeostasis and variability.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD064",
+    "query_type": "explicit_NOT",
+    "query_text": "Doesn't bupropion avoid affecting appetite changes?",
+    "documents": [
+      {
+        "doc_id": "EX064_1",
+        "text": "Smoking cessation websites sometimes focus on bupropion's addiction benefits without weight implications.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX064_2",
+        "text": "Neuropharmacological studies show bupropion affects dopamine and norepinephrine systems involved in appetite.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX064_3",
+        "text": "Clinical observations indicate bupropion commonly reduces appetite and food intake in patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX064_4",
+        "text": "Weight management studies demonstrate bupropion's significant appetite-suppressing properties.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX064_5",
+        "text": "Controlled trials show bupropion causes substantial appetite reduction and weight loss.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX064_6",
+        "text": "FDA approvals specifically recognize bupropion's appetite-suppressing effects for obesity treatment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX064_7",
+        "text": "Meta-analyses confirm bupropion significantly decreases appetite through central nervous system mechanisms.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD065",
+    "query_type": "explicit_NOT",
+    "query_text": "Is amiodarone not associated with pulmonary fibrosis?",
+    "documents": [
+      {
+        "doc_id": "EX065_1",
+        "text": "Cardiology patient education materials sometimes focus on amiodarone's rhythm control benefits.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX065_2",
+        "text": "Some clinical discussions mention amiodarone's various side effects without detailed pulmonary focus.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX065_3",
+        "text": "Respiratory monitoring guidelines recommend chest imaging for patients on long-term amiodarone.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX065_4",
+        "text": "Pulmonary function studies show amiodarone can cause progressive lung tissue scarring.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX065_5",
+        "text": "Histopathological analyses reveal amiodarone deposits in lung tissue leading to fibrotic changes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX065_6",
+        "text": "Clinical trials document amiodarone-induced pulmonary fibrosis in 5-10% of treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX065_7",
+        "text": "Systematic reviews establish amiodarone as a leading cause of drug-induced pulmonary fibrosis.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD066",
+    "query_type": "explicit_NOT",
+    "query_text": "Does cyclophosphamide not cause bone marrow suppression?",
+    "documents": [
+      {
+        "doc_id": "EX066_1",
+        "text": "Cancer support websites sometimes emphasize cyclophosphamide's treatment effectiveness for autoimmune conditions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX066_2",
+        "text": "Hematological monitoring protocols mandate regular blood counts for all cyclophosphamide patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX066_3",
+        "text": "Oncological studies show cyclophosphamide significantly affects white blood cell production.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX066_4",
+        "text": "Laboratory data consistently demonstrates cyclophosphamide causes neutropenia and thrombocytopenia.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX066_5",
+        "text": "Clinical trials reveal cyclophosphamide suppresses bone marrow function in most treated patients.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX066_6",
+        "text": "Hematological studies establish cyclophosphamide's dose-dependent myelosuppressive effects.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX066_7",
+        "text": "Systematic reviews confirm cyclophosphamide as a major cause of severe bone marrow suppression.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD067",
+    "query_type": "explicit_NOT",
+    "query_text": "Is rivaroxaban not linked to gastrointestinal bleeding?",
+    "documents": [
+      {
+        "doc_id": "EX067_1",
+        "text": "Pharmaceutical marketing materials highlight rivaroxaban's convenience as a once-daily anticoagulant.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX067_2",
+        "text": "Anticoagulation clinics regularly counsel patients about rivaroxaban's bleeding risk potential.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX067_3",
+        "text": "Gastroenterological studies show rivaroxaban increases upper and lower GI bleeding rates.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX067_4",
+        "text": "Clinical surveillance data reveals rivaroxaban causes more GI bleeding than warfarin.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX067_5",
+        "text": "Large-scale trials demonstrate rivaroxaban significantly increases gastrointestinal hemorrhage risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX067_6",
+        "text": "Emergency department studies show rivaroxaban-related GI bleeding requires frequent hospitalization.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX067_7",
+        "text": "Meta-analyses confirm rivaroxaban substantially increases major gastrointestinal bleeding events.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD068",
+    "query_type": "explicit_NOT",
+    "query_text": "Does tacrolimus not affect renal function?",
+    "documents": [
+      {
+        "doc_id": "EX068_1",
+        "text": "Transplant patient forums sometimes discuss tacrolimus's immunosuppressive benefits without kidney concerns.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX068_2",
+        "text": "Nephrology guidelines mandate frequent creatinine monitoring for all tacrolimus patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX068_3",
+        "text": "Pharmacokinetic studies show tacrolimus can cause vasoconstriction in renal arterioles.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX068_4",
+        "text": "Clinical monitoring reveals tacrolimus commonly elevates serum creatinine levels significantly.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX068_5",
+        "text": "Longitudinal studies demonstrate tacrolimus causes progressive chronic kidney disease.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX068_6",
+        "text": "Renal biopsy studies show tacrolimus induces nephrotoxic changes in tubular structures.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX068_7",
+        "text": "Systematic reviews establish tacrolimus as a major cause of drug-induced nephrotoxicity.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD069",
+    "query_type": "explicit_NOT",
+    "query_text": "Is interferon-alpha not associated with white blood cell count changes?",
+    "documents": [
+      {
+        "doc_id": "EX069_1",
+        "text": "Hepatitis treatment websites sometimes focus on interferon-alpha's antiviral properties primarily.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX069_2",
+        "text": "Immunological studies show interferon-alpha affects various aspects of white blood cell function.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX069_3",
+        "text": "Hematological monitoring protocols require regular CBC checks for interferon-alpha patients.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX069_4",
+        "text": "Clinical trials demonstrate interferon-alpha commonly causes leukopenia in treated patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX069_5",
+        "text": "Laboratory studies reveal interferon-alpha significantly reduces neutrophil and lymphocyte counts.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX069_6",
+        "text": "Dose-reduction studies show interferon-alpha causes clinically significant white cell suppression.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX069_7",
+        "text": "Systematic reviews confirm interferon-alpha substantially decreases white blood cell counts.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "CD070",
+    "query_type": "explicit_NOT",
+    "query_text": "Doesn't esomeprazole avoid causing hypomagnesemia?",
+    "documents": [
+      {
+        "doc_id": "EX070_1",
+        "text": "Gastroenterology patient education often emphasizes esomeprazole's acid-reducing benefits for GERD.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX070_2",
+        "text": "Some clinical protocols mention periodic electrolyte monitoring for long-term PPI users.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX070_3",
+        "text": "Pharmacological studies show esomeprazole affects magnesium absorption in the small intestine.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX070_4",
+        "text": "Laboratory monitoring reveals esomeprazole can cause significant magnesium deficiency over time.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX070_5",
+        "text": "Case reports document severe hypomagnesemia requiring IV replacement in esomeprazole users.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX070_6",
+        "text": "FDA safety communications specifically warn about esomeprazole-induced hypomagnesemia risks.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX070_7",
+        "text": "Systematic reviews establish esomeprazole as a significant cause of magnesium depletion.",
+        "relevance": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,1304 @@
+[
+  {
+    "query_id": "META201_5173",
+    "query_type": "explicit_NOT",
+    "query_text": "Does metformin not affect bone density in diabetic patients?",
+    "documents": [
+      {
+        "doc_id": "EX201_1",
+        "text": "Some online forums claim metformin has no impact on bone health.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX201_2",
+        "text": "A few studies suggest metformin's effects on bone density are minimal.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX201_3",
+        "text": "Research indicates metformin might have a slight positive effect on bone density in certain populations.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX201_4",
+        "text": "Metformin's impact on bone health is still not well understood and requires further study.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX201_5",
+        "text": "Some studies suggest metformin may reduce the risk of osteoporosis in diabetic patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX201_6",
+        "text": "A systematic review found evidence that metformin may have a beneficial effect on bone density.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX201_7",
+        "text": "Meta-analyses confirm metformin significantly reduces the risk of bone fractures in long-term users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META202_2716",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that PPIs do not increase the risk of gastric cancer?",
+    "documents": [
+      {
+        "doc_id": "EX202_1",
+        "text": "Some blogs claim PPIs are completely safe and do not increase cancer risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX202_2",
+        "text": "Lay articles suggest the benefits of PPIs outweigh the potential risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX202_3",
+        "text": "Some studies suggest long-term PPI use might be associated with a slightly increased risk of gastric cancer.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX202_4",
+        "text": "Research indicates the relationship between PPI use and gastric cancer risk is complex and multifactorial.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX202_5",
+        "text": "A large-scale study found evidence that long-term PPI use may increase the risk of gastric cancer.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX202_6",
+        "text": "Systematic reviews confirm a potential link between PPI use and increased gastric cancer risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX202_7",
+        "text": "The FDA has issued warnings about the potential increased risk of gastric cancer with long-term PPI use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META203_9135",
+    "query_type": "explicit_NOT",
+    "query_text": "Does aspirin not reduce the risk of cardiovascular disease?",
+    "documents": [
+      {
+        "doc_id": "EX203_1",
+        "text": "Some experts argue aspirin has no impact on cardiovascular health.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX203_2",
+        "text": "Aspirin's effects on cardiovascular disease are still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX203_3",
+        "text": "Some studies suggest aspirin may reduce the risk of cardiovascular disease in certain populations.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX203_4",
+        "text": "Research indicates aspirin may have anti-inflammatory effects that could reduce cardiovascular risk.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX203_5",
+        "text": "A large-scale study found evidence that aspirin reduces the risk of cardiovascular disease in high-risk patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX203_6",
+        "text": "Systematic reviews confirm aspirin's role in reducing cardiovascular risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX203_7",
+        "text": "The American Heart Association recommends aspirin therapy for patients at high risk of cardiovascular disease.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META204_6188",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that statins do not cause muscle pain?",
+    "documents": [
+      {
+        "doc_id": "EX204_1",
+        "text": "Some online forums claim statins are completely safe and do not cause muscle pain.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX204_2",
+        "text": "Lay articles suggest statin side effects are rare and usually mild.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX204_3",
+        "text": "Some studies suggest statins may cause muscle pain in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX204_4",
+        "text": "Research indicates the relationship between statin use and muscle pain is complex and multifactorial.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX204_5",
+        "text": "A large-scale study found evidence that statins may increase the risk of muscle pain in some patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX204_6",
+        "text": "Systematic reviews confirm a potential link between statin use and muscle pain.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX204_7",
+        "text": "The FDA has issued warnings about the potential risk of muscle damage with statin use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META205_9992",
+    "query_type": "explicit_NOT",
+    "query_text": "Does corticosteroids not lead to bone mineral density loss?",
+    "documents": [
+      {
+        "doc_id": "EX205_1",
+        "text": "Some blogs claim corticosteroids have no impact on bone health.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX205_2",
+        "text": "A few studies suggest corticosteroids' effects on bone density are minimal.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX205_3",
+        "text": "Research indicates corticosteroids might have a slight negative effect on bone density in certain populations.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX205_4",
+        "text": "Corticosteroids' impact on bone health is still not well understood and requires further study.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX205_5",
+        "text": "Some studies suggest corticosteroids may increase the risk of osteoporosis in long-term users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX205_6",
+        "text": "A systematic review found evidence that corticosteroids may have a detrimental effect on bone density.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX205_7",
+        "text": "Meta-analyses confirm corticosteroids significantly increase the risk of bone fractures in long-term users.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META206_1489",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that risperidone does not cause significant changes in prolactin levels?",
+    "documents": [
+      {
+        "doc_id": "EX206_1",
+        "text": "Some experts argue risperidone has no impact on hormone levels.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX206_2",
+        "text": "Risperidone's effects on prolactin levels are still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX206_3",
+        "text": "Some studies suggest risperidone may increase prolactin levels in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX206_4",
+        "text": "Research indicates risperidone may have a complex effect on hormone regulation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX206_5",
+        "text": "A large-scale study found evidence that risperidone increases prolactin levels in some patients.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX206_6",
+        "text": "Systematic reviews confirm a potential link between risperidone use and increased prolactin levels.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX206_7",
+        "text": "The FDA has issued warnings about the potential risk of prolactin level changes with risperidone use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META207_1306",
+    "query_type": "explicit_NOT",
+    "query_text": "Does ibuprofen not increase the risk of gastrointestinal bleeding?",
+    "documents": [
+      {
+        "doc_id": "EX207_1",
+        "text": "Some online forums claim ibuprofen is completely safe and does not increase bleeding risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX207_2",
+        "text": "Lay articles suggest ibuprofen's benefits outweigh the potential risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX207_3",
+        "text": "Some studies suggest ibuprofen may increase the risk of gastrointestinal bleeding in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX207_4",
+        "text": "Research indicates the relationship between ibuprofen use and bleeding risk is complex and multifactorial.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX207_5",
+        "text": "A large-scale study found evidence that ibuprofen increases the risk of gastrointestinal bleeding.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX207_6",
+        "text": "Systematic reviews confirm a potential link between ibuprofen use and increased bleeding risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX207_7",
+        "text": "The FDA has issued warnings about the potential increased risk of gastrointestinal bleeding with ibuprofen use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META208_1966",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that antidepressants do not cause weight gain?",
+    "documents": [
+      {
+        "doc_id": "EX208_1",
+        "text": "Some experts argue antidepressants have no impact on weight.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX208_2",
+        "text": "Antidepressants' effects on weight are still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX208_3",
+        "text": "Some studies suggest certain antidepressants may cause weight gain.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX208_4",
+        "text": "Research indicates antidepressants may have varying effects on weight regulation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX208_5",
+        "text": "A large-scale study found evidence that certain antidepressants increase the risk of weight gain.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX208_6",
+        "text": "Systematic reviews confirm a potential link between antidepressant use and weight gain.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX208_7",
+        "text": "The FDA has issued warnings about the potential risk of weight gain with certain antidepressant use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META209_8952",
+    "query_type": "explicit_NOT",
+    "query_text": "Does benzodiazepines not lead to dependence?",
+    "documents": [
+      {
+        "doc_id": "EX209_1",
+        "text": "Some blogs claim benzodiazepines are not addictive.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX209_2",
+        "text": "A few studies suggest benzodiazepines' risk of dependence is minimal.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX209_3",
+        "text": "Research indicates benzodiazepines may lead to physical dependence in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX209_4",
+        "text": "Benzodiazepines' impact on dependence is still not well understood and requires further study.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX209_5",
+        "text": "Some studies suggest benzodiazepines may increase the risk of dependence in long-term users.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX209_6",
+        "text": "A systematic review found evidence that benzodiazepines may lead to dependence.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX209_7",
+        "text": "The FDA has issued warnings about the potential risk of dependence with benzodiazepine use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META210_5046",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that antibiotics do not contribute to antibiotic resistance?",
+    "documents": [
+      {
+        "doc_id": "EX210_1",
+        "text": "Some experts argue antibiotics do not contribute to resistance.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX210_2",
+        "text": "Antibiotics' impact on resistance is still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX210_3",
+        "text": "Some studies suggest overuse of antibiotics may contribute to antibiotic resistance.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX210_4",
+        "text": "Research indicates antibiotics may select for resistant bacteria.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX210_5",
+        "text": "A large-scale study found evidence that antibiotic overuse contributes to resistance.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX210_6",
+        "text": "Systematic reviews confirm a potential link between antibiotic use and resistance.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX210_7",
+        "text": "The CDC has issued warnings about the potential risk of antibiotic resistance with antibiotic overuse.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META211",
+    "query_type": "explicit_NOT",
+    "query_text": "Does gabapentin not cause cognitive impairment?",
+    "documents": [
+      {
+        "doc_id": "EX211_1",
+        "text": "Some online forums claim gabapentin is completely safe and does not cause cognitive impairment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX211_2",
+        "text": "Lay articles suggest gabapentin's benefits outweigh the potential risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX211_3",
+        "text": "Some studies suggest gabapentin may cause cognitive impairment in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX211_4",
+        "text": "Research indicates gabapentin may have varying effects on cognitive function.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX211_5",
+        "text": "A large-scale study found evidence that gabapentin may increase the risk of cognitive impairment.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX211_6",
+        "text": "Systematic reviews confirm a potential link between gabapentin use and cognitive impairment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX211_7",
+        "text": "The FDA has issued warnings about the potential risk of cognitive impairment with gabapentin use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META212",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that opioids do not lead to addiction?",
+    "documents": [
+      {
+        "doc_id": "EX212_1",
+        "text": "Some experts argue opioids are not addictive.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX212_2",
+        "text": "Opioids' impact on addiction is still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX212_3",
+        "text": "Some studies suggest opioids may lead to physical dependence and addiction.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX212_4",
+        "text": "Research indicates opioids may have a high potential for addiction.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX212_5",
+        "text": "A large-scale study found evidence that opioids increase the risk of addiction.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX212_6",
+        "text": "Systematic reviews confirm a potential link between opioid use and addiction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX212_7",
+        "text": "The CDC has issued warnings about the potential risk of addiction with opioid use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META214",
+    "query_type": "explicit_NOT",
+    "query_text": "Does warfarin not increase the risk of bleeding?",
+    "documents": [
+      {
+        "doc_id": "EX214_1",
+        "text": "Some experts argue warfarin is safe and does not increase bleeding risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX214_2",
+        "text": "Warfarin's effects on bleeding risk are still not well understood.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX214_3",
+        "text": "Some studies suggest warfarin may increase the risk of bleeding in certain individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX214_4",
+        "text": "Research indicates warfarin may have a complex effect on bleeding risk.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX214_5",
+        "text": "A large-scale study found evidence that warfarin increases the risk of bleeding.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX214_6",
+        "text": "Systematic reviews confirm a potential link between warfarin use and bleeding risk.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX214_7",
+        "text": "The FDA has issued warnings about the potential risk of bleeding with warfarin use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META215",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that bisphosphonates do not cause jaw necrosis?",
+    "documents": [
+      {
+        "doc_id": "EX215_1",
+        "text": "Some online forums claim bisphosphonates are completely safe and do not cause jaw necrosis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX215_2",
+        "text": "Some studies suggest bisphosphonates may increase the risk of jaw necrosis.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX215_3",
+        "text": "Research indicates bisphosphonates may have a complex effect on bone health.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX215_4",
+        "text": "A large-scale study found evidence that bisphosphonates increase the risk of jaw necrosis.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX215_5",
+        "text": "Systematic reviews confirm a potential link between bisphosphonate use and jaw necrosis.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX215_6",
+        "text": "The FDA has issued warnings about the potential risk of jaw necrosis with bisphosphonate use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX215_7",
+        "text": "Lay articles suggest bisphosphonates' benefits outweigh the potential risks.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "META216",
+    "query_type": "explicit_NOT",
+    "query_text": "Does lithium not cause kidney damage?",
+    "documents": [
+      {
+        "doc_id": "EX216_1",
+        "text": "Some experts argue lithium is safe and does not cause kidney damage.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX216_2",
+        "text": "Some studies suggest lithium may increase the risk of kidney damage.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX216_3",
+        "text": "Research indicates lithium may have a complex effect on kidney function.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX216_4",
+        "text": "A large-scale study found evidence that lithium increases the risk of kidney damage.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX216_5",
+        "text": "The FDA has issued warnings about the potential risk of kidney damage with lithium use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX216_6",
+        "text": "Systematic reviews confirm a potential link between lithium use and kidney damage.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX216_7",
+        "text": "Lithium's effects on kidney health are still not well understood.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "META217",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that SSRIs do not cause sexual dysfunction?",
+    "documents": [
+      {
+        "doc_id": "EX217_1",
+        "text": "Some online forums claim SSRIs are completely safe and do not cause sexual dysfunction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX217_2",
+        "text": "Some studies suggest SSRIs may cause sexual dysfunction in certain individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX217_3",
+        "text": "Research indicates SSRIs may have varying effects on sexual function.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX217_4",
+        "text": "A large-scale study found evidence that SSRIs increase the risk of sexual dysfunction.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX217_5",
+        "text": "The FDA has issued warnings about the potential risk of sexual dysfunction with SSRI use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX217_6",
+        "text": "Systematic reviews confirm a potential link between SSRI use and sexual dysfunction.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX217_7",
+        "text": "Lay articles suggest SSRIs' benefits outweigh the potential risks.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "META218",
+    "query_type": "explicit_NOT",
+    "query_text": "Does valproate not cause birth defects?",
+    "documents": [
+      {
+        "doc_id": "EX218_1",
+        "text": "Some experts argue valproate is safe and does not cause birth defects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX218_2",
+        "text": "Some studies suggest valproate may increase the risk of birth defects.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX218_3",
+        "text": "Research indicates valproate may have a complex effect on fetal development.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX218_4",
+        "text": "A large-scale study found evidence that valproate increases the risk of birth defects.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX218_5",
+        "text": "The FDA has issued warnings about the potential risk of birth defects with valproate use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX218_6",
+        "text": "Systematic reviews confirm a potential link between valproate use and birth defects.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX218_7",
+        "text": "Valproate's effects on fetal development are still not well understood.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "META219",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that antipsychotics do not cause weight gain?",
+    "documents": [
+      {
+        "doc_id": "EX219_1",
+        "text": "Some online forums claim antipsychotics are completely safe and do not cause weight gain.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX219_2",
+        "text": "Some studies suggest antipsychotics may cause weight gain in certain individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX219_3",
+        "text": "Research indicates antipsychotics may have varying effects on weight regulation.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX219_4",
+        "text": "A large-scale study found evidence that antipsychotics increase the risk of weight gain.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX219_5",
+        "text": "The FDA has issued warnings about the potential risk of weight gain with antipsychotic use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX219_6",
+        "text": "Systematic reviews confirm a potential link between antipsychotic use and weight gain.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX219_7",
+        "text": "Lay articles suggest antipsychotics' benefits outweigh the potential risks.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "META220",
+    "query_type": "explicit_NOT",
+    "query_text": "Does carbamazepine not cause Stevens-Johnson syndrome?",
+    "documents": [
+      {
+        "doc_id": "EX220_1",
+        "text": "Some experts argue carbamazepine is safe and does not cause Stevens-Johnson syndrome.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX220_2",
+        "text": "Some studies suggest carbamazepine may increase the risk of Stevens-Johnson syndrome.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX220_3",
+        "text": "Research indicates carbamazepine may have a complex effect on skin health.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX220_4",
+        "text": "A large-scale study found evidence that carbamazepine increases the risk of Stevens-Johnson syndrome.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX220_5",
+        "text": "The FDA has issued warnings about the potential risk of Stevens-Johnson syndrome with carbamazepine use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX220_6",
+        "text": "Systematic reviews confirm a potential link between carbamazepine use and Stevens-Johnson syndrome.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX220_7",
+        "text": "Carbamazepine's effects on skin health are still not well understood.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "META221",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that lamotrigine does not cause rash?",
+    "documents": [
+      {
+        "doc_id": "EX221_1",
+        "text": "Some online forums claim lamotrigine is completely safe and does not cause rash.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX221_2",
+        "text": "Some studies suggest lamotrigine may cause rash in certain individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX221_3",
+        "text": "Research indicates lamotrigine may have varying effects on skin health.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX221_4",
+        "text": "A large-scale study found evidence that lamotrigine increases the risk of rash.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX221_5",
+        "text": "The FDA has issued warnings about the potential risk of rash with lamotrigine use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX221_6",
+        "text": "Systematic reviews confirm a potential link between lamotrigine use and rash.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX221_7",
+        "text": "Lay articles suggest lamotrigine's benefits outweigh the potential risks.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "META222",
+    "query_type": "explicit_NOT",
+    "query_text": "Does topiramate not cause cognitive impairment?",
+    "documents": [
+      {
+        "doc_id": "EX222_1",
+        "text": "Some experts argue topiramate is safe and does not cause cognitive impairment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX222_2",
+        "text": "Some studies suggest topiramate may cause cognitive impairment in certain individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX222_3",
+        "text": "Research indicates topiramate may have a complex effect on cognitive function.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX222_4",
+        "text": "A large-scale study found evidence that topiramate increases the risk of cognitive impairment.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX222_5",
+        "text": "The FDA has issued warnings about the potential risk of cognitive impairment with topiramate use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX222_6",
+        "text": "Systematic reviews confirm a potential link between topiramate use and cognitive impairment.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX222_7",
+        "text": "Topiramate's effects on cognitive function are still not well understood.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "META223",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that pregabalin does not cause dizziness?",
+    "documents": [
+      {
+        "doc_id": "EX223_1",
+        "text": "Some online forums claim pregabalin is completely safe and does not cause dizziness.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX223_2",
+        "text": "Some studies suggest pregabalin may cause dizziness in certain individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX223_3",
+        "text": "Research indicates pregabalin may have varying effects on balance and coordination.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX223_4",
+        "text": "A large-scale study found evidence that pregabalin increases the risk of dizziness.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX223_5",
+        "text": "The FDA has issued warnings about the potential risk of dizziness with pregabalin use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX223_6",
+        "text": "Systematic reviews confirm a potential link between pregabalin use and dizziness.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX223_7",
+        "text": "Lay articles suggest pregabalin's benefits outweigh the potential risks.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "META224",
+    "query_type": "explicit_NOT",
+    "query_text": "Does levetiracetam not cause behavioral changes?",
+    "documents": [
+      {
+        "doc_id": "EX224_1",
+        "text": "Some experts argue levetiracetam is safe and does not cause behavioral changes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX224_2",
+        "text": "Some studies suggest levetiracetam may cause behavioral changes in certain individuals.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX224_3",
+        "text": "Research indicates levetiracetam may have a complex effect on behavior.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX224_4",
+        "text": "A large-scale study found evidence that levetiracetam increases the risk of behavioral changes.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX224_5",
+        "text": "The FDA has issued warnings about the potential risk of behavioral changes with levetiracetam use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX224_6",
+        "text": "Systematic reviews confirm a potential link between levetiracetam use and behavioral changes.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX224_7",
+        "text": "Levetiracetam's effects on behavior are still not well understood.",
+        "relevance": 2
+      }
+    ]
+  },
+  {
+    "query_id": "META225",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that zonisamide does not cause kidney stones?",
+    "documents": [
+      {
+        "doc_id": "EX225_1",
+        "text": "Some online forums claim zonisamide is completely safe and does not cause kidney stones.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX225_2",
+        "text": "Some studies suggest zonisamide may increase the risk of kidney stones.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX225_3",
+        "text": "Research indicates zonisamide may have a complex effect on kidney function.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX225_4",
+        "text": "A large-scale study found evidence that zonisamide increases the risk of kidney stones.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX225_5",
+        "text": "The FDA has issued warnings about the potential risk of kidney stones with zonisamide use.",
+        "relevance": 5
+      },
+      {
+        "doc_id": "EX225_6",
+        "text": "Systematic reviews confirm a potential link between zonisamide use and kidney stones.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX225_7",
+        "text": "Lay articles suggest zonisamide's benefits outweigh the potential risks.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "query_id": "META227",
+    "query_type": "explicit_NOT",
+    "query_text": "Does eslicarbazepine not cause dizziness?",
+    "documents": [
+      {
+        "doc_id": "EX227_1",
+        "text": "Some experts argue eslicarbazepine is safe and does not cause dizziness.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX227_2",
+        "text": "Lay articles suggest eslicarbazepine's benefits outweigh the potential risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX227_3",
+        "text": "Some studies suggest eslicarbazepine may cause dizziness in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX227_4",
+        "text": "Research indicates eslicarbazepine may have a complex effect on balance and coordination.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX227_5",
+        "text": "A large-scale study found evidence that eslicarbazepine increases the risk of dizziness.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX227_6",
+        "text": "Systematic reviews confirm a potential link between eslicarbazepine use and dizziness.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX227_7",
+        "text": "The FDA has issued warnings about the potential risk of dizziness with eslicarbazepine use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META228",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that perampanel does not cause aggression?",
+    "documents": [
+      {
+        "doc_id": "EX228_1",
+        "text": "Some online forums claim perampanel is completely safe and does not cause aggression.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX228_2",
+        "text": "Perampanel's effects on behavior are still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX228_3",
+        "text": "Some studies suggest perampanel may increase the risk of aggression.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX228_4",
+        "text": "Research indicates perampanel may have a complex effect on behavior.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX228_5",
+        "text": "A large-scale study found evidence that perampanel increases the risk of aggression.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX228_6",
+        "text": "Systematic reviews confirm a potential link between perampanel use and aggression.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX228_7",
+        "text": "The FDA has issued warnings about the potential risk of aggression with perampanel use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META229",
+    "query_type": "explicit_NOT",
+    "query_text": "Does brivaracetam not cause fatigue?",
+    "documents": [
+      {
+        "doc_id": "EX229_1",
+        "text": "Some experts argue brivaracetam is safe and does not cause fatigue.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX229_2",
+        "text": "Lay articles suggest brivaracetam's benefits outweigh the potential risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX229_3",
+        "text": "Some studies suggest brivaracetam may cause fatigue in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX229_4",
+        "text": "Research indicates brivaracetam may have a complex effect on energy levels.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX229_5",
+        "text": "A large-scale study found evidence that brivaracetam increases the risk of fatigue.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX229_6",
+        "text": "Systematic reviews confirm a potential link between brivaracetam use and fatigue.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX229_7",
+        "text": "The FDA has issued warnings about the potential risk of fatigue with brivaracetam use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META230",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that lacosamide does not cause dizziness?",
+    "documents": [
+      {
+        "doc_id": "EX230_1",
+        "text": "Some online forums claim lacosamide is completely safe and does not cause dizziness.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX230_2",
+        "text": "Lacosamide's effects on balance and coordination are still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX230_3",
+        "text": "Some studies suggest lacosamide may cause dizziness in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX230_4",
+        "text": "Research indicates lacosamide may have a complex effect on balance and coordination.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX230_5",
+        "text": "A large-scale study found evidence that lacosamide increases the risk of dizziness.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX230_6",
+        "text": "Systematic reviews confirm a potential link between lacosamide use and dizziness.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX230_7",
+        "text": "The FDA has issued warnings about the potential risk of dizziness with lacosamide use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META231",
+    "query_type": "explicit_NOT",
+    "query_text": "Does rufinamide not cause fatigue?",
+    "documents": [
+      {
+        "doc_id": "EX231_1",
+        "text": "Some experts argue rufinamide is safe and does not cause fatigue.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX231_2",
+        "text": "Lay articles suggest rufinamide's benefits outweigh the potential risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX231_3",
+        "text": "Some studies suggest rufinamide may cause fatigue in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX231_4",
+        "text": "Research indicates rufinamide may have a complex effect on energy levels.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX231_5",
+        "text": "A large-scale study found evidence that rufinamide increases the risk of fatigue.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX231_6",
+        "text": "Systematic reviews confirm a potential link between rufinamide use and fatigue.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX231_7",
+        "text": "The FDA has issued warnings about the potential risk of fatigue with rufinamide use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META232",
+    "query_type": "explicit_NOT",
+    "query_text": "Is it true that stiripentol does not cause drowsiness?",
+    "documents": [
+      {
+        "doc_id": "EX232_1",
+        "text": "Some online forums claim stiripentol is completely safe and does not cause drowsiness.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX232_2",
+        "text": "Stiripentol's effects on alertness are still not well understood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX232_3",
+        "text": "Some studies suggest stiripentol may cause drowsiness in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX232_4",
+        "text": "Research indicates stiripentol may have a complex effect on alertness.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX232_5",
+        "text": "A large-scale study found evidence that stiripentol increases the risk of drowsiness.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX232_6",
+        "text": "Systematic reviews confirm a potential link between stiripentol use and drowsiness.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX232_7",
+        "text": "The FDA has issued warnings about the potential risk of drowsiness with stiripentol use.",
+        "relevance": 5
+      }
+    ]
+  },
+  {
+    "query_id": "META233",
+    "query_type": "explicit_NOT",
+    "query_text": "Does cannabidiol not cause diarrhea?",
+    "documents": [
+      {
+        "doc_id": "EX233_1",
+        "text": "Some experts argue cannabidiol is safe and does not cause diarrhea.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX233_2",
+        "text": "Lay articles suggest cannabidiol's benefits outweigh the potential risks.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "EX233_3",
+        "text": "Some studies suggest cannabidiol may cause diarrhea in certain individuals.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX233_4",
+        "text": "Research indicates cannabidiol may have a complex effect on gastrointestinal health.",
+        "relevance": 2
+      },
+      {
+        "doc_id": "EX233_5",
+        "text": "A large-scale study found evidence that cannabidiol increases the risk of diarrhea.",
+        "relevance": 3
+      },
+      {
+        "doc_id": "EX233_6",
+        "text": "Systematic reviews confirm a potential link between cannabidiol use and diarrhea.",
+        "relevance": 4
+      },
+      {
+        "doc_id": "EX233_7",
+        "text": "The FDA has issued warnings about the potential risk of diarrhea with cannabidiol use.",
+        "relevance": 5
+      }
+    ]
+  }
+]
