@@ -4,7 +4,6 @@ import math
 
 def sigmoid_e(x, k=8, midpoint=0.5):
     return 1 / (1 + np.exp(-k * (x - midpoint)))
-
 # def custom_e_curve(x, k=8, midpoint=0.5):
 #     if x < 0.85:
 #         return 1 / (1 + math.exp(-k * (x - midpoint)))  # Inverted sigmoid
