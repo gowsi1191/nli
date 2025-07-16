@@ -7,12 +7,22 @@ from scipy.stats import trim_mean
 import itertools
 import matplotlib.pyplot as plt
 
+def custom_sigmoid_linear_e(x):
+    if x <= 0.1:
+        return max(0.0, min(1.0, 10 * x))  # 0 → 1 as x goes from 0 to 0.1
+    else:
+        return 1.0  # Remains at 1 for x > 0.1
+
+
+
+
 def normalize_model_name(filename):
     return filename.replace("evaluation_results_", "").replace(".json", "").replace("(", "").replace(")", "").replace("-", "_").replace("__", "_")
 
 def load_data(file_path):
     with open(file_path) as f:
         raw_data = json.load(f)
+        
 
     datasets = []
     for outer in raw_data.values():
@@ -50,7 +60,8 @@ def evaluate_model(datasets, e_fn, n_fn, c_fn, weights, lambda_reg=0.1):
             score = (
                 weights[0] * enc_e +
                 weights[1] * enc_n +
-                weights[2] * enc_c
+                weights[2] * enc_c +
+                weights[3] *custom_sigmoid_linear_e(enc_e)
             ) - reg_penalty
 
             raw_scores.append((score, r['relevance']))
@@ -65,7 +76,7 @@ def evaluate_model(datasets, e_fn, n_fn, c_fn, weights, lambda_reg=0.1):
 
     p_at_1 = np.mean(p1_flags) if p1_flags else 0
     p1_std = stdev(p1_flags) if len(p1_flags) > 1 else 0
-    avg_margin = trim_mean(score_margins, 0.2) if score_margins else 0
+    avg_margin = trim_mean(score_margins, 0.1) if score_margins else 0
     margin_std = stdev(score_margins) if len(score_margins) > 1 else 0
     generalization_score = avg_margin - 0.5 * p1_std - 0.3 * margin_std if p1_flags and len(p1_flags) > 1 else 0
     margin_cv = margin_std / avg_margin if avg_margin != 0 else float('inf')
@@ -85,12 +96,11 @@ def main():
     files = [f for f in os.listdir('.') if f.startswith("evaluation_results_DeB") and f.endswith(".json")]
 
     weight_options = [
-        (0.5, 1.0, 1.3),
-        (0.5, 1.2, 1.3),
+        (0.2, 0.25, 0.3,0.25),
     ]
 
-    k_values = [6, 8, 10]
-    midpoints = [0.2, 0.3, 0.5, 0.6]
+    k_values = [5,8,6,7, 10]
+    midpoints = [0.2, 0.3, 0.5, 0.6,0.9]
     sigmoid_types = [sigmoid_e, inverted_sigmoid]
 
     for file_path in files:
@@ -127,8 +137,17 @@ def main():
                                                     lambda x: c_fn(x),
                                                     weights
                                                 )
-                                                if result["P@1"]>=0.88:
-                                                    print(result["P@1"])
+                                                if  result["P@1"] > 0.85 and result['Avg Margin']>0.01 and result['Margin_CV']<5.85:
+                                                    print(f"\n📌 Valid Combo (CV<2 & P@1>0.80):")
+                                                    print(f"E:{e_type.__name__}_mid{km}_k{ke} | N:{n_type.__name__}_mid{knm}_k{kn} | C:{c_type.__name__}_mid{kcm}_k{kc} | W:{weights}")
+                                                    print(f"P@1: {result['P@1']:.4f}")
+                                                    print(f"P@1_STD: {result['P@1_STD']:.4f}")
+                                                    print(f"Avg Margin: {result['Avg Margin']:.4f}")
+                                                    print(f"Margin_STD: {result['Margin_STD']:.4f}")
+                                                    print(f"Generalization Score: {result['Generalization_Score']:.4f}")
+                                                    print(f"Margin CV: {result['Margin_CV']:.4f}")
+                                                    print(f"Samples: {result['n_samples']}")
+
 
                                                 evaluated.append((result["P@1"], result["Generalization_Score"], e_type.__name__, ke, km, n_type.__name__, kn, knm, c_type.__name__, kc, kcm, weights, result))
 
@@ -140,7 +159,7 @@ def main():
             if key not in seen:
                 unique_top.append(combo)
                 seen.add(key)
-            if len(unique_top) == 10:
+            if len(unique_top) == 50:
                 break
 
         print("\n=== Top 10 Unique Combinations by P@1 and Generalization Score ===\n")

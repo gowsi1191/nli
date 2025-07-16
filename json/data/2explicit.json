@@ -4,16 +4,7 @@
       "id": "15",
       "query": "Antibiotics for UTIs excluding fluoroquinolones or sulfonamides.",
       "documents": [
-        {
-          "doc_id": "DOC085",
-          "text": "Fosfomycin treats uncomplicated UTIs without fluoroquinolones or sulfa drugs.",
-          "relevance": 0
-        },
-        {
-          "doc_id": "DOC086",
-          "text": "Nitrofurantoin is first-line for UTI prophylaxis, avoiding contraindicated classes.",
-          "relevance": 0
-        },
+
         {
           "doc_id": "DOC087",
           "text": "UTI treatment: Ciprofloxacin (fluoroquinolone) covers 90% of Gram-negative pathogens.",
@@ -33,7 +24,17 @@
           "doc_id": "DOC090",
           "text": "New fluoroquinolone variant reduces UTI recurrence rates.",
           "relevance": 1
-        }
+        },
+                {
+          "doc_id": "DOC085",
+          "text": "Fosfomycin treats uncomplicated UTIs without fluoroquinolones or sulfa drugs.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC086",
+          "text": "Nitrofurantoin is first-line for UTI prophylaxis, avoiding contraindicated classes.",
+          "relevance": 0
+        },
       ]
     },
     {
