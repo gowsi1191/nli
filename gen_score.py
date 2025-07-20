@@ -4,22 +4,22 @@ import re
 from curve import sigmoid_e, inverted_sigmoid
 
 MODEL_CONFIGS = {
-    "typeform_distilbert-base-uncased-mnli": {
-        "activation": {
-            "e": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.5},
-            "n": {"type": "inverted_sigmoid", "k": 4, "midpoint": 0.5},
-            "c": {"type": "inverted_sigmoid", "k": 4, "midpoint": 0.5}
-        },
-        "weights": (0.5, 1.0, 1.3)
-    },
-    "cross-encoder_nli-deberta-base": {
-        "activation": {
-            "e": {"type": "sigmoid", "k": 6, "midpoint": 0.6},
-            "n": {"type": "sigmoid", "k": 6, "midpoint": 0.2},
-            "c": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.2}
-        },
-        "weights": (0.5, 1.0, 1.3)
-    },
+    # "typeform_distilbert-base-uncased-mnli": {
+    #     "activation": {
+    #         "e": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.5},
+    #         "n": {"type": "inverted_sigmoid", "k": 4, "midpoint": 0.5},
+    #         "c": {"type": "inverted_sigmoid", "k": 4, "midpoint": 0.5}
+    #     },
+    #     "weights": (0.5, 1.0, 1.3)
+    # },
+    # "cross-encoder_nli-deberta-base": {
+    #     "activation": {
+    #         "e": {"type": "sigmoid", "k": 6, "midpoint": 0.6},
+    #         "n": {"type": "sigmoid", "k": 6, "midpoint": 0.2},
+    #         "c": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.2}
+    #     },
+    #     "weights": (0.5, 1.0, 1.3)
+    # },
     "DeBERTa-v3-base_(MNLI_FEVER_ANLI)": {
         "activation": {
             "e": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.5},
@@ -28,54 +28,54 @@ MODEL_CONFIGS = {
         },
         "weights": (0.5, 1.2, 1.3)
     },
-    "BERT-base_(MNLI)": {
-        "activation": {
-            "e": {"type": "sigmoid", "k": 6, "midpoint": 0.5},
-            "n": {"type": "sigmoid", "k": 6, "midpoint": 0.2},
-            "c": {"type": "sigmoid", "k": 4, "midpoint": 0.2}
-        },
-        "weights": (0.5, 1.2, 1.3)
-    },
-    "pritamdeka_PubMedBERT-MNLI-MedNLI": {
-        "activation": {
-            "e": {"type": "sigmoid", "k": 6, "midpoint": 0.6},
-            "n": {"type": "sigmoid", "k": 6, "midpoint": 0.3},
-            "c": {"type": "sigmoid", "k": 4, "midpoint": 0.6}
-        },
-        "weights": (0.5, 1.0, 1.3)
-    },
-    "roberta-large-mnli": {
-        "activation": {
-            "e": {"type": "inverted_sigmoid", "k": 4, "midpoint": 0.2},
-            "n": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.3},
-            "c": {"type": "sigmoid", "k": 6, "midpoint": 0.2}
-        },
-        "weights": (0.5, 1.2, 1.3)
-    },
-    "microsoft_deberta-large-mnli": {
-        "activation": {
-            "e": {"type": "sigmoid", "k": 6, "midpoint": 0.6},
-            "n": {"type": "inverted_sigmoid", "k": 4, "midpoint": 0.6},
-            "c": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.5}
-        },
-        "weights": (0.5, 1.0, 1.3)
-    },
-    "prajjwal1_albert-base-v2-mnli": {
-        "activation": {
-            "e": {"type": "sigmoid", "k": 4, "midpoint": 0.5},
-            "n": {"type": "sigmoid", "k": 6, "midpoint": 0.2},
-            "c": {"type": "sigmoid", "k": 6, "midpoint": 0.5}
-        },
-        "weights": (0.5, 1.2, 1.3)
-    },
-    "facebook_bart_large_mnli": {
-        "activation": {
-            "e": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.3},
-            "n": {"type": "sigmoid", "k": 6, "midpoint": 0.3},
-            "c": {"type": "sigmoid", "k": 6, "midpoint": 0.2}
-        },
-        "weights": (0.5, 1.2, 1.3)
-    }
+    # "BERT-base_(MNLI)": {
+    #     "activation": {
+    #         "e": {"type": "sigmoid", "k": 6, "midpoint": 0.5},
+    #         "n": {"type": "sigmoid", "k": 6, "midpoint": 0.2},
+    #         "c": {"type": "sigmoid", "k": 4, "midpoint": 0.2}
+    #     },
+    #     "weights": (0.5, 1.2, 1.3)
+    # },
+    # "pritamdeka_PubMedBERT-MNLI-MedNLI": {
+    #     "activation": {
+    #         "e": {"type": "sigmoid", "k": 6, "midpoint": 0.6},
+    #         "n": {"type": "sigmoid", "k": 6, "midpoint": 0.3},
+    #         "c": {"type": "sigmoid", "k": 4, "midpoint": 0.6}
+    #     },
+    #     "weights": (0.5, 1.0, 1.3)
+    # },
+    # "roberta-large-mnli": {
+    #     "activation": {
+    #         "e": {"type": "inverted_sigmoid", "k": 4, "midpoint": 0.2},
+    #         "n": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.3},
+    #         "c": {"type": "sigmoid", "k": 6, "midpoint": 0.2}
+    #     },
+    #     "weights": (0.5, 1.2, 1.3)
+    # },
+    # "microsoft_deberta-large-mnli": {
+    #     "activation": {
+    #         "e": {"type": "sigmoid", "k": 6, "midpoint": 0.6},
+    #         "n": {"type": "inverted_sigmoid", "k": 4, "midpoint": 0.6},
+    #         "c": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.5}
+    #     },
+    #     "weights": (0.5, 1.0, 1.3)
+    # },
+    # "prajjwal1_albert-base-v2-mnli": {
+    #     "activation": {
+    #         "e": {"type": "sigmoid", "k": 4, "midpoint": 0.5},
+    #         "n": {"type": "sigmoid", "k": 6, "midpoint": 0.2},
+    #         "c": {"type": "sigmoid", "k": 6, "midpoint": 0.5}
+    #     },
+    #     "weights": (0.5, 1.2, 1.3)
+    # },
+    # "facebook_bart_large_mnli": {
+    #     "activation": {
+    #         "e": {"type": "inverted_sigmoid", "k": 6, "midpoint": 0.3},
+    #         "n": {"type": "sigmoid", "k": 6, "midpoint": 0.3},
+    #         "c": {"type": "sigmoid", "k": 6, "midpoint": 0.2}
+    #     },
+    #     "weights": (0.5, 1.2, 1.3)
+    # }
 }
 
 

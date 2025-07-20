@@ -1,0 +1,2998 @@
+[
+  
+  {
+    "id": "302",
+    "query": "Non-pharmacological approaches to anxiety reduction, not involving psychotherapy",
+    "documents": [
+      {
+        "doc_id": "DOC20201",
+        "text": "Regular physical exercise, such as aerobic activities or yoga, is highly effective in reducing anxiety symptoms by releasing endorphins.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20202",
+        "text": "Mindfulness meditation practices, focusing on present moment awareness, can significantly lower stress and anxiety levels.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20203",
+        "text": "Cognitive Behavioral Therapy (CBT) is widely regarded as a first-line psychological intervention for various anxiety disorders.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20204",
+        "text": "Exposure therapy, a key component of many psychotherapeutic approaches, helps individuals confront and overcome their fears.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20205",
+        "text": "Interpersonal psychotherapy focuses on improving relational issues to alleviate mental health symptoms, including anxiety.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20206",
+        "text": "Psychodynamic therapy explores unconscious conflicts and past experiences that contribute to current anxiety states.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2937"
+  },
+  {
+    "id": "303",
+    "query": "Diagnostic tools for Alzheimer's disease that are not neuroimaging techniques",
+    "documents": [
+      {
+        "doc_id": "DOC20301",
+        "text": "Cerebrospinal fluid (CSF) analysis for amyloid-beta and tau proteins provides crucial biomarkers for early Alzheimer's diagnosis.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20302",
+        "text": "Neuropsychological assessments, involving tests of memory, language, and executive function, are essential for evaluating cognitive decline.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20303",
+        "text": "Magnetic Resonance Imaging (MRI) is routinely used to rule out other causes of cognitive impairment, such as strokes or tumors.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20304",
+        "text": "Positron Emission Tomography (PET) scans, particularly amyloid PET, can detect the presence of amyloid plaques in the brain, a hallmark of Alzheimer's.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20305",
+        "text": "Functional MRI (fMRI) measures brain activity by detecting changes in blood flow and is used in research to understand brain networks affected by Alzheimer's.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20306",
+        "text": "CT scans are often performed to identify structural changes in the brain that may suggest neurodegeneration consistent with Alzheimer's.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_6627"
+  },
+  {
+    "id": "304",
+    "query": "Pain management strategies for chronic back pain, not involving opioids",
+    "documents": [
+      {
+        "doc_id": "DOC20401",
+        "text": "Physical therapy, including exercises to strengthen core muscles and improve posture, is a cornerstone of non-pharmacological back pain treatment.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20402",
+        "text": "Acupuncture has demonstrated efficacy in reducing chronic back pain intensity and improving functional outcomes for many patients.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20403",
+        "text": "Opioid medications are frequently prescribed for severe chronic pain, despite concerns about addiction and side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20404",
+        "text": "Long-term opioid therapy requires careful monitoring due to the risk of tolerance and opioid-induced hyperalgesia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20405",
+        "text": "For refractory chronic back pain, strong opioids like oxycodone or fentanyl may be considered as a last resort.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20406",
+        "text": "Guidelines often recommend a trial of opioids for intractable pain that has not responded to other interventions.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_4799"
+  },
+  
+  {
+    "id": "306",
+    "query": "Alternative treatments for seasonal allergies, not involving antihistamines",
+    "documents": [
+      {
+        "doc_id": "DOC20601",
+        "text": "Nasal saline rinses can effectively clear allergens from nasal passages and reduce congestion and irritation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20602",
+        "text": "Acupuncture and certain herbal remedies like butterbur have shown promise in alleviating allergy symptoms for some individuals.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20603",
+        "text": "Antihistamine medications, such as loratadine or cetirizine, are widely used as first-line treatment for allergic rhinitis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20604",
+        "text": "Many over-the-counter allergy medications primarily function by blocking histamine receptors to reduce sneezing and itching.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20605",
+        "text": "Prescription antihistamines may be necessary for severe allergic reactions or chronic urticaria not controlled by other means.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20606",
+        "text": "Combination therapies often include an antihistamine along with a decongestant for comprehensive symptom relief.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_8825"
+  },
+  {
+    "id": "307",
+    "query": "Management of irritable bowel syndrome (IBS) symptoms, excluding dietary modifications",
+    "documents": [
+      {
+        "doc_id": "DOC20701",
+        "text": "Stress reduction techniques, including yoga, meditation, and guided imagery, can significantly improve IBS symptoms by calming the gut-brain axis.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20702",
+        "text": "Probiotic supplements containing specific strains have demonstrated efficacy in normalizing gut flora and reducing bloating and discomfort.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20703",
+        "text": "Adherence to a low-FODMAP diet is a common and effective dietary intervention for many individuals with IBS to reduce symptoms.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20704",
+        "text": "Elimination diets are often recommended to identify specific food triggers that exacerbate IBS symptoms in susceptible patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20705",
+        "text": "Limiting intake of gas-producing foods like beans and certain vegetables is a key dietary strategy in managing IBS.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20706",
+        "text": "Many IBS patients find relief by avoiding highly processed foods and opting for a whole-food based eating pattern.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_5498"
+  },
+  {
+    "id": "308",
+    "query": "Treatments for rheumatoid arthritis, not involving disease-modifying antirheumatic drugs (DMARDs)",
+    "documents": [
+      {
+        "doc_id": "DOC20801",
+        "text": "Nonsteroidal anti-inflammatory drugs (NSAIDs) can provide symptomatic relief for pain and inflammation in rheumatoid arthritis.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20802",
+        "text": "Physical and occupational therapy play a crucial role in maintaining joint function, strength, and mobility in RA patients.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20803",
+        "text": "Methotrexate is a widely used conventional DMARD, considered a cornerstone in the long-term management of rheumatoid arthritis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20804",
+        "text": "Biologic DMARDs, such as TNF inhibitors, target specific immune pathways to reduce inflammation and prevent joint damage.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20805",
+        "text": "Newer targeted synthetic DMARDs (tsDMARDs) offer an alternative for patients who do not respond to traditional DMARDs.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20806",
+        "text": "Early and aggressive use of DMARDs is crucial to prevent irreversible joint destruction and disability in rheumatoid arthritis.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2712"
+  },
+  {
+    "id": "309",
+    "query": "Prevention strategies for cardiovascular disease, not including statin therapy",
+    "documents": [
+      {
+        "doc_id": "DOC20901",
+        "text": "Regular physical activity, such as brisk walking or cycling, significantly reduces the risk of heart disease and improves cholesterol profiles.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20902",
+        "text": "Adopting a heart-healthy diet rich in fruits, vegetables, and whole grains is fundamental for preventing cardiovascular events.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20903",
+        "text": "Statin medications are commonly prescribed to lower LDL cholesterol levels and reduce the risk of atherosclerotic cardiovascular disease.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20904",
+        "text": "For individuals with high cardiovascular risk, statins are a primary pharmacologic intervention to prevent heart attacks and strokes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20905",
+        "text": "Many clinical guidelines recommend initiating statin therapy based on a patient's calculated 10-year atherosclerotic cardiovascular disease risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20906",
+        "text": "High-intensity statin therapy is particularly effective in reducing major adverse cardiovascular events in patients with established heart disease.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_6758"
+  },
+  {
+    "id": "310",
+    "query": "Surgical interventions for obesity, excluding bariatric surgery",
+    "documents": [
+      {
+        "doc_id": "DOC21001",
+        "text": "Liposuction can remove localized fat deposits but is not considered a treatment for obesity or its metabolic complications.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21002",
+        "text": "Abdominoplasty (tummy tuck) addresses excess skin and fat after significant weight loss but does not induce weight reduction itself.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21003",
+        "text": "Gastric bypass surgery is a highly effective bariatric procedure leading to significant and sustained weight loss.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21004",
+        "text": "Sleeve gastrectomy, a restrictive bariatric surgery, involves removing a large portion of the stomach to reduce food intake.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21005",
+        "text": "Adjustable gastric banding is a reversible bariatric procedure that restricts food intake by placing a band around the upper stomach.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21006",
+        "text": "Bariatric surgery, in its various forms, is currently the most effective long-term treatment for severe obesity.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1673"
+  },
+  {
+    "id": "311",
+    "query": "Rehabilitation methods for stroke recovery, not involving physical therapy",
+    "documents": [
+      {
+        "doc_id": "DOC21101",
+        "text": "Speech-language pathology helps stroke survivors regain communication abilities and address swallowing difficulties.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21102",
+        "text": "Occupational therapy focuses on improving daily living activities and adapting the environment to enhance independence.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21103",
+        "text": "Intensive physical therapy is critical for regaining motor function, strength, and balance after a stroke.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21104",
+        "text": "Many stroke rehabilitation programs are centered around task-specific physical exercises to promote neuroplasticity.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21105",
+        "text": "Early mobilization and a consistent regimen of physical rehabilitation exercises are key predictors of functional recovery.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21106",
+        "text": "Assistive devices and gait training are common components of comprehensive physical therapy for stroke patients.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7066"
+  },
+  {
+    "id": "312",
+    "query": "Management of chronic kidney disease (CKD) progression, excluding dialysis",
+    "documents": [
+      {
+        "doc_id": "DOC21201",
+        "text": "Strict blood pressure control using ACE inhibitors or ARBs is essential to slow the decline of kidney function.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21202",
+        "text": "Dietary protein restriction can reduce the workload on the kidneys and potentially delay the need for renal replacement therapy.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21203",
+        "text": "Hemodialysis and peritoneal dialysis are life-sustaining treatments for end-stage renal disease when kidneys fail.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21204",
+        "text": "Patients with advanced CKD often require dialysis to remove waste products and excess fluid from their blood.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21205",
+        "text": "Preparation for renal replacement therapy, including education about dialysis modalities, is crucial as CKD progresses.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21206",
+        "text": "The decision to initiate dialysis is typically based on a combination of GFR levels and the presence of uremic symptoms.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_0369"
+  },
+  {
+    "id": "313",
+    "query": "Treatment for migraines that is not pharmacological",
+    "documents": [
+      {
+        "doc_id": "DOC21301",
+        "text": "Biofeedback therapy can help individuals learn to control physiological responses, such as muscle tension, to reduce migraine frequency.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21302",
+        "text": "Acupuncture has shown promise as a complementary therapy for migraine prevention and pain relief in some studies.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21303",
+        "text": "Triptans are a class of prescription drugs specifically designed to abort acute migraine attacks by constricting blood vessels.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21304",
+        "text": "Preventive medications, such as beta-blockers or antidepressants, are often prescribed to reduce the frequency and severity of migraines.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21305",
+        "text": "Over-the-counter pain relievers like ibuprofen or acetaminophen are commonly used for mild to moderate migraine pain.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21306",
+        "text": "Newer CGRP inhibitors represent a significant advancement in pharmacological prophylaxis for chronic migraines.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_8544"
+  },
+  {
+    "id": "314",
+    "query": "Screening methods for colorectal cancer, not involving colonoscopy",
+    "documents": [
+      {
+        "doc_id": "DOC21401",
+        "text": "Fecal immunochemical tests (FIT) detect hidden blood in stool, which can indicate the presence of polyps or cancer.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21402",
+        "text": "Stool DNA tests analyze DNA mutations and blood biomarkers in stool samples for colorectal cancer detection.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21403",
+        "text": "Colonoscopy is considered the gold standard for colorectal cancer screening due to its ability to visualize and remove polyps.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21404",
+        "text": "During a colonoscopy, the entire colon is examined for abnormalities, allowing for immediate biopsy or removal of suspicious lesions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21405",
+        "text": "Regular screening colonoscopies are recommended for individuals over a certain age or with specific risk factors.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21406",
+        "text": "Bowel preparation for colonoscopy is essential to ensure a clear view of the colon lining for accurate detection.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1355"
+  },
+  {
+    "id": "315",
+    "query": "Fertility treatments for infertility, not including in vitro fertilization (IVF)",
+    "documents": [
+      {
+        "doc_id": "DOC21501",
+        "text": "Ovulation-inducing medications, such as clomiphene citrate, are commonly used to stimulate egg production in women with ovulatory dysfunction.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21502",
+        "text": "Intrauterine insemination (IUI) involves placing sperm directly into the uterus around the time of ovulation to increase conception chances.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21503",
+        "text": "In vitro fertilization (IVF) is a highly effective assisted reproductive technology where fertilization occurs outside the body.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21504",
+        "text": "Many couples with long-standing infertility eventually turn to IVF after other less invasive treatments have failed.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21505",
+        "text": "The IVF process involves ovarian stimulation, egg retrieval, fertilization in the lab, and embryo transfer to the uterus.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21506",
+        "text": "IVF is often the treatment of choice for severe male factor infertility or blocked fallopian tubes.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7756"
+  },
+  {
+    "id": "197",
+    "query": "Effective atrial fibrillation management strategies not involving anticoagulants",
+    "documents": [
+      {
+        "doc_id": "DOC19701",
+        "text": "Left atrial appendage occlusion devices provide stroke prevention in non-valvular AF by physically excluding the thrombogenic site without systemic blood thinning effects.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC19702",
+        "text": "Recent cardiology studies show aggressive risk factor modification including sleep apnea treatment can reduce stroke risk in select low-risk AF populations.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC19703",
+        "text": "For CHA2DS2-VASc \u22652, direct oral anticoagulants like apixaban remain mandatory to prevent cardioembolic strokes according to current guidelines.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC19704",
+        "text": "The ESC guidelines emphasize anticoagulant therapy cannot be safely withheld in persistent AF with prior stroke history regardless of bleeding risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC19705",
+        "text": "Anticoagulation with warfarin or DOACs is required for all AF patients undergoing cardioversion to prevent peri-procedural thromboembolism.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC19706",
+        "text": "Rheumatic mitral stenosis with AF demands lifelong anticoagulant therapy due to extremely high stroke risk without adequate prophylaxis.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7079"
+  },
+  {
+    "id": "198",
+    "query": "Good Parkinson's disease treatments not utilizing levodopa",
+    "documents": [
+      {
+        "doc_id": "DOC19801",
+        "text": "Dopamine agonists like pramipexole provide symptomatic relief in early PD by directly stimulating striatal receptors while avoiding metabolic complications.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC19802",
+        "text": "MAO-B inhibitors such as rasagiline demonstrate neuroprotective potential and motor benefit without causing dyskinesias in initial disease stages.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC19803",
+        "text": "Levodopa-carbidopa remains the most efficacious treatment for Parkinsonian symptoms despite long-term complications like motor fluctuations.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC19804",
+        "text": "Advanced PD invariably requires levodopa therapy as other medications cannot adequately control severe bradykinesia and rigidity.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC19805",
+        "text": "The Movement Disorder Society considers levodopa the gold standard against which all new Parkinson's treatments must be compared for efficacy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC19806",
+        "text": "For Parkinson's patients with swallowing difficulties, levodopa dispersible tablets provide more reliable absorption than alternative formulations.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_3490"
+  },
+  {
+    "id": "199",
+    "query": "Effective acne treatments not containing retinoids",
+    "documents": [
+      {
+        "doc_id": "DOC19901",
+        "text": "Benzoyl peroxide-clindamycin combinations demonstrate excellent antibacterial and anti-inflammatory effects for inflammatory acne without causing photosensitivity.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC19902",
+        "text": "Oral doxycycline remains a mainstay for moderate-severe acne through its dual antimicrobial and anti-inflammatory properties.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC19903",
+        "text": "Topical retinoids like tretinoin are essential for treating comedonal acne by normalizing follicular keratinization and preventing microcomedone formation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC19904",
+        "text": "The American Academy of Dermatology recommends retinoid therapy as first-line for maintenance of acne clearance due to their unique mechanism.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC19905",
+        "text": "Combination products containing retinoids with antimicrobials provide superior outcomes for mixed acne lesions compared to either agent alone.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC19906",
+        "text": "For acne-prone skin, nightly retinoid application is recommended indefinitely to maintain remission and prevent new lesion development.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1632"
+  },
+  {
+    "id": "300",
+    "query": "Good COPD management approaches not involving inhaled corticosteroids",
+    "documents": [
+      {
+        "doc_id": "DOC20001",
+        "text": "Long-acting muscarinic antagonists like tiotropium improve lung function and reduce exacerbations through bronchodilation without increasing pneumonia risk.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20002",
+        "text": "PDE4 inhibitors such as roflumilast provide anti-inflammatory benefits for chronic bronchitis phenotype without steroid-related side effects.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20003",
+        "text": "Inhaled corticosteroids remain a key component of COPD treatment for patients with frequent exacerbations and elevated eosinophil counts.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20004",
+        "text": "The GOLD guidelines recommend ICS-containing regimens for COPD patients with asthma overlap syndrome based on superior outcomes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20005",
+        "text": "For severe COPD with persistent symptoms despite LAMA/LABA therapy, addition of inhaled corticosteroids significantly reduces exacerbation frequency.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20006",
+        "text": "COPD patients requiring hospitalization for acute exacerbations should receive systemic corticosteroids followed by inhaled maintenance therapy.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2488"
+  },
+
+  {
+    "id": "201",
+    "query": "Effective dietary strategies for managing type 2 diabetes that do not incorporate carbohydrate restriction",
+    "documents": [
+      {
+        "doc_id": "DOC20101",
+        "text": "Incorporating a greater abundance of dietary fiber through the consumption of diverse whole grains, fresh fruits, and a wide array of vegetables can lead to substantial improvements in glycemic control without necessitating a severe limitation of carbohydrate intake, thereby offering a flexible approach for patients.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20102",
+        "text": "Embracing a Mediterranean-style dietary pattern, which is inherently rich in beneficial monounsaturated and polyunsaturated fats, alongside lean protein sources, has consistently demonstrated positive impacts on blood sugar regulation, operating independently of the overall carbohydrate content of the meals consumed.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20103",
+        "text": "Conversely, dietary regimens that are specifically low in carbohydrates are frequently recommended and implemented with the primary objective of achieving rapid and significant weight loss, as well as enhancing insulin sensitivity in a targeted manner for individuals diagnosed with type 2 diabetes, often leading to quick initial results.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20104",
+        "text": "For patients presenting with more severe forms of insulin resistance, the highly restrictive very-low-carbohydrate ketogenic diets are increasingly being investigated and utilized due to their profound and potent glucose-lowering effects, offering a powerful, albeit challenging, therapeutic option.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20105",
+        "text": "Many of the contemporary and established diabetes management guidelines explicitly recommend that careful and continuous monitoring of carbohydrate intake should serve as a foundational and primary strategic approach for comprehensive glycemic management, underscoring its central role.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20106",
+        "text": "The strategic exclusion and limitation of refined carbohydrates stand as a fundamental and widely accepted principle embedded within most standard dietary recommendations, specifically aimed at both preventing the onset and mitigating the progressive severity of type 2 diabetes.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "query": "Holistic non-pharmacological interventions for anxiety reduction, explicitly not involving psychotherapy techniques",
+    "documents": [
+      {
+        "doc_id": "DOC20201",
+        "text": "Engaging in consistent and regular physical exercise, encompassing diverse activities such as invigorating aerobic workouts or calming yoga sessions, proves remarkably effective in ameliorating anxiety symptoms primarily through the natural release of mood-boosting endorphins, contributing to overall well-being.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20202",
+        "text": "The diligent practice of mindfulness meditation, which cultivates a focused awareness on the present moment without judgment, has been consistently shown to significantly diminish both generalized stress and acute anxiety levels, promoting a sense of inner calm.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20203",
+        "text": "In contrast, Cognitive Behavioral Therapy (CBT) is universally acknowledged and widely regarded as the foremost and most effective first-line psychological intervention specifically designed for the comprehensive treatment of a diverse range of anxiety disorders.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20204",
+        "text": "Exposure therapy, a critically important and integral component found within a multitude of psychotherapeutic approaches, empowers individuals to systematically confront and ultimately overcome their deep-seated fears and phobias in a controlled and supportive environment.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20205",
+        "text": "Interpersonal psychotherapy, distinct in its focus, primarily concentrates on identifying and improving problematic relational dynamics and interpersonal issues, with the ultimate goal of alleviating a variety of mental health symptoms, including pervasive anxiety states.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20206",
+        "text": "Psychodynamic therapy delves deeply into the exploration of unconscious conflicts, past traumatic experiences, and their intricate interplay in shaping an individual's current anxiety states, aiming for profound self-understanding and resolution.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "203",
+    "query": "Advanced diagnostic methodologies for Alzheimer's disease that are not classified as neuroimaging techniques",
+    "documents": [
+      {
+        "doc_id": "DOC20301",
+        "text": "Comprehensive cerebrospinal fluid (CSF) analysis for the specific quantification of amyloid-beta and tau proteins provides invaluable and distinct biomarkers that are crucial for the accurate and early detection and diagnosis of Alzheimer's disease, offering insights beyond structural imaging.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20302",
+        "text": "Detailed neuropsychological assessments, which encompass a battery of specialized tests evaluating various cognitive domains such as memory, language proficiency, and executive function, are absolutely essential for precisely evaluating the nature and extent of cognitive decline associated with neurodegenerative conditions.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20303",
+        "text": "Magnetic Resonance Imaging (MRI) of the brain is consistently employed as a routine diagnostic tool to meticulously rule out other potential underlying causes of cognitive impairment, such as acute strokes, space-occupying tumors, or other structural brain anomalies, before considering neurodegenerative etiologies.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20304",
+        "text": "Positron Emission Tomography (PET) scans, particularly advanced amyloid PET imaging, possess the remarkable capability to directly detect and visualize the presence of amyloid plaques within the brain, which are unequivocally considered a definitive pathological hallmark of Alzheimer's disease.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20305",
+        "text": "Functional MRI (fMRI) meticulously measures dynamic brain activity by detecting subtle changes in localized blood flow, and while primarily a research tool, it is extensively utilized to gain a deeper understanding of the intricate brain networks that are specifically affected and dysfunctional in Alzheimer's disease.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20306",
+        "text": "CT scans are frequently conducted to identify any gross structural alterations or significant changes in the brain parenchyma, which may be suggestive of generalized neurodegeneration or specific atrophy patterns consistent with the progression of Alzheimer's disease.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "query": "Comprehensive pain management strategies for persistent chronic back pain, explicitly not involving opioid medications",
+    "documents": [
+      {
+        "doc_id": "DOC20401",
+        "text": "Targeted physical therapy, meticulously designed to include specific exercises aimed at strengthening core musculature and improving overall postural alignment, serves as a fundamental and indispensable cornerstone of non-pharmacological treatment approaches for chronic back pain, promoting long-term relief.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20402",
+        "text": "Acupuncture, an ancient traditional Chinese medicine technique, has consistently demonstrated considerable efficacy in effectively reducing the intensity of chronic back pain and markedly improving functional outcomes for a significant proportion of patients seeking alternative therapies.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20403",
+        "text": "Opioid medications are, regrettably, still quite frequently prescribed for the management of severe chronic pain conditions, despite the widely recognized and escalating concerns regarding their significant potential for addiction, dependence, and a broad spectrum of adverse side effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20404",
+        "text": "The implementation of long-term opioid therapy necessitates extremely rigorous and vigilant monitoring due to the inherent risks of developing drug tolerance, requiring ever-increasing dosages, and the paradoxical phenomenon of opioid-induced hyperalgesia, where pain sensitivity actually increases.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20405",
+        "text": "For instances of particularly refractory and intractable chronic back pain that have proven unresponsive to multiple other interventions, potent strong opioids like oxycodone or fentanyl may, regrettably, be considered as an absolute last resort, given their risk profile.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20406",
+        "text": "Many established clinical guidelines, unfortunately, still include recommendations for a supervised therapeutic trial of opioids in cases of severe and persistent pain that has steadfastly failed to respond adequately to all other available and less potent analgesic interventions.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "query": "Essential infection control protocols within hospital environments, specifically excluding hand hygiene practices",
+    "documents": [
+      {
+        "doc_id": "DOC20501",
+        "text": "The meticulous and proper sterilization of all medical instruments and reusable equipment is of paramount importance and utterly critical in effectively preventing the transmission of pathogens and curtailing the incidence of healthcare-associated infections (HAIs) within clinical settings.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20502",
+        "text": "The stringent implementation of isolation protocols for patients diagnosed with highly transmissible or multi-drug resistant diseases serves as an exceptionally effective measure to strictly limit the potential spread of virulent pathogens throughout the hospital environment, safeguarding other patients and staff.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20503",
+        "text": "Conversely, strict and unwavering adherence to handwashing guidelines, whether utilizing traditional soap and water or employing alcohol-based hand rub formulations, is unequivocally identified as the single most critical and foundational measure in preventing hospital-acquired infections.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20504",
+        "text": "Mandatory and regular hand sanitization immediately prior to and following every instance of direct patient contact is a fundamental requirement strictly enforced for all healthcare personnel, underscoring its non-negotiable role in infection prevention.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20505",
+        "text": "The World Health Organization (WHO) emphatically highlights and actively promotes the 'My 5 Moments for Hand Hygiene' as a universally recognized and essential standard for comprehensive infection prevention and control practices across all healthcare facilities globally.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20506",
+        "text": "Ensuring the consistent availability of adequate handwashing facilities and a reliable supply of necessary sanitizing materials is widely regarded as a foundational and non-negotiable requirement for the successful establishment and ongoing effectiveness of any robust infection control program.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "206",
+    "query": "Non-pharmacological and alternative treatment modalities for seasonal allergies, explicitly not involving antihistamines",
+    "documents": [
+      {
+        "doc_id": "DOC20601",
+        "text": "Regular nasal saline rinses can prove remarkably effective in physically clearing bothersome allergens from the nasal passages, thereby directly reducing bothersome congestion and alleviating irritating inflammation, offering a simple yet potent mechanical solution.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20602",
+        "text": "Acupuncture and certain traditional herbal remedies, notably butterbur, have demonstrated encouraging preliminary promise in alleviating the constellation of seasonal allergy symptoms for a subset of individuals seeking complementary and alternative therapeutic options.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20603",
+        "text": "In stark contrast, antihistamine medications, including widely accessible compounds such as loratadine or cetirizine, are universally and extensively employed as the conventional first-line pharmacologic treatment for the symptomatic management of allergic rhinitis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20604",
+        "text": "A significant majority of readily available over-the-counter allergy medications exert their primary therapeutic effects by specifically blocking histamine receptors, thereby effectively mitigating common allergic symptoms like incessant sneezing and bothersome itching.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20605",
+        "text": "Stronger prescription antihistamines may become absolutely necessary for the effective management of severe, debilitating allergic reactions or persistent chronic urticaria that has proven intractable and not adequately controlled by other less potent means.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20606",
+        "text": "Many comprehensive and effective combination therapies for allergic conditions frequently incorporate an antihistamine as a key component, synergistically combined with a decongestant, to achieve more complete and encompassing symptom relief for patients.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "207",
+    "query": "Effective strategies for the comprehensive management of irritable bowel syndrome (IBS) symptoms, explicitly not including dietary modifications",
+    "documents": [
+      {
+        "doc_id": "DOC20701",
+        "text": "Implementing consistent stress reduction techniques, such as the calming practices of yoga, focused meditation, and guided imagery, can remarkably improve the severity and frequency of IBS symptoms by directly modulating and soothing the intricate gut-brain axis, promoting a sense of internal balance.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20702",
+        "text": "Specific probiotic supplements, containing carefully selected and beneficial bacterial strains, have consistently demonstrated significant efficacy in normalizing the perturbed gut flora and effectively reducing bothersome symptoms like excessive bloating and abdominal discomfort in many IBS sufferers.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20703",
+        "text": "In sharp contrast, rigorous adherence to a low-FODMAP diet is a very common and highly effective dietary intervention universally recommended for a significant proportion of individuals diagnosed with IBS, aiming to substantially reduce symptoms by limiting fermentable carbohydrates.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20704",
+        "text": "Elimination diets are regrettably often recommended as a diagnostic and therapeutic tool to precisely identify specific dietary triggers and food sensitivities that unequivocally exacerbate IBS symptoms in highly susceptible patients, requiring careful and systematic removal of foods.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20705",
+        "text": "Strategically limiting the intake of gas-producing foods, such as certain legumes like beans and a variety of specific vegetables, constitutes a crucial and fundamental dietary strategy in the ongoing management and alleviation of many uncomfortable IBS symptoms.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20706",
+        "text": "A considerable number of individuals suffering from IBS report significant symptomatic relief by proactively avoiding highly processed foods and instead consciously opting for a dietary pattern that is primarily centered around whole, unprocessed food sources, promoting better gut health.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "query": "Proactive prevention strategies for cardiovascular disease that do not encompass statin therapy",
+    "documents": [
+      {
+        "doc_id": "DOC20901",
+        "text": "Engaging in regular physical activity, such as consistent brisk walking or cycling, significantly and independently reduces the overall risk of developing heart disease while simultaneously improving beneficial cholesterol profiles, contributing to robust cardiovascular health.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20902",
+        "text": "Consciously adopting a heart-healthy dietary pattern, characterized by an abundant intake of diverse fruits, a wide array of vegetables, and wholesome whole grains, is unequivocally fundamental for the effective primary prevention of adverse cardiovascular events, promoting arterial health.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC20903",
+        "text": "Statin medications are exceptionally common pharmacological agents specifically prescribed to effectively lower detrimental LDL cholesterol levels and, consequently, profoundly reduce the long-term risk of atherosclerotic cardiovascular disease, which underlies many heart conditions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20904",
+        "text": "For individuals identified with an elevated cardiovascular risk profile, statin therapy serves as a primary and indispensable pharmacologic intervention aimed at robustly preventing the occurrence of debilitating heart attacks and life-altering strokes, offering critical protection.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20905",
+        "text": "Numerous established clinical guidelines consistently recommend initiating statin therapy based on a thorough assessment of a patient's calculated 10-year atherosclerotic cardiovascular disease risk score, ensuring targeted and appropriate prescription.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC20906",
+        "text": "High-intensity statin therapy has been rigorously demonstrated to be particularly efficacious in substantially reducing the incidence of major adverse cardiovascular events in those patients who already have established heart disease, providing potent secondary prevention.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "query": "Alternative surgical interventions for the management of obesity, specifically excluding bariatric surgery procedures",
+    "documents": [
+      {
+        "doc_id": "DOC21001",
+        "text": "Liposuction is a cosmetic surgical procedure capable of removing localized, stubborn fat deposits, but it is unequivocally not considered a comprehensive treatment for systemic obesity itself, nor does it address the underlying metabolic complications associated with excess weight.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21002",
+        "text": "Abdominoplasty, commonly known as a tummy tuck, is a reconstructive surgical procedure that addresses excess skin and residual fat following significant weight loss, but it does not, in itself, induce actual weight reduction or address the root causes of obesity.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21003",
+        "text": "Gastric bypass surgery represents a highly effective and transformative bariatric procedure, leading to substantial and remarkably sustained weight loss, alongside significant improvements in obesity-related comorbidities, for eligible patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21004",
+        "text": "Sleeve gastrectomy, another prominent restrictive bariatric surgery, involves the surgical removal of a significant portion of the stomach, thereby drastically reducing its capacity for food intake and contributing to sustained weight loss.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21005",
+        "text": "Adjustable gastric banding is a reversible bariatric procedure that physically restricts food intake by strategically placing an inflatable band around the upper part of the stomach, creating a smaller pouch for food.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21006",
+        "text": "Bariatric surgery, encompassing a variety of distinct procedural forms, is universally recognized as the most effective and durable long-term therapeutic intervention available for the successful management of severe and morbid obesity.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "211",
+    "query": "Comprehensive rehabilitation methodologies for optimal stroke recovery, explicitly not involving traditional physical therapy",
+    "documents": [
+      {
+        "doc_id": "DOC21101",
+        "text": "Speech-language pathology plays a pivotal and distinct role in aiding stroke survivors to effectively regain lost communication abilities, including speaking and understanding, and to address potentially life-threatening swallowing difficulties, crucial for their overall recovery and safety.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21102",
+        "text": "Occupational therapy is specifically focused on meticulously improving an individual's ability to perform essential daily living activities (ADLs) and skillfully adapting their home and work environments to significantly enhance their independence and quality of life after a stroke.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21103",
+        "text": "Conversely, intensive physical therapy remains unequivocally critical for the successful regaining of lost motor function, rebuilding muscle strength, and re-establishing balance and coordination following a cerebrovascular accident, forming the core of motor recovery.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21104",
+        "text": "A substantial majority of effective stroke rehabilitation programs are inherently centered around meticulously designed task-specific physical exercises, which are known to actively promote beneficial neuroplasticity and functional recovery within the damaged brain.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21105",
+        "text": "Early mobilization and consistent adherence to a rigorous regimen of targeted physical rehabilitation exercises are universally considered key and independent predictors of optimal functional recovery and improved long-term outcomes for stroke patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21106",
+        "text": "The strategic utilization of various assistive devices and specialized gait training are fundamental and common components seamlessly integrated into a comprehensive physical therapy program tailored specifically for stroke patients to optimize their walking ability.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "query": "Advanced medical management strategies for the progression of chronic kidney disease (CKD), explicitly not encompassing dialysis",
+    "documents": [
+      {
+        "doc_id": "DOC21201",
+        "text": "Achieving strict blood pressure control through the judicious use of medications such as ACE inhibitors or ARBs is absolutely essential and a cornerstone in effectively slowing the relentless decline of kidney function and protecting residual renal capacity.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21202",
+        "text": "Implementing a carefully managed dietary protein restriction can significantly reduce the overall workload imposed upon the kidneys, thereby possessing the potential to meaningfully delay the inevitable progression toward the need for renal replacement therapy.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21203",
+        "text": "Hemodialysis and peritoneal dialysis are unequivocally life-sustaining medical treatments specifically required for individuals suffering from end-stage renal disease (ESRD) when their native kidneys have completely failed to perform their vital functions.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21204",
+        "text": "Patients afflicted with advanced stages of chronic kidney disease frequently necessitate the initiation of dialysis to effectively remove accumulated waste products and meticulously control the excess fluid retention from their bloodstream, critical for survival.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21205",
+        "text": "Thorough and timely preparation for renal replacement therapy, which includes comprehensive patient education regarding the various available dialysis modalities, is critically important and becomes a necessary step as chronic kidney disease relentlessly progresses.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21206",
+        "text": "The complex decision to ultimately initiate dialysis is typically predicated upon a careful consideration of a patient's measured glomerular filtration rate (GFR) levels in conjunction with the presence and severity of debilitating uremic symptoms.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "query": "Non-pharmacological therapeutic interventions for the effective treatment of migraines that are not drug-based",
+    "documents": [
+      {
+        "doc_id": "DOC21301",
+        "text": "Biofeedback therapy empowers individuals to learn conscious control over specific physiological responses, such as muscle tension or skin temperature, which can significantly contribute to a reduction in the frequency and intensity of debilitating migraine headaches.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21302",
+        "text": "Acupuncture, an ancient therapeutic practice, has demonstrated encouraging promise as a valuable complementary therapy for both the prevention of recurrent migraines and the direct alleviation of acute migraine pain in several reputable studies.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21303",
+        "text": "In stark contrast, triptans constitute a highly specialized class of prescription medications meticulously engineered to abort acute migraine attacks by precisely constricting dilated blood vessels in the brain, offering rapid symptomatic relief.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21304",
+        "text": "Preventive medications, such as certain beta-blockers or specific antidepressants, are frequently prescribed to proactively reduce both the overall frequency and the debilitating severity of migraine headaches for chronic sufferers.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21305",
+        "text": "Readily available over-the-counter pain relievers, including common options like ibuprofen or acetaminophen, are widely and routinely employed for the effective management of mild to moderate migraine pain, offering accessible initial relief.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21306",
+        "text": "The recent introduction of novel CGRP inhibitors represents a significant and transformative advancement in the pharmacological prophylaxis (prevention) of chronic migraines, offering a new targeted approach for complex cases.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "214",
+    "query": "Screening methodologies for the early detection of colorectal cancer, explicitly not involving colonoscopy procedures",
+    "documents": [
+      {
+        "doc_id": "DOC21401",
+        "text": "Fecal immunochemical tests (FIT) are non-invasive screening tools that precisely detect hidden (occult) blood in stool samples, which can serve as an early indicator of the presence of precancerous polyps or nascent colorectal cancer, prompting further investigation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21402",
+        "text": "Advanced stool DNA tests meticulously analyze specific DNA mutations and detectable blood biomarkers present in stool samples, offering a sophisticated method for the early and non-invasive detection of colorectal cancer, providing molecular insights.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21403",
+        "text": "Conversely, colonoscopy is widely and unequivocally considered the definitive gold standard procedure for comprehensive colorectal cancer screening, primarily due to its unparalleled ability to directly visualize and simultaneously remove precancerous polyps.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21404",
+        "text": "During a colonoscopy, the entire length of the colon is meticulously examined for any abnormalities, which allows for the immediate performance of biopsies or the complete removal of any suspicious lesions, offering both diagnostic and therapeutic capabilities.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21405",
+        "text": "Regularly scheduled screening colonoscopies are strongly recommended by medical guidelines for individuals who have reached a certain age or possess specific risk factors for colorectal cancer, emphasizing its role in preventive care.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21406",
+        "text": "Thorough bowel preparation prior to a colonoscopy is absolutely essential to ensure a perfectly clear and unobstructed view of the colon lining, which is paramount for the accurate detection and identification of subtle abnormalities, ensuring procedural success.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "query": "Diverse fertility treatment options for addressing infertility, specifically excluding in vitro fertilization (IVF)",
+    "documents": [
+      {
+        "doc_id": "DOC21501",
+        "text": "Ovulation-inducing medications, such as the widely prescribed clomiphene citrate, are frequently employed to therapeutically stimulate the production and release of eggs in women who experience ovulatory dysfunction, thereby enhancing their chances of conception.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21502",
+        "text": "Intrauterine insemination (IUI) involves the precise and direct placement of a concentrated sample of prepared sperm into the uterus, strategically timed around ovulation, with the aim of significantly increasing the likelihood of successful fertilization and conception.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21503",
+        "text": "In vitro fertilization (IVF) stands as a highly effective and extensively utilized assisted reproductive technology where the crucial process of fertilization occurs externally, in a specialized laboratory setting, outside the human body.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21504",
+        "text": "Many couples grappling with long-standing and intractable infertility often make the decision to eventually pursue IVF after numerous attempts with less invasive and simpler fertility treatments have unfortunately proven unsuccessful, making it a common next step.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21505",
+        "text": "The complex IVF process meticulously involves several distinct stages: controlled ovarian stimulation, precise egg retrieval, in-vitro fertilization within the laboratory, and finally, the careful transfer of resulting embryos back into the uterus.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21506",
+        "text": "IVF is frequently considered the optimal and preferred treatment choice for couples facing severe forms of male factor infertility or those women diagnosed with irrevocably blocked or damaged fallopian tubes, offering a direct solution to these challenges.",
+        "relevance": 1
+      }
+    ]
+  },
+
+  {
+    "id": "516",
+    "query": "Non-surgical interventions for carpal tunnel syndrome, without involving steroid injections",
+    "documents": [
+      {
+        "doc_id": "DOC21601",
+        "text": "Wearing a wrist splint at night can effectively stabilize the wrist and alleviate pressure on the median nerve, reducing symptoms of carpal tunnel syndrome during sleep and facilitating healing.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21602",
+        "text": "Engaging in specific nerve gliding exercises helps to improve the mobility of the median nerve within the carpal tunnel, which can reduce irritation and alleviate discomfort for individuals experiencing mild to moderate symptoms.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21603",
+        "text": "Corticosteroid injections directly into the carpal tunnel are a common and often effective pharmacological treatment to reduce inflammation and temporarily relieve carpal tunnel syndrome symptoms, providing rapid but not always long-lasting relief.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21604",
+        "text": "For patients experiencing significant pain and nerve compression, steroid injections are frequently considered as a valuable therapeutic option, aiming to quickly decrease swelling around the median nerve and improve function.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21605",
+        "text": "Repeated corticosteroid injections may be given over time to manage recurrent carpal tunnel symptoms, though their long-term efficacy and potential side effects with frequent use are carefully monitored by clinicians.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21606",
+        "text": "While offering swift symptomatic improvement, the temporary nature of steroid injections often means that underlying mechanical issues contributing to carpal tunnel syndrome may require further intervention.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "517",
+    "query": "Methods for managing benign prostatic hyperplasia (BPH) that are not pharmaceutical treatments",
+    "documents": [
+      {
+        "doc_id": "DOC21701",
+        "text": "Adopting lifestyle modifications, such as reducing fluid intake before bedtime and avoiding caffeine and alcohol, can significantly alleviate bothersome urinary symptoms associated with benign prostatic hyperplasia.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21702",
+        "text": "Certain herbal remedies, notably saw palmetto extract, are sometimes explored by individuals as a natural approach to manage symptoms of BPH, though scientific evidence supporting their widespread efficacy varies.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21703",
+        "text": "Alpha-blockers, such as tamsulosin, are widely prescribed pharmaceutical agents that work by relaxing the muscles in the prostate and bladder neck, thereby improving urinary flow in men with BPH.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21704",
+        "text": "5-alpha-reductase inhibitors, like finasteride, are another class of medications specifically used to shrink the prostate gland over time by blocking the conversion of testosterone, offering long-term symptom relief for BPH.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21705",
+        "text": "Combination pharmacotherapy, involving both an alpha-blocker and a 5-alpha-reductase inhibitor, is often recommended for men with larger prostates and more severe BPH symptoms to achieve optimal outcomes.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21706",
+        "text": "Anticholinergic medications or phosphodiesterase-5 inhibitors are sometimes added to the pharmaceutical regimen for BPH to address associated overactive bladder symptoms or erectile dysfunction, respectively.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "518",
+    "query": "Approaches to manage gastroesophageal reflux disease (GERD) that are not medication-based",
+    "documents": [
+      {
+        "doc_id": "DOC21801",
+        "text": "Elevating the head of the bed by six to eight inches can physically help to prevent stomach acid from flowing back into the esophagus during sleep, significantly reducing nocturnal GERD symptoms.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21802",
+        "text": "Avoiding certain trigger foods, such as spicy dishes, fatty meals, chocolate, and peppermint, can substantially reduce the frequency and severity of acid reflux episodes for many individuals with GERD.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21803",
+        "text": "Proton pump inhibitors (PPIs), like omeprazole, are powerful pharmaceutical agents that significantly reduce stomach acid production, making them the most effective medical treatment for moderate to severe GERD.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21804",
+        "text": "H2-receptor blockers, such as famotidine, are another class of medications that decrease acid secretion in the stomach, providing relief for mild to moderate GERD symptoms and are often available over-the-counter.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21805",
+        "text": "Antacids offer quick, temporary relief from heartburn by neutralizing stomach acid, but they do not address the underlying causes of GERD and are typically used for infrequent symptoms.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21806",
+        "text": "For chronic or severe GERD, a long-term medication regimen involving daily PPIs is often necessary to prevent complications such as esophageal erosion or Barrett's esophagus.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "519",
+    "query": "Methods for managing attention deficit hyperactivity disorder (ADHD) that are not reliant on stimulants",
+    "documents": [
+      {
+        "doc_id": "DOC21901",
+        "text": "Implementing consistent behavioral therapy strategies, including positive reinforcement and structured routines, can significantly improve organizational skills and reduce disruptive behaviors in children and adults with ADHD.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21902",
+        "text": "Neurofeedback training, a non-invasive brain-training technique, aims to teach individuals with ADHD to regulate their brainwave patterns, potentially leading to improvements in attention and impulse control over time.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC21903",
+        "text": "Methylphenidate (e.g., Ritalin) and amphetamine-based medications (e.g., Adderall) are the most commonly prescribed stimulant drugs for ADHD, effectively increasing dopamine and norepinephrine in the brain to improve focus and reduce hyperactivity.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21904",
+        "text": "For many individuals with ADHD, stimulant medications are considered the first-line pharmacological treatment due to their rapid onset of action and high efficacy in managing core symptoms.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21905",
+        "text": "The dosage and specific type of stimulant medication are carefully titrated by healthcare providers to achieve optimal therapeutic effects while minimizing potential side effects such as appetite suppression or sleep disturbances.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC21906",
+        "text": "Long-acting stimulant formulations are often preferred for ADHD management to provide sustained symptom control throughout the day, avoiding the need for multiple doses.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "520",
+    "query": "Strategies for chronic pain management not incorporating nerve blocks",
+    "documents": [
+      {
+        "doc_id": "DOC22001",
+        "text": "Cognitive Behavioral Therapy (CBT) for chronic pain helps patients develop coping mechanisms and reframe their thoughts about pain, leading to improved functional outcomes and reduced pain perception.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22002",
+        "text": "Engaging in therapeutic exercise and targeted physical activity, under the guidance of a professional, can significantly strengthen muscles, improve flexibility, and reduce chronic pain by promoting natural endorphin release.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22003",
+        "text": "Nerve blocks, involving the injection of local anesthetics or steroids near specific nerves, are frequently used to interrupt pain signals and provide targeted relief for various chronic pain conditions, offering direct nerve-level intervention.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22004",
+        "text": "For localized and intractable pain, diagnostic nerve blocks can help identify the precise source of pain before more permanent interventional procedures are considered, guiding further treatment strategies.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22005",
+        "text": "Repeated therapeutic nerve blocks may be administered as part of a comprehensive pain management plan to provide sustained relief and allow patients to participate more effectively in physical rehabilitation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22006",
+        "text": "Specialized facet joint nerve blocks or epidural steroid injections are common interventional pain procedures that directly target specific nerves to alleviate back and neck pain originating from spinal structures.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "521",
+    "query": "Effective management of asthma symptoms, not including inhaled corticosteroids",
+    "documents": [
+      {
+        "doc_id": "DOC22101",
+        "text": "Utilizing a short-acting beta-agonist (SABA) inhaler, such as albuterol, is crucial for rapid relief of acute asthma symptoms like wheezing and shortness of breath during an exacerbation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22102",
+        "text": "Implementing an asthma action plan developed with a healthcare provider helps individuals recognize worsening symptoms and take appropriate steps to prevent severe attacks, including knowing when to use rescue medications.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22103",
+        "text": "Inhaled corticosteroids (ICS), such as fluticasone or budesonide, are the cornerstone of long-term control therapy for persistent asthma, effectively reducing airway inflammation and preventing future exacerbations.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22104",
+        "text": "For most patients with moderate to severe asthma, daily use of inhaled corticosteroids is recommended to maintain optimal lung function and minimize the need for rescue inhalers.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22105",
+        "text": "Combination inhalers that include both an inhaled corticosteroid and a long-acting beta-agonist (LABA) are often prescribed to provide more comprehensive asthma control.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22106",
+        "text": "Adherence to inhaled corticosteroid therapy is crucial for achieving sustained asthma control and preventing airway remodeling that can occur with poorly managed chronic inflammation.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "522",
+    "query": "Diagnostic procedures for deep vein thrombosis (DVT) that do not use ultrasound imaging",
+    "documents": [
+      {
+        "doc_id": "DOC22201",
+        "text": "A D-dimer blood test is a highly sensitive screening tool that can help rule out deep vein thrombosis, as a negative result typically indicates that DVT is very unlikely, avoiding unnecessary further testing.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22202",
+        "text": "Clinical prediction rules, such as the Wells' score for DVT, combine various risk factors and symptoms to estimate the pre-test probability of deep vein thrombosis, guiding subsequent diagnostic pathways.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22203",
+        "text": "Compression ultrasonography of the lower extremities is the primary and most commonly used imaging modality for diagnosing deep vein thrombosis, allowing direct visualization of thrombi within veins.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22204",
+        "text": "During a venous ultrasound, the sonographer applies pressure with the transducer to assess the compressibility of the veins; a lack of compressibility is a key indicator of DVT.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22205",
+        "text": "For suspected DVT, duplex ultrasound combines B-mode imaging with Doppler flow studies to evaluate both the structure of the veins and the characteristics of blood flow, enhancing diagnostic accuracy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22206",
+        "text": "While non-invasive and readily available, a negative ultrasound result does not entirely exclude DVT, especially in the calf veins, and clinical judgment often guides repeat imaging or further investigation.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "523",
+    "query": "Strategies for managing insomnia that do not involve prescription sleep medications",
+    "documents": [
+      {
+        "doc_id": "DOC22301",
+        "text": "Practicing strict sleep hygiene, including maintaining a consistent sleep schedule, creating a comfortable sleep environment, and avoiding late-night caffeine or screen time, can significantly improve sleep quality for those with insomnia.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22302",
+        "text": "Cognitive Behavioral Therapy for Insomnia (CBT-I) is a highly effective, non-pharmacological treatment that helps individuals identify and change problematic thoughts and behaviors related to sleep, leading to lasting improvements.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22303",
+        "text": "Zolpidem (Ambien) and eszopiclone (Lunesta) are common prescription hypnotics used to induce and maintain sleep, acting on GABA receptors in the brain to promote sedation and are often prescribed for short-term insomnia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22304",
+        "text": "Benzodiazepines, such as lorazepam, are also prescribed for insomnia, though their use is generally limited due to risks of dependence and withdrawal symptoms, particularly with long-term use.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22305",
+        "text": "Newer orexin receptor antagonists, like suvorexant, represent a different class of prescription sleep medication that works by blocking wakefulness signals in the brain, offering an alternative for chronic insomnia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22306",
+        "text": "While effective in the short term, the long-term use of most prescription sleep medications can lead to tolerance, dependence, and rebound insomnia upon discontinuation, necessitating careful management.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "526",
+    "query": "Early detection methods for breast cancer that do not involve mammography",
+    "documents": [
+      {
+        "doc_id": "DOC22601",
+        "text": "Clinical breast examinations (CBE) performed by a healthcare professional involve a thorough physical assessment of the breasts and underarm areas to detect any lumps or changes that might indicate breast cancer.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22602",
+        "text": "Breast self-awareness encourages women to be familiar with the normal look and feel of their breasts so they can report any new or unusual changes to their doctor promptly, potentially leading to earlier detection.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22603",
+        "text": "Mammography, utilizing low-dose X-rays of the breast, remains the gold standard for breast cancer screening, capable of detecting abnormal growths and microcalcifications often before they can be felt.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22604",
+        "text": "For women with dense breast tissue or high risk, digital breast tomosynthesis (3D mammography) provides more detailed images and can improve cancer detection rates by reducing tissue overlap compared to conventional mammography.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22605",
+        "text": "Regular screening mammograms are widely recommended for women starting at age 40 or 50, depending on guidelines, to detect breast cancer at its earliest and most treatable stages.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22606",
+        "text": "Advanced mammography techniques, including contrast-enhanced mammography, are being developed to provide even greater sensitivity for cancer detection, especially in challenging cases.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "529",
+    "query": "Infection prevention methods for urinary tract infections (UTIs) that do not use antibiotics",
+    "documents": [
+      {
+        "doc_id": "DOC22901",
+        "text": "Maintaining adequate hydration by drinking plenty of water helps to flush bacteria from the urinary tract, thereby reducing the risk of developing urinary tract infections.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22902",
+        "text": "Consuming cranberry products (juice or supplements) is often suggested as a natural way to prevent UTIs, as compounds in cranberries may inhibit bacterial adherence to the bladder wall.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC22903",
+        "text": "Antibiotics, such as trimethoprim-sulfamethoxazole or nitrofurantoin, are the cornerstone of treatment for acute urinary tract infections, effectively eradicating bacterial pathogens responsible for the infection.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22904",
+        "text": "For recurrent UTIs, prophylactic low-dose antibiotics may be prescribed for an extended period to prevent future infections, although this strategy carries risks of antibiotic resistance.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22905",
+        "text": "The selection of the appropriate antibiotic for a UTI is guided by local resistance patterns and the patient's individual factors, ensuring effective eradication of the causative bacteria.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC22906",
+        "text": "In cases of complicated UTIs or pyelonephritis, intravenous antibiotic therapy may be necessary to achieve higher drug concentrations and ensure successful treatment of more severe infections.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "530",
+    "query": "Non-invasive diagnostic tools for heart disease that do not rely on ECG/EKG",
+    "documents": [
+      {
+        "doc_id": "DOC23001",
+        "text": "Echocardiography, a non-invasive ultrasound of the heart, provides detailed images of heart structure and function, allowing assessment of valve health, chamber size, and pumping efficiency, crucial for diagnosing various heart conditions.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC23002",
+        "text": "Cardiac MRI offers highly detailed anatomical and functional information about the heart and great vessels, particularly useful for diagnosing complex congenital heart defects, cardiomyopathy, and myocardial viability.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC23003",
+        "text": "A standard electrocardiogram (ECG or EKG) records the electrical activity of the heart, providing crucial information about heart rhythm, rate, and the presence of ischemia or previous heart attacks, making it a foundational diagnostic test.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC23004",
+        "text": "Stress ECG testing, often performed on a treadmill, monitors changes in the heart's electrical activity during exercise to detect exercise-induced ischemia or arrhythmias that might not be evident at rest.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC23005",
+        "text": "A Holter monitor provides continuous, ambulatory ECG recording over 24-48 hours, essential for detecting intermittent arrhythmias or symptomatic palpitations that might be missed on a short-duration resting EKG.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC23006",
+        "text": "The 12-lead electrocardiogram is a rapid, non-invasive test that is almost universally performed as a first-line investigation for suspected cardiac chest pain, providing immediate insights into cardiac electrical health.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "query": "HIV treatments excluding protease inhibitors",
+    "documents": [
+      {
+        "doc_id": "DOC1101",
+        "text": "HIV controlled with integrase inhibitors alone.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC1102",
+        "text": "New HIV regimen omits protease drug class.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC1103",
+        "text": "Protease inhibitors prevent HIV resistance.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC1104",
+        "text": "Darunavir (protease inhibitor) suppresses viral load.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC1105",
+        "text": "Protease inhibitors remain essential for HIV therapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC1106",
+        "text": "New protease inhibitor has fewer side effects.",
+        "relevance": 1
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "query": "Prostate cancer research excluding radiation therapy",
+    "documents": [
+      {
+        "doc_id": "DOC901",
+        "text": "Prostate cancer study focuses on surgical techniques.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC902",
+        "text": "New prostate treatment avoids radiation completely.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC903",
+        "text": "Radiation therapy cures localized prostate cancer.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC904",
+        "text": "Prostate cancer patients prefer radiation over surgery.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC905",
+        "text": "Radiation remains standard for prostate cancer.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC906",
+        "text": "New radiation technique spares healthy tissue.",
+        "relevance": 1
+      }
+    ]
+  },
+ 
+{
+  "id": "602",
+  "query": "Preventing migraines without using triptans",
+  "documents": [
+    {
+      "doc_id": "DOC60201",
+      "text": "Magnesium supplements and riboflavin are effective natural approaches to reducing the frequency of migraine attacks.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60202",
+      "text": "Cognitive behavioral therapy can reduce migraine frequency by managing stress and sleep disturbances that often trigger headaches.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60203",
+      "text": "Triptans like sumatriptan and rizatriptan provide effective relief from acute migraine episodes by targeting serotonin receptors.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60204",
+      "text": "Patients who experience migraines with aura often respond well to triptan therapy when taken at the earliest sign of symptoms.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60205",
+      "text": "Triptans are the mainstay of abortive migraine therapy due to their ability to constrict dilated blood vessels in the brain.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60206",
+      "text": "Triptans remain the preferred treatment for moderate to severe migraines in patients without cardiovascular risk factors.",
+      "relevance": 1
+    }
+  ]
+},
+{
+  "id": "608",
+  "query": "COPD treatment excluding bronchodilators",
+  "documents": [
+    {
+      "doc_id": "DOC60801",
+      "text": "Pulmonary rehabilitation programs have been shown to improve exercise tolerance and reduce dyspnea in COPD patients.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60802",
+      "text": "Vaccination against influenza and pneumococcus is essential to prevent COPD exacerbations.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60803",
+      "text": "Bronchodilators such as salbutamol and tiotropium are used to reduce airflow limitation and improve quality of life.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60804",
+      "text": "Long-acting bronchodilators play a pivotal role in maintenance therapy for moderate to severe COPD.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60805",
+      "text": "Combination inhalers containing LABA and LAMA bronchodilators are preferred for advanced COPD cases.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60806",
+      "text": "Bronchodilators are cornerstone medications in all GOLD-defined stages of COPD severity.",
+      "relevance": 1
+    }
+  ]
+}
+,
+{
+  "id": "607",
+  "query": "Pain management in osteoarthritis not involving NSAIDs",
+  "documents": [
+    {
+      "doc_id": "DOC60701",
+      "text": "Topical capsaicin and physiotherapy provide safe and effective relief in early-stage knee osteoarthritis.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60702",
+      "text": "Hyaluronic acid injections are used for patients who are not suitable candidates for NSAIDs or surgery.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60703",
+      "text": "Non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen and naproxen are routinely used to reduce osteoarthritic pain.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60704",
+      "text": "NSAID use is associated with gastrointestinal and renal risks, particularly in elderly osteoarthritis patients.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60705",
+      "text": "Diclofenac gel, a topical NSAID, offers localized pain relief with fewer systemic side effects.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60706",
+      "text": "Long-term NSAID therapy must be monitored for adverse effects such as peptic ulcers and elevated creatinine.",
+      "relevance": 1
+    }
+  ]
+}
+,
+{
+  "id": "606",
+  "query": "Treatment of depression not including SSRIs",
+  "documents": [
+    {
+      "doc_id": "DOC60601",
+      "text": "Cognitive behavioral therapy (CBT) is a first-line non-pharmacological intervention for mild to moderate depression.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60602",
+      "text": "Bupropion, an atypical antidepressant, is commonly used for patients experiencing fatigue and lack of motivation.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60603",
+      "text": "SSRIs such as sertraline and escitalopram are the most frequently prescribed medications for major depressive disorder.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60604",
+      "text": "Fluoxetine is an SSRI approved for both adults and adolescents with depressive symptoms and suicidal ideation.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60605",
+      "text": "SSRIs work by increasing synaptic serotonin levels and are generally well tolerated by most patients.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60606",
+      "text": "Treatment guidelines recommend SSRIs as first-line therapy due to their efficacy and low side effect profile.",
+      "relevance": 1
+    }
+  ]
+}
+,
+{
+  "id": "605",
+  "query": "Management of epilepsy not including valproate",
+  "documents": [
+    {
+      "doc_id": "DOC60501",
+      "text": "Lamotrigine is preferred for patients with focal seizures and has a favorable cognitive and behavioral profile.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60502",
+      "text": "Levetiracetam is effective for generalized seizures and often chosen for its minimal drug interactions.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60503",
+      "text": "Valproate is a broad-spectrum antiepileptic drug commonly used for generalized seizures and myoclonic epilepsy.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60504",
+      "text": "Women of childbearing age are advised to avoid valproate due to its teratogenic effects despite its efficacy.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60505",
+      "text": "Valproate increases GABA levels and stabilizes neuronal firing in various epilepsy subtypes.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60506",
+      "text": "Valproate remains a mainstay treatment for patients with absence seizures and primary generalized epilepsy.",
+      "relevance": 1
+    }
+  ]
+}
+,
+{
+  "id": "604",
+  "query": "Osteoporosis treatment excluding bisphosphonates",
+  "documents": [
+    {
+      "doc_id": "DOC60401",
+      "text": "Daily intake of calcium and vitamin D plays a foundational role in maintaining bone density in osteoporosis patients.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60402",
+      "text": "Teriparatide, a recombinant parathyroid hormone, stimulates bone formation and is used in severe osteoporosis cases.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60403",
+      "text": "Alendronate and risedronate, both bisphosphonates, are widely prescribed to slow bone loss and reduce fracture risk.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60404",
+      "text": "Zoledronic acid, a potent bisphosphonate, is administered annually via IV to manage postmenopausal osteoporosis.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60405",
+      "text": "Bisphosphonates work by inhibiting osteoclast-mediated bone resorption and are first-line agents for most patients.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60406",
+      "text": "Use of bisphosphonates significantly reduces the incidence of hip and vertebral fractures in elderly women.",
+      "relevance": 1
+    }
+  ]
+},
+{
+  "id": "1001",
+  "query": "Non-metformin therapies for newly diagnosed diabetic patients",
+  "documents": [
+    {
+      "doc_id": "DOC6001",
+      "text": "GLP-1 receptor agonists are effective alternatives to metformin for newly diagnosed diabetic patients by improving glycemic control and reducing weight.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC6002",
+      "text": "Metformin is the preferred therapy for newly diagnosed diabetic patients, making non-metformin therapies less relevant in initial care.",
+      "relevance": 1
+    }
+  ]
+}
+
+
+,
+{
+  "id": "603",
+  "query": "Treatment of type 2 diabetes not including insulin therapy",
+  "documents": [
+    {
+      "doc_id": "DOC60301",
+      "text": "Metformin remains the first-line pharmacologic treatment for type 2 diabetes, particularly effective in reducing hepatic glucose production.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60302",
+      "text": "SGLT2 inhibitors offer cardiovascular and renal benefits for type 2 diabetic patients beyond just glycemic control.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60303",
+      "text": "Long-acting insulin analogs are frequently initiated when oral antidiabetic medications fail to maintain target HbA1c levels.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60304",
+      "text": "Basal insulin therapy plays a critical role in restoring fasting glycemia in patients with long-standing type 2 diabetes.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60305",
+      "text": "Insulin pens improve adherence in patients needing multiple daily injections to manage type 2 diabetes effectively.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60306",
+      "text": "Adding insulin therapy becomes necessary in patients with beta-cell exhaustion where oral agents are insufficient.",
+      "relevance": 1
+    }
+  ]
+}
+,
+{
+  "id": "609",
+  "query": "Managing chronic constipation not including laxatives",
+  "documents": [
+    {
+      "doc_id": "DOC60901",
+      "text": "Increased dietary fiber intake and fluid consumption help in softening stool and promoting regular bowel movements.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60902",
+      "text": "Pelvic floor physical therapy is beneficial for patients with dyssynergic defecation contributing to chronic constipation.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC60903",
+      "text": "Osmotic laxatives like polyethylene glycol are often used for chronic idiopathic constipation.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60904",
+      "text": "Stimulant laxatives such as senna or bisacodyl act directly on the intestinal wall to induce bowel movements.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60905",
+      "text": "Laxatives are frequently prescribed for opioid-induced constipation in palliative care settings.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC60906",
+      "text": "Chronic use of laxatives should be monitored due to risk of dependency and electrolyte imbalance.",
+      "relevance": 1
+    }
+  ]
+}
+,
+{
+  "id": "610",
+  "query": "Preventing stroke not including anticoagulants",
+  "documents": [
+    {
+      "doc_id": "DOC61001",
+      "text": "Controlling blood pressure remains the most important modifiable factor in preventing ischemic and hemorrhagic strokes.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC61002",
+      "text": "Smoking cessation and physical activity are essential lifestyle interventions to reduce stroke risk.",
+      "relevance": 0
+    },
+    {
+      "doc_id": "DOC61003",
+      "text": "Anticoagulants like warfarin or apixaban are commonly used to prevent cardioembolic stroke in atrial fibrillation patients.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC61004",
+      "text": "Long-term anticoagulation is recommended for secondary stroke prevention in patients with mechanical heart valves.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC61005",
+      "text": "Direct oral anticoagulants (DOACs) have replaced warfarin in many stroke prevention protocols.",
+      "relevance": 1
+    },
+    {
+      "doc_id": "DOC61006",
+      "text": "Use of anticoagulants in stroke prevention requires regular monitoring of renal function and bleeding risk.",
+      "relevance": 1
+    }
+  ]
+},
+
+    {
+      "id": "611",
+      "query": "Chronic pain relief excluding opioids and gabapentin",
+      "documents": [
+        {
+          "doc_id": "DOC61101",
+          "text": "Transcutaneous electrical nerve stimulation (TENS) is a non-pharmacologic method that may reduce chronic pain in musculoskeletal conditions.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61102",
+          "text": "Mindfulness-based stress reduction techniques can help modulate pain perception in patients with fibromyalgia.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61103",
+          "text": "Opioids remain widely prescribed for severe chronic pain despite concerns about dependency and overdose.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC61104",
+          "text": "Gabapentin is frequently used for neuropathic pain and fibromyalgia, though it may cause sedation in some patients.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "612",
+      "query": "Type 1 diabetes management not involving insulin or sulfonylureas",
+      "documents": [
+        {
+          "doc_id": "DOC61201",
+          "text": "Continuous glucose monitoring and carbohydrate counting are essential parts of type 1 diabetes self-management education.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61202",
+          "text": "Low glycemic index diets may improve glucose stability in patients with insulin-independent strategies.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61203",
+          "text": "Insulin therapy is essential in type 1 diabetes due to the complete absence of endogenous insulin production.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC61204",
+          "text": "Some sulfonylureas stimulate residual beta cell activity in neonatal diabetes but are ineffective for most type 1 cases.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "613",
+      "query": "Antiviral therapy for hepatitis C without interferon or ribavirin",
+      "documents": [
+        {
+          "doc_id": "DOC61301",
+          "text": "Direct-acting antivirals (DAAs) have revolutionized hepatitis C treatment with cure rates above 95% and fewer side effects.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61302",
+          "text": "Sofosbuvir-based regimens target HCV RNA polymerase and are well tolerated across multiple genotypes.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61303",
+          "text": "Ribavirin is sometimes added to interferon-based regimens to enhance response, though side effects are common.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC61304",
+          "text": "Interferon injections were previously the standard of care for hepatitis C before DAAs became widely available.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "614",
+      "query": "Psoriasis treatment not treated with methotrexate or biologics",
+      "documents": [
+        {
+          "doc_id": "DOC61401",
+          "text": "Topical corticosteroids and vitamin D analogues remain first-line therapies for mild plaque psoriasis.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61402",
+          "text": "Phototherapy using narrowband UVB can be an effective option for widespread but stable psoriatic lesions.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61403",
+          "text": "Methotrexate is a systemic immunosuppressant used in moderate-to-severe psoriasis, often requiring liver function monitoring.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC61404",
+          "text": "Biologic agents like adalimumab and secukinumab target specific immune pathways in moderate to severe plaque psoriasis.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "615",
+      "query": "Treating anxiety disorders apart from SSRIs and benzodiazepines",
+      "documents": [
+        {
+          "doc_id": "DOC61501",
+          "text": "Cognitive behavioral therapy is one of the most effective non-drug treatments for generalized anxiety disorder.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61502",
+          "text": "Buspirone is an anxiolytic with fewer sedative effects, especially useful for long-term management of chronic anxiety.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61503",
+          "text": "SSRIs like paroxetine and sertraline are first-line pharmacologic agents for social anxiety disorder and panic disorder.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC61504",
+          "text": "Benzodiazepines such as lorazepam are often prescribed for acute anxiety episodes but have risk of dependence.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "616",
+      "query": "Breast cancer treatment excluding chemotherapy and tamoxifen",
+      "documents": [
+        {
+          "doc_id": "DOC61601",
+          "text": "Targeted therapy with HER2 inhibitors such as trastuzumab is effective for HER2-positive breast cancers.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61602",
+          "text": "Surgical removal of the tumor followed by radiotherapy remains a standard approach in localized breast cancer.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61603",
+          "text": "Tamoxifen is a selective estrogen receptor modulator widely used in hormone receptor-positive breast cancer.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC61604",
+          "text": "Adjuvant chemotherapy is used to eliminate micrometastases and reduce recurrence risk in early-stage disease.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "617",
+      "query": "Rheumatoid arthritis therapy avoiding DMARDs and corticosteroids",
+      "documents": [
+        {
+          "doc_id": "DOC61701",
+          "text": "Physical therapy and joint-friendly exercise routines help maintain function in rheumatoid arthritis patients.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61702",
+          "text": "Omega-3 fatty acids and turmeric supplements have shown modest symptom improvement in autoimmune conditions.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61703",
+          "text": "DMARDs like methotrexate are foundational therapies in halting progression of rheumatoid arthritis.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC61704",
+          "text": "Short courses of corticosteroids are commonly used for RA flares due to their rapid anti-inflammatory effects.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "618",
+      "query": "Managing high cholesterol not including statins or ezetimibe",
+      "documents": [
+        {
+          "doc_id": "DOC61801",
+          "text": "Dietary changes such as reducing saturated fat intake and increasing soluble fiber can significantly lower LDL levels.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61802",
+          "text": "Regular aerobic exercise helps raise HDL cholesterol and improve overall cardiovascular risk profile.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61803",
+          "text": "Statins are the most effective lipid-lowering agents for reducing cardiovascular events in high-risk patients.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC61804",
+          "text": "Ezetimibe works by inhibiting cholesterol absorption in the intestines and is often combined with statins.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "619",
+      "query": "Treatment of bacterial pneumonia other than macrolides and fluoroquinolones",
+      "documents": [
+        {
+          "doc_id": "DOC61901",
+          "text": "Beta-lactam antibiotics such as amoxicillin-clavulanate are effective against Streptococcus pneumoniae.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61902",
+          "text": "Ceftriaxone is a commonly used cephalosporin for inpatient treatment of community-acquired pneumonia.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC61903",
+          "text": "Macrolides like azithromycin are used for atypical pneumonia due to their intracellular penetration.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC61904",
+          "text": "Fluoroquinolones such as levofloxacin offer broad-spectrum coverage but carry risks of tendon injury.",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "id": "620",
+      "query": "Managing GERD without PPIs and H2 blockers",
+      "documents": [
+        {
+          "doc_id": "DOC62001",
+          "text": "Elevating the head of the bed and avoiding large meals before bedtime can reduce nocturnal GERD symptoms.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC62002",
+          "text": "Weight loss in overweight patients significantly improves GERD-related symptoms and esophageal acid exposure.",
+          "relevance": 0
+        },
+        {
+          "doc_id": "DOC62003",
+          "text": "Proton pump inhibitors (PPIs) like omeprazole are the mainstay of treatment for erosive esophagitis.",
+          "relevance": 1
+        },
+        {
+          "doc_id": "DOC62004",
+          "text": "H2 receptor blockers such as ranitidine and famotidine reduce acid secretion by blocking histamine receptors.",
+          "relevance": 1
+        }
+      ]
+    },
+
+{
+    "id": "60",
+    "query": "Heart failure treatments excluding beta-blockers.",
+    "documents": [
+      {
+        "doc_id": "DOC6001",
+        "text": "ARNIs like sacubitril/valsartan reduce HFrEF mortality through natriuretic peptide potentiation, independent of adrenergic blockade.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6002",
+        "text": "Ivabradine's funny current inhibition lowers heart rate in sinus rhythm without negative inotropic effects.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6003",
+        "text": "Carvedilol's non-selective beta-blockade improves ejection fraction by 8-10% in stable HFrEF patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6004",
+        "text": "Metoprolol succinate remains guideline-directed therapy for heart failure with reduced ejection fraction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6005",
+        "text": "Bisoprolol demonstrates mortality reduction in HFrEF comparable to other beta-blockers in CIBIS-II trial.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6006",
+        "text": "Beta-blockers require careful uptitration in heart failure to avoid acute decompensation.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7570"
+  },
+  {
+    "id": "61",
+    "query": "Antiemetics for chemotherapy that are not 5-HT3 antagonists.",
+    "documents": [
+      {
+        "doc_id": "DOC6101",
+        "text": "NK1 receptor antagonists like aprepitant prevent delayed CINV through substance P blockade in the area postrema.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6102",
+        "text": "Olanzapine's multi-receptor antagonism provides breakthrough antiemesis for highly emetogenic regimens without serotonin modulation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6103",
+        "text": "Ondansetron's 5-HT3 blockade causes QTc prolongation when combined with anthracyclines.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6104",
+        "text": "Granisetron transdermal patches utilize serotonin receptor antagonism for 5-day continuous protection.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6105",
+        "text": "Palonosetron's extended 5-HT3 receptor binding provides 72-hour protection against acute CINV.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6106",
+        "text": "Dolasetron metabolism produces active 5-HT3 antagonist hydrodolasetron.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_3788"
+  },
+  {
+    "id": "62",
+    "query": "Psoriasis therapies that never use methotrexate.",
+    "documents": [
+      {
+        "doc_id": "DOC6201",
+        "text": "IL-17 inhibitors like secukinumab achieve PASI 90 response in 70% of plaque psoriasis patients through targeted cytokine blockade.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6202",
+        "text": "Topical vitamin D analogs (calcipotriene) modulate keratinocyte differentiation without systemic immunosuppression.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6203",
+        "text": "Methotrexate's antifolate effects require weekly dosing and folate supplementation to reduce mucositis risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6204",
+        "text": "Hepatotoxicity monitoring is mandatory for psoriasis patients on long-term methotrexate therapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6205",
+        "text": "Methotrexate remains first-line systemic therapy for palmoplantar psoriasis despite teratogenicity concerns.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6206",
+        "text": "Combination methotrexate-acitretin therapy is contraindicated due to synergistic hepatotoxicity.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_5053"
+  },
+  {
+    "id": "63",
+    "query": "Bipolar disorder medications that do not contain lithium.",
+    "documents": [
+      {
+        "doc_id": "DOC6301",
+        "text": "Valproate's GABAergic and histone deacetylase inhibition provides mood stabilization without lithium's narrow therapeutic index.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6302",
+        "text": "Lamotrigine's sodium channel blockade prevents depressive episodes in bipolar II disorder through glutamate modulation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6303",
+        "text": "Lithium carbonate remains the gold standard for bipolar prophylaxis with 40% reduction in suicide risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6304",
+        "text": "Lithium's mechanism involves inositol monophosphatase inhibition and GSK-3\u03b2 modulation.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6305",
+        "text": "Lithium toxicity occurs at serum levels >1.2 mEq/L requiring hemodialysis in severe cases.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6306",
+        "text": "Lithium-induced nephrogenic diabetes insipidus affects 20% of long-term users.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2525"
+  },
+  {
+    "id": "64",
+    "query": "Antiplatelet agents excluding aspirin.",
+    "documents": [
+      {
+        "doc_id": "DOC6401",
+        "text": "P2Y12 inhibitors like clopidogrel prevent ADP-mediated platelet aggregation through irreversible receptor blockade.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6402",
+        "text": "PAR-1 antagonists (vorapaxar) provide additional antiplatelet effects by inhibiting thrombin signaling.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6403",
+        "text": "Aspirin's irreversible COX-1 inhibition causes gastrointestinal bleeding in 1-2% of users annually.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6404",
+        "text": "Low-dose aspirin remains first-line for secondary CVD prevention due to cost-effectiveness.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6405",
+        "text": "Aspirin-exacerbated respiratory disease affects 10% of asthmatics through leukotriene overproduction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6406",
+        "text": "Enteric-coated aspirin delays absorption but doesn't reduce GI bleeding risk.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_4582"
+  },
+  {
+    "id": "65",
+    "query": "Insomnia treatments that avoid benzodiazepines.",
+    "documents": [
+      {
+        "doc_id": "DOC6501",
+        "text": "Dual orexin receptor antagonists like suvorexant promote sleep through hypothalamic wakefulness system modulation rather than GABAergic effects.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6502",
+        "text": "Melatonin agonists (ramelteon) demonstrate efficacy for sleep onset insomnia without dependence risk.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6503",
+        "text": "Temazepam's benzodiazepine properties cause next-day residual sedation in 15% of users.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6504",
+        "text": "Triazolam is contraindicated in elderly due to benzodiazepine-associated delirium risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6505",
+        "text": "Benzodiazepines for insomnia increase fall risk by 50% in patients over 65.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6506",
+        "text": "Clonazepam's long half-life makes it unsuitable for sleep maintenance insomnia.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_6874"
+  },
+  {
+    "id": "66",
+    "query": "HIV regimens not containing integrase inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC6601",
+        "text": "Protease inhibitor-based combinations (darunavir/ritonavir) maintain virologic suppression through alternate viral enzyme inhibition.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6602",
+        "text": "NNRTI regimens like rilpivirine/tenofovir/emtricitabine demonstrate efficacy in treatment-naive patients with viral loads <100,000 copies/mL.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6603",
+        "text": "Dolutegravir's integrase strand transfer inhibition causes minimal resistance development in first-line therapy.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6604",
+        "text": "Bictegravir coformulated with emtricitabine/tenofovir AF allows single-tablet INSTI-based regimens.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6605",
+        "text": "RAL + DRV/r demonstrates efficacy in INSTI-experienced patients with virologic failure.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6606",
+        "text": "Integrase inhibitors require caution in women of childbearing potential due to neural tube defect risks.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_9291"
+  },
+  {
+    "id": "67",
+    "query": "Osteoarthritis management where NSAIDs cannot be used.",
+    "documents": [
+      {
+        "doc_id": "DOC6701",
+        "text": "Intra-articular hyaluronic acid injections provide viscosupplementation for knee OA through biomechanical rather than anti-inflammatory mechanisms.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6702",
+        "text": "Duloxetine's central pain modulation helps manage OA discomfort in patients with contraindications to prostaglandin inhibition.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC6703",
+        "text": "Celecoxib's COX-2 selectivity reduces but doesn't eliminate NSAID-associated GI complications.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6704",
+        "text": "Diclofenac topical gel demonstrates systemic absorption equivalent to 10% oral NSAID dosing.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6705",
+        "text": "Naproxen remains preferred NSAID for OA due to balanced COX-1/COX-2 inhibition profile.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC6706",
+        "text": "NSAIDs increase cardiovascular risk by 35% in patients with pre-existing CAD.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1757"
+  },
+  {
+    "id": "76",
+    "query": "Psoriasis therapies not containing biologics.",
+    "documents": [
+      {
+        "doc_id": "DOC7601",
+        "text": "Topical calcipotriene combined with betamethasone dipropionate achieves 70% improvement in mild-to-moderate plaque psoriasis without systemic immunosuppression.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7602",
+        "text": "Narrowband UVB phototherapy induces T-cell apoptosis and clears lesions in 60% of patients, offering a non-biologic alternative.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7603",
+        "text": "Adalimumab (anti-TNF biologic) maintains PASI 90 response in 80% of severe psoriasis cases at 1 year.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7604",
+        "text": "IL-23 inhibitors like guselkumab demonstrate superior long-term remission rates compared to traditional systemic agents.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7605",
+        "text": "Biologic therapies require screening for latent TB due to immunosuppressive effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7606",
+        "text": "Secukinumab's IL-17A blockade shows rapid onset of action in nail psoriasis.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1422"
+  },
+  {
+    "id": "77",
+    "query": "Heart failure medications excluding diuretics.",
+    "documents": [
+      {
+        "doc_id": "DOC7701",
+        "text": "Sacubitril/valsartan (ARNI) reduces HFrEF mortality by 20% through natriuretic peptide enhancement, independent of fluid removal.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7702",
+        "text": "Ivabradine lowers heart rate and improves ejection fraction in sinus rhythm without affecting volume status.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7703",
+        "text": "Furosemide remains first-line for acute decompensated HF due to rapid diuresis and preload reduction.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7704",
+        "text": "Torsemide's longer half-life provides sustained decongestion in chronic HF compared to other loop diuretics.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7705",
+        "text": "Metolazone potentiates loop diuretics in refractory edema through sequential nephron blockade.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7706",
+        "text": "Diuretic resistance develops in 30% of advanced HF patients due to nephron adaptation.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_2111"
+  },
+  {
+    "id": "78",
+    "query": "Antiemetics for chemotherapy that are not 5-HT3 antagonists.",
+    "documents": [
+      {
+        "doc_id": "DOC7801",
+        "text": "Aprepitant (NK1 antagonist) prevents delayed CINV through substance P blockade in the area postrema, offering an alternative pathway to serotonin modulation.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7802",
+        "text": "Olanzapine's multi-receptor antagonism provides breakthrough nausea control in highly emetogenic regimens without 5-HT3 interaction.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7803",
+        "text": "Ondansetron's 5-HT3 receptor blockade causes QTc prolongation when combined with anthracyclines.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7804",
+        "text": "Granisetron transdermal patches utilize serotonin receptor antagonism for 5-day continuous protection.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7805",
+        "text": "Palonosetron's extended 5-HT3 binding provides 72-hour coverage against acute CINV.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7806",
+        "text": "Dolasetron metabolism produces active 5-HT3 antagonist hydrodolasetron.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1963"
+  },
+  {
+    "id": "79",
+    "query": "Osteoporosis treatments without bisphosphonates.",
+    "documents": [
+      {
+        "doc_id": "DOC7901",
+        "text": "Denosumab (RANKL inhibitor) increases lumbar spine BMD by 9.2% over 3 years while eliminating atypical femur fracture risks.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7902",
+        "text": "Teriparatide's anabolic action builds trabecular bone through daily PTH stimulation, unlike antiresorptives.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC7903",
+        "text": "Alendronate (bisphosphonate) reduces vertebral fractures by 70% in postmenopausal osteoporosis.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7904",
+        "text": "Zoledronic acid infusions maintain bone density for 3 years with a single dose.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7905",
+        "text": "Bisphosphonates accumulate in bone for years, explaining their prolonged post-discontinuation effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC7906",
+        "text": "Risedronate prevents glucocorticoid-induced bone loss by 80% at the lumbar spine.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_4477"
+  },
+  {
+    "id": "80",
+    "query": "Antidepressants that do not cause weight gain.",
+    "documents": [
+      {
+        "doc_id": "DOC8001",
+        "text": "Bupropion's dopaminergic activity often leads to modest weight loss (2-4 kg) unlike most antidepressants.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC8002",
+        "text": "Vilazodone's serotonin partial agonism demonstrates weight neutrality in long-term MDD treatment.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC8003",
+        "text": "Mirtazapine increases appetite through H1 receptor blockade, causing 5+ kg weight gain in 30% of users.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC8004",
+        "text": "Paroxetine (SSRI) induces metabolic changes leading to 3-5 kg weight gain over 6 months.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC8005",
+        "text": "TCAs like amitriptyline promote weight gain through histaminergic and anticholinergic effects.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC8006",
+        "text": "Olanzapine-fluoxetine combination causes significant BMI increase in bipolar depression.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_0473"
+  },
+  {
+    "id": "81",
+    "query": "Antihypertensives excluding ACE inhibitors.",
+    "documents": [
+      {
+        "doc_id": "DOC8101",
+        "text": "ARBs (losartan) provide similar renoprotection to ACEIs without bradykinin-mediated cough.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC8102",
+        "text": "Calcium channel blockers (amlodipine) are preferred in African-Americans due to superior efficacy vs. renin-angiotensin drugs.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC8103",
+        "text": "Lisinopril reduces proteinuria by 42% in diabetic nephropathy through ACE inhibition.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC8104",
+        "text": "Ramipril prevents 22% of CV events in high-risk patients per HOPE trial.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC8105",
+        "text": "ACE inhibitors delay dialysis initiation by 3.2 years in CKD patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC8106",
+        "text": "Captopril's short half-life requires TID dosing for consistent ACE blockade.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_9947"
+  },
+  {
+    "id": "82",
+    "query": "Diabetes drugs that are not injectable.",
+    "documents": [
+      {
+        "doc_id": "DOC8201",
+        "text": "SGLT2 inhibitors (canagliflozin) promote glucosuria orally with additional cardiorenal benefits.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC8202",
+        "text": "Metformin remains first-line oral therapy due to hepatic gluconeogenesis inhibition and CV safety.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC8203",
+        "text": "Liraglutide (GLP-1 RA) requires daily subcutaneous injections but causes 6% weight loss.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC8204",
+        "text": "Insulin glargine provides basal coverage through once-daily injections.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC8205",
+        "text": "Exenatide extended-release is administered weekly via subcutaneous injection.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC8206",
+        "text": "Pramlintide injections reduce postprandial glucose when added to insulin therapy.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_9022"
+  },
+  {
+    "id": "25",
+    "query": "Research on lymphoma treatments excluding rituximab.",
+    "documents": [
+      {
+        "doc_id": "DOC145",
+        "text": "Lymphoma therapy: CAR-T cells achieve remission without rituximab.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC146",
+        "text": "Lymphoma study: Brentuximab vedotin avoids rituximab resistance.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC147",
+        "text": "Rituximab + CHOP cures 60% of diffuse large B-cell lymphomas.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC148",
+        "text": "Rituximab maintenance therapy doubles PFS in follicular lymphoma.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC149",
+        "text": "New rituximab biosimilar cuts infusion reactions by 30%.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC150",
+        "text": "Rituximab prevents transformation in indolent NHL.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_7465"
+  },
+  {
+    "id": "26",
+    "query": "Studies on glaucoma treatments excluding prostaglandin analogs.",
+    "documents": [
+      {
+        "doc_id": "DOC151",
+        "text": "Glaucoma management: Rho kinase inhibitors lower IOP without prostaglandins.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC152",
+        "text": "Glaucoma study: Selective laser trabeculoplasty avoids eyedrop side effects.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC153",
+        "text": "Latanoprost (prostaglandin) reduces IOP by 30% in POAG.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC154",
+        "text": "Prostaglandin analogs prevent optic nerve cupping progression.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC155",
+        "text": "New prostaglandin formulation reduces hyperemia risk.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC156",
+        "text": "Prostaglandins outperform beta-blockers in nighttime IOP control.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_4582"
+  },
+  {
+    "id": "27",
+    "query": "Research on HIV prophylaxis excluding PrEP (TDF/FTC).",
+    "documents": [
+      {
+        "doc_id": "DOC157",
+        "text": "HIV prevention: Cabotegravir injections avoid oral PrEP adherence issues.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC158",
+        "text": "HIV study: Dapivirine ring provides protection without systemic PrEP.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC159",
+        "text": "TDF/FTC PrEP reduces HIV risk by 99% with daily adherence.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC160",
+        "text": "On-demand PrEP (2-1-1 regimen) effective for MSM.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC161",
+        "text": "New TAF/FTC PrEP formulation improves bone mineral density.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC162",
+        "text": "PrEP reduces HIV transmission in serodiscordant couples by 96%.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_1780"
+  },
+  {
+    "id": "28",
+    "query": "Studies on atrial fibrillation treatments excluding warfarin.",
+    "documents": [
+      {
+        "doc_id": "DOC163",
+        "text": "AFib management: DOACs prevent strokes without warfarin monitoring.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC164",
+        "text": "AFib study: Left atrial appendage closure avoids anticoagulants.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC165",
+        "text": "Warfarin reduces stroke risk by 64% in valvular AFib.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC166",
+        "text": "Warfarin remains cost-effective for AFib in low-income countries.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC167",
+        "text": "New warfarin dosing algorithm cuts INR variability by 40%.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC168",
+        "text": "Warfarin prevents device thrombosis in AFib patients with TAVR.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_6485"
+  },
+  {
+    "id": "29",
+    "query": "Research on CKD anemia excluding ESA therapy.",
+    "documents": [
+      {
+        "doc_id": "DOC169",
+        "text": "CKD anemia: IV iron corrects Hb.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC170",
+        "text": "CKD study: HIF stabilizers reduce hypertension in anemia treatment.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC171",
+        "text": "Epoetin alfa (ESA) reduces transfusion needs by 75% in dialysis patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC172",
+        "text": "ESA therapy improves quality of life in CKD anemia.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC173",
+        "text": "New ESA formulation allows monthly dosing.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC174",
+        "text": "ESA + iron synergistically increases Hb in CKD.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_4583"
+  },
+  {
+    "id": "19",
+    "query": "Research on gout treatments excluding colchicine.",
+    "documents": [
+      {
+        "doc_id": "DOC109",
+        "text": "Gout management: NSAIDs control flares without colchicine.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC110",
+        "text": "Gout study: IL-1 inhibitors avoid colchicine toxicity.",
+        "relevance": 0
+      },
+      {
+        "doc_id": "DOC111",
+        "text": "Colchicine reduces recurrent gout flares by 50% at 0.5mg/day.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC112",
+        "text": "Colchicine + allopurinol prevents gout flares during urate-lowering.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC113",
+        "text": "Low-dose colchicine cuts cardiovascular events in gout patients.",
+        "relevance": 1
+      },
+      {
+        "doc_id": "DOC114",
+        "text": "New colchicine formulation reduces GI side effects.",
+        "relevance": 1
+      }
+    ],
+    "query_id": "_4718"
+  }
+
+
+]

@@ -36,7 +36,7 @@ class ModelOperations:
 
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    input_path = os.path.join(script_dir, "json", "data", "2explicit.json")
+    input_path = os.path.join(script_dir, "json", "data", "2explicit_test.json")
 
     with open(input_path) as f:
         examples = json.load(f)
@@ -50,14 +50,14 @@ if __name__ == "__main__":
 
     models = {
         "DeBERTa-v3-base (MNLI/FEVER/ANLI)": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
-        "BERT-base (MNLI)": "textattack/bert-base-uncased-MNLI",
-        "roberta-large-mnli": "roberta-large-mnli",
-        "facebook/bart-large-mnli": "facebook/bart-large-mnli",
-        "microsoft/deberta-large-mnli": "microsoft/deberta-large-mnli",
-        "prajjwal1/albert-base-v2-mnli": "prajjwal1/albert-base-v2-mnli",
-        "pritamdeka/PubMedBERT-MNLI-MedNLI": "pritamdeka/PubMedBERT-MNLI-MedNLI",
-        "typeform/distilbert-base-uncased-mnli": "typeform/distilbert-base-uncased-mnli",
-        "cross-encoder/nli-deberta-base": "cross-encoder/nli-deberta-base"
+        # "BERT-base (MNLI)": "textattack/bert-base-uncased-MNLI",
+        # "roberta-large-mnli": "roberta-large-mnli",
+        # "facebook/bart-large-mnli": "facebook/bart-large-mnli",
+        # "microsoft/deberta-large-mnli": "microsoft/deberta-large-mnli",
+        # "prajjwal1/albert-base-v2-mnli": "prajjwal1/albert-base-v2-mnli",
+        # "pritamdeka/PubMedBERT-MNLI-MedNLI": "pritamdeka/PubMedBERT-MNLI-MedNLI",
+        # "typeform/distilbert-base-uncased-mnli": "typeform/distilbert-base-uncased-mnli",
+        # "cross-encoder/nli-deberta-base": "cross-encoder/nli-deberta-base"
     }
 
 
@@ -88,7 +88,9 @@ if __name__ == "__main__":
                     "n": nli_scores["neutral"],
                     "c": nli_scores["contradiction"],
                     "relevance": doc["relevance"],
-                    "time": round(elapsed, 4)
+                    "time": round(elapsed, 4),
+                    "text":doc["text"],
+                    "query": query
                 })
 
                 bge_ranking.append({
@@ -105,7 +107,7 @@ if __name__ == "__main__":
         avg_time = total_time / total_calls if total_calls else 0
         print(f"✅ Avg NLI Inference Time for {model_name}: {avg_time:.4f} seconds")
 
-        out_file = f"evaluation_results_{model_name.replace(' ', '_').replace('/', '_')}.json"
+        out_file = f"evaluation_results_test{model_name.replace(' ', '_').replace('/', '_')}.json"
         with open(out_file, "w") as f:
             json.dump(output, f, indent=2)
         print(f"📄 Saved output to: {out_file}")

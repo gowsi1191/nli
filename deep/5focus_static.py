@@ -10,15 +10,22 @@ import matplotlib.pyplot as plt
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from curve import sigmoid_e, inverted_sigmoid
 
+
+def custom_sigmoid_linear_e(x):
+    if x <= 0.1:
+        return max(0.0, min(1.0, 10 * x))  # 0 → 1 as x goes from 0 to 0.1
+    else:
+        return 1.0  # Remains at 1 for x > 0.1
+    
 # Model configuration
 MODEL_CONFIGS = {
     "DeBERTa_v3_base_MNLI_FEVER_ANLI": {
         "activation": {
-            "e": {"type": "sigmoid_e", "k": 10, "midpoint": 0.9},
-            "n": {"type": "sigmoid_e", "k": 10, "midpoint": 0.},
-            "c": {"type": "sigmoid_e", "k": 10, "midpoint": 0.9}
+            "e": {"type": "sigmoid_e", "k": 8, "midpoint": 0.3},
+            "n": {"type": "sigmoid_e", "k": 5, "midpoint": 0.9},
+            "c": {"type": "inverted_sigmoid", "k": 8, "midpoint": 0.3}
         },
-        "weights":(0.2, 0.32, 0.35,0.18),
+        "weights": (0.2, 0.25, 0.3, 0.25),
     }
 }
 
@@ -74,8 +81,7 @@ def evaluate_model(datasets, e_fn, n_fn, c_fn, weights, lambda_reg=0.1):
                 weights[0] * enc_e +
                 weights[1] * enc_n +
                 weights[2] * enc_c +
-                weights[3] * (enc_e * enc_n) +
-                weights[4] * (enc_n * enc_c)
+                weights[3] *custom_sigmoid_linear_e(enc_e)
             ) - reg_penalty
 
             raw_scores.append((score, r['relevance']))
