@@ -1,9 +1,11 @@
-import json
 import os
+import json
 import time
+import torch
+import numpy as np
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from sentence_transformers import SentenceTransformer, util
-import torch
+
 
 class ModelOperations:
     def __init__(self, nli_model_name):
@@ -11,8 +13,8 @@ class ModelOperations:
         self.bge_model = SentenceTransformer("BAAI/bge-large-en-v1.5")
         self.nli_tokenizer = AutoTokenizer.from_pretrained(nli_model_name)
         self.nli_model = AutoModelForSequenceClassification.from_pretrained(nli_model_name)
+        self.nli_model.eval()
 
-        # Inference label order
         if "roberta" in nli_model_name:
             self.label_order = ("entailment", "neutral", "contradiction")
         elif "deberta" in nli_model_name:
@@ -30,27 +32,24 @@ class ModelOperations:
         return dict(zip(self.label_order, probs)), elapsed
 
     def compute_bge_score(self, query, doc):
+        start = time.time()
         query_emb = self.bge_model.encode(query, convert_to_tensor=True)
         doc_emb = self.bge_model.encode(doc, convert_to_tensor=True)
-        return util.cos_sim(query_emb, doc_emb).item()
+        score = util.cos_sim(query_emb, doc_emb).item()
+        elapsed = time.time() - start
+        return score, elapsed
+
 
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    input_path = os.path.join(script_dir, "json", "data", "2explicit_test.json")
+    input_path = os.path.join(script_dir, "json", "data", "1.json")
 
     with open(input_path) as f:
         examples = json.load(f)
 
-    # models = {
-    #     "RoBERTa-large (MNLI)": "roberta-large-mnli",
-    #     "DeBERTa-v3-base (MNLI/FEVER/ANLI)": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
-    #         "ALBERT-base (MNLI)": "prajjwal1/albert-base-v2-mnli",
-    # "BERT-base (MNLI)": "textattack/bert-base-uncased-MNLI",
-    # }
-
     models = {
         "DeBERTa-v3-base (MNLI/FEVER/ANLI)": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
-        # "BERT-base (MNLI)": "textattack/bert-base-uncased-MNLI",
+        #      "BERT-base (MNLI)": "textattack/bert-base-uncased-MNLI",
         # "roberta-large-mnli": "roberta-large-mnli",
         # "facebook/bart-large-mnli": "facebook/bart-large-mnli",
         # "microsoft/deberta-large-mnli": "microsoft/deberta-large-mnli",
@@ -58,16 +57,16 @@ if __name__ == "__main__":
         # "pritamdeka/PubMedBERT-MNLI-MedNLI": "pritamdeka/PubMedBERT-MNLI-MedNLI",
         # "typeform/distilbert-base-uncased-mnli": "typeform/distilbert-base-uncased-mnli",
         # "cross-encoder/nli-deberta-base": "cross-encoder/nli-deberta-base"
+   
     }
-
-
 
     for model_name, model_id in models.items():
         output_file = f"enhanced_query_type_analysis_{model_id.replace('/', '-').replace(' ', '_')}.json"
         model_ops = ModelOperations(model_id)
 
         output = {"Explicit_NOT": {}}
-        total_time = 0
+        total_nli_time = 0
+        total_bge_time = 0
         total_calls = 0
 
         for i, example in enumerate(examples):
@@ -77,9 +76,11 @@ if __name__ == "__main__":
             bge_ranking = []
 
             for doc in example["documents"]:
-                nli_scores, elapsed = model_ops.compute_nli_scores(query, doc["text"])
-                bge_score = model_ops.compute_bge_score(query, doc["text"])
-                total_time += elapsed
+                nli_scores, nli_elapsed = model_ops.compute_nli_scores(query, doc["text"])
+                bge_score, bge_elapsed = model_ops.compute_bge_score(query, doc["text"])
+
+                total_nli_time += nli_elapsed
+                total_bge_time += bge_elapsed
                 total_calls += 1
 
                 roberta_ranking.append({
@@ -88,8 +89,9 @@ if __name__ == "__main__":
                     "n": nli_scores["neutral"],
                     "c": nli_scores["contradiction"],
                     "relevance": doc["relevance"],
-                    "time": round(elapsed, 4),
-                    "text":doc["text"],
+                    "nli_time": round(nli_elapsed, 4),
+                    "bge_time": round(bge_elapsed, 4),
+                    "text": doc["text"],
                     "query": query
                 })
 
@@ -104,10 +106,14 @@ if __name__ == "__main__":
                 "BGE": {"ranking": bge_ranking}
             }
 
-        avg_time = total_time / total_calls if total_calls else 0
-        print(f"✅ Avg NLI Inference Time for {model_name}: {avg_time:.4f} seconds")
+        # Print average times
+        if total_calls:
+            print(f"\n✅ {model_name} Inference Summary:")
+            print(f"📊 Avg NLI Inference Time per Document: {total_nli_time / total_calls:.4f} seconds")
+            print(f"⚡ Avg BGE Similarity Time per Document: {total_bge_time / total_calls:.4f} seconds\n")
 
+        # Save JSON result
         out_file = f"evaluation_results_test{model_name.replace(' ', '_').replace('/', '_')}.json"
         with open(out_file, "w") as f:
             json.dump(output, f, indent=2)
-        print(f"📄 Saved output to: {out_file}")
+        print(f"📁 Output saved to: {out_file}")

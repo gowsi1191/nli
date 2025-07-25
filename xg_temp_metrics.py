@@ -4,60 +4,88 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from mpl_toolkits.mplot3d import Axes3D
 from sklearn.decomposition import PCA
+from scipy.spatial.distance import euclidean
 
-# === Load test data ===
-with open("evaluation_results_DeBERTa-v3-base_(MNLI_FEVER_ANLI).json", "r") as f:
-    test_data = json.load(f)
+# === List of NLI evaluation files ===
+nli_files = [
+    "evaluation_results_testBERT-base_(MNLI).json",
+    "evaluation_results_testcross-encoder_nli-deberta-base.json",
+    "evaluation_results_testDeBERTa-v3-base_(MNLI_FEVER_ANLI).json",
+    "evaluation_results_testfacebook_bart-large-mnli.json",
+    "evaluation_results_testmicrosoft_deberta-large-mnli.json",
+    "evaluation_results_testprajjwal1_albert-base-v2-mnli.json",
+    "evaluation_results_testpritamdeka_PubMedBERT-MNLI-MedNLI.json",
+    "evaluation_results_testroberta-large-mnli.json",
+    "evaluation_results_testtypeform_distilbert-base-uncased-mnli.json"
+]
 
-# === Extract features ===
-data = []
-for ex_id, ex in test_data["Explicit_NOT"].items():
-    for doc in ex["Roberta"]["ranking"]:
-        data.append({
-            "e": doc["e"],
-            "n": doc["n"],
-            "c": doc["c"],
-            "relevance": doc["relevance"]
-        })
+# === Helper function to extract model name ===
+def get_model_key(filename):
+    # Remove prefixes/suffixes to get clean model key
+    fname = os.path.basename(filename).replace("evaluation_results_test", "").replace(".json", "")
+    return fname
 
-df = pd.DataFrame(data)
+# === Process each model file ===
+results = []
 
-# ---------------------------------------
-# ✅ 1. 3D Scatter Plot: e vs n vs c
-# ---------------------------------------
-fig = plt.figure(figsize=(10, 6))
-ax = fig.add_subplot(111, projection='3d')
+for file in nli_files:
+    model_key = get_model_key(file)
 
-relevance_0 = df[df["relevance"] == 0]
-relevance_1 = df[df["relevance"] == 1]
+    with open(file, "r") as f:
+        raw = json.load(f)
 
-ax.scatter(relevance_0["e"], relevance_0["n"], relevance_0["c"], c="red", label="Relevance 0", alpha=0.6)
-ax.scatter(relevance_1["e"], relevance_1["n"], relevance_1["c"], c="green", label="Relevance 1", alpha=0.6)
+    if "Explicit_NOT" not in raw:
+        continue
 
-ax.set_xlabel("Entailment (e)")
-ax.set_ylabel("Neutral (n)")
-ax.set_zlabel("Contradiction (c)")
-ax.set_title("3D Distribution of [e, n, c] by Relevance")
-ax.legend()
-plt.tight_layout()
-plt.show()
+    # Find the key automatically (may not always be 'Roberta')
+    sample_query = next(iter(raw["Explicit_NOT"].values()))
+    ranker_key = next(iter(sample_query))
 
-# ---------------------------------------
-# ✅ 2. PCA 2D Projection
-# ---------------------------------------
-features = df[["e", "n", "c"]].values
-labels = df["relevance"]
+    data = []
+    for ex in raw["Explicit_NOT"].values():
+        for doc in ex[ranker_key]["ranking"]:
+            data.append({
+                "e": doc["e"],
+                "n": doc["n"],
+                "c": doc["c"],
+                "relevance": doc["relevance"]
+            })
 
-pca = PCA(n_components=2)
-components = pca.fit_transform(features)
+    df = pd.DataFrame(data)
+    if df.empty:
+        continue
 
-df["pca1"] = components[:, 0]
-df["pca2"] = components[:, 1]
+    # PCA projection
+    features = df[["e", "n", "c"]].values
+    pca = PCA(n_components=2)
+    components = pca.fit_transform(features)
+    df["pca1"] = components[:, 0]
+    df["pca2"] = components[:, 1]
 
-plt.figure(figsize=(8, 6))
-sns.scatterplot(data=df, x="pca1", y="pca2", hue="relevance", palette="Set1", alpha=0.7)
-plt.title("PCA Projection of [e, n, c] Features by Relevance")
-plt.tight_layout()
-plt.show()
+    # Explained variance
+    explained_var = pca.explained_variance_ratio_
+
+    # Class separation
+    centroid_0 = df[df["relevance"] == 0][["pca1", "pca2"]].mean().values
+    centroid_1 = df[df["relevance"] == 1][["pca1", "pca2"]].mean().values
+    distance = euclidean(centroid_0, centroid_1)
+
+    std_0 = df[df["relevance"] == 0][["pca1", "pca2"]].std()
+    std_1 = df[df["relevance"] == 1][["pca1", "pca2"]].std()
+
+    results.append({
+        "Model": model_key,
+        "Explained_PCA1 (%)": round(explained_var[0] * 100, 2),
+        "Explained_PCA2 (%)": round(explained_var[1] * 100, 2),
+        "Centroid_Distance": round(distance, 4),
+        "Std0_PCA1": round(std_0.iloc[0], 4),
+        "Std0_PCA2": round(std_0.iloc[1], 4),
+        "Std1_PCA1": round(std_1.iloc[0], 4),
+        "Std1_PCA2": round(std_1.iloc[1], 4),
+    })
+
+# Display results
+df_result = pd.DataFrame(results)
+df_result = df_result.sort_values(by="Centroid_Distance", ascending=False)
+print(df_result.to_string(index=False))

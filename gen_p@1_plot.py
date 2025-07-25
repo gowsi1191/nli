@@ -1,45 +1,39 @@
-import os
 import json
-import plotly.graph_objs as go
+import matplotlib.pyplot as plt
 
-def plot_scores_with_toggle(file_path, model_name):
-    with open(file_path) as f:
-        data = json.load(f)
+# === Load JSON File ===
+file_path = "evaluation_results_testDeBERTa-v3-base_(MNLI_FEVER_ANLI).json"
 
-    scores_0 = []
-    scores_1 = []
+with open(file_path, "r") as f:
+    data = json.load(f)
 
-    for docs in data.values():
-        for doc in docs:
-            if doc["relevance"] == 0:
-                scores_0.append(doc["score"])
-            elif doc["relevance"] == 1:
-                scores_1.append(doc["score"])
+# === Extract BGE scores with relevance ===
+rows = []
+for example in data.get("Explicit_NOT", {}).values():
+    if "BGE" in example:
+        for doc in example["BGE"]["ranking"]:
+            rows.append({
+                "score": doc["score"],
+                "true_label": doc["relevance"]
+            })
 
-    trace_0 = go.Scatter(y=scores_0, mode='markers', name='Relevance 0', marker=dict(color='red'))
-    trace_1 = go.Scatter(y=scores_1, mode='markers', name='Relevance 1', marker=dict(color='green'))
+# === Split scores by relevance ===
+scores_0 = [row["score"] for row in rows if row["true_label"] == 0]
+scores_1 = [row["score"] for row in rows if row["true_label"] == 1]
 
-    fig = go.Figure(data=[trace_0, trace_1])
-    fig.update_layout(
-        title=f"Interactive Score Scatter for {model_name}",
-        xaxis_title="Index",
-        yaxis_title="Score",
-        showlegend=True
-    )
+# === Calculate margin mean (optional horizontal line) ===
+margin_mean = sum(scores_0) / len(scores_0) - sum(scores_1) / len(scores_1)
 
-    output_path = f"{model_name}_scatter.html"
-    fig.write_html(output_path)
-    print(f"✅ Plot saved to: {output_path}")
+# === Plotting ===
+plt.figure(figsize=(10, 6))
+plt.scatter(range(len(scores_0)), scores_0, color="Blue", label="Relevance 0", alpha=0.7)
+plt.scatter(range(len(scores_1)), scores_1, color="Orange", label="Relevance 1", alpha=0.7)
+plt.axhline(margin_mean, color='gray', linestyle='--', label=f"Margin Mean = {margin_mean:.4f}")
 
-def main():
-    folder = "/Users/L020774/Movies/heu/NLP"
-
-    for filename in os.listdir(folder):
-        if filename.startswith("roberta_scores_by_example_") and filename.endswith(".json"):
-            full_path = os.path.join(folder, filename)
-            model_name = filename.replace("roberta_scores_by_example_", "").replace(".json", "")
-            print(f"📊 Plotting for model: {model_name}")
-            plot_scores_with_toggle(full_path, model_name)
-
-if __name__ == "__main__":
-    main()
+plt.title("BGE Document Score Distribution by Relevance")
+plt.xlabel("Document Index")
+plt.ylabel("Score (Cosine Similarity)")
+plt.legend()
+plt.grid(True)
+plt.tight_layout()
+plt.show()

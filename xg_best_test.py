@@ -193,14 +193,14 @@ print("\n📊 Ranking Metrics (Top 2 Docs Only):")
 print(f"🎯 P@2:     {p_at_2:.4f}")
 print(f"🎯 MRR@2:   {mrr_at_2:.4f}")
 print(f"🎯 nDCG@2:  {avg_ndcg_2:.4f}")
-
+print("Total XGBoost docs:", len(rows))  # in XGBoost script
 # === Scatter Plot Based on Relevance ===
 scores_0 = [row["score"] for row in rows if row["true_label"] == 0]
 scores_1 = [row["score"] for row in rows if row["true_label"] == 1]
 
 plt.figure(figsize=(10, 6))
-plt.scatter(range(len(scores_0)), scores_0, color="green", label="Relevance 0", alpha=0.7)
-plt.scatter(range(len(scores_1)), scores_1, color="red", label="Relevance 1", alpha=0.7)
+plt.scatter(range(len(scores_0)), scores_0, color="Blue",  alpha=0.7)
+plt.scatter(range(len(scores_1)), scores_1, color="Orange",  alpha=0.7)
 plt.axhline(margin_mean, color='gray', linestyle='--', label=f"Margin Mean = {margin_mean:.4f}")
 plt.title("XGBoost Document Score Distribution by Relevance")
 plt.xlabel("Document Index")

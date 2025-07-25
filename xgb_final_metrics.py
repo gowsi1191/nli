@@ -9,7 +9,7 @@ from sklearn.metrics import classification_report, accuracy_score, f1_score
 # === Paths ===
 script_dir = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(script_dir, "xgb_nli_enc_model.json")
-test_path = os.path.join(script_dir, "evaluation_results_DeBERTa-v3-base_(MNLI_FEVER_ANLI).json")
+test_path = os.path.join(script_dir, "evaluation_results_testDeBERTa-v3-base_(MNLI_FEVER_ANLI).json")
 
 # === Load model ===
 clf = xgb.XGBClassifier()

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Architecture Diagram</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #f7f7f7;
+    }
+    .diagram {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      text-align: center;
+    }
+    .box {
+      background: #ffffff;
+      padding: 20px 30px;
+      border: 2px solid #4a90e2;
+      border-radius: 8px;
+      font-weight: bold;
+      min-width: 160px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    .arrow {
+      font-size: 24px;
+      color: #4a90e2;
+    }
+  </style>
+</head>
+<body>
+  <div class="diagram">
+    <div class="box">Query</div>
+    <div class="arrow">➔</div>
+    <div class="box">BGE<br>Retrieve Top-N Docs</div>
+    <div class="arrow">➔</div>
+    <div class="box">DeBERTa<br>Encode Query-Doc Pairs</div>
+    <div class="arrow">➔</div>
+    <div class="box">XGBoost<br>Score Pairs</div>
+    <div class="arrow">➔</div>
+    <div class="box">Ranked Documents<br>(per Query)</div>
+  </div>
+</body>
+</html>
