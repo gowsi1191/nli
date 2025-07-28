@@ -29,55 +29,62 @@ driver = webdriver.Chrome(service=service, options=options)
 all_entries =[
   {
     "relevance": 0,
+    "seq": 1,
+    "url": "https://www.clinicaltrials.gov/study/NCT06352060"
+  },
+  {
+    "relevance": 0,
     "seq": 2,
-    "url": "https://www.clinicaltrials.gov/study/NCT00937066"
+    "url": "https://www.clinicaltrials.gov/study/NCT03570047"
   },
   {
     "relevance": 0,
     "seq": 4,
-    "url": "https://www.clinicaltrials.gov/study/NCT00546234"
-  },
-  {
-    "relevance": 0,
-    "seq": 3,
-    "url": "https://www.clinicaltrials.gov/study/NCT05431920"
+    "url": "https://www.clinicaltrials.gov/study/NCT02461602"
   },
   {
     "relevance": 0,
     "seq": 6,
-    "url": "https://www.clinicaltrials.gov/study/NCT06029595"
+    "url": "https://www.clinicaltrials.gov/study/NCT00623779"
   },
   {
     "relevance": 0,
-    "seq": 8,
-    "url": "https://www.clinicaltrials.gov/study/NCT02194699"
+    "seq": 10,
+    "url": "https://www.clinicaltrials.gov/study/NCT03382613"
   },
   {
     "relevance": 1,
-    "seq": 1,
-    "url": "https://www.clinicaltrials.gov/study/NCT00509197"
+    "seq": 3,
+    "url": "https://www.clinicaltrials.gov/study/NCT03002740"
   },
   {
     "relevance": 1,
     "seq": 5,
-    "url": "https://www.clinicaltrials.gov/study/NCT00641914"
+    "url": "https://www.clinicaltrials.gov/study/NCT05262322"
   },
   {
     "relevance": 1,
     "seq": 7,
-    "url": "https://www.clinicaltrials.gov/study/NCT04865575"
+    "url": "https://www.clinicaltrials.gov/study/NCT06151132"
+  },
+  {
+    "relevance": 1,
+    "seq": 8,
+    "url": "https://www.clinicaltrials.gov/study/NCT02964546"
   },
   {
     "relevance": 1,
     "seq": 9,
-    "url": "https://www.clinicaltrials.gov/study/NCT06753214"
-  },
-  {
-    "relevance": 1,
-    "seq": 10,
-    "url": "https://www.clinicaltrials.gov/study/NCT00613587"
+    "url": "https://www.clinicaltrials.gov/study/NCT03280641"
   }
 ]
+
+
+
+
+
+
+
 
 
 
