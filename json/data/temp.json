@@ -36,27 +36,27 @@
       },
          {
         "doc_id": "DOC907",
-        "text": "Lactoferrin Efficacy Versus Ferrous Sulfate in Treatment of Patients With Iron Deficiency Anemia.Lactoferrin (Lf) is a mammalian cationic iron binding glycoprotein belonging to the transferrin family which was discovered 70 years ago, and isolated simultaneously from human and bovine milks in 1960. It is widely distributed in all biological fluids and is also expressed by immune cells, which release it under stimulation by pathogens. Lactoferrin Efficacy Versus Ferrous Sulfate in Treatment of Patients With Iron Deficiency Anemia",
+        "text": "Lactoferrin (Lf) is a mammalian cationic iron binding glycoprotein belonging to the transferrin family which was discovered 70 years ago, and isolated simultaneously from human and bovine milks in 1960. It is widely distributed in all biological fluids and is also expressed by immune cells, which release it under stimulation by pathogens.",
         "relevance": 0,
         "seq":1,
         "url":"https://www.clinicaltrials.gov/study/NCT04267653",
-        "description":"discusses a study comparing the efficacy of lactoferrin versus ferrous sulfate in treating iron deficiency anemia. Lactoferrin is described as a mammalian cationic iron binding glycoprotein that belongs to the transferrin family. This suggests it may be used as an alternative to traditional iron supplements.."
+        "description":" refers to a study on 4-D Navigated Non-invasive radiosurgical ablation of ventricular tachycardia (NIRA-VT)."
       },
          {
         "doc_id": "DOC907",
-        "text": "Investigation of gastrointestinal tolerability, treatment compliance and iron status markers in patients with iron deficiency anemia who received oral iron replacement therapy with versus without concomitant probiotic supplementation .A total of 295 patients, with newly diagnosed iron deficiency anemia (IDA) who were planned to receive routine oral IRT were included in this prospective randomized non-placebo, controlled 3-month follow-up study. Patients were randomly assigned via simple randomization method to receive either iron replacement therapy (IRT) alone or IRT plus L. plantarum 299v probiotic support . Adult (aged older than18 years) treatment-naïve patients diagnosed with newly diagnosed IDA without previous IRT were included in the study, while those with irritable bowel syndrome, previous IRT therapy or intolerance to IRT and those with a known chronic disease (i.e., inflammatory bowel disease (IBD), celiac disease) or untreated active menometrorrhagia and hemorrhoid were excluded from the study.",
+        "text": "",
         "relevance": 0,
         "seq":9,
-        "url":"https://www.clinicaltrials.gov/study/NCT06521879",
-        "description":"mentions the use of blood products as a treatment for iron deficiency anemia in emergency department settings. While not explicitly stated as a non-iron treatment, blood transfusions can be used to treat severe anemia without direct iron supplementation."
+        "url":"https://www.clinicaltrials.gov/study/NCT05203952",
+        "description":"mentions a study (LEVER) investigating the use of low energy therapies to convert monomorphic ventricular tachycardias."
       },
               {
         "doc_id": "DOC907",
-        "text": "The investigators will retrospectively collect data of patients infused at UMC's emergency department (ED) with long acting irons (ferric carboxymaltose, iron dextran, iron sucrose, etc.), in addition, patients infused with blood products, with intent to treat iron deficiency anemia (IDA). Patient records reviewed will be from patients who were infused at UMC ED from January 2013 to June 2018. Primary aim of analysis will be to investigate superiority between interventions implemented for treating IDA. In addition, the investigators will utilize data to characterize patients who used ED services as an avenue to receive treatment for IDA. Further, the investigators will conduct cost analysis between different IDA directed treatments administered in the ED at UMC. Iron deficiency anemia (IDA) is a condition that impacts approximately 2-billion people globally, and impacts individuals from all socioeconomic backgrounds, making it one of the most common nutritional disorders in the world. In any population, women and children are the groups that are more susceptible to suffering from IDA [3]. IDA has broad influences on the health of an individual, ranging from cognitive decline to motor deficits. When coupled with pregnancy, IDA has been shown to be associated with low birth weight and carries an increased risk of maternal and perinatal mortality. In addition to women and children, the prevalence of IDA has been found to increase with age, and with chronic disease. ",
+        "text": "",
         "relevance": 0,
         "seq":10,
-        "url":"https://www.clinicaltrials.gov/study/NCT05153278",
-        "description":"describes a study investigating the use of probiotics alongside oral iron replacement therapy. While this is not a standalone treatment without iron, it suggests that probiotics may play a role in improving gastrointestinal tolerability and treatment compliance in anemia patients."
+        "url":"https://www.clinicaltrials.gov/study/NCT01557348",
+        "description":"This multicenter, prospective, observational study will assess the efficacy of MabThera/Rituxan (rituximab) and alternative TNF-inhibitors in patients with rheumatoid arthritis who are non-responders or intolerant to a single previous TNF-inhibitor. Data will be collected from each patient from the time of change in biologic therapy for 12 months. A Global Multi-centre Observational Study in RA Patients Who Are Non Responders or Intolerant to a Single TNF Inhibitor."
       }
     ]
-  },
+  }

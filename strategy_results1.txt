@@ -1,0 +1,1386 @@
+
+🧠 Evaluating Model: DeBERTa-v3-base (MNLI/FEVER/ANLI)
+
+
+Strategy: sliding
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 0, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 1.00 | ✅ Match: False
+📊 Predicted: [0, 0, 0, 1, 0, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 0, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sliding: 0.500
+📈 Mean P@3 for sliding: 0.400
+
+
+Strategy: separator
+📁 query1.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 0, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for separator: 0.400
+📈 Mean P@3 for separator: 0.333
+
+
+Strategy: paragraph
+📁 query1.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 0, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for paragraph: 0.400
+📈 Mean P@3 for paragraph: 0.333
+
+
+Strategy: sentence
+📁 query1.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 1, 1, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 1, 0, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 0, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence: 0.500
+📈 Mean P@3 for sentence: 0.400
+
+
+Strategy: sentence_window
+📁 query1.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 1, 1, 0, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 0, 1, 0, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 1.00 | P@3: 1.00 | ✅ Match: False
+📊 Predicted: [0, 0, 0, 1, 1, 0, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence_window: 0.400
+📈 Mean P@3 for sentence_window: 0.533
+
+
+Strategy: full
+📁 query1.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 0, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for full: 0.400
+📈 Mean P@3 for full: 0.333
+
+================================================================================
+
+🧠 Evaluating Model: BERT-base (MNLI)
+
+
+Strategy: sliding
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 0, 0, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 0, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sliding: 0.200
+📈 Mean P@3 for sliding: 0.200
+
+
+Strategy: separator
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for separator: 0.100
+📈 Mean P@3 for separator: 0.267
+
+
+Strategy: paragraph
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for paragraph: 0.100
+📈 Mean P@3 for paragraph: 0.267
+
+
+Strategy: sentence
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 0, 1, 0, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence: 0.200
+📈 Mean P@3 for sentence: 0.267
+
+
+Strategy: sentence_window
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 0, 1, 0, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 0, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence_window: 0.400
+📈 Mean P@3 for sentence_window: 0.267
+
+
+Strategy: full
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for full: 0.100
+📈 Mean P@3 for full: 0.267
+
+================================================================================
+
+🧠 Evaluating Model: roberta-large-mnli
+
+
+Strategy: sliding
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 0, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 0, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 1, 0, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: True
+📊 Predicted: [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sliding: 0.300
+📈 Mean P@3 for sliding: 0.333
+
+
+Strategy: separator
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 1, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 0, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for separator: 0.200
+📈 Mean P@3 for separator: 0.333
+
+
+Strategy: paragraph
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 1, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 0, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for paragraph: 0.200
+📈 Mean P@3 for paragraph: 0.333
+
+
+Strategy: sentence
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 0, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 1, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 1, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: True
+📊 Predicted: [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence: 0.500
+📈 Mean P@3 for sentence: 0.467
+
+
+Strategy: sentence_window
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 0, 0, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 1, 1, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: True
+📊 Predicted: [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence_window: 0.500
+📈 Mean P@3 for sentence_window: 0.400
+
+
+Strategy: full
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 1, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 0, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for full: 0.300
+📈 Mean P@3 for full: 0.333
+
+================================================================================
+
+🧠 Evaluating Model: facebook/bart-large-mnli
+
+
+Strategy: sliding
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 0, 1, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 0, 1, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sliding: 0.300
+📈 Mean P@3 for sliding: 0.267
+
+
+Strategy: separator
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 0, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for separator: 0.200
+📈 Mean P@3 for separator: 0.133
+
+
+Strategy: paragraph
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 0, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for paragraph: 0.200
+📈 Mean P@3 for paragraph: 0.133
+
+
+Strategy: sentence
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 1, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 0, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 0, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence: 0.300
+📈 Mean P@3 for sentence: 0.200
+
+
+Strategy: sentence_window
+📁 query1.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 1, 1, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 1, 0, 0, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 1, 1, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence_window: 0.400
+📈 Mean P@3 for sentence_window: 0.467
+
+
+Strategy: full
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 1, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for full: 0.200
+📈 Mean P@3 for full: 0.133
+
+================================================================================
+
+🧠 Evaluating Model: microsoft/deberta-large-mnli
+
+
+Strategy: sliding
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 1, 0, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 0, 1, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sliding: 0.300
+📈 Mean P@3 for sliding: 0.400
+
+
+Strategy: separator
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 0, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 0, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for separator: 0.300
+📈 Mean P@3 for separator: 0.267
+
+
+Strategy: paragraph
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 0, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 0, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for paragraph: 0.300
+📈 Mean P@3 for paragraph: 0.267
+
+
+Strategy: sentence
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 1, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 0, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 1, 0, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence: 0.200
+📈 Mean P@3 for sentence: 0.267
+
+
+Strategy: sentence_window
+📁 query1.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 0, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 0, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence_window: 0.500
+📈 Mean P@3 for sentence_window: 0.467
+
+
+Strategy: full
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 1, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 0, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 0, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: True
+📊 Predicted: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for full: 0.400
+📈 Mean P@3 for full: 0.333
+
+================================================================================
+
+🧠 Evaluating Model: prajjwal1/albert-base-v2-mnli
+
+
+Strategy: sliding
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 0, 1, 0, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 0, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sliding: 0.200
+📈 Mean P@3 for sliding: 0.267
+
+
+Strategy: separator
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 0, 0, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for separator: 0.100
+📈 Mean P@3 for separator: 0.133
+
+
+Strategy: paragraph
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 0, 0, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for paragraph: 0.100
+📈 Mean P@3 for paragraph: 0.133
+
+
+Strategy: sentence
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 0, 0, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 1.00 | ✅ Match: False
+📊 Predicted: [0, 0, 0, 1, 0, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence: 0.400
+📈 Mean P@3 for sentence: 0.333
+
+
+Strategy: sentence_window
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 1, 1, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 0, 1, 0, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 0, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence_window: 0.200
+📈 Mean P@3 for sentence_window: 0.333
+
+
+Strategy: full
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 1, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 0, 0, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for full: 0.100
+📈 Mean P@3 for full: 0.133
+
+================================================================================
+
+🧠 Evaluating Model: pritamdeka/PubMedBERT-MNLI-MedNLI
+
+
+Strategy: sliding
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 0, 0, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 1, 0, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 0, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sliding: 0.100
+📈 Mean P@3 for sliding: 0.133
+
+
+Strategy: separator
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 0, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for separator: 0.100
+📈 Mean P@3 for separator: 0.200
+
+
+Strategy: paragraph
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 0, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for paragraph: 0.100
+📈 Mean P@3 for paragraph: 0.200
+
+
+Strategy: sentence
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 0, 1, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 0, 0, 0, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence: 0.100
+📈 Mean P@3 for sentence: 0.200
+
+
+Strategy: sentence_window
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 0, 0, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 0, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence_window: 0.300
+📈 Mean P@3 for sentence_window: 0.267
+
+
+Strategy: full
+📁 query1.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 0, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 1, 0, 0, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for full: 0.100
+📈 Mean P@3 for full: 0.200
+
+================================================================================
+
+🧠 Evaluating Model: typeform/distilbert-base-uncased-mnli
+
+
+Strategy: sliding
+📁 query1.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 1, 1, 0, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 1, 0, 0, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 0, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sliding: 0.200
+📈 Mean P@3 for sliding: 0.333
+
+
+Strategy: separator
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 0, 1, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 1.00 | P@3: 1.00 | ✅ Match: False
+📊 Predicted: [0, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for separator: 0.300
+📈 Mean P@3 for separator: 0.333
+
+
+Strategy: paragraph
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 0, 1, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 1.00 | P@3: 1.00 | ✅ Match: False
+📊 Predicted: [0, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for paragraph: 0.300
+📈 Mean P@3 for paragraph: 0.333
+
+
+Strategy: sentence
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 1, 0, 0, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 1, 0, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 1, 0, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence: 0.400
+📈 Mean P@3 for sentence: 0.267
+
+
+Strategy: sentence_window
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 0, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 0, 1, 0, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 0, 0, 1, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence_window: 0.300
+📈 Mean P@3 for sentence_window: 0.333
+
+
+Strategy: full
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [0, 1, 1, 0, 0, 1, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 1.00 | P@3: 1.00 | ✅ Match: False
+📊 Predicted: [0, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for full: 0.300
+📈 Mean P@3 for full: 0.333
+
+================================================================================
+
+🧠 Evaluating Model: cross-encoder/nli-deberta-base
+
+
+Strategy: sliding
+📁 query1.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 0, 1, 1, 1, 0, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 1, 0, 0, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 1, 0, 0, 1, 1, 0, 1, 1, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sliding: 0.300
+📈 Mean P@3 for sliding: 0.400
+
+
+Strategy: separator
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 1, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 1, 1, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for separator: 0.600
+📈 Mean P@3 for separator: 0.400
+
+
+Strategy: paragraph
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 1, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 1, 1, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for paragraph: 0.600
+📈 Mean P@3 for paragraph: 0.400
+
+
+Strategy: sentence
+📁 query1.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 1, 1, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 0, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 1, 1, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 1, 0, 1, 1, 1, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence: 0.400
+📈 Mean P@3 for sentence: 0.333
+
+
+Strategy: sentence_window
+📁 query1.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 1, 1, 1, 1, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 0.50 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [1, 0, 0, 1, 0, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 1.00 | P@3: 1.00 | ✅ Match: False
+📊 Predicted: [0, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 0, 1, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for sentence_window: 0.500
+📈 Mean P@3 for sentence_window: 0.533
+
+
+Strategy: full
+📁 query1.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 0, 1, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+
+📁 query2.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 1, 1, 0, 1, 0, 0]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query3.json | P@2: 1.00 | P@3: 0.67 | ✅ Match: False
+📊 Predicted: [0, 0, 1, 1, 0, 1, 0, 0, 1, 1]
+🎯 Target:    [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+📁 query4.json | P@2: 0.50 | P@3: 0.33 | ✅ Match: False
+📊 Predicted: [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+🎯 Target:    [0, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📁 query5.json | P@2: 0.00 | P@3: 0.00 | ✅ Match: False
+📊 Predicted: [1, 1, 1, 1, 1, 0, 1, 0, 1, 1]
+🎯 Target:    [0, 0, 1, 1, 1, 1, 1, 1, 1, 1]
+
+📈 Mean P@2 for full: 0.600
+📈 Mean P@3 for full: 0.400
+
+================================================================================

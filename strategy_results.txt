@@ -1,0 +1,20 @@
+
+Model: DeBERTa-v3-base (MNLI/FEVER/ANLI)
+query1.json: P@3 = 0.67
+query10.json: P@3 = 0.00
+query2.json: P@3 = 1.00
+query3.json: P@3 = 0.67
+query4.json: P@3 = 0.33
+query5.json: P@3 = 0.00
+query6.json: P@3 = 0.67
+query8.json: P@3 = 0.33
+
+Model: cross-encoder/nli-deberta-base
+query1.json: P@3 = 0.67
+query10.json: P@3 = 0.33
+query2.json: P@3 = 0.67
+query3.json: P@3 = 0.67
+query4.json: P@3 = 0.00
+query5.json: P@3 = 0.33
+query6.json: P@3 = 1.00
+query8.json: P@3 = 0.33

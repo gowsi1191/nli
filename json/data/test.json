@@ -1,0 +1,72 @@
+                      {
+        "doc_id": "DOC201064",
+        "text": "Although nebulized corticosteroids (NebCSs) are a key treatment option for young children with asthma or viral-induced wheezing (VIW), there are no uniform recommendations on their best use. This systematic review aimed to clarify the role of NebCSs in children 5 years or younger for the management of acute asthma exacerbations, asthma maintenance therapy, and the treatment of VIW. Electronic databases were used to identify relevant English language articles with no date restrictions. Studies reporting efficacy data in children 5 years or younger, with a double-blind, placebo- or open-controlled, randomized design, and inclusion of 40 or more participants (no lower patient limit for VIW) were included. Ten articles on asthma exacerbation, 9 on asthma maintenance, and 7 on VIW were identified. Results showed NebCSs to be at least as efficacious as oral corticosteroids in the emergency room for the management of mild to moderate asthma exacerbations. In asthma maintenance, nebulized budesonide, the agent of focus in all trials analyzed, significantly reduced the risk of further asthma exacerbations compared with placebo, cromolyn sodium, and montelukast. Intermittent NebCS treatment of VIW was as effective as continuous daily treatment. In summary, NebCSs are effective and well tolerated in patients 5 years or younger for the management of acute and chronic asthma.",
+           "relevance": 1
+      },            {
+        "doc_id": "DOC201065",
+        "text": "The Global Initiative for Asthma (GINA) Strategy Report provides clinicians with an annually updated evidence-based strategy for asthma management and prevention, which can be adapted for local circumstances (e.g., medication availability). This article summarizes key recommendations from GINA 2021, and the evidence underpinning recent changes. GINA recommends that asthma in adults and adolescents should not be treated solely with short-acting β2-agonist (SABA), because of the risks of SABA-only treatment and SABA overuse, and evidence for benefit of inhaled corticosteroids (ICS). Large trials show that as-needed combination ICS-formoterol reduces severe exacerbations by ⩾60% in mild asthma compared with SABA alone, with similar exacerbation, symptom, lung function, and inflammatory outcomes as daily ICS plus as-needed SABA. Key changes in GINA 2021 include division of the treatment figure for adults and adolescents into two tracks. Track 1 (preferred) has low-dose ICS-formoterol as the reliever at all steps: as needed only in Steps 1-2 (mild asthma), and with daily maintenance ICS-formoterol (maintenance-and-reliever therapy, MART) in Steps 3-5. Track 2 (alternative) has as-needed SABA across all steps, plus regular ICS (Step 2) or ICS-long-acting β2-agonist (Steps 3-5). For adults with moderate-to-severe asthma, GINA makes additional recommendations in Step 5 for add-on long-acting muscarinic antagonists and azithromycin, with add-on biologic therapies for severe asthma. For children 6-11 years, new treatment options are added at Steps 3-4. Across all age groups and levels of severity, regular personalized assessment, treatment of modifiable risk factors, self-management education, skills training, appropriate medication adjustment, and review remain essential to optimize asthma outcomes.",
+           "relevance": 1
+      }
+
+     {
+        "doc_id": "DOC20103",
+        "text": "Asthma during pregnancy poses a common, increasingly prevalent threat to the health of women and their children. The present article reviews recent insights gained from the epidemiology of asthma during pregnancy, demonstrating the many short- and long-term risks to mother and fetus incurred by poorly controlled maternal asthma. We further discuss emerging evidence that active management of asthma during pregnancy can positively influence and perhaps completely mitigate these poor outcomes. Recent high-quality trials examining best methods for asthma treatment are reviewed and synthesized to offer an evidence-based pathway for comprehensive treatment of asthma in the outpatient setting. Safe and effective medications, as well as nonpharmacologic interventions, for asthma during pregnancy are discussed, and treatment options for related conditions of pregnancy, including depression, rhinitis, and gastroesophageal reflux, are presented. Throughout, we emphasize that an effective treatment strategy relies on a detailed patient evaluation, patient education, objective measurement of asthma control, and frequent and supportive follow-up. The cardiovascular and respiratory physiology of pregnancy is reviewed, as well as its implications for the management of patients with asthma, including patients requiring intubation and mechanical ventilation. For the situation when outpatient asthma management has failed, an approach to the critically ill pregnant patient with status asthmaticus is detailed. Multidisciplinary teams that include pulmonary specialists, obstetricians, primary care providers, nurses, pharmacists, and asthma educators improve the care of pregnant women with asthma.",
+        "relevance": 0
+
+      },
+
+      Treatment options for asthma not including inhaled corticosteroids
+
+
+
+
+       {
+            "doc_id": "DOC20105",
+            "score": 0.6783560514450073,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC20101",
+            "score": 0.694533109664917,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC20102",
+            "score": 0.6994639039039612,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC20103",
+            "score": 0.7124274969100952,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC20104",
+            "score": 0.6634460091590881,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC201061",
+            "score": 0.7003917098045349,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC201062",
+            "score": 0.6433608531951904,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC201063",
+            "score": 0.667499840259552,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC201064",
+            "score": 0.6859328746795654,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC201065",
+            "score": 0.688914954662323,
+            "relevance": 1
+          }

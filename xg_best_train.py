@@ -14,7 +14,7 @@ files = [f for f in os.listdir(input_dir) if f.endswith(".json")]
 # === Iterate over all files ===
 for file in files:
     input_path = os.path.join(input_dir, file)
-    model_name = file.replace(".json", "").replace("evaluation_results_", "")
+    model_name = file.replace(".json", "").replace("evaluation_results_testcross", "")
     model_path = os.path.join(script_dir, f"xgb_model_{model_name}.json")
 
     print(f"\n📁 Processing file: {file}")

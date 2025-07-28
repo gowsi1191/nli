@@ -1,0 +1,626 @@
+[
+{
+    "id": "21",
+    "query": "Blood clot prevention strategies excluding anticoagulant medications",
+    "documents": [
+         {
+        "doc_id": "DOC907",
+        "text": "BAY2433334 is under clinical development for prevention of complications in diseases such as heart attack, irregular heart beat or stroke which can arise by formation of blood clots elsewhere in the body and travels through the blood stream to plug another vessel. Renal impairment which co-occurs in elderly and patients with heart attack, irregular heart beat or stroke is a common condition in which the kidneys are not filtering the blood as well as they should. The goal of the study is to learn more about the safety of BAY2433334, how it is tolerated and the way the body absorbs, distributes and gets rid of the study dug given as a single oral dose of 25 mg tablet in participants with renal impairment and healthy participants matched for age-, gender-, and weight. Investigation of Pharmacokinetics, Pharmacodynamics, Safety, and Tolerability of a Single Oral Dose of 25 mg BAY 2433334 in Male and Female Participants With Different Stages of Renal Impairment (Including on Dialysis), as Compared to Age, Gender and Weight Matched Participants in a Single-center, Non-randomized, Non-controlled, Non-blinded, Group Stratification Design Study.",
+        "relevance": 1,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT04510987",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "A Study to Learn How the Study Treatment Asundexian Moves Into, Through and Out of the Body, How it Works, How Safe it is, and How it Affects the Body in Participants With Mild or Moderate Reduction of Liver Function Compared to Participants With Normal Liver Function. Researchers are looking for a better way to prevent the formation of blood clots in people who have or have had: an irregular and often rapid heartbeat . a blocked blood flow to the heart. a blocked or reduced blood flow to a part of the brain. When a blood clot forms in the body in patients with the above conditions, it may block vessels of the heart, the brain and/or other parts of the body. This may lead to heart attack, stroke and other serious complications.",
+        "relevance": 1,
+        "seq":5,
+        "url":"https://www.clinicaltrials.gov/study/NCT05419635",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "An Observational Study (Called RETAF-PS) Using a Patient Survey to Learn More About Treatment Outcomes in Patients With Irregular and Often Rapid Heartbeat (Atrial Fibrillation) Treated With Apixaban in a Real World Setting. This is an observational study in which data from people with atrial fibrillation who received or are currently receiving the drug apixaban to prevent thromboembolic events (blood clots that travel through the blood stream to plug another smaller vessel) are studied. In observational studies, only observations are made without specified advice or interventions. Atrial Fibrillation (AF) is a condition of having irregular and often rapid heartbeat. AF can lead to the formation of blood clots in the heart and to embolism, a condition that happens when a blood clot travels through the blood stream to plug another smaller vessel. This can lead to serious and life-threatening conditions, such as a stroke. A stroke occurs because the brain tissue beyond the blockage no longer receives nutrients and oxygen so that brain cells die. As strokes arising from AF can involve extensive areas of the brain, it is important to prevent them.",
+        "relevance": 1,
+        "seq":6,
+        "url":"https://www.clinicaltrials.gov/study/NCT05471830",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of Single-dose Injection of SHR-2004 in Healthy Subjects. The primary objective of this study is to assess the safety and tolerability of SHR-2004 injection in healthy subjects. In addition, this study will provide information on pharmacokinetics and pharmacodynamics of SHR-2004 injection in healthy subjects. A Phase 1, Randomized, Double Blind, Dose-escalation, Placebo Controlled Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of SHR-2004 in Healthy Subjects",
+        "relevance": 1,
+        "seq":10,
+        "url":"https://www.clinicaltrials.gov/study/NCT05369767",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The purpose of this study is to compare aspirin versus low-molecular weight heparin (LMWH) (Enoxaparin) as a thromboprophylaxis in patients who sustain a fracture. Patients who sustain orthopaedic trauma are at an increased risk of venous thromboembolism (VTE), including fatal pulmonary embolism (PE). Current guidelines recommend low-molecular-weight heparin (LMWH) for VTE prophylaxis in orthopaedic trauma patients. However, emerging literature in total joint arthroplasty patients suggests the potential clinical benefits of VTE prophylaxis with aspirin. This trial aims to determine if aspirin is non-inferior to LMWH for thromboprophylaxis in fracture patients. PREVENTion of Clot in Orthopaedic Trauma (PREVENT CLOT): A Randomized Pragmatic Trial Comparing the Complications and Safety of Blood Clot Prevention Medicines Used in Orthopaedic Trauma Patients",
+        "relevance": 0,
+        "seq":1,
+        "url":"https://www.clinicaltrials.gov/study/NCT02984384",
+        "description":"Multiple studies mention the use of aspirin as a thromboprophylaxis or antiplatelet therapy. Aspirin is not an anticoagulant but can help prevent blood clots by inhibiting platelet aggregation"
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Coronary artery stents, particularly drug-eluting stents (DES), are used in the majority of patients who undergo percutaneous coronary intervention (PCI) to improve symptoms in patients with obstructive coronary artery disease. They function both to prevent abrupt closure of the stented artery soon after the procedure as well as to lower the need for repeat revascularization compared to balloon angioplasty alone . Stent restenosis and stent thrombosis are potential complications of coronary artery stenting; their incidence is highest in the first year after PCI. Stent restenosis, which occurs more frequently with bare metal stents (BMS) than DES, may occasionally present as an acute myocardial infarction (MI). Stent thrombosis is an uncommon but serious complication that often presents as death and is almost always accompanied by MI, usually with ST-segment elevation. Patients are commonly treated with dual antiplatelet therapy (DAPT) for the recommended duration for the particular stent. DAPT (aspirin plus platelet P2Y12 receptor blocker) and significantly lowers the risk of stent thrombosis.",
+        "relevance": 0,
+        "seq":2,
+        "url":"https://www.clinicaltrials.gov/study/NCT02051361",
+        "description":"Multiple studies mention the use of aspirin as a thromboprophylaxis or antiplatelet therapy. Aspirin is not an anticoagulant but can help prevent blood clots by inhibiting platelet aggregation"
+      },
+              {
+        "doc_id": "DOC907",
+        "text": "In this study researchers want to learn about the safety of drug Osocimab at lower-dose and higher-doses in adult participants with kidney disease undergoing regular dialysis (a procedure that uses a machine to get rid of toxins and extra fluids in the blood). Patients with kidney disease undergoing regular dialysis are at high risk for heart and blood vessels diseases. Osocimab is a human monoclonal antibody under development for the prevention of events caused by blood clots like heart attack, stroke and death due to heart or blood vessels diseases. It works by binding to and blocking the activated form of clotting factor XI which increases the formation and stability of clots. Researchers also want to find out how drug Osocimab works in human body and how the body absorbs, distributes and excretes the drug. Participants in this study will receive monthly injection of either Osocimab at a lower-dose or higher-dose or placebo (a placebo looks like a treatment but does not have any medicine in it). Both Osocimab and placebo will be injected into the tissue under the skin of the belly. Observation for each participant will last up to 23 months. Blood samples will be collected from the participants to monitor the safety and measure the blood level of the study drug.",
+        "relevance": 0,
+        "seq":7,
+        "url":"https://www.clinicaltrials.gov/study/NCT04523220",
+        "description":"mentions Osocimab, a human monoclonal antibody under development for preventing blood clot-related events. It works by binding to and blocking the activated form of clotting factor XI, which is different from traditional anticoagulants."
+      }
+    ]
+  },
+    
+{
+    "id": "9",
+    "query": "Diabetes treatment excluding insulin in elderly patients",
+    "documents": [
+      {
+        "doc_id": "DOC901",
+        "text": "In this study investigator's aim to determine the impact of insulin therapy on hypotension and sarcopenia Detailed Description Diabetes is common in the elderly. By the age of 70, approximately 25% of the population has diabetes and another 25% is at risk for diabetes. Elderly patients with diabetes are at increased risk for disability and reduction in their instrumental and basic activities of daily living. The prevalence of frailty is higher in people with diabetes that with age matched controls without diabetes. One of the major contributing factors to frailty is sarcopenia. Insulin is an important anabolic hormone that prevents protein breakdown and to a lesser extent stimulates protein synthesis. There is some evidence that the ability of insulin to stimulate anabolic processes may be reduced in diabetes. Insulin has cardiovascular properties, resulting in simultaneous adrenergic and vasodilatory responses that have opposing influences on blood pressure. Epidemiological studies have demonstrated that the use of insulin is a risk factor for syncope. The investigators will study 30 older adults age 65 and older with type 2 diabetes who have never taken insulin to manage their diabetes but now need insulin to manage their diabetes. Data will be compared pre insulin start and 3 and 6 months after starting insulin.",
+        "relevance": 1,
+        "seq":1,
+        "description":"",
+        "url":"https://www.clinicaltrials.gov/study/NCT03248271"
+      },
+      {
+        "doc_id": "DOC902",
+        "text": "Basal-bolus insulin therapy, which includes one injection of long acting insulin and three injections of short acting insulin is the most commonly used insulin treatment. However, many older patients find the basal-bolus insulin regimen hard to manage because it involves 4 injections and 4 blood glucose tests each day. It is possible that a simplified treatment that involves one injection of long acting insulin daily and two blood glucose tests daily might be equally effective. This simplified regimen, if effective, would be easier to use and might result in less errors. Therefore, the investigators want to conduct this study to compare using a single daily injection of basal insulin with the usual basal-bolus insulin regimen in elderly patients (age >65 years) with type 2 diabetes. Official Title Effect of Simplified Insulin Regimen on Glycemic Control and Quality of Life in an Elderly Population With Type 2 Diabetes",
+        "relevance": 1,
+        "seq":2,
+        "description":"",
+        "url":"https://www.clinicaltrials.gov/study/NCT03660553"
+      },
+      {
+        "doc_id": "DOC903",
+        "text": "Participants will perform blood glucose monitoring (BGM) over the course of 14 days and, in parallel, wear continuous glucose monitoring (CGM) systems. Because current CGM systems typically achieve a lower level of analytical accuracy than BGM systems, participants will perform at least 5 blood glucose (BG) measurements per day. In addition, CGM systems are used to obtain minimally-invasive high-frequency glucose measurements to fill the gaps between BG measurements. Official Title Assessment of Glucose Concentrations in People Without Diabetes Mellitus After Standardized Meals and in Daily Life",
+        "relevance": 1,
+        "seq":3,
+        "url":"https://www.clinicaltrials.gov/study/NCT03405415",
+        "description":""
+      },
+      {
+        "doc_id": "DOC904",
+        "text": "The current study examines the efficiency of a home-based computerized cognitive training (CT) intervention targeting older adults with diabetes.The primary aim of the study is to evaluate the effects of CCT on cognitive and disease management in non-demented older diabetes adults. Investigators will also evaluate the effect of the intervention on a range of secondary outcomes, including mood, caregiver burden, self-efficacy, and for a small sub-sample, on brain activity as reflected in changes in task-related blood-flow on fMRI. Detailed Description Evidence suggests a link between diabetes-related processes and increased risk of cognitive decline and dementia in older adults. Optimal disease self-management may be key in the prevention of cognitive decline among older diabetic patients, but this may be compromised due to sub-clinical cognitive impairment. In the current study, 120 community-dwelling, non-demented participants aged 65 and over, with a diagnosis of Type 2 diabetes will be randomly assigned either to an 8-week, home-based individually-tailored CCT program with adaptive difficulty level, and regular performance feedback, or to an 8-week, home-based active control (AC) condition, involving training on a generic CCT program with fixed difficulty level and without performance feedback. Both intervention groups also include a range of theory-informed behavior change techniques (BCTs), including self-efficacy management, self-monitoring and goal-setting in order to enhance treatment fidelity, and to maximize treatment compliance and adherence. In both groups, participants train approx. 30 min. per day, 3 times per-week for 8-weeks. Participants undergo a comprehensive evaluation of all outcomes at baseline, immediately after the intervention, and at a 6-month follow-up, with 1-week booster training completed 3 months from completion of the intervention.",
+        "relevance": 1,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT02709629",
+        "description":""
+      },
+      {
+        "doc_id": "DOC905",
+        "text": "The purpose of this research was to assess the absolute and relative incidence of acute pancreatitis in persons initiating exenatide compared with persons initiating a different antidiabetic agent, and secondarily, persons without diabetes. This protocol summarizes a retrospective cohort study using eligibility, pharmacy claims, and medical claims data from a large US health plan affiliated with i3 Drug Safety. Detailed Description Limitations of the study: The results provided below should be interpreted in light of the following limitations: Misclassification of acute pancreatitis may have distorted our estimates of absolute and relative IRs. In cases where the degree of misclassification is non-differential with respect to the exposure cohort, as is likely the case in administrative data, the RR would be biased toward the null value, although the magnitude of bias will depend on the amount of misclassification. Lack of information on important potential confounders, like obesity and alcohol use, is another limitation of the present analysis. Although we adjusted for propensity scores of exenatide initiation, which included a large number of factors derived from the claims data, it is likely that the present estimates are somewhat inaccurate due to residual confounding. Our definition of current use in the time-on-drug analysis, which extended 31 days past the nominal end of the last dispensing of the cohort-defining drug, may be too long in duration and thus misclassify exposure during the relevant etiologic period. Additionally, these analyses assume that when pharmacies submit a claim for a medication that patients receive and consume the medication. While it is possible that misclassification of exposure by non-adherence to the medications dispensed occurred, prior work showed that pharmacy claims are valid for ascertaining medication exposure.",
+        "relevance": 0,
+        "seq":5,
+        "url":"https://www.clinicaltrials.gov/study/NCT01077323",
+        "description":"mentions the use of exenatide and other antidiabetic agents in a retrospective cohort study. This suggests that there are non-insulin options available for diabetes treatment, although the study focused on assessing the risk of acute pancreatitis rather than treatment efficacy."
+      },
+      {
+        "doc_id": "DOC906",
+        "text": "Cardiac failure (HF) and type 2 diabetes mellitus (T2DM) are two clinical conditions with a significant impact on public health worldwide. In the elderly population the prevalence of T2DM is constantly increasing as well as its incidence in all Western countries including Italy. The combination of HF and T2DM is frequent and leads to an increased risk of death and of non-fatal adverse cardiovascular (CV) events which justifies the frailty of this population. Although diabetic patients (pts) with HF respond to recommended treatments for HF, the effective and safe control of blood glucose levels is still an outstanding clinical problem, since glucose lowering drugs may increase the risk of CV adverse events. Insulin, used in about 30% of diabetic patients with HF, causes adverse effects such as fluid and sodium retention and unwanted effects of hypoglycemia. Even if insulin remains a milestone in glucose lowering therapy of T2DM, its risk/benefit ratio is still controversial, more so when given to old patients with HF. The issue has gained relevance since new antidiabetic agents, as the sodium glucose co-transporter 2 (SGLT- 2) inhibitors and glucagon-like peptide (GLP-1) analogues, with a safer CV profile have been made available. While the transferability of the CV benefits attributed to the new drugs needs to be assessed in clinical practice, the present study explore the benefit/risk profile of insulin in HF. Objectives: to assess comparatively in patients with heart failure and T2DM the benefit/risk profile over 1-year follow-up of two antidiabetic strategies, standard care with vs without insulin in terms of humoral and clinical endpoints including body weight change, all-cause mortality and burden of care components (hospitalizations for CV events and episodes of severe hypoglycemia).",
+        "relevance": 0,
+        "seq":6,
+        "url":"https://www.clinicaltrials.gov/study/NCT03665350",
+        "description":"mentions these as newer antidiabetic agents with a potentially safer cardiovascular profile compared to insulin, especially in older patients with heart failure. However, the document notes that the transferability of cardiovascular benefits to clinical practice still needs to be assessed."
+      },
+            {
+        "doc_id": "DOC907",
+        "text": "The main purpose of this study is to compare the benefits and risks associated with the use of 2 treatment strategies to lower blood sugar in participants aged 65 and older with T2DM. One strategy is based on the use of oral and injectable medications that only reduce blood sugar (glucose) when it is high. The other strategy is based on non-glucose dependent agents. The trial will last up to 72 weeks for each participant. Official Title An Individualized treatMent aPproach for oldER patIents: A Randomized, Controlled stUdy in Type 2 Diabetes Mellitus (IMPERIUM)",
+        "relevance": 0,
+        "seq":9,
+        "url":"https://www.clinicaltrials.gov/study/NCT02072096",
+        "description":" describes a study comparing two treatment strategies in older patients (aged 65 and older) with Type 2 Diabetes Mellitus. One strategy is based on oral and injectable medications that only reduce blood sugar when it is high, suggesting the use of non-insulin alternatives."
+      }
+
+    ]
+  },
+
+
+
+
+{
+    "id": "11",
+    "query": "Asthma control strategies excluding corticosteroids",
+    "documents": [
+         {
+        "doc_id": "DOC907",
+        "text": "To develop and implement asthma-controlling educational strategies for inner city and high risk populations. Detailed DescriptionBACKGROUND: Asthma is a serious chronic disease affecting about 12 million Americans; about 3 million are children. The study was part of an initiative, Developing and Implementing at the State and Local Level Educational Strategies and Interventions for Controlling Asthma in Inner City and High Risk Populations, released in February 1993 by the National Asthma Education Program of the Office of Prevention, Education and Control. DESIGN NARRATIVE:A computer-assisted multimedia instructional and feedback system, Asthma Patient/Provider Partnership System (APPPS), was developed for African American and Hispanic school-age children that was suited for adoption and implementation in clinical and other settings based on the National Asthma Education Program's Expert Panel Guidelines on the Diagnosis and Management of Asthma",
+        "relevance": 0,
+        "seq":1,
+        "url":"https://www.clinicaltrials.gov/study/NCT00005731",
+        "description":"mentions developing and implementing asthma-controlling educational strategies for inner city and high risk populations"
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Improving Medication Adherence with Telehealthcare Medication Therapy Management to Change Health Outcomes in Adolescents and Young Adults with Asthma (MATCH) is a multi-center, randomized parallel group study targeted to an at-risk population of Adolescents and Young Adults (AYA) with uncontrolled asthma who have poor adherence with prescribed Inhaled corticosteroid (ICS) therapy. Detailed Description The study evaluates a Medication Therapy Management (MTM) video telehealthcare intervention to address poor medication adherence. In addition, it employs a novel method to track and provide feedback to participants on adherence by using Propeller Sensors. 300 adolescents and young adults will be randomized to Medication Therapy Management (MTM) video telehealthcare plus electronic adherence self-management [MTM EAM] or electronic adherence self-management alone (EAM). Due to the hierarchal design of the trial, two primary outcomes to be tested in a sequential manner are specified, adherence and time to first asthma exacerbation.",
+        "relevance": 0,
+        "seq":2,
+        "url":"https://www.clinicaltrials.gov/study/NCT03978936",
+        "description":"discusses improving medication adherence through telehealthcare management for adolescents and young adults with uncontrolled asthma"
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The purpose of this study is to evaluate the efficacy and safety of CHF6001 (Tanimilast) as add-on to maintenance of inhaled corticosteroids in combination with Long-acting ß2-agonists in the target patient population. (TANGO) Official Title A 52-week, Randomised, Double Blind, Multicentre, 2-arm Parallel Group Trial Assessing Efficacy of CHF6001 (Total Daily Dose 3200μg) Dry Powder Inhaler (DPI) add-on to Maintenance Medium or High Dose of Inhaled Corticosteroids in Combination With Long-acting ß2-agonists in Subjects With Uncontrolled Asthma",
+        "relevance": 1,
+        "seq":3,
+        "url":"https://www.clinicaltrials.gov/study/NCT06029595",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "A 52-Week, Multicentre, Randomized, Double-Blind, Parallel Group, Placebo Controlled, Phase 3 Study to Evaluate the Efficacy and Safety of Tralokinumab in Adults and Adolescents with Asthma Inadequately Controlled on Inhaled Corticosteroid Plus Long-Acting β2-Agonist Detailed Description This is a randomized, double-blind, parallel group, placebo-controlled study designed to evaluate efficacy and safety of tralokinumab administered subcutaneously in subjects with uncontrolled asthma on inhaled corticosteroid plus long-acting β2-agonist and having a history of asthma exacerbations. Approximately 1140 subjects will be randomized globally. Subjects will receive tralokinumab, or placebo, administered via subcutaneous injection at the study site, over a 52-week treatment period.",
+        "relevance": 1,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT02161757",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Asthma control in pediatric patients remains a critical issue for healthcare providers. Telemedicine has emerged as an effective solution for overcoming distance barriers in healthcare delivery. This study aims to utilize telemedicine-based education for caregivers to improve asthma control in children with uncontrolled asthma. By providing remote guidance and support, the study seeks to enhance caregivers' knowledge and management practices, ultimately leading to better asthma outcomes for pediatric patients. Official Title Effectiveness of Telemedicine-Based Education for Caregivers on Asthma Control in Children With Uncontrolled Asthma: A Randomized Controlled Trial",
+        "relevance": 0,
+        "seq":8,
+        "url":"https://www.clinicaltrials.gov/study/NCT06753214",
+        "description":"describes using telemedicine-based education for caregivers to improve asthma control in children with uncontrolled asthma"
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "This study is a multi-centre, non-interventional, observational, ambispective registry. Planned study population consists of 10 000 adult patients with uncontrolled asthma receiving treatment according to standard of care (except biologics). Planned number of study site is 70 outpatient centers with experience of uncontrolled asthma treatment in about 50 regions of Russia (in order to describe characteristics of patients with uncontrolled asthma in different regions in the most comprehensive way). Detailed Description There are limited epidemiological data of the patients with uncontrolled asthma in Russia. The systematic information about complications and comorbidities, about the treatment approaches and their effectiveness in the Russian population is also absent. The observational registry is really important to describe the epidemiological characteristics of the disease and to analyse the clinical characteristics of the various subgroups of patients. This is an excellent starting point to be able to investigate the characteristics of the disease in detail. The Russian Federation consists of 85 regions with a total population of more than 145 million people. The regions differ in ethnic composition, age, gender, climate, ecology, economic level, prevalence of asthma in general and uncontrolled asthma in particular.",
+        "relevance": 1,
+        "seq":6,
+        "url":"https://www.clinicaltrials.gov/study/NCT06521229",
+        "description":""
+      },
+              {
+        "doc_id": "DOC907",
+        "text": "A 52-Week, Multicentre, Randomized, Double-Blind, Parallel Group, Placebo Controlled, Phase 3 Study to Evaluate the Efficacy and Safety of Tralokinumab in Adults and Adolescents with Asthma Inadequately Controlled on Inhaled Corticosteroid Plus Long-Acting β2-Agonist Detailed Description This is a randomized, double-blind, parallel group, placebo-controlled study designed to evaluate efficacy and safety of tralokinumab administered subcutaneously in subjects with uncontrolled asthma on inhaled corticosteroid plus long-acting β2-agonist and having a history of asthma exacerbations. Approximately 770 subjects will be randomized globally. Subjects will receive tralokinumab, or placebo, administered via subcutaneous injection at the study site, over a 52-week treatment period.",
+        "relevance": 1,
+        "seq":7,
+        "url":"https://www.clinicaltrials.gov/study/NCT02194699",
+        "description":""
+      }
+    ]
+  }
+,
+
+{
+    "id": "12",
+    "query": "Liver conditions not associated with hepatitis B or C",
+    "documents": [
+         {
+        "doc_id": "DOC907",
+        "text": "Adult liver cancer is the third leading cause of cancer deaths worldwide. The major risk factor for liver cancer is hepatitis B virus (HBV) infection. The purpose of the study is to sequence the HBV genome in patients with chronic HBV infection, and in patients with liver cancer resulting from chronic HBV infection. The goal is to identify mutations in the HBV genome that predisposes these high risk individuals to the development of liver cancer. Official Title. Viral and Host Factors Associated With Development of Hepatitis B Virus-related Hepatocellular Carcinoma",
+        "relevance": 1,
+        "seq":1,
+        "url":"https://www.clinicaltrials.gov/study/NCT00767936",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Non-alcoholic fatty liver disease (NAFLD) represents a spectrum of disorders characterized by predominantly macrovesicular hepatic steatosis occurring in individuals in the absence of significant alcohol consumption. In this context it is possible to distinguish a condition of simple fatty liver, where the only histologic finding is the presence of steatosis, from a state of non-alcoholic steatohepatitis (NASH), characterized by hepatocellular injury/inflammation with or without fibrosis. The prevalence of NAFLD is around 20-30% in the general population. With a rapid increase in the risk factors for metabolic syndrome, NAFLD has become the most common cause of liver disease in Western countries. The clinical relevance of NAFLD arises from the fact that a considerable proportion of subjects (20-30%) develop NASH, and this condition can progress to cirrhosis in up to 15% of patients. In addition NAFLD, and particularly NASH, represents a cardiovascular risk factor, independent of other well-known conditions contributing to heart and vascular diseases. Lifestyle modification is the effective medical treatment recommended for NASH, while there is currently no pharmacologic therapy of proven benefit in these patients. Several pilot studies, using insulin sensitizers (thiazolidinediones or metformin), and antioxidants, like vitamin E, have provided inconclusive evidence that these drugs may improve clinical and histological features of NASH.",
+        "relevance": 0,
+        "seq":3,
+        "url":"https://www.clinicaltrials.gov/study/NCT01623024",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "This study is designed to support the optimal use of telbivudine by providing data to refine our understanding of telbivudine efficacy and resistance in real life clinical setting in patients with chronic hepatitis B with defined baseline characteristics and 24-week PCR negativity. This study will be multicenter, open-label and observational data collection of patients on telbivudine who meet baseline characteristics defined as the majority of patients seen in the clinic setting. Data collection will take place after enrollment, at Week 12, 24, 52, 76 and 104 for efficacy assessments. In patients who discontinue observational drug earlier, clinical information would be kept following for assessment as well. This study is designed to evaluate the efficacy of telbivudine in real-life clinical settings with the use of the Roadmap Concept in chronic hepatitis B treatment.",
+        "relevance": 1,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT01958229",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The purpose of this study to assess the image quality of the rapid magnetic resonance imaging (MRI) compared to the standard MRI. This is a pilot study to compare a rapid 10-minute liver magnetic resonance imaging (MRI) protocol to standard MRI in participants with suspected hepatocellular carcinoma. Rapid 10-Minute Liver MRI Protocol in Patients With Suspected Hepatocellular Carcinoma: A Pilot Study to Assess the Image Quality (Multitransmit Body MRI Program)",
+        "relevance": 0,
+        "seq":5,
+        "url":"https://www.clinicaltrials.gov/study/NCT01390194",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "This is an omnibus protocol for studying patients with cystic fibrosis. The main purpose of the study is to obtain samples and data collected during standard clinical care for future research to expand knowledge of the natural history, clinical manifestations (phenotypes) and the genetic variants (genotypes) of cystic fibrosis This is an omnibus protocol for studying patients with cystic fibrosis. The main purpose of the study is to obtain samples and data collected during standard clinical care for future research to expand knowledge of the natural history, clinical manifestations (phenotypes) and the genetic variants (genotypes) of cystic fibrosis.",
+        "relevance": 1,
+        "seq":6,
+        "url":"https://www.clinicaltrials.gov/study/NCT00001223",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "To assess safety of Phosphatidylcholine paste 600 mg (ESSENTIALE® paste) oral 3 times a day for 12 weeks in patients with gastrointestinal symptoms in acute and chronic liver diseases. To assess effectiveness on symptomatic improvement in patients with gastrointestinal symptoms in acute and chronic liver diseases. The total study duration per patient will be 13 weeks that consists of 1-week pre-screening period and a 12-week treatment period.",
+        "relevance": 0,
+        "seq":7,
+        "url":"https://www.clinicaltrials.gov/study/NCT02517385",
+        "description":""
+      },
+              {
+        "doc_id": "DOC907",
+        "text": "Induced pluripotent stem cells (iPSCs) are adult cells that have been genetically reprogrammed to an embryonic stem cell-like state by being forced to express genes and factors important for maintaining the defining properties of embryonic stem cells. The reprogramming of adult cells into embryonic stem (ES) cells enables the generation of patient-specific stem cells and thus has enormous potential for the treatment and analysis of degenerative diseases. In this project the investigators are going to induce pluripotent stem cells from cell cultures from skin biopsies of patients. The iPS cells will be developed for modeling diseases and drug discovery as well as basic research. iPS cells are typically derived by transfection of certain stem cell-associated genes into non-pluripotent cells, such as adult fibroblasts. ",
+        "relevance": 1,
+        "seq":9,
+        "url":"https://www.clinicaltrials.gov/study/NCT00953693",
+        "description":""
+      }
+    ]
+  },
+{
+    "id": "13",
+    "query": "Weight loss interventions not involving bariatric surgery",
+    "documents": [
+         {
+        "doc_id": "DOC907",
+        "text": "To evaluate the effect of one-on-one coaching in the Noom Healthy Weight Program, a digital behavior change, weight loss intervention, compared to the same program with no coaching, as well as influential factors. Randomized, Parallel Trial of Overweight Men and Women Using a Coached or Non-Coached Weight Loss Intervention. Behavioral: Noom Healthy Weight; mobile behavior change program for weight loss with 1:1 coaching",
+        "relevance": 0,
+        "seq":1,
+        "url":"https://www.clinicaltrials.gov/study/NCT04645108",
+        "description":" discusses a digital behavior change weight loss intervention called the Noom Healthy Weight Program. This program involves one-on-one coaching compared to a non-coached version of the same program. This is a non-surgical weight loss intervention that focuses on digital behavior change strategies."
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Background: Bariatric surgery (BS) causes large weight reductions and improvements in cardiovascular risk (CVR), although, there are also decreases in fat-free mass (FFM). However, the effects of exercise after surgery on these variables remains to be determined. Methods: 38 patients who underwent BS were divided into two groups: an experimental group (EG, n = 19) and a control group (CG, n = 19). Body composition, physical fitness, CVR and CVR factors were assessed in both groups one month after the surgery (T1), at 7 months (T2) and at 13 months (T3). Between T1 and T2, the EG performed a 6 month monitored aerobic and resistance combined training.",
+        "relevance": 1,
+        "seq":2,
+        "url":"https://www.clinicaltrials.gov/study/NCT03699683",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Prospective, international multicenter study to investigate the physical and psychological effects of the COVID-19 pandemic in two obese patient cohorts (BMI ≥ 25 kg/m²) pre- and post-bariatric surgery. In addition, the investigation of country-specific differences will be performed. The COVID-19 pandemic, first reported in November 2019, has led to a global health systems emergency. The number of confirmed COVID-19-associated deaths, according to WHO, is higher in countries with high obesity prevalence. However, whether obesity is an independent risk factor of the severity of COVID-19 remains unclear.",
+        "relevance": 1,
+        "seq":3,
+        "url":"https://www.clinicaltrials.gov/study/NCT05303012",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Gastric myoelectric, inflammatory, and hormonal responses, body compositional, energy expenditure, and metabolic changes during the development of obesity and the weight loss process are underinvestigated. This project studied the myoelectrical inflammatory and hormonal responses of the stomach, in addition to energy expenditure and body composition changes during weight loss via bariatric surgery and lifestyle intervention. Gastric myoelectric, inflammatory, and hormonal responses, body compositional, energy expenditure, and metabolic changes during the development of obesity and the weight loss process are underinvestigated. This project studied the myoelectrical, inflammatory, and hormonal responses of the stomach, in addition to energy expenditure and body composition changes during weight loss via bariatric surgery and lifestyle intervention.",
+        "relevance": 1,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT05775172",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Numerous barriers towards weight management among Singaporeans with obesity exists, which involves environmental and self-regulation factors (i.e. motivation and hunger). Hence, the provision of healthy ketogenic ready-to-eat meals may be a potential solution to facilitate initial weight loss through increasing motivation while reducing appetite and hunger levels among these individuals. Therefore, this study will investigate the effect of healthy ketogenic ready-to-eat meals with mHealth nutrition application versus healthy ketogenic diet (without meal provision) with the mHealth nutrition app to facilitate weight loss and improve metabolic outcomes among individuals with obesity.",
+        "relevance": 0,
+        "seq":5,
+        "url":"https://www.clinicaltrials.gov/study/NCT06022796",
+        "description":"describes a study investigating the effect of healthy ketogenic ready-to-eat meals with an mHealth nutrition application versus a healthy ketogenic diet (without meal provision) with the mHealth nutrition app. This intervention aims to facilitate weight loss and improve metabolic outcomes among individuals with obesity without involving surgery"
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The goal of this observational study is to evaluate the inflammatory response associated with cardiometabolic diseases, and whether these can be reduced by ex vivo treatment with therapeutic agents. Briefly, the study involves two populations: healthy volunteers and severely obese patients undergoing weight-loss surgery. Individuals willing and able to give appropriate oral and written informed consent. Healthy controls and obese patients, scheduled to undergo bariatric surgery without a pre-surgical diet",
+        "relevance": 1,
+        "seq":6,
+        "url":"https://www.clinicaltrials.gov/study/NCT06752018",
+        "description":""
+      },
+              {
+        "doc_id": "DOC907",
+        "text": "The investigators examined feasibility and acceptability of a non-restrictive diet focused on increasing dietary fiber and lean protein for weight loss. Fifteen obese adults enrolled in a 12-week assessment which included 6 bi-weekly individual dietary counseling sessions to attain a daily goal of higher fiber (>35 g/day) and lean protein (0.8 g per kilogram/day of individual's ideal body weight). Participants were instructed to increase both their dietary fiber intake to 35 g/day and protein intake to 0.8 g per kilogram/day of their ideal body weight. Loss of 5% of their body weight are considered to achieve the weight-loss goal. The intervention included 6 bi-weekly, 30-minute individual dietary counseling sessions over 12-weeks. Behavioral strategies including self-monitoring, problem solving, goal setting, stimulus control, food substitution, and relapse prevention were taught to assist participants in meeting their fiber and protein goals.",
+        "relevance": 0,
+        "seq":7,
+        "url":"https://www.clinicaltrials.gov/study/NCT02968615",
+        "description":"mentions a non-restrictive diet intervention focused on increasing dietary fiber and lean protein for weight loss. This 12-week assessment included bi-weekly individual dietary counseling sessions to attain specific daily goals for fiber and protein intake."
+      }
+    ]
+},
+  
+{
+    "id": "14",
+    "query": "Cardiac arrhythmia treatments excluding pacemaker implantation",
+    "documents": [
+         {
+        "doc_id": "DOC907",
+        "text": "Previous publications suggest gender difference in outcome parameters after pacemaker implantation. Aim of this study is to investigate gender differences in patients with pacemaker. Implanted devices, indication for implantation and pacemaker follow up data of patients will be included. Survival data including cause of death will be documented. Prevalent comorbidities and relevant laboratory data will be recorded. Morbidity, Mortality and Gender Differences in Patients With Pacemakers; a Large-scale Single-center Cohort Study",
+        "relevance": 1,
+        "seq":1,
+        "url":"https://www.clinicaltrials.gov/study/NCT03388281",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The purpose of the MARC-2 study is to investigate the relation of the QRS area, determined by vectorcardiography, and response to Cardiac Resynchronization Therapy (CRT) in patients with a wide QRS complex and without a typical left bundle branch block; the interrelationship as well as the potential predictive power of this biomarker, as well as other clinical biomarkers on a hierarchal composite endpoint (death, heart failure hospitalizations, heart failure complaints and cardiac function) will be evaluated.For the purpose described in the brief summary, the MARC-2 study investigators have set an aim of including 800 patients in 2 inclusion years, in 30 centres accross Europe and Israel. Inclusion will be general patients indicated for (de novo or upgrade) implantation a (Medtronic) CRT-pacemaker or -ICD, as according to current ESC heart failure guidelines",
+        "relevance": 1,
+        "seq":2,
+        "url":"https://www.clinicaltrials.gov/study/NCT04120909",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "This clinical investigation is a prospective, single-blinded, randomized trial. The primary objective concerns the safety and effectiveness of the AAIsafeR mode with the preventive algorithms. In this study, patients are randomized to DDD mode, AAIsafeR mode, or AAIsafeR mode plus atrial arrhythmia preventive algorithms. The atrial arrhythmia (AA) burden serves as the primary measure of effectiveness. Prevention of Atrial Arrhythmia in Patients Without AV Conduction Disease Device: PACEMAKER SYMPHONY 2550",
+        "relevance": 1,
+        "seq":3,
+        "url":"https://www.clinicaltrials.gov/study/NCT01170611",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "To demonstrate a reduction in the number of ventricular therapies (ATP and Shocks) delivered for treating spontaneous arrhythmia episodes with a fast cycle length (CL≤ 320ms) as a consequence of self-termination and better arrhythmia discrimination due to a greater number of R-R intervals necessary to detect ventricular events.The primary objective is to demonstrate a 20% reduction of ventricular therapies (ATP and Shocks) delivered for treating spontaneous arrhythmia episodes with a fast cycle length (CL ≤ 320 ms) by choosing a number of 30 out of 40 intervals to detect (NID) compared to a NID of 18 out of 24 in subjects with either Class I or IIA indication for ICD implantation, regardless of cardiac resynchronization capabilities.",
+        "relevance": 1,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT00617175",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Phase I/II study of 4-D Navigated Non-invasive radiosurgical ablation of ventricular tachycardia (NIRA-VT). The goal of this project dealing with 4D-navigated substrate ablation is to evaluate the feasibility and safety of elimination of the scar-related monomorphic ventricular tachycardia (VT) or tachycardias by stereotactic radiosurgical ablation that is completely non-invasive. The arrhythmic substrate is defined as the scar after myocardial infarction (MI) described by transthoracic echocardiography (TTE) and specified by PET-CT or MRI. All sustained monomorphic VT induced by programmed ventricular stimulation via implanted ICD (Implantable Cardioverter Defibrillator) will be analyzed using body surface ECG mapping. The target volume for stereotactic radiosurgical ablation (single dose of 25 Gy) will be based on accordance between a post-infarction scar (PET-CT or MRI imaging) and arrhythmic substrate (body surface ECG mapping).",
+        "relevance": 0,
+        "seq":6,
+        "url":"https://www.clinicaltrials.gov/study/NCT03601832",
+        "description":" refers to a study on 4-D Navigated Non-invasive radiosurgical ablation of ventricular tachycardia (NIRA-VT)."
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The LEVER study is a prospective, unblinded, non-randomized, first in human feasibility study that will assess and characterize early safety and effectiveness of low energy therapies in converting monomorphic ventricular tachycardias (MVTs). The LEVER study is a prospective, unblinded, non-randomized, first in human feasibility study that will assess and characterize early safety and effectiveness of low energy therapies in converting monomorphic ventricular tachycardias (MVTs). Subjects must be already indicated for standard of care VT procedure during which VT is likely to be induced (such as VT testing, VT ablation, VT mapping, or VT risk stratification testing.)",
+        "relevance": 0,
+        "seq":7,
+        "url":"https://www.clinicaltrials.gov/study/NCT02891863",
+        "description":"mentions a study (LEVER) investigating the use of low energy therapies to convert monomorphic ventricular tachycardias."
+      },
+              {
+        "doc_id": "DOC907",
+        "text": "Ventricular tachycardia (VT) contributes to over 350,000 sudden deaths each year in the US. Malignant VTs involve an electrical short circuit in the heart, formed by narrow channels of surviving tissue inside myocardial scar. Current treatment for VT consists of either implantable defibrillators (ICDs), suppressive drug therapy, catheter ablation or a combination of all 3. Implantable Defibrillators (ICDs) reduce sudden death and can terminate some ventricular tachycardia (VT) without shocks, but they don't prevent VT. The occurrence of ≥1 ICD shock is associated with reductions in mental well-being and physical functioning, and increases in anxiety and sometimes depression. Further, ICD shocks have been consistently associated with adverse outcomes, including heart failure and death. Furthermore, the most important predictor of ICD shocks is a history of prior ICD shocks.",
+        "relevance": 0,
+        "seq":8,
+        "url":"https://www.clinicaltrials.gov/study/NCT04162171",
+        "description":"It's noted that while this therapy is used to suppress VT, it is not universally effective."
+      }
+    ]
+  },
+{
+    "id": "21",
+    "query": "Treatment of rheumatoid arthritis without using TNF inhibitors",
+    "documents": [
+         {
+        "doc_id": "DOC907",
+        "text": "Rheumatoid arthritis (RA) is often treated with drugs known as tumor necrosis factor (TNF) inhibitors, that can help decrease joint pain and swelling and can even result in RA remission. However, TNF inhibitors may increase risk of serious infections or some types of cancer. It is not clear if people whose RA has been in remission for a long time need to stay on the TNF inhibitor to remain in remission. If they can stop taking the TNF inhibitor without having their symptoms come back, they will be spared the side effects of these medicines. Some studies have shown that people can stay in remission after stopping a TNF inhibitor, but other studies have not confirmed it. Researchers want to see if people with RA in remission on a TNF inhibitor can stay in remission without this medicine. Also there may be a clinical, imaging (MRI, ultrasound), laboratory profile that will help to determine which patients remain in remission after stopping these drugs.",
+        "relevance": 1,
+        "seq":1,
+        "url":"https://www.clinicaltrials.gov/study/NCT01793519",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Rheumatoid arthritis (RA) is a chronic disease that leads to inflammation and progressive joint damage. RA is a systemic inflammatory autoimmune disorder affecting almost 1% of the United States population. Current therapies target the immune system early in the disease process before joint damage occurs, and include drugs such as methotrexate (MTX) and tumor necrosis factor (TNF)-blocking agents. The primary purpose of this study is to determine the effectiveness of two TNF inhibitors, etanercept and adalimumab, on memory B lymphocytes (B-cells) in the peripheral blood of participants with RA.",
+        "relevance": 1,
+        "seq":2,
+        "url":"https://www.clinicaltrials.gov/study/NCT00837434",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "This is an open-label, multicenter and observational study in China, which is designed to record the data of RA & AS patients within 52 weeks after rheumatologists decided to prescribe etanercept, and evaluate the safety and efficacy of the treatment. All eligible subjects agreed to be recruited in the study and can withdraw anytime if they choose so. Patients with RA or AS are typically managed by rheumatologists. As this study seeks to record the data of RA & AS patient in etanercept and evaluate the safety and efficacy of the treatment, patients will be recruited from Rheumatic department. Rheumatologist will be asked to build up the database for RA & AS patient surveillance prospectively in outpatient dept, which benefits for the patient treatment outcomes evaluation and clinical management.",
+        "relevance": 1,
+        "seq":7,
+        "url":"https://www.clinicaltrials.gov/study/NCT01411215",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The purpose of this study is to determine how well Rituximab works in early stages of disease and the effects it has on an inflamed joint and blood cells. This will allow the investigators to get a better understanding of how this treatment affects the inflamed joints of rheumatoid arthritis (RA) patients. Treatment of TNFa Naive Patients With Poor Prognosis Rheumatoid Arthritis Using Rituximab: A Pilot Study Evaluating Synovial Outcomes",
+        "relevance": 1,
+        "seq":9,
+        "url":"https://www.clinicaltrials.gov/study/NCT00963703",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The aim of this study is to examine the efficacy and adverse events in the following 3 groups in rheumatoid arthritis patients:Sarilumab treatment for 12 months Tocilizmab treatment for 12 months Abatacept treatment for 12 months Usefulness of Non TNF Usage in Rheumatoid Arthritis Patients",
+        "relevance": 0,
+        "seq":3,
+        "url":"https://www.clinicaltrials.gov/study/NCT03784261",
+        "description":" refers to a study on 4-D Navigated Non-invasive radiosurgical ablation of ventricular tachycardia (NIRA-VT)."
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Rheumatoid arthritis (RA) is an autoimmune disease characterized by the presence of autoantibodies directed against citrullinated proteins, called ACPAs. These antibodies are very specific to RA, and the severity of the disease is closely correlated with the level of these ACPAs, even though they appear much earlier than the clinical signs. Current treatments by biotherapies are effective but only treat the inflammatory symptoms of the disease or, on the contrary, induce a global immunosuppression with a depletion of all B lymphocytes, New Therapeutic Approach to Cure Rheumatoid Arthritis, The project aims at specifically destroying B lymphocytes expressing / or secreting ACPAs for a more specific approach to RA, without inducing immunosuppression.",
+        "relevance": 0,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT05203952",
+        "description":"mentions a study (LEVER) investigating the use of low energy therapies to convert monomorphic ventricular tachycardias."
+      },
+              {
+        "doc_id": "DOC907",
+        "text": "This multicenter, prospective, observational study will assess the efficacy of MabThera/Rituxan (rituximab) and alternative TNF-inhibitors in patients with rheumatoid arthritis who are non-responders or intolerant to a single previous TNF-inhibitor. Data will be collected from each patient from the time of change in biologic therapy for 12 months.A Global Multi-centre Observational Study in RA Patients Who Are Non Responders or Intolerant to a Single TNF Inhibitor. An Observational Study of MabThera/​Rituxan (Rituximab) and Alternative TNF-Inhibitors in Patients With Rheumatoid Arthritis and an Inadequate Response to a Single Previous TNF-Inhibitor",
+        "relevance": 0,
+        "seq":5,
+        "url":"https://www.clinicaltrials.gov/study/NCT01557348",
+        "description":"This multicenter, prospective, observational study will assess the efficacy of MabThera/Rituxan (rituximab) and alternative TNF-inhibitors in patients with rheumatoid arthritis who are non-responders or intolerant to a single previous TNF-inhibitor. Data will be collected from each patient from the time of change in biologic therapy for 12 months. A Global Multi-centre Observational Study in RA Patients Who Are Non Responders or Intolerant to a Single TNF Inhibitor."
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "query": "Management of high cholesterol without using statins",
+    "documents": [
+         {
+        "doc_id": "DOC907",
+        "text": "This study will be a placebo-controlled, double-blind, randomized, phase 2 dose-finding study to evaluate the efficacy, safety, and tolerability of obicetrapib as an adjunct to high-intensity statin therapy. This study will be a placebo-controlled, double-blind, randomized, phase 2 dose-finding study to evaluate the efficacy, safety, and tolerability of obicetrapib as an adjunct to high-intensity statin therapy. The screening period for this study will take up to 2-weeks. Afterwards patients will be randomized to placebo, 5 mg obicetrapib or 10 mg obicetrapib for an 8-week treatment period. After the treatment period, patients will continue for a 4-week safety follow-up and a 15-week PK follow-up. A Placebo-Controlled, Double-Blind, Randomized, Phase 2 Dose-Finding Study to Evaluate the Effect of Obicetrapib as an Adjunct to High-Intensity Statin Therapy",
+        "relevance": 1,
+        "seq":2,
+        "url":"https://www.clinicaltrials.gov/study/NCT01793519",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "This study is designed to test the feasibility and acceptability of a new method for supporting physical activity among women ages 40-65 who have risk factors for cardiovascular disease. Each participant receives a trained physical activity coach and a physical activity partner; the partner is another woman in the program. Partners communicate with each other between weekly coaching sessions to provide support for physical activity behavior change. The purpose of this study is to test the feasibility and acceptability of a new method for supporting physical activity in women ages 40-65 who have risk markers for cardiovascular disease. The primary goal is to understand perceptions of support and communication patterns between partner dyads of women in midlife (ages 40-65). The creation of these partner dyads is a promising method for promoting social support and physical activity for this population. Understanding how partners communicate with one another throughout this intervention study will give insight into how women in this population maximize benefits from partnership through communication and shared experiences (e.g., age, gender, cardiovascular disease risk, interest in being more physically active).",
+        "relevance": 1,
+        "seq":3,
+        "url":"https://www.clinicaltrials.gov/study/NCT06350604",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "This research programme seeks to combine the resources of NHS primary care, with the leading spectroscopic work in low-magnetic fields of the Wilson Group (Nottingham Trent University) to demonstrate the potential for benchtop Nuclear Magnetic Resonance (NMR) spectroscopy in human clinical pathology. This is an instrument assessment study for point of care viability which will also result in enhanced patient care (pending their consent) in blood screenings and metabolic health data. The research project aims to gauge the efficacy of benchtop Nuclear Magnetic Resonance devices in a primary health care setting. The study design and methodology is as follows: Typically, before a patient attends their routine standard of care blood test, they will speak with their local General Practitioner (GP) or a Registered Nurse (RN). At these visits, the medical professional will gauge the interest of the patient and test if they are eligible. If the patient is interested in becoming involved with research, and they are eligible for the study, they will be given a 'Study Information and Informed Consent Form' to read before their next visit. This allows for ample time to become fully informed on what the study entails, as well as to ask any questions they may have.",
+        "relevance": 1,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT05473325",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The proposed study is a prospective, observational, investigator and patient blinded study comparing the results of blood volume measurement using the FDA-cleared Daxor BVA-100 device to the Daxor BVA-200 device. Data from this study may be pooled with data from studies with similar design conducted at other sites, for the purposes of an FDA medical device submission. Measurements of human blood volume will be made via the indicator dilution method, using gamma counter readings of the concentration of I-131 in a subject's blood sample taken after radio-iodinated Human Serum Albumin (HSA) has been injected into the bloodstream via venous access. Each subject receiving an injection will have five separate blood samples taken, which will be analyzed separately. Each of the five measurements will be conducted in duplicate with the BVA-100 instrument and the BVA-200 instrument. Sufficient blood will be withdrawn at each phlebotomy to permit such duplicate measurement.",
+        "relevance": 1,
+        "seq":9,
+        "url":"https://www.clinicaltrials.gov/study/NCT06227819",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "110 individuals with stage 4-5 Chronic Kidney Disease (CKD) will be randomized to 1-year of blinded Evolocumab or placebo. Subjects will undergo evaluation of circulating lipids at baseline and end of study. A substudy including 50 subjects will assess myocardial rest and stress positron emission tomography (PET) at baseline and at 1-year. The purpose of this study is to evaluate the effect of evolocumab (Repatha®)-a Food and Drug Administration (FDA)-approved biological drug that has been shown to reduce LDL cholesterol (bad cholesterol) Early data show that the beneftis of evolocumab may be increased as kidney function declines. This trial is therefore designed to provide additional evidence regarding the safety and cholesterol-lowering effects of evolocumab compared with placebo, a pill that has no therapeutic effect, in advanced CKD patients.",
+        "relevance": 0,
+        "seq":1,
+        "url":"https://www.clinicaltrials.gov/study/NCT04510844",
+        "description":"mentions a study on Evolocumab, which is a non-statin medication used to lower cholesterol. The study is evaluating its use in patients with advanced chronic kidney disease."
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "This study will be a placebo-controlled, double-blind, randomized, phase 2 study in participants with mild dyslipidemia to evaluate the efficacy, safety, and tolerability of obicetrapib and ezetimibe combination therapy. This study will be a placebo-controlled, double-blind, randomized, phase 2 study in participants with mild dyslipidemia to evaluate the efficacy, safety, and tolerability of obicetrapib and ezetimibe combination therapy. The screening period for this study will take up to 2 weeks. Following the screening period, eligible patients will be randomized to placebo, 5 mg obicetrapib + 10 mg ezetimibe; 5 mg obicetrapib + placebo ezetimibe; or placebo obicetrapib + 10 mg ezetimibe for an 8 week treatment period. After the treatment period, patients will continue for a 4 week safety follow-up and a 8 week PK follow-up.",
+        "relevance": 0,
+        "seq":5,
+        "url":"https://www.clinicaltrials.gov/study/NCT04770389",
+        "description":"discuss studies involving Obicetrapib, another non-statin medication. Document 5 specifically mentions a study evaluating the combination of Obicetrapib and Ezetimibe for treating mild dyslipidemia."
+      },
+              {
+        "doc_id": "DOC907",
+        "text": "General practitioners (GPs) and patients find it difficult to talk about risk of future disease, especially when patients have asymptomatic conditions, and treatment options are unlikely to cause immediate perceptible improvements in well-being. Further studies in risk communication for disease prevention are needed, as are studies about risk communication training for GPs. Aim: 1) to systematically develop, describe and evaluate a complex intervention comprising a training programme for GPs in risk communication and shared decision-making, 2) to evaluate the effect of the training programme on real-life consultations between GPs and patients with high cholesterol levels, and 3) to evaluate patients' reactions during and after the consultations. Hypothesis: 1) patients have better adherence to chosen treatment. The effect of the complex intervention, based around a training programme, will be evaluated in a cluster-randomised controlled trial with an intervention group and an active control group with 40 GPs and 280 patients in each group.",
+        "relevance": 0,
+        "seq":6,
+        "url":"https://www.clinicaltrials.gov/study/NCT01187056",
+        "description":"discusses a study aimed at improving communication between general practitioners and patients regarding risk factors and treatment options for high cholesterol. While this doesn't directly address non-statin management"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "query": "Therapies for ADHD not involving stimulant medications",
+    "documents": [
+         {
+        "doc_id": "DOC907",
+        "text": "The purpose of this pilot is to initiate a program of research into the development of effective medication techniques to treat those children with ADHD who are referred because they are partial or non-responders to standard stimulant treatment. We propose to do this with a single site, ten week, pilot study of 40 school age children, ages 6-17, with Attention-Deficit/ Hyperactivity Disorder (ADHD) and moderate or greater impairment (C-GAS < 55) who show ADHD symptoms despite a trial in the community with their primary care practitioner with either of two of the most commonly used stimulants (i.e., either OROS-MPH (Concerta) or mixed salts of amphetamine (Adderall-XR)). These children first will be classified into three groups: Group 1, those who had been treated with a maximal dose of stimulant with partial or no response; Group 2, those treated with a suboptimal dose of stimulant and showing partial or no response, and Group 3, those who developed side effects that limited continued treatment with optimal doses of a stimulant.",
+        "relevance": 1,
+        "seq":1,
+        "url":"https://www.clinicaltrials.gov/study/NCT00279409",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The purpose of this research is to learn more about how children with mental health problems, including bipolar disorder (BD), attention deficit hyperactivity disorder (ADHD), and generalized anxiety disorder (GAD), differ from children without these problems. The investigators want to understand how these 4 groups of children differ in brain activity, function, and structure. This study has 2 visits (total time ~6 hours): Visit #1 (2-3 hours), includes: (a) detailed description of study and study consent, (b) interviews about the child's mental health, mood, and behavior, and (c) a screening IQ test (word games, playing with blocks). If a child fits our study criteria, they will play some special computer games, provide a spit sample for DNA, and parents/children will complete questionnaires. Brain Imaging and Computer Games in Children With Either Bipolar Disorder, ADHD, Anxiety or Healthy Controls (BBPP)",
+        "relevance": 1,
+        "seq":3,
+        "url":"https://www.clinicaltrials.gov/study/NCT01570426",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The aim of this study is to analyse explicit and implicit emotional information processing abilities in children with attention deficit disorder with or without hyperactivity. The main symptoms of Attentional Deficit Hyperactivity Disorder (ADHD) are inattention, motor agitation and impulsivity. However, other dysfunctions affecting the quality of life remain poorly studied: lack of understanding and management of emotions, focus on the local aspects of a visual scene limiting the ability to assign a general meaning to the scene and alteration of long-term memory encoding. This study aims to analyse these difficulties using different tasks requiring processing of rich and varied everyday images, having high ecological validity. It involves the participation of 56 boys and girls with ADHD, aged 7 to 12 years. Attentional and Emotional Processing of Complex Visual Scenes in Children With Attention Deficit Disorder With or Without Hyperactivity",
+        "relevance": 1,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT03861585",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Non-pharmacological Interventions for Preschoolers With Attention Deficit Hyperactivity Disorder (ADHD) (NIPA). This study is designed to evaluate two potential treatments for children with Attention-deficit/Hyperactivity Disorder (ADHD) that do not involve the use of medication. Our goal is to develop new interventions for preschoolers with ADHD that will result in enduring reductions of ADHD symptoms and associated impairments in children, and thus prevent long-term difficulties characteristic of many children with ADHD. Both interventions involve weekly playgroups (of roughly five children) in which children engage in designated activities while parents engage in groups focusing on parent education, support, and their children's activities. It is hypothesized that both interventions will be helpful, but that only one will have lasting effects well beyond the end of active treatment.",
+        "relevance": 0,
+        "seq":2,
+        "url":"https://www.clinicaltrials.gov/study/NCT01462032",
+        "description":"This approach involves weekly playgroups for children and parent education groups. The goal is to develop interventions that result in long-term reductions of ADHD symptoms without medication use "
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Attention-Deficit/Hyperactivity Disorder (ADHD) is characterized by poor attention, impulsivity, hyperactivity and emotional-motivational dysregulation. Here, we will test if repetitive transcranial magnetic stimulation (rTMS) can reduce the symptoms of ADHD. Baseline Assessment (MRI Scan, assessment scales, neuropsychological testing) rTMS intervention: 5 x week for 4 weeks. Post-intervention Assessment (MRI Scan, assessment scales, neuropsychological testing). Background & Rationale Attention-Deficit/Hyperactivity Disorder (ADHD) is characterized by poor attention, impulsivity, hyperactivity and emotional-motivational dysregulation. A promising and alternative option for reducing ADHD symptoms is non-invasive brain stimulation. Repetitive transcranial magnetic stimulation (rTMS) is a form of non-invasive brain stimulation which involves the application of a magnetic field to the skull to change the behaviour and function of underlying brain areas.",
+        "relevance": 0,
+        "seq":5,
+        "url":"https://www.clinicaltrials.gov/study/NCT04532190",
+        "description":" This method is being tested to reduce ADHD symptoms."
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "This study will determine the effectiveness of stimulant and nonstimulant medication in treating the symptoms of attention deficit hyperactivity disorder (ADHD) in children and adolescents. ADHD is one of the most frequently occurring disorders of children and adolescents and is a significant public health problem. The most common treatment for the condition is stimulant medication. However, there are an increasing number of children who are experiencing negative side effects from stimulants, such as dizziness, loss of appetite, and headaches; these side effects have made the need for alternative treatments all the more important.",
+        "relevance": 0,
+        "seq":6,
+        "url":"https://www.clinicaltrials.gov/study/NCT00183391",
+        "description":"While not specified in detail, non-stimulant medications are being compared to stimulant medications for effectiveness in treating ADHD symptoms in children and adolescents"
+      }
+    ]
+  },
+  
+    {
+    "id": "30",
+    "query": "Anemia treatments without iron supplementation",
+    "documents": [
+         {
+        "doc_id": "DOC907",
+        "text": "In patients who underwent thoracotomy due to lung malignancy; It is desired to investigate whether there is a difference in terms of postoperative results between those with and without anemia, and those with iron deficiency anemia (IDA) who underwent intravenous iron replacement and those who did not, according to the hemoglobin value in their preoperative examinations. Retrospective Evaluation of the Effect of Iron (Fe) Infusion on Complications in Anemic Patients Undergoing Thoracotomy",
+        "relevance": 1,
+        "seq":2,
+        "url":"https://www.clinicaltrials.gov/study/NCT05673161",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": " Iron and Vaccine-preventable Viral Disease - an Experimental Study Vaccines often underperform in Africa compared to high-income countries. Why vaccines do not work as well in Africa remains uncertain. Malnutrition likely plays a role. Our study objective is to assess whether iron deficiency anaemia in young women impairs their immune response to viral vaccines, and whether iron treatment improves their response. Group 1 (immediate iron treatment) will receive iron treatment before vaccination. Women in both groups will receive two intramuscular vaccines (influenza and yellow fever). Vaccine response will be measured 28 and 56 days after vaccine administration in both groups. Group 2 (delayed iron treatment) will receive iron treatment at study end.",
+        "relevance": 1,
+        "seq":3,
+        "url":"https://www.clinicaltrials.gov/study/NCT04912661",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "To compare patient-reported satisfaction, efficacy and short-term safety profile of Monofer® in a single bolus dose with Venofer® in split doses in the treatment of absolute or functional iron deficiency anemia in patients on PD. To compare patient symptomatology on fatigue after treatment of Monofer® compared with Venofer® . Anemia is commonly present in patients with end-stage renal failure (ESRF) due to insufficient endogenous erythropoietin production, absolute and functional iron deficiency. With the introduction of recombinant human erythropoietin (rHuEPO) and the accessibility of rHuEPO to dialysis patients in the Hospital Authority Drug Formulary, blood transfusion requirement for the treatment of renal related anemia has been much reduced. However, iron store must also be adequately maintained for effective erythropoiesis. The latest KDIGO guideline for anemia in chronic kidney disease recommends iron therapy either in oral or intravenous form if TSAT is ≤30% and ferritin is ≤500µg/L. Oral iron supplement is the most convenient, but it is less effective compared to intravenous forms, especially in the treatment of functional iron deficiency, and has unfavorable patient tolerability and gastro-intestinal side-effect profiles", 
+        "relevance": 1,
+        "seq":4,
+        "url":"https://www.clinicaltrials.gov/study/NCT03610230",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "The goal of this clinical trial is to learn if giving iron supplementation every other day is as effective as giving it daily in children with Iron Deficiency Anemia. Will alternate day regimen improve hemoglobin and iron profile just as well as daily dose? Which group will suffer less side effects from Iron Supplementation? will receive oral Iron supplementation daily for 2 months Group B: will receive oral Iron supplementation every other day for 2 months Participants will be monitored using weekly phone calls to insure compliance and report side effects. Both groups will be given Albendazole 400 mg once at the beginning of the study to be repeated in 1 week",
+        "relevance": 1,
+        "seq":5,
+        "url":"https://www.clinicaltrials.gov/study/NCT06631612",
+        "description":""
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Lactoferrin Efficacy Versus Ferrous Sulfate in Treatment of Patients With Iron Deficiency Anemia.Lactoferrin (Lf) is a mammalian cationic iron binding glycoprotein belonging to the transferrin family which was discovered 70 years ago, and isolated simultaneously from human and bovine milks in 1960. It is widely distributed in all biological fluids and is also expressed by immune cells, which release it under stimulation by pathogens. Lactoferrin Efficacy Versus Ferrous Sulfate in Treatment of Patients With Iron Deficiency Anemia",
+        "relevance": 0,
+        "seq":1,
+        "url":"https://www.clinicaltrials.gov/study/NCT04267653",
+        "description":"discusses a study comparing the efficacy of lactoferrin versus ferrous sulfate in treating iron deficiency anemia. Lactoferrin is described as a mammalian cationic iron binding glycoprotein that belongs to the transferrin family. This suggests it may be used as an alternative to traditional iron supplements.."
+      },
+         {
+        "doc_id": "DOC907",
+        "text": "Investigation of gastrointestinal tolerability, treatment compliance and iron status markers in patients with iron deficiency anemia who received oral iron replacement therapy with versus without concomitant probiotic supplementation .A total of 295 patients, with newly diagnosed iron deficiency anemia (IDA) who were planned to receive routine oral IRT were included in this prospective randomized non-placebo, controlled 3-month follow-up study. Patients were randomly assigned via simple randomization method to receive either iron replacement therapy (IRT) alone or IRT plus L. plantarum 299v probiotic support . Adult (aged older than18 years) treatment-naïve patients diagnosed with newly diagnosed IDA without previous IRT were included in the study, while those with irritable bowel syndrome, previous IRT therapy or intolerance to IRT and those with a known chronic disease (i.e., inflammatory bowel disease (IBD), celiac disease) or untreated active menometrorrhagia and hemorrhoid were excluded from the study.",
+        "relevance": 0,
+        "seq":9,
+        "url":"https://www.clinicaltrials.gov/study/NCT06521879",
+        "description":"mentions the use of blood products as a treatment for iron deficiency anemia in emergency department settings. While not explicitly stated as a non-iron treatment, blood transfusions can be used to treat severe anemia without direct iron supplementation."
+      },
+              {
+        "doc_id": "DOC907",
+        "text": "The investigators will retrospectively collect data of patients infused at UMC's emergency department (ED) with long acting irons (ferric carboxymaltose, iron dextran, iron sucrose, etc.), in addition, patients infused with blood products, with intent to treat iron deficiency anemia (IDA). Patient records reviewed will be from patients who were infused at UMC ED from January 2013 to June 2018. Primary aim of analysis will be to investigate superiority between interventions implemented for treating IDA. In addition, the investigators will utilize data to characterize patients who used ED services as an avenue to receive treatment for IDA. Further, the investigators will conduct cost analysis between different IDA directed treatments administered in the ED at UMC. Iron deficiency anemia (IDA) is a condition that impacts approximately 2-billion people globally, and impacts individuals from all socioeconomic backgrounds, making it one of the most common nutritional disorders in the world. In any population, women and children are the groups that are more susceptible to suffering from IDA [3]. IDA has broad influences on the health of an individual, ranging from cognitive decline to motor deficits. When coupled with pregnancy, IDA has been shown to be associated with low birth weight and carries an increased risk of maternal and perinatal mortality. In addition to women and children, the prevalence of IDA has been found to increase with age, and with chronic disease. ",
+        "relevance": 0,
+        "seq":10,
+        "url":"https://www.clinicaltrials.gov/study/NCT05153278",
+        "description":"describes a study investigating the use of probiotics alongside oral iron replacement therapy. While this is not a standalone treatment without iron, it suggests that probiotics may play a role in improving gastrointestinal tolerability and treatment compliance in anemia patients."
+      }
+    ]
+  }
+
+  
+]
