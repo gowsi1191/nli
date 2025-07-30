@@ -1,0 +1,104 @@
+{
+  "example_1": [
+    {
+      "doc_id": "DOC001",
+      "relevance": 0,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.0031884207855910063,
+      "neutral": 0.9965464472770691,
+      "contradiction": 0.00026519680977799,
+      "combined_en": 0.9997348680626601,
+      "nli_time": 0.0893
+    },
+    {
+      "doc_id": "DOC002",
+      "relevance": 0,
+      "best_hypothesis": "The treatment approach in this study excludes any modifications to diet and focuses on methods unrelated to food intake.",
+      "entailment": 0.23116780817508698,
+      "neutral": 0.6595481038093567,
+      "contradiction": 0.10928400605916977,
+      "combined_en": 0.8907159119844437,
+      "nli_time": 0.228
+    },
+    {
+      "doc_id": "DOC004",
+      "relevance": 0,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.48599541187286377,
+      "neutral": 0.4992419183254242,
+      "contradiction": 0.014762685634195805,
+      "combined_en": 0.985237330198288,
+      "nli_time": 0.2232
+    },
+    {
+      "doc_id": "DOC010",
+      "relevance": 0,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.005985458847135305,
+      "neutral": 0.9934305548667908,
+      "contradiction": 0.000583919114433229,
+      "combined_en": 0.9994160137139261,
+      "nli_time": 0.0592
+    },
+    {
+      "doc_id": "DOC003",
+      "relevance": 1,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.1537618488073349,
+      "neutral": 0.8392981290817261,
+      "contradiction": 0.006940013263374567,
+      "combined_en": 0.993059977889061,
+      "nli_time": 0.1781
+    },
+    {
+      "doc_id": "DOC005",
+      "relevance": 1,
+      "best_hypothesis": "This document evaluates non-nutritional methods to manage IBS, excluding any dietary planning or food-based strategies.",
+      "entailment": 0.07285201549530029,
+      "neutral": 0.9073147773742676,
+      "contradiction": 0.019833184778690338,
+      "combined_en": 0.9801667928695679,
+      "nli_time": 0.1532
+    },
+    {
+      "doc_id": "DOC006",
+      "relevance": 1,
+      "best_hypothesis": "IBS symptom management in this study is achieved through non-dietary means like behavioral therapy, medications, or physical practices.",
+      "entailment": 0.038128286600112915,
+      "neutral": 0.958095371723175,
+      "contradiction": 0.0037763603031635284,
+      "combined_en": 0.996223658323288,
+      "nli_time": 0.1647
+    },
+    {
+      "doc_id": "DOC007",
+      "relevance": 1,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.10653841495513916,
+      "neutral": 0.8684617877006531,
+      "contradiction": 0.02499978058040142,
+      "combined_en": 0.9750002026557922,
+      "nli_time": 0.2195
+    },
+    {
+      "doc_id": "DOC008",
+      "relevance": 1,
+      "best_hypothesis": "The treatment approach in this study excludes any modifications to diet and focuses on methods unrelated to food intake.",
+      "entailment": 0.0011479624081403017,
+      "neutral": 0.998105525970459,
+      "contradiction": 0.0007464521913789213,
+      "combined_en": 0.9992534883785993,
+      "nli_time": 0.0636
+    },
+    {
+      "doc_id": "DOC009",
+      "relevance": 1,
+      "best_hypothesis": "This document evaluates non-nutritional methods to manage IBS, excluding any dietary planning or food-based strategies.",
+      "entailment": 0.9932035207748413,
+      "neutral": 0.005633143708109856,
+      "contradiction": 0.0011632489040493965,
+      "combined_en": 0.9988366644829512,
+      "nli_time": 0.2293
+    }
+  ]
+}

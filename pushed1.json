@@ -1,0 +1,104 @@
+{
+  "example_2": [
+    {
+      "doc_id": "DOC001",
+      "relevance": 0,
+      "best_hypothesis": "The treatment approach described for atrial fibrillation excludes anticoagulant therapy and instead focuses on alternative interventions.",
+      "entailment": 0.006787915248423815,
+      "neutral": 0.9885862469673157,
+      "contradiction": 0.004625835921615362,
+      "combined_en": 0.9953741622157395,
+      "nli_time": 0.0963
+    },
+    {
+      "doc_id": "DOC002",
+      "relevance": 0,
+      "best_hypothesis": "This study evaluates atrial fibrillation management strategies that do not involve the use of anticoagulants.",
+      "entailment": 0.08530401438474655,
+      "neutral": 0.29029688239097595,
+      "contradiction": 0.6243990659713745,
+      "combined_en": 0.3756008967757225,
+      "nli_time": 0.0699
+    },
+    {
+      "doc_id": "DOC007",
+      "relevance": 0,
+      "best_hypothesis": "The management strategies for atrial fibrillation in this study are non-anticoagulant based, such as ablation, rate control, or lifestyle modification.",
+      "entailment": 0.04368768632411957,
+      "neutral": 0.9456923604011536,
+      "contradiction": 0.010620017535984516,
+      "combined_en": 0.9893800467252731,
+      "nli_time": 0.1264
+    },
+    {
+      "doc_id": "DOC009",
+      "relevance": 0,
+      "best_hypothesis": "This study evaluates atrial fibrillation management strategies that do not involve the use of anticoagulants.",
+      "entailment": 0.9179723858833313,
+      "neutral": 0.07686581462621689,
+      "contradiction": 0.005161782260984182,
+      "combined_en": 0.9948382005095482,
+      "nli_time": 0.1618
+    },
+    {
+      "doc_id": "DOC010",
+      "relevance": 0,
+      "best_hypothesis": "This document discusses methods for managing atrial fibrillation that avoid using blood-thinning medications such as warfarin or DOACs.",
+      "entailment": 0.7351398468017578,
+      "neutral": 0.26044610142707825,
+      "contradiction": 0.004414009861648083,
+      "combined_en": 0.9955859482288361,
+      "nli_time": 0.0858
+    },
+    {
+      "doc_id": "DOC003",
+      "relevance": 1,
+      "best_hypothesis": "This study evaluates atrial fibrillation management strategies that do not involve the use of anticoagulants.",
+      "entailment": 0.047085266560316086,
+      "neutral": 0.9446601867675781,
+      "contradiction": 0.008254611864686012,
+      "combined_en": 0.9917454533278942,
+      "nli_time": 0.129
+    },
+    {
+      "doc_id": "DOC004",
+      "relevance": 1,
+      "best_hypothesis": "This document discusses methods for managing atrial fibrillation that avoid using blood-thinning medications such as warfarin or DOACs.",
+      "entailment": 0.030171483755111694,
+      "neutral": 0.9642452597618103,
+      "contradiction": 0.005583225749433041,
+      "combined_en": 0.994416743516922,
+      "nli_time": 0.0635
+    },
+    {
+      "doc_id": "DOC005",
+      "relevance": 1,
+      "best_hypothesis": "The management strategies for atrial fibrillation in this study are non-anticoagulant based, such as ablation, rate control, or lifestyle modification.",
+      "entailment": 0.0408935621380806,
+      "neutral": 0.9267880320549011,
+      "contradiction": 0.0323183536529541,
+      "combined_en": 0.9676815941929817,
+      "nli_time": 0.063
+    },
+    {
+      "doc_id": "DOC006",
+      "relevance": 1,
+      "best_hypothesis": "The management strategies for atrial fibrillation in this study are non-anticoagulant based, such as ablation, rate control, or lifestyle modification.",
+      "entailment": 0.17131395637989044,
+      "neutral": 0.8125030398368835,
+      "contradiction": 0.016183048486709595,
+      "combined_en": 0.983816996216774,
+      "nli_time": 0.2454
+    },
+    {
+      "doc_id": "DOC008",
+      "relevance": 1,
+      "best_hypothesis": "The management strategies for atrial fibrillation in this study are non-anticoagulant based, such as ablation, rate control, or lifestyle modification.",
+      "entailment": 0.0845741257071495,
+      "neutral": 0.8839477300643921,
+      "contradiction": 0.031478144228458405,
+      "combined_en": 0.9685218557715416,
+      "nli_time": 0.0589
+    }
+  ]
+}

@@ -1,0 +1,1067 @@
+[
+
+{
+  "query": "Non-pharmacological pain relief approaches for fibromyalgia patients, not including acupuncture or transcutaneous electrical nerve stimulation (TENS)",
+  "documents": [
+    {
+      "relevance": 1,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT05361577"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT00750321"
+    },
+    {
+      "relevance": 1,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT06834308"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT00088777"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT05937711"
+    },
+    {
+      "relevance": 0,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT04217681"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT00086060"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT00142597"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT01888640"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT06912334"
+    }
+  ]
+}
+,
+{
+  "query": "Therapeutic strategies for chronic insomnia in older adults, explicitly not involving melatonin or cognitive behavioral therapy for insomnia (CBT-I)",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT06073990"
+    },
+    {
+      "relevance": 0,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT00295386"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT06850272"
+    },
+    {
+      "relevance": 1,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT02798367"
+    },
+    {
+      "relevance": 0,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT04384822"
+    },
+    {
+      "relevance": 0,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT03774810"
+    },
+    {
+      "relevance": 1,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT03117777"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT06791356"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT00462618"
+    },
+    {
+      "relevance": 0,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT05301543"
+    }
+  ]
+}
+,
+{
+  "query": "Treatment of opioid use disorder without methadone or buprenorphine in pregnant populations",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT03098407"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT03918850"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT04049799"
+    },
+    {
+      "relevance": 1,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT03911466"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT03291847"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT04240392"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT03024736"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT03911739"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT03923374"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT04049032"
+    }
+  ]
+}
+,
+{
+  "query": "Targeted therapies for cancers lacking specific oncogenic receptor expression",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT04821778"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT05063643"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT06307249"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT05225844"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT06889649"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT04188847"
+    },
+    {
+      "relevance": 1,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT03185988"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT04656249"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT05983107"
+    }
+  ]
+}
+,
+{
+  "query": "Estimates of the burden of unreported sexually transmitted infections",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT04793841"
+    },
+    {
+      "relevance": 0,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT06793605"
+    },
+    {
+      "relevance": 1,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT03941158"
+    },
+    {
+      "relevance": 1,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT05983679"
+    },
+    {
+      "relevance": 0,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT06129253"
+    },
+    {
+      "relevance": 0,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT06860945"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT01060839"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT05872438"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT05244967"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT04921618"
+    }
+  ]
+},
+{
+  "query": "Conditions mimicking stroke symptoms but not directly caused by cerebral ischemia",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT00206908"
+    },
+    {
+      "relevance": 0,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT04109248"
+    },
+    {
+      "relevance": 1,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT05748587"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT05815836"
+    },
+    {
+      "relevance": 0,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT06262217"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT02641678"
+    },
+    {
+      "relevance": 1,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT04951518"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT02368145"
+    },
+    {
+      "relevance": 0,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT06045455"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT04277728"
+    }
+  ]
+}
+,
+{
+  "query": "Benefits of minimally invasive techniques for prostatectomy",
+  "documents": [
+    {
+      "relevance": 1,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT00064649"
+    },
+    {
+      "relevance": 0,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT06839768"
+    },
+    {
+      "relevance": 1,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT01407263"
+    },
+    {
+      "relevance": 1,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT06275256"
+    },
+    {
+      "relevance": 0,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT03043222"
+    },
+    {
+      "relevance": 0,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT01325506"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT05155501"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT06754488"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT05853133"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT02558946"
+    }
+  ]
+}
+,
+{
+  "query": "Studies on obesity interventions in individuals free from metabolic syndrome",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT03056937"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT00416741"
+    },
+    {
+      "relevance": 1,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT04116905"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT01959763"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT03836651"
+    },
+    {
+      "relevance": 0,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT02233088"
+    },
+    {
+      "relevance": 1,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT02899910"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT01043770"
+    },
+    {
+      "relevance": 0,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT01008878"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT06271200"
+    }
+  ]
+}
+,
+{
+  "query": "Case reports of uncommon adverse effects of COVID-19 vaccines",
+  "documents": [
+    {
+      "relevance": 1,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT04686409"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT05026879"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT06107348"
+    },
+    {
+      "relevance": 1,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT05735769"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT05685953"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT05113472"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT05126992"
+    },
+    {
+      "relevance": 0,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT05234333"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT05254977"
+    },
+    {
+      "relevance": 0,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT05212610"
+    }
+  ]
+}
+,
+{
+  "query": "Environmental influences on Parkinson's disease excluding known genetic predispositions",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT00367900"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT00104585"
+    },
+    {
+      "relevance": 1,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT01351467"
+    },
+    {
+      "relevance": 1,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT00105131"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT00001640"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT00282802"
+    },
+    {
+      "relevance": 1,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT01558479"
+    },
+    {
+      "relevance": 0,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT00044590"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT00042107"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT01996878"
+    }
+  ]
+}
+,
+{
+  "query": "Novel therapies for cystic fibrosis not yet approved by regulatory bodies",
+  "documents": [
+    {
+      "relevance": 1,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT04353752"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT01208285"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT05526027"
+    },
+    {
+      "relevance": 1,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT01626157"
+    },
+    {
+      "relevance": 0,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT04279769"
+    },
+    {
+      "relevance": 0,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT05504837"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT01543191"
+    },
+    {
+      "relevance": 0,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT00351078"
+    },
+    {
+      "relevance": 0,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT04602468"
+    },
+    {
+      "relevance": 0,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT01944735"
+    }
+  ]
+}
+,
+
+{
+  "query": "Management strategies for MRSA infections that are unresponsive to vancomycin",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT03412500"
+    },
+    {
+      "relevance": 0,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT00304811"
+    },
+    {
+      "relevance": 1,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT00388310"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT00862862"
+    },
+    {
+      "relevance": 0,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT01724671"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT05395520"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT00324922"
+    },
+    {
+      "relevance": 0,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT01975662"
+    },
+    {
+      "relevance": 0,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT00217841"
+    },
+    {
+      "relevance": 0,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT05225558"
+    }
+  ]
+}
+,
+{
+  "query": "Conservative management of spinal stenosis not requiring surgery",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT00022776"
+    },
+    {
+      "relevance": 0,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT04492774"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT05315466"
+    },
+    {
+      "relevance": 1,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT06665360"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT04330885"
+    },
+    {
+      "relevance": 0,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT01943435"
+    },
+    {
+      "relevance": 1,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT04563793"
+    },
+    {
+      "relevance": 0,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT05273346"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT01829997"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT02154191"
+    }
+  ]
+}
+,
+{
+  "query": "Neuropathic pain management excluding diabetic neuropathy",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT07054450"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT01263132"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT06029075"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT02159170"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT07081425"
+    },
+    {
+      "relevance": 0,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT00619983"
+    },
+    {
+      "relevance": 1,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT01345045"
+    },
+    {
+      "relevance": 0,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT05986292"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT00548925"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT02783469"
+    }
+  ]
+}
+
+,
+
+{
+  "query": "Research on the causes of unexplained infertility",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT02272439"
+    },
+    {
+      "relevance": 0,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT06481696"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT06491251"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT02349750"
+    },
+    {
+      "relevance": 0,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT02084914"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT01672801"
+    },
+    {
+      "relevance": 1,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT02861105"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT04754243"
+    },
+    {
+      "relevance": 0,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT03397693"
+    },
+    {
+      "relevance": 0,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT03401918"
+    }
+  ]
+}
+,
+
+{
+  "query": "Differential diagnosis for seizures beyond typical epileptic presentations",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT03822741"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT01620840"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT06960811"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT06814665"
+    },
+    {
+      "relevance": 0,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT05725174"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT01283256"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT03934268"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT05339126"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT03443388"
+    },
+    {
+      "relevance": 1,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT00433667"
+    }
+  ]
+}
+,
+
+
+{
+  "query": "Incidence of myocardial infarction in individuals with no traditional risk factors",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT06716177"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT02641184"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT06199869"
+    },
+    {
+      "relevance": 1,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT04186676"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT04073810"
+    },
+    {
+      "relevance": 0,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT01585948"
+    },
+    {
+      "relevance": 1,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT04427046"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT01551875"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT03364387"
+    },
+    {
+      "relevance": 0,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT07049302"
+    }
+  ]
+}
+,
+
+{
+  "query": "Use of biologics in rheumatoid arthritis patients with contraindications to methotrexate",
+  "documents": [
+    {
+      "relevance": 0,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT03737708"
+    },
+    {
+      "relevance": 0,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT01866150"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT01834807"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT01640548"
+    },
+    {
+      "relevance": 0,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT01021735"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT02288520"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT01870908"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT00298272"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT00195702"
+    },
+    {
+      "relevance": 0,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT01791205"
+    }
+  ]
+}
+,
+{
+  "query": "Surgical techniques for cholecystectomy without bile duct injury",
+  "documents": [
+    {
+      "relevance": 1,
+      "seq": 1,
+      "url": "https://www.clinicaltrials.gov/study/NCT02978989"
+    },
+    {
+      "relevance": 1,
+      "seq": 2,
+      "url": "https://www.clinicaltrials.gov/study/NCT05243225"
+    },
+    {
+      "relevance": 0,
+      "seq": 3,
+      "url": "https://www.clinicaltrials.gov/study/NCT01397565"
+    },
+    {
+      "relevance": 0,
+      "seq": 4,
+      "url": "https://www.clinicaltrials.gov/study/NCT00689663"
+    },
+    {
+      "relevance": 1,
+      "seq": 5,
+      "url": "https://www.clinicaltrials.gov/study/NCT02085902"
+    },
+    {
+      "relevance": 1,
+      "seq": 6,
+      "url": "https://www.clinicaltrials.gov/study/NCT03308955"
+    },
+    {
+      "relevance": 0,
+      "seq": 7,
+      "url": "https://www.clinicaltrials.gov/study/NCT04512560"
+    },
+    {
+      "relevance": 1,
+      "seq": 8,
+      "url": "https://www.clinicaltrials.gov/study/NCT05681338"
+    },
+    {
+      "relevance": 1,
+      "seq": 9,
+      "url": "https://www.clinicaltrials.gov/study/NCT03437187"
+    },
+    {
+      "relevance": 0,
+      "seq": 10,
+      "url": "https://www.clinicaltrials.gov/study/NCT00979186"
+    }
+  ]
+}
+]

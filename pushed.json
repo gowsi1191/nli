@@ -1,0 +1,104 @@
+{
+  "example_1": [
+    {
+      "doc_id": "DOC001",
+      "relevance": 0,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.041884854435920715,
+      "neutral": 0.9574564099311829,
+      "contradiction": 0.0006586738163605332,
+      "combined_en": 0.9993412643671036,
+      "nli_time": 0.167
+    },
+    {
+      "doc_id": "DOC002",
+      "relevance": 0,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.001608258462511003,
+      "neutral": 0.9982057809829712,
+      "contradiction": 0.00018596119480207562,
+      "combined_en": 0.9998140394454822,
+      "nli_time": 1.6388
+    },
+    {
+      "doc_id": "DOC004",
+      "relevance": 0,
+      "best_hypothesis": "IBS symptoms in this study are treated with methods unrelated to dietary habits, such as psychological, pharmacologic, or integrative therapies.",
+      "entailment": 0.0007660441333428025,
+      "neutral": 0.9990399479866028,
+      "contradiction": 0.00019395393610466272,
+      "combined_en": 0.9998059921199456,
+      "nli_time": 1.1617
+    },
+    {
+      "doc_id": "DOC010",
+      "relevance": 0,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.995689332485199,
+      "neutral": 0.003809962421655655,
+      "contradiction": 0.000500667083542794,
+      "combined_en": 0.9994992949068546,
+      "nli_time": 0.136
+    },
+    {
+      "doc_id": "DOC003",
+      "relevance": 1,
+      "best_hypothesis": "This document evaluates non-nutritional methods to manage IBS, excluding any dietary planning or food-based strategies.",
+      "entailment": 0.0015899883583188057,
+      "neutral": 0.9982160925865173,
+      "contradiction": 0.00019379159493837506,
+      "combined_en": 0.9998060809448361,
+      "nli_time": 0.5755
+    },
+    {
+      "doc_id": "DOC005",
+      "relevance": 1,
+      "best_hypothesis": "This document evaluates non-nutritional methods to manage IBS, excluding any dietary planning or food-based strategies.",
+      "entailment": 0.0014398542698472738,
+      "neutral": 0.9977903366088867,
+      "contradiction": 0.0007697882829234004,
+      "combined_en": 0.999230190878734,
+      "nli_time": 0.5126
+    },
+    {
+      "doc_id": "DOC006",
+      "relevance": 1,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.000991875771433115,
+      "neutral": 0.9987694621086121,
+      "contradiction": 0.00023859723296482116,
+      "combined_en": 0.9997613378800452,
+      "nli_time": 0.5697
+    },
+    {
+      "doc_id": "DOC007",
+      "relevance": 1,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.0007153262267820537,
+      "neutral": 0.9985083937644958,
+      "contradiction": 0.000776254222728312,
+      "combined_en": 0.9992237199912779,
+      "nli_time": 0.762
+    },
+    {
+      "doc_id": "DOC008",
+      "relevance": 1,
+      "best_hypothesis": "This study treats IBS symptoms using non-dietary therapies and does not rely on changes to food or nutrition.",
+      "entailment": 0.0006979728932492435,
+      "neutral": 0.998813271522522,
+      "contradiction": 0.0004887431277893484,
+      "combined_en": 0.9995112444157712,
+      "nli_time": 0.1865
+    },
+    {
+      "doc_id": "DOC009",
+      "relevance": 1,
+      "best_hypothesis": "This trial uses non-diet interventions to address IBS, without including nutritional counseling, food restriction, or dietary supplements.",
+      "entailment": 0.0009385714656673372,
+      "neutral": 0.9988675117492676,
+      "contradiction": 0.00019397150026634336,
+      "combined_en": 0.9998060832149349,
+      "nli_time": 1.402
+    }
+  ]
+}

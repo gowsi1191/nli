@@ -8,19 +8,22 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from sentence_transformers import SentenceTransformer, util
 
 
-def chunk_document_sliding(doc, tokenizer):
+def chunk_document_sliding(doc, tokenizer, chunk_size=80, overlap=20):
     tokens = tokenizer.tokenize(doc)
     total_tokens = len(tokens)
-    chunk_size = 100
-    overlap = 20
     step = chunk_size - overlap
     chunks = []
+    
     for i in range(0, total_tokens, step):
         chunk_tokens = tokens[i:i + chunk_size]
+        if len(chunk_tokens) < 10:  # Skip tiny trailing chunks
+            continue
         chunk_text = tokenizer.convert_tokens_to_string(chunk_tokens)
-        if chunk_text:
+        if chunk_text.strip():
             chunks.append(chunk_text)
+    
     return chunks
+
 
 
 def chunk_document_sentence_window(doc, window=2):
@@ -46,7 +49,7 @@ class ModelOperations:
     def compute_best_nli_scores(self, query, doc):
         strategies = {
             "sliding": chunk_document_sliding(doc, self.nli_tokenizer),
-            "sentence": chunk_document_sentence_window(doc)
+            # "sentence": chunk_document_sentence_window(doc)
         }
         best_score = -1.0
         best_scores = {label: 0.0 for label in self.label_order}
@@ -79,15 +82,19 @@ class ModelOperations:
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     base_dir = os.path.join(script_dir, "json", "data")
-    other_ids = {1, 10, 11, 12, 14,2, 3, 4, 5, 6, 8, 13,16, 18, 20, 24,  15, 17, 19, 21, 22, 23}
-    {
-#   "3_4": [1, 10, 11, 12, 14,],
-#   "others": [2, 3, 4, 5, 6, 8, 13,16, 18, 20, 24,  15, 17, 19, 21, 22, 23]
-}
+    other_ids = {1,2,3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53}
+
+    # other_ids = {34}
+    # other_ids = set(range(1, 22))
+
+#     {
+# #   "3_4": [1, 10, 11, 12, 14,],
+# #   "others": [2, 3, 4, 5, 6, 8, 13,16, 18, 20, 24,  15, 17, 19, 21, 22, 23]
+# }
 
     examples = []
     for query_id in other_ids:
-        input_path = os.path.join(base_dir, f"query{query_id}.json")
+        input_path = os.path.join(base_dir, f"new/query{query_id}.json")
         if not os.path.exists(input_path):
             print(f"⚠️ File not found: {input_path}")
             continue

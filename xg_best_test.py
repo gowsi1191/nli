@@ -13,50 +13,58 @@ os.makedirs(output_dir, exist_ok=True)
 
 # === Model mapping based on test file name ===
 model_map = {
-    "testDeBERTa-v3-base_(MNLI_FEVER_ANLI)": "xgb_model_evaluation_results_testDeBERTa-v3-base_(MNLI_FEVER_ANLI).json",
-    "testcross-encoder_nli-deberta-base": "xgb_model_-encoder_nli-deberta-base.json"
+    "testDeBERTa-v3-base_(MNLI_FEVER_ANLI)": "xgb_model_DeBERTa-v3-base_(MNLI_FEVER_ANLI).json",
+    "testcross-encoder_nli-deberta-base": "xgb_model_cross-encoder_nli-deberta-base.json"
 }
 
 
-# === Custom sigmoid on entailment ===
-def custom_sigmoid_linear_e(e):
-    return 1 / (1 + np.exp(-12 * (e - 0.3)))
-
-# === Evaluation metrics ===
 def evaluate(df):
     query_groups = df.groupby("example_id")
     total_queries = len(query_groups)
 
-    p3_hits = 0
-    rr4s, ndcg4s = [], []
+    p_at_k_list = []
+    rr_list = []
+    ndcg_list = []
 
     for _, group in query_groups:
         ranked = group.sort_values(by="score", ascending=False).reset_index(drop=True)
-        top3 = ranked.iloc[:3]
-        p3_hits += (top3["true_label"] == 0).sum()
+        
+        # Dynamically determine K = # of relevant docs
+        k = sum(group["true_label"] == 0)
 
-        # MRR@4
-        rr4 = 0
-        for rank, (_, row) in enumerate(ranked.iloc[:4].iterrows(), start=1):
+        if k == 0:
+            continue  # skip queries with no relevant docs
+
+        # Compute P@K
+        top_k = ranked.iloc[:k]
+        correct_hits = sum(top_k["true_label"] == 0)
+        p_at_k = correct_hits / k
+        p_at_k_list.append(p_at_k)
+
+        # MRR@K (first correct hit in top K)
+        rr = 0
+        for rank, (_, row) in enumerate(ranked.iloc[:k].iterrows(), start=1):
             if row["true_label"] == 0:
-                rr4 = 1 / rank
+                rr = 1 / rank
                 break
-        rr4s.append(rr4)
+        rr_list.append(rr)
 
-        # nDCG@4
+        # nDCG@K
         def dcg(labels):
             return sum([(1 if rel == 0 else 0) / log2(i + 2) for i, rel in enumerate(labels)])
-        actual4 = ranked.iloc[:4]["true_label"].tolist()
-        ideal4 = sorted(actual4, key=lambda x: 0 if x == 0 else 1)
-        dcg_val = dcg(actual4)
-        idcg_val = dcg(ideal4)
-        ndcg4s.append(dcg_val / idcg_val if idcg_val != 0 else 0)
+        actual = ranked.iloc[:k]["true_label"].tolist()
+        ideal = sorted(actual, key=lambda x: 0 if x == 0 else 1)
+        dcg_val = dcg(actual)
+        idcg_val = dcg(ideal)
+        ndcg = dcg_val / idcg_val if idcg_val != 0 else 0
+        ndcg_list.append(ndcg)
 
     return {
-        "P@3": p3_hits / (total_queries * 3),
-        "MRR@4": mean(rr4s),
-        "nDCG@4": mean(ndcg4s),
+        "P@K (Dynamic)": round(mean(p_at_k_list), 4) if p_at_k_list else 0.0,
+        "MRR@K (Dynamic)": round(mean(rr_list), 4) if rr_list else 0.0,
+        "nDCG@K (Dynamic)": round(mean(ndcg_list), 4) if ndcg_list else 0.0
     }
+
 
 # === Process each NLI test file ===
 for filename in os.listdir(nli_dir):
@@ -85,10 +93,11 @@ for filename in os.listdir(nli_dir):
     for ex_id, ex in test_data.get("Explicit_NOT", {}).items():
         if "Roberta" not in ex:
             continue
-
+        example_num = int(ex_id.split("_")[1])
+        if example_num not in test_ids:
+            continue
         for doc in ex["Roberta"]["ranking"]:
             e, n, c = doc["e"], doc["n"], doc["c"]
-            sig_e = custom_sigmoid_linear_e(e)
 
             X_test.append([e, n, c])
             rows.append({

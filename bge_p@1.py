@@ -1,80 +1,86 @@
 import json
 import math
 
-# Load the JSON file
+# === Load JSON ===
 with open("evaluation_results_testDeBERTa-v3-base_(MNLI_FEVER_ANLI).json", "r") as f:
     data = json.load(f)
 
-# Initialize counters
-total_queries = 0
-p_at_3_sum = 0.0
-p_at_5_sum = 0.0
-mrr_5_sum = 0.0
-ndcg_3_sum = 0.0
-ndcg_5_sum = 0.0
+# === Set of test IDs to include ===
+test_ids = {6, 12, 13, 14, 15, 32, 35, 36, 38, 39, 40, 41}
 
-# Function for DCG calculation
+# === Metric accumulators ===
+total_queries = 0
+p_at_k_sum = 0.0
+mrr_sum = 0.0
+ndcg_sum = 0.0
+
+# === DCG Helper ===
 def dcg_at_k(rels, k):
     return sum((1 if rel == 0 else 0) / math.log2(i + 2) for i, rel in enumerate(rels[:k]))
 
-# Loop through each query
+# === Loop through JSON ===
 for query_id, query_data in data.get("Explicit_NOT", {}).items():
     if "BGE" not in query_data:
         continue
 
-    bge_docs = query_data["BGE"]["ranking"]
-    if len(bge_docs) < 5:
+    # Extract example number from ID string (e.g., "example_3" -> 3)
+    query_num = int(query_id.split("_")[1])
+    if query_num not in test_ids:
         continue
 
-    # Sort by score descending
+    bge_docs = query_data["BGE"]["ranking"]
+    if len(bge_docs) == 0:
+        continue
+
+    # Sort by BGE score
     sorted_docs = sorted(bge_docs, key=lambda x: x["score"], reverse=True)
-
-    # ✅ PRINT DOC ID, SCORE, RELEVANCE, RANK
-    print(f"\n📌 Query ID: {query_id}")
-    print("Rank\tDoc ID\t\tScore\t\tRelevance")
-    for rank, doc in enumerate(sorted_docs, start=1):
-        print(f"{rank}\t{doc['doc_id']}\t{doc['score']:.6f}\t{doc['relevance']}")
-
     rels = [doc["relevance"] for doc in sorted_docs]
 
-    # === Precision@3 and @5 ===
-    p_at_3_sum += rels[:3].count(0) / 3.0
-    p_at_5_sum += rels[:5].count(0) / 5.0
+    # Compute K = number of relevant documents
+    k = sum(1 for rel in rels if rel == 0)
+    if k == 0:
+        continue
 
-    # === MRR@5 ===
+    # P@K
+    top_k = rels[:k]
+    p_at_k = top_k.count(0) / k
+    p_at_k_sum += p_at_k
+
+    # MRR@K
     rr = 0.0
-    for rank, rel in enumerate(rels[:4], start=1):
+    for rank, rel in enumerate(rels[:k], start=1):
         if rel == 0:
-            rr = 1 / rank
+            rr = 1.0 / rank
             break
-    mrr_5_sum += rr
+    mrr_sum += rr
 
-    # === nDCG@3 and @5 ===
-    ideal_rels = sorted(rels[:5], key=lambda x: 0 if x == 0 else 1)
-    dcg_3 = dcg_at_k(rels, 3)
-    dcg_5 = dcg_at_k(rels, 5)
-    idcg_3 = dcg_at_k(ideal_rels, 3)
-    idcg_5 = dcg_at_k(ideal_rels, 5)
-
-    ndcg_3 = dcg_3 / idcg_3 if idcg_3 != 0 else 0.0
-    ndcg_5 = dcg_5 / idcg_5 if idcg_5 != 0 else 0.0
-
-    ndcg_3_sum += ndcg_3
-    ndcg_5_sum += ndcg_5
+    # nDCG@K
+    dcg = dcg_at_k(rels, k)
+    ideal_rels = sorted(rels[:k], key=lambda r: 0 if r == 0 else 1)  # Relevant first
+    idcg = dcg_at_k(ideal_rels, k)
+    ndcg = dcg / idcg if idcg > 0 else 0.0
+    ndcg_sum += ndcg
 
     total_queries += 1
 
-# === Final Metrics ===
-p_at_3 = p_at_3_sum / total_queries if total_queries else 0
-p_at_5 = p_at_5_sum / total_queries if total_queries else 0
-mrr_at_5 = mrr_5_sum / total_queries if total_queries else 0
-ndcg_at_3 = ndcg_3_sum / total_queries if total_queries else 0
-ndcg_at_5 = ndcg_5_sum / total_queries if total_queries else 0
+    # === Output this query's summary ===
+    print(f"\n📌 Query ID: {query_id} (K={k})")
+    print("Rank\tDoc ID\t\tScore\t\tRelevance")
+    for rank, doc in enumerate(sorted_docs, start=1):
+        print(f"{rank}\t{doc['doc_id']}\t{doc['score']:.6f}\t{doc['relevance']}")
+    print(f"🎯 BGE P@{k}: {p_at_k:.4f}")
+    print(f"🔁 MRR@{k}: {rr:.4f}")
+    print(f"📈 nDCG@{k}: {ndcg:.4f}")
 
-# === Print Results ===
-print(f"\n📊 Evaluation Metrics across {total_queries} queries:")
-print(f"🎯 P@3:      {p_at_3:.4f}")
-# print(f"🎯 P@5:      {p_at_5:.4f}")
-print(f"🎯 MRR@4:    {mrr_at_5:.4f}")
-print(f"🎯 nDCG@3:   {ndcg_at_3:.4f}")
-# print(f"🎯 nDCG@5:   {ndcg_at_5:.4f}")
+# === Final Aggregated Results ===
+if total_queries > 0:
+    final_p_at_k = p_at_k_sum / total_queries
+    final_mrr = mrr_sum / total_queries
+    final_ndcg = ndcg_sum / total_queries
+else:
+    final_p_at_k = final_mrr = final_ndcg = 0.0
+
+print(f"\n📊 Final Metrics across {total_queries} queries:")
+print(f"✅ Mean P@K:   {final_p_at_k:.4f}")
+print(f"✅ Mean MRR@K: {final_mrr:.4f}")
+print(f"✅ Mean nDCG@K:{final_ndcg:.4f}")

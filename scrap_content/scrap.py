@@ -1,23 +1,28 @@
 import time
 import json
 import random
+import os
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Function to clean and truncate text to less than 250 tokens
+# Token truncation function
 def clean_and_truncate(text, max_tokens=400):
     if not text:
         return ""
     text = ' '.join(text.split())
-    tokens = text.split()
-    if len(tokens) > max_tokens:
-        tokens = tokens[:max_tokens]
-    return ' '.join(tokens)
+    return ' '.join(text.split()[:max_tokens])
 
-# Set up Selenium WebDriver in headless mode
+# Safe text extractor
+def safe_get_text(driver, by, value):
+    try:
+        return driver.find_element(by, value).text.strip()
+    except:
+        return ""
+
+# Headless browser setup
 options = Options()
 options.add_argument("--headless")
 options.add_argument("--disable-gpu")
@@ -25,108 +30,53 @@ options.add_argument("--no-sandbox")
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 
-# Define all URLs and their relevance labels
-all_entries =[
-  {
-    "relevance": 0,
-    "seq": 1,
-    "url": "https://www.clinicaltrials.gov/study/NCT06352060"
-  },
-  {
-    "relevance": 0,
-    "seq": 2,
-    "url": "https://www.clinicaltrials.gov/study/NCT03570047"
-  },
-  {
-    "relevance": 0,
-    "seq": 4,
-    "url": "https://www.clinicaltrials.gov/study/NCT02461602"
-  },
-  {
-    "relevance": 0,
-    "seq": 6,
-    "url": "https://www.clinicaltrials.gov/study/NCT00623779"
-  },
-  {
-    "relevance": 0,
-    "seq": 10,
-    "url": "https://www.clinicaltrials.gov/study/NCT03382613"
-  },
-  {
-    "relevance": 1,
-    "seq": 3,
-    "url": "https://www.clinicaltrials.gov/study/NCT03002740"
-  },
-  {
-    "relevance": 1,
-    "seq": 5,
-    "url": "https://www.clinicaltrials.gov/study/NCT05262322"
-  },
-  {
-    "relevance": 1,
-    "seq": 7,
-    "url": "https://www.clinicaltrials.gov/study/NCT06151132"
-  },
-  {
-    "relevance": 1,
-    "seq": 8,
-    "url": "https://www.clinicaltrials.gov/study/NCT02964546"
-  },
-  {
-    "relevance": 1,
-    "seq": 9,
-    "url": "https://www.clinicaltrials.gov/study/NCT03280641"
-  }
-]
+# Load demo.json
+with open("demo.json", "r") as f:
+    demo_data = json.load(f)
 
+start_id = 35
 
+for idx, query_entry in enumerate(demo_data):
+    query_id = str(start_id + idx)
+    query_text = query_entry.get("query", "")
+    documents = query_entry.get("documents", [])
 
+    scraped_docs = []
 
+    for doc in documents:
+        url = doc.get("url")
+        seq = doc.get("seq")
+        relevance = doc.get("relevance", 1)
 
+        driver.get(url)
+        time.sleep(random.uniform(1.5, 2.5))
 
+        title = clean_and_truncate(safe_get_text(driver, By.ID, "official-title-content"))
+        brief = clean_and_truncate(safe_get_text(driver, By.ID, "brief-summary"))
+        detail = clean_and_truncate(safe_get_text(driver, By.ID, "detailed-description"))
 
+        full_text = " ".join([title, brief, detail])
 
+        scraped_docs.append({
+            "doc_id": f"DOC{seq:03}",
+            "text": full_text,
+            "relevance": relevance,
+            "seq": seq,
+            "url": url,
+            "description": ""
+        })
 
+    output = [{
+        "id": query_id,
+        "query": query_text,
+        "documents": scraped_docs
+    }]
 
+    output_file = f"query{query_id}.json"
+    with open(output_file, "w") as out_f:
+        json.dump(output, out_f, indent=2)
 
-results = []
-
-# Scrape each URL
-for entry in all_entries:
-    seq = entry["seq"]
-    url = entry["url"]
-    relevance = entry["relevance"]
-    driver.get(url)
-
-    # Random wait to avoid rate-limiting
-    time.sleep(random.uniform(1, 2))
-
-    def safe_get_text(by, value):
-        try:
-            return driver.find_element(by, value).text.strip()
-        except:
-            return ""
-
-    # Extract and truncate content from specified IDs
-    official_title = clean_and_truncate(safe_get_text(By.ID, "official-title-content"))
-    brief_summary = clean_and_truncate(safe_get_text(By.ID, "brief-summary"))
-    detailed_description = clean_and_truncate(safe_get_text(By.ID, "detailed-description"))
-
-    full_text = " ".join([official_title, brief_summary, detailed_description])
-
-    results.append({
-        "doc_id": f"DOC{seq:03}",
-        "text": full_text,
-        "relevance": relevance,
-        "seq": seq,
-        "url": url,
-        "description": ""
-    })
+    print(f"✅ Saved: {output_file}")
 
 driver.quit()
-
-# Save as JSON
-with open("clinical_trials_output.json", "w") as f:
-    json.dump(results, f, indent=2)
-
-print("✅ Extracted and saved to clinical_trials_output.json")
+print("🚀 All queries processed.")

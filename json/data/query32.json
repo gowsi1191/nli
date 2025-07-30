@@ -1,0 +1,88 @@
+[
+  {
+    "id": "32",
+    "query": "Management of atrial fibrillation not involving direct oral anticoagulants",
+    "documents": [
+       {
+    "doc_id": "DOC001",
+    "text": "Dynamic Data-Driven Management of Atrial Fibrillation Using Implantable Cardiac Monitors: The MONITOR-AF Study Observational, multi-center, retrospective study to evaluate the use of ICM (implantable cardiac monitor) versus traditional, non-ICM (non-implantable cardiac monitor) methods such as ECGs (electrocardiogram), Holter, and mobile cardiac outpatient telemetry (MCOT) units. Even with its increasing popularity and use, the impact of ICMs on AF (atrial fibrillation) management is still being determined and can even be conflicting. Furthermore, the use of ICM is dependent on physician preference. It is hypothesized that dynamic monitoring with ICMs is superior to conventional methods and should be used for all patients with AF. Thus, it aimed to measure the outcomes of using ICM versus more traditional approaches in patients with AF.",
+    "relevance": 0,
+    "seq": 1,
+    "url": "https://www.clinicaltrials.gov/study/NCT06352060",
+    "description": ""
+  },
+  {
+    "doc_id": "DOC002",
+    "text": "SAFETY AND EFFECTIVENESS EVALUATION OF PATIENTS WITH NON-VALVULAR ATRIAL FIBRILLATION TREATED WITH OACS: COMPARISON BETWEEN NOACS AND WARFARIN (CER3) An anticoagulation therapy is a critical treatment to prevent thromboembolism in non-valvular AF (NVAF) patients. Warfarin, a vitamin K antagonist, is the first oral anticoagulant approved for the treatment for prevention of thromboembolism and it had long been the only oral anticoagulant until the first non-vitamin K antagonist oral anticoagulants (NOACs). However, its safety and effectiveness remains unknown in real-world clinical practice in Japan An anticoagulation therapy is a critical treatment to prevent thromboembolism in non-valvular AF (NVAF) patients. Warfarin, a vitamin K antagonist, is the first oral anticoagulant approved for the treatment for prevention of thromboembolism and it had long been the only oral anticoagulant until the first non-vitamin K antagonist oral anticoagulants (NOACs). However, its safety and effectiveness remains unknown in real-world clinical practice in Japan. This study will evaluate the risk of stroke/SE as well as the risk of bleeding in the real world settings in Japan in patients with NVAF who initiated any of OACs (apixaban, dabigatran, edoxaban, rivaroxaban, or warfarin)",
+    "relevance": 0,
+    "seq": 2,
+    "url": "https://www.clinicaltrials.gov/study/NCT03570047",
+    "description": ""
+  },
+  {
+    "doc_id": "DOC004",
+    "text": "Eliminate Thromboembolism (ELITE): Improving Anticoagulation in Non-valvular Atrial Fibrillation Patients ELITE (Eliminate Thromboembolism: Improving Anticoagulation in Non-valvular Atrial Fibrillation Patients) is a two year research project to assess warfarin management issues faced by atrial fibrillation (AF) patients in ambulatory settings. ELITE will be a prospective, multicenter observational study of 500 participants to characterize demographics, comorbidities, risk profiles, socioeconomic status, and patient preferences related to anticoagulation management. The primary study endpoint will be warfarin discontinuation without resumption as documented in the medical record. Secondary outcomes of interest include warfarin adherence and factors associated with suboptimal adherence and/or permanent discontinuation. Clinical data, including demographics, medical history, and comorbidities, will be abstracted and entered by site coordinators. An internal survey developed by Duke Clinical Research Institute (DCRI) will be administered to patients during regularly scheduled clinic visits. Survey items will include patient treatment priorities, perceived risk of bleeding and/or stroke, barriers to adherence, and treatment satisfaction. Subjects will complete a survey at baseline and at the followup visit closest to 6 months after enrollment. This study will provide the foundation for numerous potential future questions about medication adherence and barriers to treatment, such as a survey on physician preferences/ shared decision-making (concordance between physician and patient preferences), followup to capture clinical events, and interventions to improve long-term medication adherence in AF.",
+    "relevance": 0,
+    "seq": 4,
+    "url": "https://www.clinicaltrials.gov/study/NCT02461602",
+    "description": ""
+  },
+  {
+    "doc_id": "DOC006",
+    "text": "A Controlled, Randomized, Parallel , Multi-centre Feasibility Study of the Oral Direct Thrombin Inhibitor, AZD0837, Given as ER Formulation, in the Prevention of Stroke and Systolic Embolic Events in Patients With Atrial Fibrillation, Who Are Appropriate for But Unable/Unwilling to Take VKA Therapy The purpose of this study is to assess the safety and tolerability of AZD0837 in patients with atrial fibrillation who are unable or unwilling to take vitamin K antagonist therapy for up to 3 months. ",
+    "relevance": 0,
+    "seq": 6,
+    "url": "https://www.clinicaltrials.gov/study/NCT00623779",
+    "description": ""
+  },
+  {
+    "doc_id": "DOC010",
+    "text": "Quantify Use of Anticoagulation to Improve Management of AF The purpose of this study is to evaluate the impact of a hospital quality improvement (QI) program on the use of guideline-recommended oral anticoagulants (OAC) in hospitalized patients with atrial fibrillation (AF) at risk for ischemic stroke. Specifically, the study will determine whether the intervention, compared to Usual Care, will result in a greater increase in the proportion of patients with AF at risk for ischemic stroke who are appropriately treated with OAC. ",
+    "relevance": 0,
+    "seq": 10,
+    "url": "https://www.clinicaltrials.gov/study/NCT03382613",
+    "description": ""
+  },
+  {
+    "doc_id": "DOC003",
+    "text": "Bleeding Events and Oral Anticoagulant Treatment in Non-Valvular Atrial Fibrillation (Heart-BEAT): A Cohort Study Based on CPRD-HES Data In a population of patients with non-valvular atrial fibrillation (NVAF), and treated with oral anticoagulants (OAC) in routine clinical practice in England, this study will describe patients treated with each OAC, and to estimate and compare event rates of treatment discontinuation, bleeding, and healthcare resource utilisation (HCRU) across OAC treatments. ",
+    "relevance": 1,
+    "seq": 3,
+    "url": "https://www.clinicaltrials.gov/study/NCT03002740",
+    "description": ""
+  },
+  {
+    "doc_id": "DOC005",
+    "text": "A Descriptive Non-interventional Study to Evaluate the Use of Direct Oral Anticoagulants in UK Clinical Practice for Patients With a First Stroke Attributable to Nonvalvular Atrial Fibrillation National Institute of Health and Care Excellence (NICE) guidance recommends anticoagulation for stroke prevention in high risk patients with nonvalvular atrial fibrillation (AF). Early evidence suggest that patients with atrial fibrillation (AF) who do not receive anticoagulation are more likely to experience a stroke. However, the characteristics of patients experiencing a first AF-related stroke in real-world settings, who have not been receiving anticoagulation, have not been well documented. It is unclear how the direct anti-FXa oral anticoagulants have been used within real world practice since the introduction of edoxaban in 2015. This non-interventional study will focus specifically on the patient characteristics, management pathways, and patient reported experiences associated with real world use of three direct anti-FXa oral anticoagulants (DOAC) commonly used within United Kingdom clinical practice; apixaban, rivaroxaban and edoxaban. The primary objective will describe the demographics, clinical characteristics and medical history of patients presenting with a first ischaemic stroke with AF who have not received anticoagulation (for any reason) in the 12 months prior to stroke, by type of anticoagulant treatment subsequently prescribed for secondary prophylaxis of stroke. Secondary objectives of the study will describe management pathways of patients initiated on DOACs (apixaban, edoxaban or rivaroxaban) for secondary prophylaxis of stroke, including timing and reasons for any dose changes or treatment switches to alternative anticoagulants; describe hospital resource use and clinical assessments associated with DOAC treatment for secondary prophylaxis of stroke; describe real world patient-reported adherence to DOACs for secondary prophylaxis of stroke; and describe patient experience and treatment satisfaction for patients receiving DOAC therapy for secondary prophylaxis of stroke.",
+    "relevance": 1,
+    "seq": 5,
+    "url": "https://www.clinicaltrials.gov/study/NCT05262322",
+    "description": ""
+  },
+  {
+    "doc_id": "DOC007",
+    "text": "Treatment of Atrial Fibrillation in the Community Settings Description of treatment of cardiovascular diseases in community settings in Russia The study will describe different treatment modalities used in management of cardiovascular diseases in community hospital in small town of Tarusa in Russia. This part of the study will focus on atrial fibrillation and its treatment.",
+    "relevance": 1,
+    "seq": 7,
+    "url": "https://www.clinicaltrials.gov/study/NCT06151132",
+    "description": ""
+  },
+  {
+    "doc_id": "DOC008",
+    "text": "Impact of the Choice of Glomerular Filtration Rate-Estimating Equations on Plasmatic Concentrations of Direct Oral Anticoagulants in Elderly Patients With Atrial Fibrillation Atrial fibrillation in the elderly is a complex condition due to the high number of frequently associated comorbidities such kidney disease. Direct oral anticoagulants (dabigatran, rivaroxaban and apixaban) are indicated for preventing thromboembolic events but renal function should be closely monitored for this age group when these drugs are used. Dosing recommendations for prevention of stroke are based on renal clearance of creatinine (ClCr) estimated using the Cockcroft-Gault formula. It is well known that ClCr estimates predict a steeper decline with advancing age than Glomerular Filtration Rate (GFR) estimates. This raises the possibility that substitution of commonly reported GFR for estimated CrCl could result in different plasmatic concentrations of oral direct anticoagulants. The aim of this study was to compare estimates of ClCr and GFR and determine the impact on the plasmatic concentration of these drugs in elderly patients with non-valvular atrial fibrillation. ",
+    "relevance": 1,
+    "seq": 8,
+    "url": "https://www.clinicaltrials.gov/study/NCT02964546",
+    "description": ""
+  },
+  {
+    "doc_id": "DOC009",
+    "text": "The Role of D-dimer in Patients With Atrial Fibrillation Receiving Anticoagulation Therapy This is a sigle-center, prospective study to evaluate the role of D-Dimer testing in patients with atrial fibrillation receiving Dabigatran or warfarin anticoagulation therapy. Patients with atrial fibrillation receiving Dabigatran or warfarin anticoagulation therapy was screened and signed to two group: Dabigatran group and Warfarin group. D-dimer test was analyzed before and 3 months after anticoagulation starting specificly. Patients were followed-up for at least 12 months,and clinical outcomes, including thrombotic events major bleeding events and all-cause deaths were recorded during follow-up period.",
+    "relevance": 1,
+    "seq": 9,
+    "url": "https://www.clinicaltrials.gov/study/NCT03280641",
+    "description": ""
+  }
+    ]
+  }
+]

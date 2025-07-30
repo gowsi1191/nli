@@ -1,0 +1,88 @@
+[
+  {
+    "id": "45",
+    "query": "Novel therapies for cystic fibrosis not yet approved by regulatory bodies",
+    "documents": [
+      {
+        "doc_id": "DOC001",
+        "text": "The Natural History of Cystic Fibrosis in the Era of Next Gen Combination Modulator Agents: Novel Treatment Targets in an Evolving Disease CF patients enrolled in this protocol will be recruited from patients followed by the Adult CF Program at National Jewish Health. Patients will be selected based on planned use of a CFTR modulator by their primary physician. No patient will be started on (or will switch) CFTR modulator agents for the purpose of the study. After enrollment, biological samples may be collected at two different time points prior to treatment initiation. One set of samples will be collected at baseline health prior to CFTR modulator initiation or change. A second set of samples will be obtained in subjects at the time of acute pulmonary exacerbation, if one occurs prior to CFTR modulator initiation or change. Post CFTR modulator initiation study assessments will be obtained at least one month after starting treatment and continue up to 2 times a year (including during pulmonary exacerbations), in order to document longitudinal effects of therapies and changes in inflammatory biology over time. At the time of each biological sampling, blood, sputum sample, urine, and a quality of life assessment will be acquired in all enrolled subjects. In addition to demographic data, clinical data, such as quantitative microbiology and simple spirometry will be recorded at the time of sample collection. ",
+        "relevance": 1,
+        "seq": 1,
+        "url": "https://www.clinicaltrials.gov/study/NCT04353752",
+        "description": ""
+      },
+      {
+        "doc_id": "DOC002",
+        "text": "A Phase 1 Non-Randomized, Open-Label Study to Assess the Safety and Pharmacokinetics of VX-770 in Subjects With Moderate Hepatic Impairment and in Matched Healthy Subjects The purpose of this study is to investigate the pharmacokinetics and safety of a single dose of VX-770 in subjects with moderate hepatic impairment. ",
+        "relevance": 1,
+        "seq": 2,
+        "url": "https://www.clinicaltrials.gov/study/NCT01208285",
+        "description": ""
+      },
+      {
+        "doc_id": "DOC003",
+        "text": "Real-world Efficacy and Safety of CFTR Modulator Therapy in Adult Patients With Cystic Fibrosis In this trial real-world data on the safety (side effects and medication interactions) and efficacy (evolution of lung function testing, chronic bacterial airway infection, quality of life and endo- and exocrine pancreatic function) will be collected in adult people with cystic fibrosis (pwCF) eligible for elexacaftor-tezacaftor-ivacaftor (ETI) up until 2 years after the start of this therapy. PwCF group A: CFTR-modulator-naive pwCF eligible for ETI (based on age and CFTR genotype) PwCF group B: pwCF already on CFTR modulating therapy (i.e. ivacaftor-lumacaftor or ivacaftor-tezacaftor) and switching to ETI. Patients in both groups will undergo these examinations: Physical examination (including weight) Anamnesis for current and recent medication use (including dosage of pancreatic enzymes) and for acute respiratory exacerbations Lung function testing including spiometry, multiple breath washout testing and fractional exhaled nitric oxide Blood sampling: liver function tests, creatine kinase, albumin, PT, red and white blood cell count, platelet count Sputum/cough swab sampling fecal elastase measurement Cystic fibrosis questionnaire-revised (CFQ-R) questionnaire Patient health questionnaire-9 (PHQ-9) questionnaire General anxiety disorder-7 (GAD-7) questionnaire Sino-nasal outcome test-22 (SNOT-22) questionnaire These will be performed at baseline (prior to the start of ETI, on the same day of start of ETI), and every 3 months (+/- 7 days) thereafter. A blood sample will also be performed 14 (+/- 7 days) days after start of ETI (for safety). Fecal elastase measurement will only be performed at baseline if not available in the patient's medical record, and only 6 months after start of ETI.",
+        "relevance": 0,
+        "seq": 3,
+        "url": "https://www.clinicaltrials.gov/study/NCT05526027",
+        "description": ""
+      },
+      {
+        "doc_id": "DOC004",
+        "text": "A Novel Assay to Quantify Treatment Response in CF Inflammation is present in the Cystic fibrosis (CF) airway from the time of infancy, and worsens with the onset of chronic infection. Therapies with proven benefit are associated with decreased airway inflammation. Thus, sensitive and reproducible biomarkers of airway inflammation have long been sought as a necessary component to improved clinical care and to facilitate therapeutic trials for CF. FEV1, the standard outcome measure in CF, is recognized as an insensitive outcome measure. the investigators have identified a panel of 10 genes which sensitively predict resolution of pulmonary inflammation, in response to therapy of an acute pulmonary exacerbation. With the goal of yielding a technically simple but unique CF biomarker assay, the investigators have tested whether proteins signified by these genes show large changes in expression following treatment of acute pulmonary exacerbations. Protein quantifications are among the most common measurements performed in clinical laboratories around the world. Based on preliminary findings that changes in white blood cell proteins mirror changes seen in the genes, the investigators propose to identify top candidate proteins, from the investigators gene panel, which change in response to exacerbation therapy. Once identified, these proteins will be quantified directly with a new blood test which is inexpensive and simple to perform. The investigators propose to validate this blood test in a single site trial. If successful, this proposal will yield a biomarker assay that will be available to validate in a multi-site trial and provide unique insights into mechanisms that regulate white blood cell activation and recruitment in CF lung disease. ",
+        "relevance": 1,
+        "seq": 4,
+        "url": "https://www.clinicaltrials.gov/study/NCT01626157",
+        "description": ""
+      },
+      {
+        "doc_id": "DOC005",
+        "text": "A Phase 1b Randomized, Double-blind, Placebo-Controlled Trial to Evaluate the Safety of CB-280 in Patients With Cystic Fibrosis This is a phase 1b multiple ascending dose escalation study to evaluate the safety and tolerability of arginase inhibitor CB-280 in subjects with cystic fibrosis. Study CX-280-202 is a Phase 1b, randomized, double-blind, placebo-controlled, multiple ascending dose escalation study of CB-280 in adult subjects with cystic fibrosis and chronic infection with Pseudomonas aeruginosa. The study will evaluate the safety, pharmacokinetics, pharmacodynamics, and biological activity of CB-280 in approximately 32 adult patients with cystic fibrosis. There are four planned sequential dose escalation cohorts of 8 subjects each, randomized 6:2 to receive CB-280 or matched placebo at doses of 50 mg, 100 mg, 200 mg, or 400 mg administered twice daily for 14 days. Intermediate dose levels may be evaluated based on emerging safety data at the planned dose levels.",
+        "relevance": 0,
+        "seq": 5,
+        "url": "https://www.clinicaltrials.gov/study/NCT04279769",
+        "description": ""
+      },
+      {
+        "doc_id": "DOC006",
+        "text": "KB407-02 A Phase 1 Study of Inhaled KB407, a Replication-Defective, Non-Integrating Vector Expressing Human Cystic Fibrosis Transmembrane Conductance Regulator, for the Treatment of Cystic Fibrosis This study will evaluate safety and tolerability of ascending doses of nebulized KB407 in adults with cystic fibrosis. ",
+        "relevance": 0,
+        "seq": 6,
+        "url": "https://www.clinicaltrials.gov/study/NCT05504837",
+        "description": ""
+      },
+      {
+        "doc_id": "DOC007",
+        "text": "A Phase 1 Dose-escalation Study TO Evaluate the Safety and Tolerability of PUR118 and Placebo in Subjects With CF The purpose of this study is to determine whether PUR118 is safe and tolerable in a population of subjects with Cystic Fibrosis. ",
+        "relevance": 0,
+        "seq": 7,
+        "url": "https://www.clinicaltrials.gov/study/NCT01543191",
+        "description": ""
+      },
+      {
+        "doc_id": "DOC008",
+        "text": "A Phase 2b Extension Study of PTC124 as an Oral Treatment for Nonsense-Mutation-Mediated Cystic Fibrosis In some patients with cystic fibrosis (CF), the disease is caused by a nonsense mutation (premature stop codon) in the gene that makes the cystic fibrosis transmembrane regulator (CFTR) protein. PTC124 has been shown to partially restore CFTR production in animals with CF due to a nonsense mutation. In an ongoing Phase 2a study being performed at the Hadassah University Hospital - Mount Scopus in Israel, patients with nonsense-mutation-mediated CF have received PTC124 in two 14-day treatment courses. Preliminary results from that study indicate that PTC124 has pharmacodynamic activity of PTC124 in CF and that PTC124 can be safely administered in this patient population. This Phase 2b extension study is designed to evaluate the activity and safety of 3 months (approximately 84 days) of continuous treatment with PTC124 in the same patients who were enrolled to the Phase 2a study. The main purpose of this study is to understand whether PTC124 can be safely administered and achieve pharmacodynamic activity in patients with CF due to a nonsense mutation. In this study, the same patients who were enrolled in a previous study of PTC124 (protocol number PTC124-GD-005-CF) will be treated with the investigational drug PTC124 for a period of 84 days. Evaluation procedures (history, physical examination, blood and urine tests to assess organ function, electrocardiogram (ECG), chest x-ray, and CF-specific tests) to determine if a patient qualifies for the study will be performed within 21 days prior to the start of treatment. Eligible patients who elect to enroll in the study will be assigned to receive PTC124 treatment (based upon TEPD results from the previous study) at 1 of the 2 following dose levels: PTC124, given 3 times per day (TID) with a regimen of 4 mg/kg at breakfast, 4 mg/kg at lunch, and 8 mg/kg at dinner, or PTC124, given 3 times per day (TID) with a regimen of 10 mg/kg at breakfast, 10 mg/kg at lunch and 20 mg/kg at dinner. During the study, PTC124 efficacy, safety, and pharmacokinetics will be evaluated periodically with measurement of transepithelial potential difference (TEPD), medical history, physical examinations, blood tests, urinalysis, sputum tests, ECGs, chest x-ray, and pulmonary function tests.",
+        "relevance": 0,
+        "seq": 8,
+        "url": "https://www.clinicaltrials.gov/study/NCT00351078",
+        "description": ""
+      },
+      {
+        "doc_id": "DOC009",
+        "text": "Real World Clinical Outcomes With Novel Modulator Therapy Combinations in People With CF (RECOVER) RECOVER is a prospective, multicenter observational study designed to measure the real world clinical effectiveness of elexacaftor, tezacaftor and ivacaftor triple combination therapy (Kaftrio) in people with cystic fibrosis over a two year period. Measured outcomes include measures of lung function, lung inflammation, lung imaging, abdominal symptoms, gut inflammation, liver function, pancreatic exocrine function, nasal inflammation, quality of life and adherence to therapy. The study will examine outcomes in children aged six years and above over a period of two years. The first phase of the study will commence in 2020, recruiting children 12 years and older who have started on clinical treatment with Kaftrio. Our aim with RECOVER is to examine the clinical impact of Kaftrio on key clinical outcomes in people with CF in a real-world setting. For this study, in addition to some of the more traditional ways of monitoring clinical outcomes in people with CF such a standard lung function, nutrition, exacerbations and liver disease, we are proposing to include some novel outcome measures not typically used in clinical trials such as lung clearance index (LCI) and spirometry controlled chest CT. By implementing an extensive study protocol that will include important outcomes in a number of areas of health in people with CF, and matching this to a comprehensive biosample collection plan, we will have the power to gain important insight into how Kaftrio works, and what impact it has on rescue of CFTR function in this group of people. Data on the following outcomes will be collected during the study: Lung Clearance Index Ultra-low dose, spirometry-controlled CT scanning Sweat Chloride Nasal Lavage (inflammatory markers and microbiome) Fraction of Exhaled Nitric Oxide (FeNO) Liver Ultrasound Liver examination (signs of liver disease) Sputum Collection (inflammatory markers and microbiome) Stool Collection (inflammation, microbiome, fecal elastase) Abdominal symptom questionnaire CFQ-R (quality of life) Adherence to treatment Height, weight, BMI Forced Expiratory volume in 1 second (FEV1) Microbiological culture of airway specimens (clinical laboratories at sites) The Lead Investigator is Paul McNally, with Prof. Jane Davies as Co-Lead Investigator. The study will operate in collaboration with our academic and clinical partners and the CF registries in Ireland and the UK. The study is supported by the European CF Society Clinical Trials Network (ECFS-CTN). The study is being run as a CTIMP in the UK clinical sites, as determined by the MHRA. In the Irish sites, the HPRA has determined this study to be an observational research study.",
+        "relevance": 0,
+        "seq": 9,
+        "url": "https://www.clinicaltrials.gov/study/NCT04602468",
+        "description": ""
+      },
+      {
+        "doc_id": "DOC010",
+        "text": "A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Ascending Multiple-Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of CTX-4430 When Administered Orally to Cystic Fibrosis Patients for Fifteen Days The purpose of this study is to assess the safety and tolerability of multiple oral doses of CTX-4430 when administered to cystic fibrosis (CF) patients once-daily (QD) for 15 days.This study will include two dose levels. For each dose level, blood samples will be collected for exploratory PK and PD assay validation. In addition, sputum will be collected for exploratory biomarker analysis. Following multiple dose administration, pulmonary function and exploratory lung clearance index (LCI) measurements will be taken. ",
+        "relevance": 0,
+        "seq": 10,
+        "url": "https://www.clinicaltrials.gov/study/NCT01944735",
+        "description": ""
+      }
+    ]
+  }
+]

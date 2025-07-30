@@ -1,0 +1,344 @@
+{
+  "Explicit_NOT": {
+    "example_1": {
+      "Roberta": {
+        "ranking": [
+          {
+            "doc_id": "DOC001",
+            "e": 0.9633648991584778,
+            "n": 0.03567881137132645,
+            "c": 0.0009562995983287692,
+            "relevance": 0,
+            "nli_time": 0.6595,
+            "bge_time": 0.3347,
+            "text": "Symptom Management for Irritable Bowel Syndrome The objective of this study is to test the efficacy of a symptom management treatment strategy, Acupuncture/Moxibustion (Acu/Moxa), to improve the symptoms associated with Irritable Bowel Syndrome (IBS) in adults. ",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          },
+          {
+            "doc_id": "DOC002",
+            "e": 0.9982272982597351,
+            "n": 0.0012743945699185133,
+            "c": 0.0004982886603102088,
+            "relevance": 0,
+            "nli_time": 2.8054,
+            "bge_time": 0.5898,
+            "text": "Phenotyping and Treatment of Primary Health Care IBS Patients. A Randomized Controlled Trial Irritable Bowel Syndrome (IBS) is a common functional gastrointestinal (GI) condition which is strongly associated with dietary and psychosocial factors. Management of IBS remains challenging for primary health care. The aim is to perform a comprehensive phenotyping of patients with IBS within the primary health care in Region \u00d6rebro County, Sweden. Following this phenotyping, the investigators will perform a prospective randomized controlled trial of two different treatments versus control as described below. Subsequently, the investigators want to evaluate the result of the treatments in order to see whether the presence of a certain phenotype can predict the efficacy of different treatments. Our hypothesis is that the presence of certain baseline symptom characteristics in patients with IBS can predict how effective internet based cognitive behavioral therapy (iCBT) and low FODMAP (low Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols) treatment will be for each patient. 200 patients with IBS aged 18-65 years will be recruited from the primary health care in Region \u00d6rebro County. The study plan is structured as follows: Phenotyping of IBS patients. Investigation of the correlation between different psychological parameters, IBS symptom severity and Quality of Life. The effect and outcome of 10-weeks internet-based cognitive behavioral therapy (iCBT) versus control in IBS patients. The effect and outcome of 10-weeks low FODMAP diet versus control in IBS patients. Comparison of iCBT and low FODMAP treatment in IBS patients and identification of baseline phenotypic characteristics predicting treatment outcome for both treatments. Stool and blood samples will be taken before and after treatment for analysis of gut microbiota, proteomics and epigenetics and to correlate these with the clinical phenotype. All participants will undergo phenotyping regarding GI symptoms and psychological variables using questionnaires. Participants will afterwards be randomised to either 10 weeks treatment with iCBT (80 participants), low FODMAP (80 participants) or control group (40 participants) (2:2:1 randomization). The control group will wait 10 weeks before being randomised to either iCBT (20 participants) or low FODMAP (20 participants). Significance This study will provide effective and individualized treatment for IBS patients. This may lead to the development of a guideline to improve the effectiveness of treatment and care for patients with IBS. Part 1 Study design: Cross-sectional observational study. Study population: 200 IBS patients, M/F, age 18-65 years, will be recruited under a period of 4 years from the primary health care in Region \u00d6rebro County. Patients will also be recruited from the general public using websites, social media and advertisements. Data collection: After informed consent is signed, a doctor's assessment is made including medical history, physical examination and laboratory tests. For assessment of the IBS symptoms but also comorbid conditions such as upper GI symptoms, somatization and psychiatric symptoms, 12 different validated questionnaires will be used to identify sub-populations (phenotypes). All patients will be asked to fill in these questionnaires before starting, during and after treatment. Stool and blood samples will be taken at baseline and after treatment and will be stored at a biobank for later analysis of microbiomics, proteomics and epigenetics. Analysis: Descriptive statistics to identify different IBS features, and Pearson's correlations to study between-person correlations in a correlation network to see which parameters correlate most with the IBS symptom scale (GSRS-IBS) and Quality of life (IBS-QoL). They will be used as the dependent variables in multiple linear regression analysis with the other parameters as independent variables. Part 2 and 3 Study design: Randomized controlled clinical trial. Study population: Patients will then be randomized to either iCBT (80 patients), Low FODMAP diet (80 patients) or control group (40 patients) (2:2:1 randomization). The control group will wait 10 weeks before being randomised to treatment with either iCBT (20 patients) or low FODMAP diet (20 patients). Treatments: iCBT and Low FODMAP diet (see below). Analysis: Treatment efficacy analysis using linear mixed models on the primary outcome measures with time as within-subject factor (random intercept random slope models) and group as between-subject factor, with the time-by-group interaction effect testing the hypothesis of a stronger response to treatment compared to waiting list control. Continuous variables will be used to maximize power. Within-person correlations between IBS features. Linear mixed models and latent class growth analysis to establish which baseline parameters of IBS predict the treatment effect on the GSRS-IBS and IBS-QoL. Cross-lagged panel models to investigate the temporal order of change in the different outcome variables, while controlling for stabilities over time and cross-sectional correlations. Part 4 Comparison of psychological and dietary treatment in IBS patients. At this point the investigators will have 100 patients who were treated with ICBT and 100 patients who",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          },
+          {
+            "doc_id": "DOC004",
+            "e": 0.9985349178314209,
+            "n": 0.0005687139346264303,
+            "c": 0.0008963386644609272,
+            "relevance": 0,
+            "nli_time": 1.9621,
+            "bge_time": 0.6152,
+            "text": "Integrative Approaches to Managing Irritable Bowel Syndrome (IBS) The purpose of this project is to examine whether a low cost, group-oriented integrative medicine approach to irritable bowel syndrome improves participant outcomes. The intervention will combine nutrition counseling on the low FODMAP diet (decreased grains and other disaccharides) and mind-body training with follow-up health coaching. These participants will be randomized to either a 4-week group-oriented treatment intervention incorporating a low FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides and polyols) diet and mind-body therapies followed by an 8-week health coaching follow-up period or a waitlist control group. At the end of the 12-week study period, waitlist subjects will be offered the four-week nutrition and mind-body intervention. Over the 12-week study period, we will examine and report on the impact of this treatment intervention on IBS symptoms and quality of life in this population. The investigators will collect data on IBS outcomes as well as on depression and stress. This project will test the effectiveness of an integrative medicine approach in treating irritable bowel syndrome (IBS). Over the course of 18 months, we will recruit 85 participants with IBS in New York City. These participants will be randomized to either a 4-week group-oriented treatment intervention incorporating a low FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides and polyols) diet and mind-body therapies followed by an 8-week health coaching follow-up period or a waitlist control group. At the end of the 12-week study period, waitlist subjects will be offered the four-week nutrition and mind-body intervention. Over the 12-week study period, we will examine and report on the impact of this treatment intervention on IBS symptoms and quality of life in this population. The investigators will collect data on IBS outcomes as well as on depression and stress. The hypothesis is that participants will report decreased symptoms and improved function and quality of life as a result of the four-week nutrition and mind-body intervention and 8-week health coaching follow-up period. The goal of this project is to develop a low-cost, effective integrative intervention for IBS, which can be replicated in settings across the U.S. Objectives The purpose of this project is to examine whether a low cost, group-oriented integrative medicine approach to irritable bowel syndrome improves participant outcomes. The intervention will combine nutrition counseling on the low FODMAP diet and mind-body training with follow-up health coaching. The hypothesis is that participants will report decreased symptoms as measured by the IBS Symptom Severity Score and improved function and quality of life as a result of the intervention when compared to usual care. Background Irritable bowel syndrome (IBS) is a chronic debilitating functional gastrointestinal disorder that has a profound effect on the quality of life (QOL) of individuals with IBS. The estimated prevalence of IBS in the general population ranges from 3% to 20%, with most studies estimating that IBS affects 10% to 15% of the general population. Despite its high level of prevalence, the exact causes of IBS are not well understood. Researchers believe that IBS is caused by a wide variety of mental and physical health problems including hypersensitivity, brain-gut signal issues, bacterial gastroenteritis, depression, anxiety, food sensitivity, body chemical imbalances, and/or genetics. Background: Low FODMAP Diet for IBS More than 60% of IBS patients report worsening of symptoms after meals, 28% of these within 15 minutes after eating and 93% within 3 hours.",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          },
+          {
+            "doc_id": "DOC010",
+            "e": 0.9829036593437195,
+            "n": 0.012668212875723839,
+            "c": 0.0044281501322984695,
+            "relevance": 0,
+            "nli_time": 0.2109,
+            "bge_time": 0.2227,
+            "text": "A Phase 3, Randomized, Double-blind, Placebo-Controlled, Multicenter Study to Assess the Efficacy and Safety of Rifaximin 550 mg TID in the Treatment of Subjects With Non-Constipation Irritable Bowel Syndrome To evaluate the efficacy of a 14-day course of rifaximin given 3 times a day vs. placebo in providing adequate relief of IBS symptoms. ",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          },
+          {
+            "doc_id": "DOC003",
+            "e": 0.9947777986526489,
+            "n": 0.0048009417951107025,
+            "c": 0.00042128004133701324,
+            "relevance": 1,
+            "nli_time": 1.0275,
+            "bge_time": 0.5405,
+            "text": "Crossover Trial of Gluten and Gluten With Amylase-trypsin Inhibitors as Triggers of Gastrointestinal Symptoms in Patients With Irritable Bowel Syndrome This crossover randomized controlled trial will evaluate the effects of gluten and gluten combined with amylase-trypsin inhibitors (ATIs) on inducing intestinal and extra-intestinal symptoms in irritable bowel syndrome (IBS) patients. All participants will be put on a gluten-free diet and then challenged with muesli bars containing either purified gluten, gluten with ATIs, or nocebo. Irritable bowel syndrome (IBS) is a heterogenous, common gastrointestinal disorder characterized by chronic abdominal pain and altered bowel habits. Many IBS patients report symptom relief on a gluten-free diet (GFD), but it is uncertain whether gluten is the true culprit. The gluten-containing grains wheat, rye, and barley all contain amylase-trypsin inhibitors (ATIs), and a GFD is virtually ATI-free. This double-blinded crossover randomized controlled trial aims to determine which IBS patients are affected by pure gluten and which are affected by gluten combined with ATIs. IBS patients who respond to and have been on a GFD for 3+ weeks will be randomized to receive a dietary challenge of muesli bars containing either 1) pure gluten, 2) non-purified gluten (containing ATIs), 3) or nocebo for a week followed by a 14 day washout. This will be repeated until all participants have had each dietary challenge. The study will evaluate the effects and potential mechanisms of purified and non-purified gluten on intestinal and extra-intestinal symptoms in IBS. It is likely that some IBS patients respond to gluten, while others respond to gluten combined with ATIs. Thus, this project may lead to better diagnosis and individualized dietary treatments for IBS.",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          },
+          {
+            "doc_id": "DOC005",
+            "e": 0.993091344833374,
+            "n": 0.006042740773409605,
+            "c": 0.000865922833327204,
+            "relevance": 1,
+            "nli_time": 0.8409,
+            "bge_time": 0.4869,
+            "text": "The Impact of Dietary Treatment Using a Low FODMAP Diet on the Occurrence of Selected Intestinal Bacteria and the Clinical Condition of Patients With Irritable Bowel Syndrome The obtained results are likely to determine whether changes in the diet of patients with irritable bowel syndrome will affect their nutritional status. They will also allow you to assess whether dietary treatment will affect the resolution or alleviation, or severity of disease symptoms in IBS. The test results can be used in clinical practice. Participation in the study does not carry any risk of complications associated with undergoing a medical experiment. This is a randomized, parallel study that includes 1 initial visit and 1 final visit, separated by 8 weeks of diet. The investigators enrolled 73 women in the study, who met the criteria for inclusion in the study, to determine whether changes in the diet of patients with irritable bowel syndrome will affect their nutritional status. At the initial and final visit (after 8 weeks) in all patients, anthropometric measurements, body composition, an interview questionnaire concerning the symptoms of the disease was performed, the intensity of abdominal pain was assessed, the life quality of patients on the IBS-QOL scale was assessed, the calprotectin concentration in the stool was determined and the questionnaire regarding the quantitative assessment of diet was performed. The study population was divided using simple lottery into 3 groups with different dietary treatment for 8 weeks: group 1 - 26 patients - diet with low content of easily fermenting carbohydrates (FODMAP), group 2 - 21 patients - an elimination-rotation diet, and group 3 - (control) - 26 patients - classic diet treatment (recommended by the leading gastroenterologist).",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          },
+          {
+            "doc_id": "DOC006",
+            "e": 0.9987758994102478,
+            "n": 0.0004514722677413374,
+            "c": 0.0007725766045041382,
+            "relevance": 1,
+            "nli_time": 0.9631,
+            "bge_time": 0.5426,
+            "text": "E-C DIBS: Randomised Controlled Study: Comparing the Effectiveness and Convenience of Dietary Therapy for Irritable Bowel Syndrome (IBS) Irritable bowel syndrome is a functional lower gastrointestinal disorder characterised by abdominal pain and altered bowel habit in the absence of organic pathology to explain the symptoms. Irritable bowel syndrome has a prevalence of approximately 10% in adults, shows a female preponderance, and is more common in younger individuals. In clinical practice, Irritable bowel syndrome accounts for almost a third of all gastroenterology cases seen in primary care, with a subsequent third of these being referred onto secondary-care for further evaluation. The economic burden of Irritable bowel syndrome, in terms of medical expense, work absenteeism and loss of productivity, is considerable. The exact cause of irritable bowel syndrome is unknown. Accordingly there has been a huge surge in interest for dietary therapies to help manage Irritable bowel syndrome. To date, there are only a handful of small randomized controlled trials evaluating the efficacy of dietary therapy in Irritable bowel syndrome. In light of this we plan to conduct the first randomized controlled trial directly comparing the effectiveness of the low-FODMAP diet, British Dietetic Association diet, and the gluten free diet in Irritable bowel syndrome. Moreover, such a trial allows for a direct comparison of nutritional and gut microbial changes, both of which can suffer detrimental consequences following the implementation of restrictive dietary therapies. This study is also unique in that it takes into consideration the patients' perspective with regards to the convenience and cost-effectiveness of implementing such diets into routine day-to-day life. The study will aim to recruit 100 patients from Sheffield Teaching Hospitals gastrointestinal clinics. Following recruitment patients will be seen by a hospital dietitian where they will be randomized to one of the 3 diets. Participants will complete a questionnaire portfolio weekly for one month as part of the study ",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          },
+          {
+            "doc_id": "DOC007",
+            "e": 0.9980156421661377,
+            "n": 0.001021306379698217,
+            "c": 0.0009629910928197205,
+            "relevance": 1,
+            "nli_time": 1.3396,
+            "bge_time": 0.6319,
+            "text": "Effect of a Diet Without Non-caloric Sweeteners on Gastrointestinal Symptoms in Patients With Irritable Bowel Syndrome and Dyspepsia Digestive Functional Disorders (DFD), represent 50% of medical check ups, the symptoms interfere with patients quality of life and generate high health costs. On the other hand, with the worldwide overweight and obesity increase,causing an over production of low-calorie products, which increase the non-caloric sweeteners (NCS) consumption. Hypothesis: A diet without NCS will reduce gastrointestinal symptoms in volunteers with dyspepsia and IBS. Objective: To asses the effect of a diet without NCS, on the gastrointestinal symptoms in patients with dyspepsia and IBS. Secondary Objectives: To compare the effect of a diet without NCS against a diet with NCS on anthropometry, changes in body composition, biochemical parameters, glucose and insulin. To asses the change in the gut microbiota using real-time PCR (polymerase chain reaction) Methodology: it will be an experimental, open, parallel, controlled study lasting 12 weeks, patients with dyspepsia or IBS will be randomized assigned to a diet with or without NCS. Laboratory studies, dietary and symptoms questionnaires, anthropometry measurements and faecal sample will be carried out. Analysis Results: A double data capture will be carried out to minimize errors, for the statistical analysis of using the Statistical Package for the Social Sciences (SPSS) version 25, descriptive statistics will be used to report the baseline data of the volunteers. Using means and standard deviation, the variables of gastrointestinal symptoms will be used a chi-square test and a p <0.05 will be considered significant. Different analyzes will be done to evaluate volunteers with IBS and those with dyspepsia. For the intestinal microbiota analysis, a comparison will be made between the percentages of Firmicutes, Bacteroidetes and Actinobacteria of sample 1 and 2 and a chi-square test will be performed considering a p <0.05 significant Recruitment will be carried out in the gastroenterology service, where patients will have their diagnosis of IBS or dyspepsia, participants are invited to participate in the study to subsequently sign the informed consent. Once signed the patient is scheduled for blood studies, their nutritional evaluation will be carried out and their menu will be delivered. Patients will be followed for 12 weeks to re-conduct their nutritional evaluation and laboratory studies.",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          },
+          {
+            "doc_id": "DOC008",
+            "e": 0.9937577247619629,
+            "n": 0.003531989175826311,
+            "c": 0.002710346132516861,
+            "relevance": 1,
+            "nli_time": 0.4153,
+            "bge_time": 0.3313,
+            "text": "Dietary Treatment for IBS Within Primary Health Care Irritable bowel syndrome (IBS) is a multifaceted disorder where diet plays a pivotal role in symptom generation and management. The traditional dietary advice given to patients in clinical settings are based on the NICE guidelines. Some of the advice included in these guidelines have limited scientific evidence. The aim of this study is to investigate the effectiveness of the traditional dietary advice in IBS, according to the NICE guidelines, within a primary health care setting, where treatment is delivered digitally and in groups of 8-12 individuals. As a sham comparator, one group will receive dietary advice according to the Swedish dietary guidelines regarding healthy eating habits. ",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          },
+          {
+            "doc_id": "DOC009",
+            "e": 0.9926474094390869,
+            "n": 0.006870256271213293,
+            "c": 0.0004823504714295268,
+            "relevance": 1,
+            "nli_time": 2.7845,
+            "bge_time": 0.6196,
+            "text": "A Comparison Among the Effects of the Low FODMAP Diet, a Tritordeum Based Diet, and Dietary Advice on the Gastrointestinal Symptom Profile in Patients With Irritable Bowel Syndrome-Diarrhea Variant (IBS-D): a Randomized Controlled Trial People with irritable bowel syndrome (IBS), especially those with diarrhea (IBS-D), often describe worsening symptoms after eating certain foods. A structured dietary approach may represent a reliable strategy to improve their symptoms. In this framework, the diet low in oligosaccharides, disaccharides, monosaccharides, and fermentable polyols (FODMAPs - LFD) has been demonstrated to mitigate symptoms and reduce inflammatory status, increase vitamin D content, and affect the lipidomic profile. Unfortunately, adherence to LFD can be somewhat problematic, needing continuous nutritional support. Other dietary approaches with putative beneficial effects have been proposed to overcome these limitations. Among them, Tritordeum-based foods (TBD, bread, bakery products, and pasta) in substitution of other cereals seem to achieve promising results. TBD may represent a valid alternative, with high palatability, especially among Italian patients for whom pasta is considered one of the main assets of dietetic culture and easier to manage in their daily habits. Given these premises, this study aims to evaluate, in a randomized single-blinded controlled trial, the effects of 12-weeks of TBD compared with LFD and dietary advice of the same duration in improving the symptom profile well as the intestinal permeability and reducing putative dysbiosis of IBS-D patients. Along with the clinical study, an evaluation of gluten and proteomic composition will be performed to examine more in detail the intrinsic characteristics of Tritordeum. A structured dietary approach could represent a reliable alternative strategy to treat patients with functional gastrointestinal disorders such as irritable bowel syndrome (IBS), mainly in its diarrhea variant (IBS-D). It is now well established that many people with IBS often describe worsening symptoms eating certain foods, such as those containing fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAPs). These short-chain carbohydrates are present in some foods, including wheat and beans. They may contribute to different digestive symptoms such as bloating, abdominal pain, and diarrhea due to poor absorption in the small intestine. In this way, FODMAPs are digested by colonic bacteria, releasing gas in the colon. Furthermore, FODMAPs can act as osmotic agents, increasing the water volume in the stool. In the last years, our group has focused research on the properties of a low FODMAPs diet (LFD) in the clinical management of patients with IBS-D, demonstrating that these patients benefit from a 12 weeks-LFD in mitigating the symptoms, reducing the inflammatory status, increasing the vitamin D content, and affecting the lipidomic profile. Unfortunately, adherence to LFD can be somewhat problematic, needing continuous nutritional support. Actually, alternative dietary approaches for these disorders may be hypothesized. It is now well established that, beyond non-celiac wheat sensitivity (NCWS), many individuals suffering from IBS-D or generical gluten-related disorders and mainly complainIng of abdominal bloating seem to benefit from removing wheat from the diet. The multifaceted setting of nutrients in wheat-based foods, other than gluten, could account for the different IBS symptoms. It has already been postulated that some monococcal diploid grain lines, with minimal activation of the innate immunity and a reduced amount of toxic gluten peptides, could be helpful for IBS-D patients. Among them, alternative grains such as Tritordeum seem to achieve good results. Tritordeum is a cereal derived from durum wheat and wild barley hybridization. Originally cultivated with traditional techniques in Spain, it has more recently grown in Apulia, a southern Italy region. Tritordeum grows well with little care, even in adverse conditions. Noteworthy, this cereal has significantly lower levels of gliadins, fewer carbohydrates and fructans, and a higher content of dietary fibers, proteins, and antioxidants than classic wheat. However, the presence of gluten makes this cereal not suitable for celiac patients. Thus, cereals such as Tritordeum, once further characterized in their proteomic profile and gluten composition, could offer opportunities for an innovative nutritional approach for patients suffering from IBS and, more",
+            "query": "This document discusses non-dietary approaches to manage symptoms of Irritable Bowel Syndrome (IBS), explicitly excluding any form of dietary modification such as food elimination, low FODMAP diets, gluten-free diets, lactose avoidance, fiber supplements, restriction of sugar, artificial sweeteners, processed foods, or avoidance of specific items like ice cream, dairy, spicy foods, or carbonated beverages. The treatment strategies should focus on non-dietary methods such as pharmacologic therapy, psychological interventions (e.g., cognitive behavioral therapy), acupuncture, physical activity, or other lifestyle-based techniques not involving food changes"
+          }
+        ]
+      },
+      "BGE": {
+        "ranking": [
+          {
+            "doc_id": "DOC001",
+            "score": 0.7512854933738708,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC002",
+            "score": 0.7698692679405212,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC004",
+            "score": 0.8280807733535767,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC010",
+            "score": 0.7108122110366821,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC003",
+            "score": 0.7584328055381775,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC005",
+            "score": 0.8004751801490784,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC006",
+            "score": 0.8005720376968384,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC007",
+            "score": 0.798226535320282,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC008",
+            "score": 0.7533892393112183,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC009",
+            "score": 0.7979823350906372,
+            "relevance": 1
+          }
+        ]
+      }
+    },
+    "example_2": {
+      "Roberta": {
+        "ranking": [
+          {
+            "doc_id": "DOC001",
+            "e": 0.9948760867118835,
+            "n": 0.0026561859995126724,
+            "c": 0.002467737067490816,
+            "relevance": 0,
+            "nli_time": 0.2952,
+            "bge_time": 0.2675,
+            "text": "Study of Management and Coaching in Atrial Fibrillation The purpose of this study is to evaluate the effect of a cognitive behavior therapy distress management program targeting wellbeing in patients with atrial fibrillation and their relatives. A randomized controlled design with pre- and 12 month posttest including persons living with atrial fibrillation and their relatives. The distress management program (cognitive behavioral therapy) delivered in groups by a specialistnurse, a pedagogue and a cardiologist all trained in the distress management program. The program delivered to participants into three group- sessions extensive two hours each during a five weeks period 2011-2013. Eligible participants were all consecutive identified when discharge after hospital care due to atrial fibrillation. The random process were managed by an open-label computer as block - randomization. Participants were enrolled and randomized during 2011-2013 into two arms; either to an experiment group to the distress management program or the control group. The trial, run alongside the standard care all of the participants received at a cardiology unit in a county hospital. The standard care was required to following actual guidelines.",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          },
+          {
+            "doc_id": "DOC002",
+            "e": 0.9916483163833618,
+            "n": 0.004163932520896196,
+            "c": 0.004187769256532192,
+            "relevance": 0,
+            "nli_time": 0.4166,
+            "bge_time": 0.2769,
+            "text": "Multicenter Randomized Clinical Trial PULVAB (Prophylactic Pulmonary Veins Ablation) To compare prophylactic strategies of atrial fibrillation in patients with CAD and without AF. Prospective, multicenter, randomized trial, intended to compare three prophylactic strategies of atrial fibrillation in patients with coronary artery disease and without history of atrial fibrillation. The study includes 4 groups of patients: Group I (conventional CABG) Group II (CABG + pulmonary veins isolation). Concomitant CABG and epicardial bipolar radiofrequency pulmonary veins isolation. Group III (CABG+ pulmonary veins isolation + amiodarone). Concomitant CABG and epicardial bipolar radiofrequency pulmonary veins ablation with administration of amiodarone in postoperative periode. Group IV (CABG+ amiodarone). Conventional CABG with administration of amiodarone in postoperative periode.",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          },
+          {
+            "doc_id": "DOC007",
+            "e": 0.9944710731506348,
+            "n": 0.00021177578310016543,
+            "c": 0.005317126400768757,
+            "relevance": 0,
+            "nli_time": 0.4099,
+            "bge_time": 0.3565,
+            "text": "Rapid Atrial Fibrillation Treatment Strategy Prospective, randomized, open-label clinical trial studying the treatment of new onset atrial fibrillation in critically ill patients with septic shock. Patients will be assigned to rhythm vs rate control strategies with various outcome measures assessed. Data have demonstrated that critically ill patients with septic shock who develop atrial fibrillation suffer a greater likelihood of death and other complications when compared with patients who remain in sinus rhythm, however, little evidence exists to inform treatment strategies in this population. Ours is a pilot study evaluating rhythm vs rate control strategies in patients with septic shock and respiratory failure requiring invasive mechanical ventilation who develop new onset atrial fibrillation (NOAF). Design will be prospective, randomized, open-label. Patients in the rhythm control arm will receive IV amiodarone infusion followed by attempt at electrical cardioversion within 24 hours development of NOAF. Those in the rate control arm will receive negative chronotropic agents (beta blockers, calcium channel blockers, amiodarone, or digoxin) at the discretion of the treating physician. Available patient data will be collected for a total of 180 days following enrollment, and outcomes assessed will include ICU length of stay, ventilator free days, and time on vasopressors",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          },
+          {
+            "doc_id": "DOC009",
+            "e": 0.9860690832138062,
+            "n": 0.01161810103803873,
+            "c": 0.0023128732573240995,
+            "relevance": 0,
+            "nli_time": 0.4477,
+            "bge_time": 0.3632,
+            "text": "Atrial Fibrillation WITHOUT Hemodynamic Stability Atrial fibrillation (AF) is an abnormal heart rhythm that is common among patients who are admitted to an intensive care unit (ICU) of a hospital. It is usually a transient occurrence that resolves as the patient recovers from their underlying condition. However, patients who develop AF can present with a very rapid heart rate that in some cases can put stress on the heart which can lead to life threatening heart attacks, low blood pressure or breathing problems. Not all patients with AF will have unstable heart function but those who have rapid heart rates can worsen quickly. The goals of treatment for AF with a rapid heart rate but no unstable heart function are two fold. Patients can be treated by controlling the heart rate and/or by attempting to convert the AF to a normal heart rhythm. The heart rate can be controlled by medication and the AF can be converted by either electrical cardioversion (an electric shock that jump-starts the heart) or medication. Currently it is unknown if the goal of treatment should be to simply control the heart rate and wait for the patient to spontaneously convert to a normal heart rhythm or convert the AF with medication for patients who only have the rapid heart rate. The objective of this project is to conduct a pilot study to determine if it would be feasible to conduct a larger definitive trial that would answer the following question: Should the goal of treatment be to control the rapid heart rate or resolve the abnormal heart rhythm in patients with AF who have a rapid heart rate without unstable heart function. see above",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          },
+          {
+            "doc_id": "DOC010",
+            "e": 0.9972590208053589,
+            "n": 0.0007867115782573819,
+            "c": 0.001954243751242757,
+            "relevance": 0,
+            "nli_time": 0.2358,
+            "bge_time": 0.2254,
+            "text": "Dynamic Data-Driven Management of Atrial Fibrillation Using Implantable Cardiac Monitors: The MONITOR-AF Study Observational, multi-center, retrospective study to evaluate the use of ICM (implantable cardiac monitor) versus traditional, non-ICM (non-implantable cardiac monitor) methods such as ECGs (electrocardiogram), Holter, and mobile cardiac outpatient telemetry (MCOT) units. Even with its increasing popularity and use, the impact of ICMs on AF (atrial fibrillation) management is still being determined and can even be conflicting. Furthermore, the use of ICM is dependent on physician preference. It is hypothesized that dynamic monitoring with ICMs is superior to conventional methods and should be used for all patients with AF. Thus, it aimed to measure the outcomes of using ICM versus more traditional approaches in patients with AF.",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          },
+          {
+            "doc_id": "DOC003",
+            "e": 0.9926055669784546,
+            "n": 0.005573194939643145,
+            "c": 0.0018212517024949193,
+            "relevance": 1,
+            "nli_time": 0.4209,
+            "bge_time": 0.3936,
+            "text": "Eliminate Thromboembolism (ELITE): Improving Anticoagulation in Non-valvular Atrial Fibrillation Patients ELITE (Eliminate Thromboembolism: Improving Anticoagulation in Non-valvular Atrial Fibrillation Patients) is a two year research project to assess warfarin management issues faced by atrial fibrillation (AF) patients in ambulatory settings. ELITE will be a prospective, multicenter observational study of 500 participants to characterize demographics, comorbidities, risk profiles, socioeconomic status, and patient preferences related to anticoagulation management. The primary study endpoint will be warfarin discontinuation without resumption as documented in the medical record. Secondary outcomes of interest include warfarin adherence and factors associated with suboptimal adherence and/or permanent discontinuation. Clinical data, including demographics, medical history, and comorbidities, will be abstracted and entered by site coordinators. An internal survey developed by Duke Clinical Research Institute (DCRI) will be administered to patients during regularly scheduled clinic visits. Survey items will include patient treatment priorities, perceived risk of bleeding and/or stroke, barriers to adherence, and treatment satisfaction. Subjects will complete a survey at baseline and at the followup visit closest to 6 months after enrollment. This study will provide the foundation for numerous potential future questions about medication adherence and barriers to treatment, such as a survey on physician preferences/ shared decision-making (concordance between physician and patient preferences), followup to capture clinical events, and interventions to improve long-term medication adherence in AF.",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          },
+          {
+            "doc_id": "DOC004",
+            "e": 0.9959626793861389,
+            "n": 0.0011908379383385181,
+            "c": 0.0028465604409575462,
+            "relevance": 1,
+            "nli_time": 0.1529,
+            "bge_time": 0.1805,
+            "text": "Quantify Use of Anticoagulation to Improve Management of AF The purpose of this study is to evaluate the impact of a hospital quality improvement (QI) program on the use of guideline-recommended oral anticoagulants (OAC) in hospitalized patients with atrial fibrillation (AF) at risk for ischemic stroke. Specifically, the study will determine whether the intervention, compared to Usual Care, will result in a greater increase in the proportion of patients with AF at risk for ischemic stroke who are appropriately treated with OAC. ",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          },
+          {
+            "doc_id": "DOC005",
+            "e": 0.8351538181304932,
+            "n": 0.13490895926952362,
+            "c": 0.02993721142411232,
+            "relevance": 1,
+            "nli_time": 0.1101,
+            "bge_time": 0.1533,
+            "text": "II Italian Study on Atrial Fibrillation (S.I.F.A. II): Prevention of Thromboembolic Events in Patients With Non Valvular Atrial Fibrillation. Evaluate efficacy and safety of Indobufen v. Aspirin in preventing thromboembolic events in patients at high risk of CV events such as patients suffering from nonrheumatic atrial fibrillation. ",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          },
+          {
+            "doc_id": "DOC006",
+            "e": 0.99830162525177,
+            "n": 0.000597531208768487,
+            "c": 0.001100847963243723,
+            "relevance": 1,
+            "nli_time": 0.8654,
+            "bge_time": 0.5484,
+            "text": "SPRINT-AF: Stroke Prevention and Rhythm Interventions in Atrial Fibrillation This observational registry will characterize contemporary stroke prevention in Canadian adults with atrial fibrillation, and provide clarity in understanding physician preferences for the various oral anticoagulants available in the Canadian marketplace. This study will determine the patient profiles of those selected for the various therapies available in Canada and provide an understanding of the factors involved in drug selection and management. Atrial fibrillation affects approximately 1% of the general population, and the prevalence of AF increases with increasing age, such that 10-15% of individuals aged 80 years or greater suffer from AF. Various projections estimate at least a doubling of the prevalence of AF over the next 30-40 years. Stroke is a serious, often disabling complication of AF. The Framingham Heart Study demonstrates a roughly five-fold increase in the risk of stroke in patients with AF. The proportion of strokes attributable to AF also increases with age, such that one quarter to one third of all strokes in octogenarians are related to atrial fibrillation. AF-related strokes tend to be more severe than ischemic strokes of other etiologies, resulting in a higher rate of stroke-related disability. Vitamin K antagonists have been shown to be highly effective in reducing the risk of stroke in patients with AF. A recent meta-analysis of 6 trials of VKA versus placebo, in over 2900 patients with AF, demonstrated a roughly 65% reduction in thromboembolic stroke. Thus, vitamin K antagonists (VKA) have been universally recommended for most AF patients felt to be at moderate to high risk for stroke. The CHADS2 risk score fairly accurately distinguishes patients at low, moderate and high risk for stroke using clinical variables in a bedside risk score. In recent years, VKA have been recommended for AF patients with a CHADS2 risk score of at least 2 or greater, with the optional use of either ASA or VKA for those with a score of 1. Most recently, the Canadian Cardiovascular Society's 2010 AF Guidelines now recommend anticoagulation for patients with a CHADS2 risk score of 1 or greater, in the absence of increased bleeding risk. The 2012 update to the Canadian Cardiovascular Society Guidelines additionally recommends the use of the CHA2DS2-Vasc score in patients with a CHADS2 risk score of 0, and subsequent use of OAC even in a proportion of these patients. The benefits of VKA are largely dependent upon achieving adequate anticoagulation, ideally an INR of between 2 and 3, for the majority of treatment time. However, achieving and maintaining therapeutic anticoagulation in clinical practice can be quite challenging. Warfarin and other VKA have a variety of limitations in clinical practice. The individual patient's response to warfarin is often unpredictable, with a narrow therapeutic window. The drug has a slow onset and offset of action, with the need for regular INR",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          },
+          {
+            "doc_id": "DOC008",
+            "e": 0.8548345565795898,
+            "n": 0.02258848398923874,
+            "c": 0.12257695943117142,
+            "relevance": 1,
+            "nli_time": 0.0793,
+            "bge_time": 0.1589,
+            "text": "Optimizing Anticoagulation Dosing and Adherence for Patients With Non-valvular Atrial Fibrillation This study will survey atrial fibrillation patients to better understand patient perspective of DOAC treatment, and providers to assess knowledge, practice patterns, and beliefs surrounding anticoagulation for AF. ",
+            "query": "Effective atrial fibrillation management strategies not involving anticoagulants"
+          }
+        ]
+      },
+      "BGE": {
+        "ranking": [
+          {
+            "doc_id": "DOC001",
+            "score": 0.6613399982452393,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC002",
+            "score": 0.7002348303794861,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC007",
+            "score": 0.6729196310043335,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC009",
+            "score": 0.6733778715133667,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC010",
+            "score": 0.6947914361953735,
+            "relevance": 0
+          },
+          {
+            "doc_id": "DOC003",
+            "score": 0.6584472060203552,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC004",
+            "score": 0.6619667410850525,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC005",
+            "score": 0.718680739402771,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC006",
+            "score": 0.674487292766571,
+            "relevance": 1
+          },
+          {
+            "doc_id": "DOC008",
+            "score": 0.6619378328323364,
+            "relevance": 1
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "original_query": "Effective atrial fibrillation management strategies not involving anticoagulants",
+  "rephrased_hypotheses": [
+    {
+      "hypothesis": "This study evaluates atrial fibrillation management strategies that do not involve the use of anticoagulants.",
+      "explanation": "This is a direct and neutral phrasing, easy for NLI models to process, explicitly excludes anticoagulants without overloading detail."
+    },
+    {
+      "hypothesis": "The treatment approach described for atrial fibrillation excludes anticoagulant therapy and instead focuses on alternative interventions.",
+      "explanation": "Adds positive contrast — not only excludes anticoagulants, but also signals alternative options, helping the model infer entailment more easily."
+    },
+    {
+      "hypothesis": "This document discusses methods for managing atrial fibrillation that avoid using blood-thinning medications such as warfarin or DOACs.",
+      "explanation": "Uses lay-friendly terminology ('blood-thinning') and lists examples like warfarin or DOACs, making the exclusion explicit for models and humans alike."
+    },
+    {
+      "hypothesis": "The management strategies for atrial fibrillation in this study are non-anticoagulant based, such as ablation, rate control, or lifestyle modification.",
+      "explanation": "Includes examples of non-anticoagulant strategies, which can improve entailment scores by matching specific interventions."
+    },
+    {
+      "hypothesis": "This document presents atrial fibrillation management strategies that exclude the use of anticoagulants, focusing on alternative therapeutic modalities.",
+      "explanation": "Highly formal phrasing, useful for medical literature and robust with NLI models trained on biomedical-style text."
+    },
+    {
+      "hypothesis": "Effective atrial fibrillation management strategies not involving anticoagulants",
+      "explanation": "Original query preserved to allow baseline comparison and catch any matching patterns directly understood by the model."
+    }
+  ]
+}
